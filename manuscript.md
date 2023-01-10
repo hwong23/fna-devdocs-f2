@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-10" />
   <meta name="citation_publication_date" content="2023-01-10" />
   <meta property="article:published_time" content="2023-01-10" />
-  <meta name="dc.modified" content="2023-01-10T18:51:50+00:00" />
-  <meta property="article:modified_time" content="2023-01-10T18:51:50+00:00" />
+  <meta name="dc.modified" content="2023-01-10T22:02:44+00:00" />
+  <meta property="article:modified_time" content="2023-01-10T22:02:44+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-pr6/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-pr6/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-pr6/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-pr6/v/b8c646628ee071042d6e4bf56b0c3f734b79615b/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-pr6/v/b8c646628ee071042d6e4bf56b0c3f734b79615b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-pr6/v/b8c646628ee071042d6e4bf56b0c3f734b79615b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-pr6/v/6d2f4391af8912cd8e41d3725b595942748616a9/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-pr6/v/6d2f4391af8912cd8e41d3725b595942748616a9/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-pr6/v/6d2f4391af8912cd8e41d3725b595942748616a9/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,6 +65,8 @@ manubot-clear-requests-cache: false
 # Fase 1: Estado SOA Actual
 # Contenido de los Productos Contractuales, 181-2020
 
+<br>
+
 # Producto 6: PR6. Comparativa de la industria y el FNA
 Describir y comparar con el Fondo la manera cómo las empresas del segmento y de otros sectores de la industria enfrentan los retos de flexibilidad de negocio, independencia de proveedor tecnológico, y fortaleza SOA.
 
@@ -76,12 +78,13 @@ Describir y comparar con el Fondo la manera cómo las empresas del segmento y de
 La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a sus procesos y productos. A la vez, esta información de guía puede ser traducida en futuras iniciativas pertenecientes a la hoja de ruta de mejora, tanto del gobierno como de los procesos SOA del Fondo.
 
 ## Contenidos
-1. Niveles de adopción SOA en las organizaciones
-1. Focos de implementación SOA que pueden lograr las empresas
-1. Retornos de inversión (ROI) SOA posibles
-1. Retos que las empresas han superado por la implementación SOA
-1. Ventajas de rendimiento percibidas en las empresas por la implementación SOA
-1. Conclusiones de la comparativa: oportunidades SOA para el FNA
+1. Arquitectura SOA
+1. Portafolio de servicios
+1. Gobierno SOA
+1. Versionamiento de servicios
+1. Monitoreo y operación SOA
+1. Mantenimiento y evolución de servicios
+1. Nuevas tecnologías
 
 <br>
 
@@ -109,7 +112,7 @@ Para presentar este análisis comparativo se han selecionado algunas dimensiones
 
 Los aspectos a tener en cuenta en la comparativa serán:
 
-1. Arquitectura
+1. Arquitectura SOA
 1. Portafolio de Servicios
 1. Gobierno SOA
 1. Estrategia de Versionamiento 
@@ -119,14 +122,14 @@ Los aspectos a tener en cuenta en la comparativa serán:
 
 <br>
 
-Cada uno de estos aspectos los presentaremos primero desde el sector financiero en general y, posteriormente, serán aplicados al FNA.
+Presentaremos cada uno de estos aspectos desde el sector financiero en general y; posteriormente serán aplicados al FNA.
 
 <br>
 
-## Arquitectura
+## Arquitectura SOA
 
 ### Descripción
-En esta categoría comparativa establecemos como criterios las prácticas asociadas al manejo de los modelos de arquitectura. En este se encuentran consideraciones como si se cuenta con un depósito de arquitectura formal y un grupo de gobierno y desarrollo de la Arquitectura SOA dentro de la organización. Esto último incluye a los cargos y el nivel de formalismo en  realizar y mantener las arquitectura SOA en el Fondo.
+En esta categoría comparativa establecemos como criterios las prácticas asociadas al manejo de los modelos de arquitectura SOA. En este se encuentran consideraciones como si se cuenta con un depósito de arquitectura formal y un grupo de gobierno y desarrollo de la Arquitectura SOA dentro de la organización. Esto último incluye a los cargos y el nivel de formalismo en  realizar y mantener las arquitectura SOA en el Fondo.
 
 
 ### Prácticas del Sector Financiero
@@ -152,11 +155,6 @@ Gobierno del portafolio de servicios
 
 ### Comparativa FNA
 
-
-
-
-
-
 <br>
 
 ## Gobierno SOA
@@ -172,10 +170,6 @@ Toma de decisión
 Priorización de servicios
 
 ### Comparativa FNA
-
-
-
-
 
 <br>
 
@@ -196,10 +190,6 @@ Documentación de los servicios y sus versiones
 
 ### Comparativa FNA
 
-
-
-
-
 <br>
 
 ## Monitoreo y Operación
@@ -212,10 +202,6 @@ Herramientas utilizadas para gestionar el despliegue y operación de los servici
 Herramientas para monitoreo de la operación, gestión de alarmas y notificaciones
 
 ### Comparativa FNA
-
-
-
-
 
 <br>
 
@@ -231,9 +217,6 @@ Gestión de prioridades para los cambios
 Gestión de inconformidades y defectos 
 
 ### Comparativa FNA
-
-
-
 
 <br>
 

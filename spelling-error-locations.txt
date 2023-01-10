@@ -35,6 +35,7 @@ content/01a.Comparativa FNA industria.md:15:cuenta
 content/01a.Comparativa FNA industria.md:15:serán
 content/01a.Comparativa FNA industria.md:15:tener
 content/01a.Comparativa FNA industria.md:17:Arquitectura
+content/01a.Comparativa FNA industria.md:17:SOA
 content/01a.Comparativa FNA industria.md:18:Portafolio
 content/01a.Comparativa FNA industria.md:18:Servicios
 content/01a.Comparativa FNA industria.md:19:Gobierno
@@ -49,18 +50,18 @@ content/01a.Comparativa FNA industria.md:23:Nuevas
 content/01a.Comparativa FNA industria.md:23:tecnologías
 content/01a.Comparativa FNA industria.md:27:aplicados
 content/01a.Comparativa FNA industria.md:27:aspectos
-content/01a.Comparativa FNA industria.md:27:Cada
+content/01a.Comparativa FNA industria.md:27:cada
 content/01a.Comparativa FNA industria.md:27:desde
 content/01a.Comparativa FNA industria.md:27:el
 content/01a.Comparativa FNA industria.md:27:estos
 content/01a.Comparativa FNA industria.md:27:financiero
 content/01a.Comparativa FNA industria.md:27:FNA
 content/01a.Comparativa FNA industria.md:27:posteriormente
-content/01a.Comparativa FNA industria.md:27:presentaremos
-content/01a.Comparativa FNA industria.md:27:primero
+content/01a.Comparativa FNA industria.md:27:Presentaremos
 content/01a.Comparativa FNA industria.md:27:serán
 content/01a.Comparativa FNA industria.md:27:uno
 content/01a.Comparativa FNA industria.md:31:Arquitectura
+content/01a.Comparativa FNA industria.md:31:SOA
 content/01a.Comparativa FNA industria.md:33:Descripción
 content/01a.Comparativa FNA industria.md:34:arquitectura
 content/01a.Comparativa FNA industria.md:34:arquitectura
@@ -95,6 +96,7 @@ content/01a.Comparativa FNA industria.md:34:nivel
 content/01a.Comparativa FNA industria.md:34:organización
 content/01a.Comparativa FNA industria.md:34:prácticas
 content/01a.Comparativa FNA industria.md:34:realizar
+content/01a.Comparativa FNA industria.md:34:SOA
 content/01a.Comparativa FNA industria.md:34:SOA
 content/01a.Comparativa FNA industria.md:34:SOA
 content/01a.Comparativa FNA industria.md:34:último
@@ -151,320 +153,302 @@ content/01a.Comparativa FNA industria.md:56:portafolio
 content/01a.Comparativa FNA industria.md:56:servicios
 content/01a.Comparativa FNA industria.md:58:Comparativa
 content/01a.Comparativa FNA industria.md:58:FNA
-content/01a.Comparativa FNA industria.md:67:Gobierno
-content/01a.Comparativa FNA industria.md:67:SOA
-content/01a.Comparativa FNA industria.md:69:Descripción
-content/01a.Comparativa FNA industria.md:70:allá
-content/01a.Comparativa FNA industria.md:70:arquitectura
-content/01a.Comparativa FNA industria.md:70:asociados
-content/01a.Comparativa FNA industria.md:70:busca
-content/01a.Comparativa FNA industria.md:70:categoría
-content/01a.Comparativa FNA industria.md:70:categoría
-content/01a.Comparativa FNA industria.md:70:comparar
-content/01a.Comparativa FNA industria.md:70:criterios
-content/01a.Comparativa FNA industria.md:70:dirección
-content/01a.Comparativa FNA industria.md:70:directa
-content/01a.Comparativa FNA industria.md:70:el
-content/01a.Comparativa FNA industria.md:70:el
-content/01a.Comparativa FNA industria.md:70:el
-content/01a.Comparativa FNA industria.md:70:esta
-content/01a.Comparativa FNA industria.md:70:Esta
-content/01a.Comparativa FNA industria.md:70:establecen
-content/01a.Comparativa FNA industria.md:70:Este
-content/01a.Comparativa FNA industria.md:70:FNA
-content/01a.Comparativa FNA industria.md:70:forma
-content/01a.Comparativa FNA industria.md:70:gobierno
-content/01a.Comparativa FNA industria.md:70:guías
-content/01a.Comparativa FNA industria.md:70:mejores
-content/01a.Comparativa FNA industria.md:70:organización
-content/01a.Comparativa FNA industria.md:70:pero
-content/01a.Comparativa FNA industria.md:70:políticas
-content/01a.Comparativa FNA industria.md:70:portafolio
-content/01a.Comparativa FNA industria.md:70:prácticas
-content/01a.Comparativa FNA industria.md:70:procedimientos
-content/01a.Comparativa FNA industria.md:70:punto
-content/01a.Comparativa FNA industria.md:70:relaciona
-content/01a.Comparativa FNA industria.md:70:servicios
-content/01a.Comparativa FNA industria.md:70:servicios
-content/01a.Comparativa FNA industria.md:70:SOA
-content/01a.Comparativa FNA industria.md:72:el
-content/01a.Comparativa FNA industria.md:72:Mejores
-content/01a.Comparativa FNA industria.md:72:prácticas
-content/01a.Comparativa FNA industria.md:73:arquitectura
-content/01a.Comparativa FNA industria.md:73:Comité
-content/01a.Comparativa FNA industria.md:74:lineamientos
-content/01a.Comparativa FNA industria.md:74:Políticas
-content/01a.Comparativa FNA industria.md:75:Arquitectura
-content/01a.Comparativa FNA industria.md:75:referencia
-content/01a.Comparativa FNA industria.md:76:decisión
-content/01a.Comparativa FNA industria.md:76:Toma
-content/01a.Comparativa FNA industria.md:77:Priorización
-content/01a.Comparativa FNA industria.md:77:servicios
-content/01a.Comparativa FNA industria.md:79:Comparativa
-content/01a.Comparativa FNA industria.md:79:FNA
-content/01a.Comparativa FNA industria.md:87:Estrategia
-content/01a.Comparativa FNA industria.md:87:Versionamiento
-content/01a.Comparativa FNA industria.md:89:Descripción
-content/01a.Comparativa FNA industria.md:90:busca
-content/01a.Comparativa FNA industria.md:90:categoría
-content/01a.Comparativa FNA industria.md:90:el
-content/01a.Comparativa FNA industria.md:90:Esta
-content/01a.Comparativa FNA industria.md:90:establecer
-content/01a.Comparativa FNA industria.md:90:herramientas
-content/01a.Comparativa FNA industria.md:90:manejo
-content/01a.Comparativa FNA industria.md:90:mecanismos
-content/01a.Comparativa FNA industria.md:90:mejores
-content/01a.Comparativa FNA industria.md:90:prácticas
-content/01a.Comparativa FNA industria.md:90:relacionadas
-content/01a.Comparativa FNA industria.md:90:servicios
-content/01a.Comparativa FNA industria.md:90:versiones
-content/01a.Comparativa FNA industria.md:94:Financiero
-content/01a.Comparativa FNA industria.md:94:Prácticas
-content/01a.Comparativa FNA industria.md:96:cambio
-content/01a.Comparativa FNA industria.md:96:gestión
-content/01a.Comparativa FNA industria.md:96:Manejo
-content/01a.Comparativa FNA industria.md:97:documentación
-content/01a.Comparativa FNA industria.md:97:gestión
-content/01a.Comparativa FNA industria.md:97:Herramientas
-content/01a.Comparativa FNA industria.md:97:servicios
-content/01a.Comparativa FNA industria.md:97:versiones
-content/01a.Comparativa FNA industria.md:98:Documentación
-content/01a.Comparativa FNA industria.md:98:servicios
-content/01a.Comparativa FNA industria.md:98:sus
-content/01a.Comparativa FNA industria.md:98:versiones
-content/01a.Comparativa FNA industria.md:102:Comparativa
-content/01a.Comparativa FNA industria.md:102:FNA
-content/01a.Comparativa FNA industria.md:110:Monitoreo
-content/01a.Comparativa FNA industria.md:110:Operación
+content/01a.Comparativa FNA industria.md:62:Gobierno
+content/01a.Comparativa FNA industria.md:62:SOA
+content/01a.Comparativa FNA industria.md:64:Descripción
+content/01a.Comparativa FNA industria.md:65:allá
+content/01a.Comparativa FNA industria.md:65:arquitectura
+content/01a.Comparativa FNA industria.md:65:asociados
+content/01a.Comparativa FNA industria.md:65:busca
+content/01a.Comparativa FNA industria.md:65:categoría
+content/01a.Comparativa FNA industria.md:65:categoría
+content/01a.Comparativa FNA industria.md:65:comparar
+content/01a.Comparativa FNA industria.md:65:criterios
+content/01a.Comparativa FNA industria.md:65:dirección
+content/01a.Comparativa FNA industria.md:65:directa
+content/01a.Comparativa FNA industria.md:65:el
+content/01a.Comparativa FNA industria.md:65:el
+content/01a.Comparativa FNA industria.md:65:el
+content/01a.Comparativa FNA industria.md:65:esta
+content/01a.Comparativa FNA industria.md:65:Esta
+content/01a.Comparativa FNA industria.md:65:establecen
+content/01a.Comparativa FNA industria.md:65:Este
+content/01a.Comparativa FNA industria.md:65:FNA
+content/01a.Comparativa FNA industria.md:65:forma
+content/01a.Comparativa FNA industria.md:65:gobierno
+content/01a.Comparativa FNA industria.md:65:guías
+content/01a.Comparativa FNA industria.md:65:mejores
+content/01a.Comparativa FNA industria.md:65:organización
+content/01a.Comparativa FNA industria.md:65:pero
+content/01a.Comparativa FNA industria.md:65:políticas
+content/01a.Comparativa FNA industria.md:65:portafolio
+content/01a.Comparativa FNA industria.md:65:prácticas
+content/01a.Comparativa FNA industria.md:65:procedimientos
+content/01a.Comparativa FNA industria.md:65:punto
+content/01a.Comparativa FNA industria.md:65:relaciona
+content/01a.Comparativa FNA industria.md:65:servicios
+content/01a.Comparativa FNA industria.md:65:servicios
+content/01a.Comparativa FNA industria.md:65:SOA
+content/01a.Comparativa FNA industria.md:67:el
+content/01a.Comparativa FNA industria.md:67:Mejores
+content/01a.Comparativa FNA industria.md:67:prácticas
+content/01a.Comparativa FNA industria.md:68:arquitectura
+content/01a.Comparativa FNA industria.md:68:Comité
+content/01a.Comparativa FNA industria.md:69:lineamientos
+content/01a.Comparativa FNA industria.md:69:Políticas
+content/01a.Comparativa FNA industria.md:70:Arquitectura
+content/01a.Comparativa FNA industria.md:70:referencia
+content/01a.Comparativa FNA industria.md:71:decisión
+content/01a.Comparativa FNA industria.md:71:Toma
+content/01a.Comparativa FNA industria.md:72:Priorización
+content/01a.Comparativa FNA industria.md:72:servicios
+content/01a.Comparativa FNA industria.md:74:Comparativa
+content/01a.Comparativa FNA industria.md:74:FNA
+content/01a.Comparativa FNA industria.md:78:Estrategia
+content/01a.Comparativa FNA industria.md:78:Versionamiento
+content/01a.Comparativa FNA industria.md:80:Descripción
+content/01a.Comparativa FNA industria.md:81:busca
+content/01a.Comparativa FNA industria.md:81:categoría
+content/01a.Comparativa FNA industria.md:81:el
+content/01a.Comparativa FNA industria.md:81:Esta
+content/01a.Comparativa FNA industria.md:81:establecer
+content/01a.Comparativa FNA industria.md:81:herramientas
+content/01a.Comparativa FNA industria.md:81:manejo
+content/01a.Comparativa FNA industria.md:81:mecanismos
+content/01a.Comparativa FNA industria.md:81:mejores
+content/01a.Comparativa FNA industria.md:81:prácticas
+content/01a.Comparativa FNA industria.md:81:relacionadas
+content/01a.Comparativa FNA industria.md:81:servicios
+content/01a.Comparativa FNA industria.md:81:versiones
+content/01a.Comparativa FNA industria.md:85:Financiero
+content/01a.Comparativa FNA industria.md:85:Prácticas
+content/01a.Comparativa FNA industria.md:87:cambio
+content/01a.Comparativa FNA industria.md:87:gestión
+content/01a.Comparativa FNA industria.md:87:Manejo
+content/01a.Comparativa FNA industria.md:88:documentación
+content/01a.Comparativa FNA industria.md:88:gestión
+content/01a.Comparativa FNA industria.md:88:Herramientas
+content/01a.Comparativa FNA industria.md:88:servicios
+content/01a.Comparativa FNA industria.md:88:versiones
+content/01a.Comparativa FNA industria.md:89:Documentación
+content/01a.Comparativa FNA industria.md:89:servicios
+content/01a.Comparativa FNA industria.md:89:sus
+content/01a.Comparativa FNA industria.md:89:versiones
+content/01a.Comparativa FNA industria.md:93:Comparativa
+content/01a.Comparativa FNA industria.md:93:FNA
+content/01a.Comparativa FNA industria.md:97:Monitoreo
+content/01a.Comparativa FNA industria.md:97:Operación
+content/01a.Comparativa FNA industria.md:99:Descripción
+content/01a.Comparativa FNA industria.md:100:analiza
+content/01a.Comparativa FNA industria.md:100:categoría
+content/01a.Comparativa FNA industria.md:100:diferentes
+content/01a.Comparativa FNA industria.md:100:el
+content/01a.Comparativa FNA industria.md:100:Esta
+content/01a.Comparativa FNA industria.md:100:herramientas
+content/01a.Comparativa FNA industria.md:100:mecanismos
+content/01a.Comparativa FNA industria.md:100:mejores
+content/01a.Comparativa FNA industria.md:100:monitoreo
+content/01a.Comparativa FNA industria.md:100:operación
+content/01a.Comparativa FNA industria.md:100:operación
+content/01a.Comparativa FNA industria.md:100:prácticas
+content/01a.Comparativa FNA industria.md:100:relacionadas
+content/01a.Comparativa FNA industria.md:100:servicios
+content/01a.Comparativa FNA industria.md:102:Financiero
+content/01a.Comparativa FNA industria.md:102:Prácticas
+content/01a.Comparativa FNA industria.md:103:despliegue
+content/01a.Comparativa FNA industria.md:103:el
+content/01a.Comparativa FNA industria.md:103:gestionar
+content/01a.Comparativa FNA industria.md:103:Herramientas
+content/01a.Comparativa FNA industria.md:103:operación
+content/01a.Comparativa FNA industria.md:103:servicios
+content/01a.Comparativa FNA industria.md:103:utilizadas
+content/01a.Comparativa FNA industria.md:104:alarmas
+content/01a.Comparativa FNA industria.md:104:gestión
+content/01a.Comparativa FNA industria.md:104:Herramientas
+content/01a.Comparativa FNA industria.md:104:monitoreo
+content/01a.Comparativa FNA industria.md:104:notificaciones
+content/01a.Comparativa FNA industria.md:104:operación
+content/01a.Comparativa FNA industria.md:106:Comparativa
+content/01a.Comparativa FNA industria.md:106:FNA
+content/01a.Comparativa FNA industria.md:110:Evolución
+content/01a.Comparativa FNA industria.md:110:Mantenimiento
 content/01a.Comparativa FNA industria.md:112:Descripción
 content/01a.Comparativa FNA industria.md:113:analiza
+content/01a.Comparativa FNA industria.md:113:capacidad
 content/01a.Comparativa FNA industria.md:113:categoría
-content/01a.Comparativa FNA industria.md:113:diferentes
+content/01a.Comparativa FNA industria.md:113:corregir
+content/01a.Comparativa FNA industria.md:113:decir
 content/01a.Comparativa FNA industria.md:113:el
 content/01a.Comparativa FNA industria.md:113:Esta
-content/01a.Comparativa FNA industria.md:113:herramientas
-content/01a.Comparativa FNA industria.md:113:mecanismos
-content/01a.Comparativa FNA industria.md:113:mejores
-content/01a.Comparativa FNA industria.md:113:monitoreo
-content/01a.Comparativa FNA industria.md:113:operación
-content/01a.Comparativa FNA industria.md:113:operación
-content/01a.Comparativa FNA industria.md:113:prácticas
-content/01a.Comparativa FNA industria.md:113:relacionadas
+content/01a.Comparativa FNA industria.md:113:estrategias
+content/01a.Comparativa FNA industria.md:113:evolución
+content/01a.Comparativa FNA industria.md:113:evolucionar
+content/01a.Comparativa FNA industria.md:113:favorecer
+content/01a.Comparativa FNA industria.md:113:mantener
+content/01a.Comparativa FNA industria.md:113:mantenimiento
+content/01a.Comparativa FNA industria.md:113:mejorar
+content/01a.Comparativa FNA industria.md:113:organización
+content/01a.Comparativa FNA industria.md:113:organizacón
+content/01a.Comparativa FNA industria.md:113:poder
+content/01a.Comparativa FNA industria.md:113:recomendadas
+content/01a.Comparativa FNA industria.md:113:servicios
 content/01a.Comparativa FNA industria.md:113:servicios
 content/01a.Comparativa FNA industria.md:115:Financiero
 content/01a.Comparativa FNA industria.md:115:Prácticas
-content/01a.Comparativa FNA industria.md:116:despliegue
-content/01a.Comparativa FNA industria.md:116:el
-content/01a.Comparativa FNA industria.md:116:gestionar
-content/01a.Comparativa FNA industria.md:116:Herramientas
-content/01a.Comparativa FNA industria.md:116:operación
-content/01a.Comparativa FNA industria.md:116:servicios
-content/01a.Comparativa FNA industria.md:116:utilizadas
-content/01a.Comparativa FNA industria.md:117:alarmas
-content/01a.Comparativa FNA industria.md:117:gestión
-content/01a.Comparativa FNA industria.md:117:Herramientas
-content/01a.Comparativa FNA industria.md:117:monitoreo
-content/01a.Comparativa FNA industria.md:117:notificaciones
-content/01a.Comparativa FNA industria.md:117:operación
-content/01a.Comparativa FNA industria.md:119:Comparativa
-content/01a.Comparativa FNA industria.md:119:FNA
-content/01a.Comparativa FNA industria.md:127:Evolución
-content/01a.Comparativa FNA industria.md:127:Mantenimiento
-content/01a.Comparativa FNA industria.md:129:Descripción
-content/01a.Comparativa FNA industria.md:130:analiza
-content/01a.Comparativa FNA industria.md:130:capacidad
-content/01a.Comparativa FNA industria.md:130:categoría
-content/01a.Comparativa FNA industria.md:130:corregir
-content/01a.Comparativa FNA industria.md:130:decir
-content/01a.Comparativa FNA industria.md:130:el
-content/01a.Comparativa FNA industria.md:130:Esta
-content/01a.Comparativa FNA industria.md:130:estrategias
-content/01a.Comparativa FNA industria.md:130:evolución
-content/01a.Comparativa FNA industria.md:130:evolucionar
-content/01a.Comparativa FNA industria.md:130:favorecer
-content/01a.Comparativa FNA industria.md:130:mantener
-content/01a.Comparativa FNA industria.md:130:mantenimiento
-content/01a.Comparativa FNA industria.md:130:mejorar
-content/01a.Comparativa FNA industria.md:130:organización
-content/01a.Comparativa FNA industria.md:130:organizacón
-content/01a.Comparativa FNA industria.md:130:poder
-content/01a.Comparativa FNA industria.md:130:recomendadas
-content/01a.Comparativa FNA industria.md:130:servicios
-content/01a.Comparativa FNA industria.md:130:servicios
-content/01a.Comparativa FNA industria.md:132:Financiero
-content/01a.Comparativa FNA industria.md:132:Prácticas
-content/01a.Comparativa FNA industria.md:133:cambio
-content/01a.Comparativa FNA industria.md:133:Gestión
-content/01a.Comparativa FNA industria.md:134:cambio
-content/01a.Comparativa FNA industria.md:134:Manejo
-content/01a.Comparativa FNA industria.md:134:solicitudes
-content/01a.Comparativa FNA industria.md:135:cambios
-content/01a.Comparativa FNA industria.md:135:Gestión
-content/01a.Comparativa FNA industria.md:135:prioridades
-content/01a.Comparativa FNA industria.md:136:defectos
-content/01a.Comparativa FNA industria.md:136:Gestión
-content/01a.Comparativa FNA industria.md:136:inconformidades
-content/01a.Comparativa FNA industria.md:138:Comparativa
-content/01a.Comparativa FNA industria.md:138:FNA
-content/01a.Comparativa FNA industria.md:145:Nuevas
-content/01a.Comparativa FNA industria.md:145:tecnologías
-content/01a.Comparativa FNA industria.md:147:Descripción
-content/01a.Comparativa FNA industria.md:148:adopción
-content/01a.Comparativa FNA industria.md:148:analizan
-content/01a.Comparativa FNA industria.md:148:así
-content/01a.Comparativa FNA industria.md:148:asociadas
-content/01a.Comparativa FNA industria.md:148:categoria
-content/01a.Comparativa FNA industria.md:148:comparadas
-content/01a.Comparativa FNA industria.md:148:dichas
-content/01a.Comparativa FNA industria.md:148:esta
-content/01a.Comparativa FNA industria.md:148:FNA
-content/01a.Comparativa FNA industria.md:148:industria
-content/01a.Comparativa FNA industria.md:148:nuevas
-content/01a.Comparativa FNA industria.md:148:políticas
-content/01a.Comparativa FNA industria.md:148:prácticas
-content/01a.Comparativa FNA industria.md:148:relacionados
-content/01a.Comparativa FNA industria.md:148:renovación
-content/01a.Comparativa FNA industria.md:148:servicios
-content/01a.Comparativa FNA industria.md:148:tecnologías
-content/01a.Comparativa FNA industria.md:148:tecnologías
-content/01a.Comparativa FNA industria.md:148:temas
-content/01a.Comparativa FNA industria.md:148:vigilancia
-content/01a.Comparativa FNA industria.md:150:Financiero
-content/01a.Comparativa FNA industria.md:150:Prácticas
-content/01a.Comparativa FNA industria.md:152:Políticas
-content/01a.Comparativa FNA industria.md:152:vigilancia
-content/01a.Comparativa FNA industria.md:153:experimentación
-content/01a.Comparativa FNA industria.md:153:Laboratorios
-content/01a.Comparativa FNA industria.md:153:nuevas
-content/01a.Comparativa FNA industria.md:153:tecnologías
-content/01a.Comparativa FNA industria.md:154:Capacitación
-content/01a.Comparativa FNA industria.md:154:entrenamiento
-content/01a.Comparativa FNA industria.md:155:adopción
-content/01a.Comparativa FNA industria.md:155:migracións
-content/01a.Comparativa FNA industria.md:155:programado
-content/01a.Comparativa FNA industria.md:157:Comparativa
-content/01a.Comparativa FNA industria.md:157:FNA
+content/01a.Comparativa FNA industria.md:116:cambio
+content/01a.Comparativa FNA industria.md:116:Gestión
+content/01a.Comparativa FNA industria.md:117:cambio
+content/01a.Comparativa FNA industria.md:117:Manejo
+content/01a.Comparativa FNA industria.md:117:solicitudes
+content/01a.Comparativa FNA industria.md:118:cambios
+content/01a.Comparativa FNA industria.md:118:Gestión
+content/01a.Comparativa FNA industria.md:118:prioridades
+content/01a.Comparativa FNA industria.md:119:defectos
+content/01a.Comparativa FNA industria.md:119:Gestión
+content/01a.Comparativa FNA industria.md:119:inconformidades
+content/01a.Comparativa FNA industria.md:121:Comparativa
+content/01a.Comparativa FNA industria.md:121:FNA
+content/01a.Comparativa FNA industria.md:125:Nuevas
+content/01a.Comparativa FNA industria.md:125:tecnologías
+content/01a.Comparativa FNA industria.md:127:Descripción
+content/01a.Comparativa FNA industria.md:128:adopción
+content/01a.Comparativa FNA industria.md:128:analizan
+content/01a.Comparativa FNA industria.md:128:así
+content/01a.Comparativa FNA industria.md:128:asociadas
+content/01a.Comparativa FNA industria.md:128:categoria
+content/01a.Comparativa FNA industria.md:128:comparadas
+content/01a.Comparativa FNA industria.md:128:dichas
+content/01a.Comparativa FNA industria.md:128:esta
+content/01a.Comparativa FNA industria.md:128:FNA
+content/01a.Comparativa FNA industria.md:128:industria
+content/01a.Comparativa FNA industria.md:128:nuevas
+content/01a.Comparativa FNA industria.md:128:políticas
+content/01a.Comparativa FNA industria.md:128:prácticas
+content/01a.Comparativa FNA industria.md:128:relacionados
+content/01a.Comparativa FNA industria.md:128:renovación
+content/01a.Comparativa FNA industria.md:128:servicios
+content/01a.Comparativa FNA industria.md:128:tecnologías
+content/01a.Comparativa FNA industria.md:128:tecnologías
+content/01a.Comparativa FNA industria.md:128:temas
+content/01a.Comparativa FNA industria.md:128:vigilancia
+content/01a.Comparativa FNA industria.md:130:Financiero
+content/01a.Comparativa FNA industria.md:130:Prácticas
+content/01a.Comparativa FNA industria.md:132:Políticas
+content/01a.Comparativa FNA industria.md:132:vigilancia
+content/01a.Comparativa FNA industria.md:133:experimentación
+content/01a.Comparativa FNA industria.md:133:Laboratorios
+content/01a.Comparativa FNA industria.md:133:nuevas
+content/01a.Comparativa FNA industria.md:133:tecnologías
+content/01a.Comparativa FNA industria.md:134:Capacitación
+content/01a.Comparativa FNA industria.md:134:entrenamiento
+content/01a.Comparativa FNA industria.md:135:adopción
+content/01a.Comparativa FNA industria.md:135:migracións
+content/01a.Comparativa FNA industria.md:135:programado
+content/01a.Comparativa FNA industria.md:137:Comparativa
+content/01a.Comparativa FNA industria.md:137:FNA
 content/01.Fase1 PR6. Comparativa FNA industria.md:1:Estado
 content/01.Fase1 PR6. Comparativa FNA industria.md:1:Fase
 content/01.Fase1 PR6. Comparativa FNA industria.md:1:SOA
 content/01.Fase1 PR6. Comparativa FNA industria.md:2:Contenido
 content/01.Fase1 PR6. Comparativa FNA industria.md:2:Contractuales
 content/01.Fase1 PR6. Comparativa FNA industria.md:2:Productos
-content/01.Fase1 PR6. Comparativa FNA industria.md:4:Comparativa
-content/01.Fase1 PR6. Comparativa FNA industria.md:4:el
-content/01.Fase1 PR6. Comparativa FNA industria.md:4:FNA
-content/01.Fase1 PR6. Comparativa FNA industria.md:4:industria
-content/01.Fase1 PR6. Comparativa FNA industria.md:4:Producto
-content/01.Fase1 PR6. Comparativa FNA industria.md:5:cómo
-content/01.Fase1 PR6. Comparativa FNA industria.md:5:comparar
-content/01.Fase1 PR6. Comparativa FNA industria.md:5:Describir
-content/01.Fase1 PR6. Comparativa FNA industria.md:5:el
-content/01.Fase1 PR6. Comparativa FNA industria.md:5:empresas
-content/01.Fase1 PR6. Comparativa FNA industria.md:5:enfrentan
-content/01.Fase1 PR6. Comparativa FNA industria.md:5:flexibilidad
-content/01.Fase1 PR6. Comparativa FNA industria.md:5:Fondo
-content/01.Fase1 PR6. Comparativa FNA industria.md:5:independencia
-content/01.Fase1 PR6. Comparativa FNA industria.md:5:industria
-content/01.Fase1 PR6. Comparativa FNA industria.md:5:manera
-content/01.Fase1 PR6. Comparativa FNA industria.md:5:negocio
-content/01.Fase1 PR6. Comparativa FNA industria.md:5:otros
-content/01.Fase1 PR6. Comparativa FNA industria.md:5:proveedor
-content/01.Fase1 PR6. Comparativa FNA industria.md:5:retos
-content/01.Fase1 PR6. Comparativa FNA industria.md:5:sectores
-content/01.Fase1 PR6. Comparativa FNA industria.md:5:segmento
-content/01.Fase1 PR6. Comparativa FNA industria.md:5:SOA
-content/01.Fase1 PR6. Comparativa FNA industria.md:5:tecnológico
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:análisis
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:aplicaciones
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:dependencia
+content/01.Fase1 PR6. Comparativa FNA industria.md:6:Comparativa
+content/01.Fase1 PR6. Comparativa FNA industria.md:6:el
+content/01.Fase1 PR6. Comparativa FNA industria.md:6:FNA
+content/01.Fase1 PR6. Comparativa FNA industria.md:6:industria
+content/01.Fase1 PR6. Comparativa FNA industria.md:6:Producto
+content/01.Fase1 PR6. Comparativa FNA industria.md:7:cómo
+content/01.Fase1 PR6. Comparativa FNA industria.md:7:comparar
+content/01.Fase1 PR6. Comparativa FNA industria.md:7:Describir
 content/01.Fase1 PR6. Comparativa FNA industria.md:7:el
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:este
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:Nota
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:objetivos
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:producto
+content/01.Fase1 PR6. Comparativa FNA industria.md:7:empresas
+content/01.Fase1 PR6. Comparativa FNA industria.md:7:enfrentan
+content/01.Fase1 PR6. Comparativa FNA industria.md:7:flexibilidad
+content/01.Fase1 PR6. Comparativa FNA industria.md:7:Fondo
+content/01.Fase1 PR6. Comparativa FNA industria.md:7:independencia
+content/01.Fase1 PR6. Comparativa FNA industria.md:7:industria
+content/01.Fase1 PR6. Comparativa FNA industria.md:7:manera
+content/01.Fase1 PR6. Comparativa FNA industria.md:7:negocio
+content/01.Fase1 PR6. Comparativa FNA industria.md:7:otros
 content/01.Fase1 PR6. Comparativa FNA industria.md:7:proveedor
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:provienen
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:proyecto
+content/01.Fase1 PR6. Comparativa FNA industria.md:7:retos
+content/01.Fase1 PR6. Comparativa FNA industria.md:7:sectores
+content/01.Fase1 PR6. Comparativa FNA industria.md:7:segmento
 content/01.Fase1 PR6. Comparativa FNA industria.md:7:SOA
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:SOA
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:tiempo
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:únicamente
-content/01.Fase1 PR6. Comparativa FNA industria.md:11:Justificación
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:aplicables
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:comparativa
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:esta
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:Fondo
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:Fondo
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:futuras
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:gobierno
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:guía
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:hallazgos
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:hoja
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:industria
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:información
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:iniciativas
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:mejora
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:pertenecientes
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:procesos
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:procesos
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:productos
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:proveerá
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:puede
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:ruta
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:ser
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:SOA
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:SOA
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:sus
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:tanto
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:traducida
-content/01.Fase1 PR6. Comparativa FNA industria.md:12:vez
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:Contenidos
-content/01.Fase1 PR6. Comparativa FNA industria.md:15:adopción
-content/01.Fase1 PR6. Comparativa FNA industria.md:15:Niveles
-content/01.Fase1 PR6. Comparativa FNA industria.md:15:organizaciones
-content/01.Fase1 PR6. Comparativa FNA industria.md:15:SOA
-content/01.Fase1 PR6. Comparativa FNA industria.md:16:empresas
-content/01.Fase1 PR6. Comparativa FNA industria.md:16:Focos
-content/01.Fase1 PR6. Comparativa FNA industria.md:16:implementación
-content/01.Fase1 PR6. Comparativa FNA industria.md:16:lograr
-content/01.Fase1 PR6. Comparativa FNA industria.md:16:pueden
-content/01.Fase1 PR6. Comparativa FNA industria.md:16:SOA
-content/01.Fase1 PR6. Comparativa FNA industria.md:17:inversión
-content/01.Fase1 PR6. Comparativa FNA industria.md:17:posibles
-content/01.Fase1 PR6. Comparativa FNA industria.md:17:Retornos
-content/01.Fase1 PR6. Comparativa FNA industria.md:17:ROI
+content/01.Fase1 PR6. Comparativa FNA industria.md:7:tecnológico
+content/01.Fase1 PR6. Comparativa FNA industria.md:9:análisis
+content/01.Fase1 PR6. Comparativa FNA industria.md:9:aplicaciones
+content/01.Fase1 PR6. Comparativa FNA industria.md:9:dependencia
+content/01.Fase1 PR6. Comparativa FNA industria.md:9:el
+content/01.Fase1 PR6. Comparativa FNA industria.md:9:este
+content/01.Fase1 PR6. Comparativa FNA industria.md:9:Nota
+content/01.Fase1 PR6. Comparativa FNA industria.md:9:objetivos
+content/01.Fase1 PR6. Comparativa FNA industria.md:9:producto
+content/01.Fase1 PR6. Comparativa FNA industria.md:9:proveedor
+content/01.Fase1 PR6. Comparativa FNA industria.md:9:provienen
+content/01.Fase1 PR6. Comparativa FNA industria.md:9:proyecto
+content/01.Fase1 PR6. Comparativa FNA industria.md:9:SOA
+content/01.Fase1 PR6. Comparativa FNA industria.md:9:SOA
+content/01.Fase1 PR6. Comparativa FNA industria.md:9:tiempo
+content/01.Fase1 PR6. Comparativa FNA industria.md:9:únicamente
+content/01.Fase1 PR6. Comparativa FNA industria.md:13:Justificación
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:aplicables
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:comparativa
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:esta
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:Fondo
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:Fondo
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:futuras
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:gobierno
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:guía
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:hallazgos
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:hoja
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:industria
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:información
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:iniciativas
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:mejora
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:pertenecientes
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:procesos
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:procesos
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:productos
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:proveerá
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:puede
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:ruta
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:ser
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:SOA
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:SOA
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:sus
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:tanto
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:traducida
+content/01.Fase1 PR6. Comparativa FNA industria.md:14:vez
+content/01.Fase1 PR6. Comparativa FNA industria.md:16:Contenidos
+content/01.Fase1 PR6. Comparativa FNA industria.md:17:Arquitectura
 content/01.Fase1 PR6. Comparativa FNA industria.md:17:SOA
-content/01.Fase1 PR6. Comparativa FNA industria.md:18:empresas
-content/01.Fase1 PR6. Comparativa FNA industria.md:18:implementación
-content/01.Fase1 PR6. Comparativa FNA industria.md:18:por
-content/01.Fase1 PR6. Comparativa FNA industria.md:18:Retos
-content/01.Fase1 PR6. Comparativa FNA industria.md:18:SOA
-content/01.Fase1 PR6. Comparativa FNA industria.md:18:superado
-content/01.Fase1 PR6. Comparativa FNA industria.md:19:empresas
-content/01.Fase1 PR6. Comparativa FNA industria.md:19:implementación
-content/01.Fase1 PR6. Comparativa FNA industria.md:19:percibidas
-content/01.Fase1 PR6. Comparativa FNA industria.md:19:por
-content/01.Fase1 PR6. Comparativa FNA industria.md:19:rendimiento
+content/01.Fase1 PR6. Comparativa FNA industria.md:18:Portafolio
+content/01.Fase1 PR6. Comparativa FNA industria.md:18:servicios
+content/01.Fase1 PR6. Comparativa FNA industria.md:19:Gobierno
 content/01.Fase1 PR6. Comparativa FNA industria.md:19:SOA
-content/01.Fase1 PR6. Comparativa FNA industria.md:19:Ventajas
-content/01.Fase1 PR6. Comparativa FNA industria.md:20:comparativa
-content/01.Fase1 PR6. Comparativa FNA industria.md:20:Conclusiones
-content/01.Fase1 PR6. Comparativa FNA industria.md:20:el
-content/01.Fase1 PR6. Comparativa FNA industria.md:20:FNA
-content/01.Fase1 PR6. Comparativa FNA industria.md:20:oportunidades
-content/01.Fase1 PR6. Comparativa FNA industria.md:20:SOA
-content/01.Fase1 PR6. Comparativa FNA industria.md:24:Aceptación
-content/01.Fase1 PR6. Comparativa FNA industria.md:24:Criterios
-content/01.Fase1 PR6. Comparativa FNA industria.md:26:el
-content/01.Fase1 PR6. Comparativa FNA industria.md:26:FNA
-content/01.Fase1 PR6. Comparativa FNA industria.md:26:iniciativas
-content/01.Fase1 PR6. Comparativa FNA industria.md:26:Lista
-content/01.Fase1 PR6. Comparativa FNA industria.md:26:oportunidades
-content/01.Fase1 PR6. Comparativa FNA industria.md:26:por
-content/01.Fase1 PR6. Comparativa FNA industria.md:26:ralizables
-content/01.Fase1 PR6. Comparativa FNA industria.md:27:arquitectura
-content/01.Fase1 PR6. Comparativa FNA industria.md:27:capacidades
-content/01.Fase1 PR6. Comparativa FNA industria.md:27:Fondo
-content/01.Fase1 PR6. Comparativa FNA industria.md:27:Mejoras
-content/01.Fase1 PR6. Comparativa FNA industria.md:27:SOA
-content/01.Fase1 PR6. Comparativa FNA industria.md:27:visibles
+content/01.Fase1 PR6. Comparativa FNA industria.md:20:servicios
+content/01.Fase1 PR6. Comparativa FNA industria.md:20:Versionamiento
+content/01.Fase1 PR6. Comparativa FNA industria.md:21:Monitoreo
+content/01.Fase1 PR6. Comparativa FNA industria.md:21:operación
+content/01.Fase1 PR6. Comparativa FNA industria.md:21:SOA
+content/01.Fase1 PR6. Comparativa FNA industria.md:22:evolución
+content/01.Fase1 PR6. Comparativa FNA industria.md:22:Mantenimiento
+content/01.Fase1 PR6. Comparativa FNA industria.md:22:servicios
+content/01.Fase1 PR6. Comparativa FNA industria.md:23:Nuevas
+content/01.Fase1 PR6. Comparativa FNA industria.md:23:tecnologías
+content/01.Fase1 PR6. Comparativa FNA industria.md:27:Aceptación
+content/01.Fase1 PR6. Comparativa FNA industria.md:27:Criterios
+content/01.Fase1 PR6. Comparativa FNA industria.md:29:el
+content/01.Fase1 PR6. Comparativa FNA industria.md:29:FNA
+content/01.Fase1 PR6. Comparativa FNA industria.md:29:iniciativas
+content/01.Fase1 PR6. Comparativa FNA industria.md:29:Lista
+content/01.Fase1 PR6. Comparativa FNA industria.md:29:oportunidades
+content/01.Fase1 PR6. Comparativa FNA industria.md:29:por
+content/01.Fase1 PR6. Comparativa FNA industria.md:29:ralizables
+content/01.Fase1 PR6. Comparativa FNA industria.md:30:arquitectura
+content/01.Fase1 PR6. Comparativa FNA industria.md:30:capacidades
+content/01.Fase1 PR6. Comparativa FNA industria.md:30:Fondo
+content/01.Fase1 PR6. Comparativa FNA industria.md:30:Mejoras
+content/01.Fase1 PR6. Comparativa FNA industria.md:30:SOA
+content/01.Fase1 PR6. Comparativa FNA industria.md:30:visibles
