@@ -9,7 +9,7 @@ analizan
 aplicables
 aplicaciones
 aplicados
-Arquitectura
+arquitectura
 arquitecturas
 así
 asociadas
@@ -31,7 +31,7 @@ categorías
 clave
 Comité
 cómo
-Comparación
+comparación
 comparadas
 comparar
 comparativa
@@ -42,7 +42,7 @@ Contenido
 Contenidos
 Contractuales
 corregir
-Criterios
+criterios
 cuenta
 decir
 decisión
@@ -61,7 +61,7 @@ diferentes
 dimensiones
 dirección
 directa
-documentación
+Documentación
 el
 empresas
 encuentran
@@ -73,7 +73,7 @@ establecemos
 establecen
 establecer
 Estado
-Este
+este
 Esto
 estos
 Estrategia
@@ -95,7 +95,7 @@ Fuente
 futuras
 Gestión
 gestionar
-Gobierno
+gobierno
 grupo
 guía
 guías
@@ -128,13 +128,13 @@ Mejores
 migracións
 modelado
 modelos
-Monitoreo
+monitoreo
 negocio
 nivel
 Niveles
 Nota
 notificaciones
-Nuevas
+nuevas
 objetivos
 Operación
 oportunidades
@@ -147,9 +147,9 @@ percibidas
 pero
 pertenecientes
 poder
-políticas
+Políticas
 por
-portafolio
+Portafolio
 posibles
 posteriormente
 Prácticas
@@ -161,8 +161,8 @@ prioridades
 Priorización
 procedimientos
 procesos
-Producto
-productos
+producto
+Productos
 programado
 proveedor
 proveerá
