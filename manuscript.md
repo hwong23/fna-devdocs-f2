@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-10" />
   <meta name="citation_publication_date" content="2023-01-10" />
   <meta property="article:published_time" content="2023-01-10" />
-  <meta name="dc.modified" content="2023-01-10T18:30:31+00:00" />
-  <meta property="article:modified_time" content="2023-01-10T18:30:31+00:00" />
+  <meta name="dc.modified" content="2023-01-10T18:37:47+00:00" />
+  <meta property="article:modified_time" content="2023-01-10T18:37:47+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-pr6/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-pr6/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-pr6/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-pr6/v/760c4d5cedd7c68126a835df1927eaee1c628225/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-pr6/v/760c4d5cedd7c68126a835df1927eaee1c628225/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-pr6/v/760c4d5cedd7c68126a835df1927eaee1c628225/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-pr6/v/b6e0933b98b475aa43e473ea56bf1e40931af8e3/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-pr6/v/b6e0933b98b475aa43e473ea56bf1e40931af8e3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-pr6/v/b6e0933b98b475aa43e473ea56bf1e40931af8e3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -61,6 +61,37 @@ manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
 manubot-clear-requests-cache: false
 ...
+
+# Fase 1: Estado SOA Actual
+# Contenido de los Productos Contractuales, 181-2020
+
+# Producto 6: PR6. Comparativa de la industria y el FNA
+Describir y comparar con el Fondo la manera cómo las empresas del segmento y de otros sectores de la industria enfrentan los retos de flexibilidad de negocio, independencia de proveedor tecnológico, y fortaleza SOA.
+
+**Nota**: los análisis de este producto provienen únicamente de los objetivos del proyecto SOA: dependencia de proveedor (OBJ1), fortaleza SOA de las aplicaciones (OBJ2), y el tiempo de mercado (OBJ3).
+
+<br>
+
+## Justificación
+La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a sus procesos y productos. A la vez, esta información de guía puede ser traducida en futuras iniciativas pertenecientes a la hoja de ruta de mejora, tanto del gobierno como de los procesos SOA del Fondo.
+
+## Contenidos
+1. Niveles de adopción SOA en las organizaciones
+1. Focos de implementación SOA que pueden lograr las empresas
+1. Retornos de inversión (ROI) SOA posibles
+1. Retos que las empresas han superado por la implementación SOA
+1. Ventajas de rendimiento percibidas en las empresas por la implementación SOA
+1. Conclusiones de la comparativa: oportunidades SOA para el FNA
+
+<br>
+
+## Criterios de Aceptación
+
+* Lista de oportunidades e iniciativas ralizables por el FNA
+* Mejoras visibles para las capacidades de la arquitectura SOA del Fondo
+
+*** 
+
 
 |Tema|**Comparación SOA FNA - Sector**
 |----|-------------------------------------------------|
@@ -223,35 +254,4 @@ Capacitación y entrenamiento
 Plan programado de adopción y migracións
 
 ### Comparativa FNA
-
-
-# Fase 1: Estado SOA Actual
-# Contenido de los Productos Contractuales, 181-2020
-
-# Producto 6: PR6. Comparativa de la industria y el FNA
-Describir y comparar con el Fondo la manera cómo las empresas del segmento y de otros sectores de la industria enfrentan los retos de flexibilidad de negocio, independencia de proveedor tecnológico, y fortaleza SOA.
-
-**Nota**: los análisis de este producto provienen únicamente de los objetivos del proyecto SOA: dependencia de proveedor (OBJ1), fortaleza SOA de las aplicaciones (OBJ2), y el tiempo de mercado (OBJ3).
-
-<br>
-
-## Justificación
-La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a sus procesos y productos. A la vez, esta información de guía puede ser traducida en futuras iniciativas pertenecientes a la hoja de ruta de mejora, tanto del gobierno como de los procesos SOA del Fondo.
-
-## Contenidos
-1. Niveles de adopción SOA en las organizaciones
-1. Focos de implementación SOA que pueden lograr las empresas
-1. Retornos de inversión (ROI) SOA posibles
-1. Retos que las empresas han superado por la implementación SOA
-1. Ventajas de rendimiento percibidas en las empresas por la implementación SOA
-1. Conclusiones de la comparativa: oportunidades SOA para el FNA
-
-<br>
-
-## Criterios de Aceptación
-
-* Lista de oportunidades e iniciativas ralizables por el FNA
-* Mejoras visibles para las capacidades de la arquitectura SOA del Fondo
-
-*** 
 

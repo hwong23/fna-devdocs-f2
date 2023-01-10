@@ -3,13 +3,13 @@ adopción
 alarmas
 algunas
 allá
-análisis
+Análisis
 analiza
 analizan
 aplicables
 aplicaciones
 aplicados
-arquitectura
+Arquitectura
 arquitecturas
 así
 asociadas
@@ -31,7 +31,7 @@ categorías
 clave
 Comité
 cómo
-comparación
+Comparación
 comparadas
 comparar
 comparativa
@@ -42,7 +42,7 @@ Contenido
 Contenidos
 Contractuales
 corregir
-criterios
+Criterios
 cuenta
 decir
 decisión
@@ -68,7 +68,7 @@ encuentran
 enfrentan
 entre
 entrenamiento
-esta
+Esta
 establecemos
 establecen
 establecer
@@ -93,9 +93,9 @@ forma
 formalismo
 Fuente
 futuras
-gestión
+Gestión
 gestionar
-gobierno
+Gobierno
 grupo
 guía
 guías
@@ -116,7 +116,7 @@ Laboratorios
 lineamientos
 Lista
 lograr
-Manejo
+manejo
 manera
 mantener
 mantenimiento
@@ -149,7 +149,7 @@ pertenecientes
 poder
 políticas
 por
-Portafolio
+portafolio
 posibles
 posteriormente
 Prácticas
@@ -161,8 +161,8 @@ prioridades
 Priorización
 procedimientos
 procesos
-producto
-Productos
+Producto
+productos
 programado
 proveedor
 proveerá
@@ -182,7 +182,7 @@ relacionados
 rendimiento
 renovación
 Retornos
-retos
+Retos
 ROI
 ruta
 sectores
@@ -191,7 +191,7 @@ Segmento
 selecionado
 ser
 serán
-Servicios
+servicios
 Situación
 SOA
 solicitudes
