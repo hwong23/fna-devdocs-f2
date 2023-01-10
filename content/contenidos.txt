@@ -1,0 +1,8 @@
+## Contenidos
+(alt 2.)
+1. Niveles de adopción SOA en las organizaciones
+1. Focos de implementación SOA que pueden lograr las empresas
+1. Retornos de inversión (ROI) SOA posibles
+1. Retos que las empresas han superado por la implementación SOA
+1. Ventajas de rendimiento percibidas en las empresas por la implementación SOA
+1. Conclusiones de la comparativa: oportunidades SOA para el FNA
