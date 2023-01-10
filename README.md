@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/hwong23/fna-pr6/tree/gh-pages) branch hosts the contents of this directory at <https://hwong23.github.io/fna-pr6/>.
-The permalink for this webpage version is <https://hwong23.github.io/fna-pr6/v/8f5cd424fda3986a923ff1484867d76a3f60194b/>.
+The permalink for this webpage version is <https://hwong23.github.io/fna-pr6/v/760c4d5cedd7c68126a835df1927eaee1c628225/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://hwong23.github.io/fna-pr6/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`8f5cd424fda3986a923ff1484867d76a3f60194b`](https://github.com/hwong23/fna-pr6/commit/8f5cd424fda3986a923ff1484867d76a3f60194b).
+[`760c4d5cedd7c68126a835df1927eaee1c628225`](https://github.com/hwong23/fna-pr6/commit/760c4d5cedd7c68126a835df1927eaee1c628225).
