@@ -1,4 +1,5 @@
-# Automated scholarly manuscripts on GitHub
+# Automated devdocs manuscripts on GitHub
+
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -9,9 +10,10 @@
 ## Manuscript description
 
 <!-- usage note: edit this section. -->
+Diagnóstico SOA del FNA (proy. 181-2020. E-Service)
+Fase 2.
+Productos de Fase 2.
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
 
 ## Manubot
 
