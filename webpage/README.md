@@ -32,8 +32,7 @@ git add v/*/*.ots
 
 Verifying timestamps with the `ots verify` command requires running a local bitcoin node with JSON-RPC configured, at this time.
 
-## Source
+## Origen
 
 The manuscripts in this directory were built from
-[`$COMMIT`](https://github.com/$REPO_SLUG/commit/$COMMIT).
-`$FECHA_COMPILACION`.
+[`$COMMIT`](https://github.com/$REPO_SLUG/commit/$COMMIT) en $FECHA_COMPILACION.
