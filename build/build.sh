@@ -94,8 +94,8 @@ if [ "${BUILD_DOCX}" = "true" ]; then
     basenameFILE=${f##*/};
     
     # Add commit hash to the MD
-    envsubst < $f > mdfile.hash
-    mv mdfile.hash $f
+    envsubst < "$f" > mdfile.hash
+    mv mdfile.hash "$f"
 
     echo "sustituya < $f > $f.hash"
 
