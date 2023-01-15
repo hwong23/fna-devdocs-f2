@@ -26,6 +26,8 @@ FECHA_COMPILACION="${COMPILATION_DATE}"
 # Pandoc's configuration is specified via files of option defaults
 # located in the $PANDOC_DATA_DIR/defaults directory.
 PANDOC_DATA_DIR="${PANDOC_DATA_DIR:-build/pandoc}"
+export FECHA_COMPILACION
+
 
 # Generate reference information
 echo >&2 "Retrieving and processing reference metadata"
@@ -91,7 +93,11 @@ if [ "${BUILD_DOCX}" = "true" ]; then
   for f in content/*.md; do
     basenameFILE=${f##*/};
     
-    echo --data-dir="$PANDOC_DATA_DIR" --defaults=common-i.yaml --defaults=docx-i.yaml --output=output/"${basenameFILE%.md}.docx" $f
+    # Add commit hash to the MD
+    envsubst < $f > $f.hash
+    mv $f.hash $f
+
+    echo "sustituya < $f > $f.hash"
 
     pandoc --verbose \
       --data-dir="$PANDOC_DATA_DIR" \
