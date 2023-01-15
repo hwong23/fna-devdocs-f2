@@ -12,8 +12,6 @@ content/05a.Comparativa FNA industria.md:5:Situación
 content/05a.Comparativa FNA industria.md:5:SOA
 content/05a.Comparativa FNA industria.md:6:Autor
 content/05a.Comparativa FNA industria.md:7:Fuente
-content/05a.Comparativa FNA industria.md:8:Hijo
-content/05a.Comparativa FNA industria.md:8:Secuencia
 content/05a.Comparativa FNA industria.md:9:FNA
 content/05a.Comparativa FNA industria.md:9:Segmento
 content/05a.Comparativa FNA industria.md:9:SOA
