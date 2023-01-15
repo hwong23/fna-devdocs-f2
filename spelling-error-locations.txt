@@ -1,454 +1,1399 @@
-content/01a.Comparativa FNA industria.md:1:Comparación
-content/01a.Comparativa FNA industria.md:1:FNA
-content/01a.Comparativa FNA industria.md:1:SOA
-content/01a.Comparativa FNA industria.md:3:Comparación
-content/01a.Comparativa FNA industria.md:3:FNA
-content/01a.Comparativa FNA industria.md:3:SOA
-content/01a.Comparativa FNA industria.md:3:Tema
-content/01a.Comparativa FNA industria.md:5:clave
-content/01a.Comparativa FNA industria.md:5:Comparativa
-content/01a.Comparativa FNA industria.md:5:Palabras
-content/01a.Comparativa FNA industria.md:5:Situación
-content/01a.Comparativa FNA industria.md:5:SOA
-content/01a.Comparativa FNA industria.md:6:Autor
-content/01a.Comparativa FNA industria.md:7:Fuente
-content/01a.Comparativa FNA industria.md:8:Hijo
-content/01a.Comparativa FNA industria.md:8:Secuencia
-content/01a.Comparativa FNA industria.md:9:FNA
-content/01a.Comparativa FNA industria.md:9:Segmento
-content/01a.Comparativa FNA industria.md:9:SOA
-content/01a.Comparativa FNA industria.md:9:Vínculos
-content/01a.Comparativa FNA industria.md:13:algunas
-content/01a.Comparativa FNA industria.md:13:análisis
-content/01a.Comparativa FNA industria.md:13:categorías
-content/01a.Comparativa FNA industria.md:13:comparación
-content/01a.Comparativa FNA industria.md:13:comparativo
-content/01a.Comparativa FNA industria.md:13:dimensiones
-content/01a.Comparativa FNA industria.md:13:este
-content/01a.Comparativa FNA industria.md:13:facilitan
-content/01a.Comparativa FNA industria.md:13:presentación
-content/01a.Comparativa FNA industria.md:13:presentar
-content/01a.Comparativa FNA industria.md:13:selecionado
-content/01a.Comparativa FNA industria.md:15:aspectos
-content/01a.Comparativa FNA industria.md:15:comparativa
-content/01a.Comparativa FNA industria.md:15:cuenta
-content/01a.Comparativa FNA industria.md:15:serán
-content/01a.Comparativa FNA industria.md:15:tener
-content/01a.Comparativa FNA industria.md:17:Arquitectura
-content/01a.Comparativa FNA industria.md:17:SOA
-content/01a.Comparativa FNA industria.md:18:Portafolio
-content/01a.Comparativa FNA industria.md:18:Servicios
-content/01a.Comparativa FNA industria.md:19:Gobierno
-content/01a.Comparativa FNA industria.md:19:SOA
-content/01a.Comparativa FNA industria.md:20:Estrategia
-content/01a.Comparativa FNA industria.md:20:Versionamiento
-content/01a.Comparativa FNA industria.md:21:Monitoreo
-content/01a.Comparativa FNA industria.md:21:Operación
-content/01a.Comparativa FNA industria.md:22:Evolución
-content/01a.Comparativa FNA industria.md:22:Mantenimiento
-content/01a.Comparativa FNA industria.md:23:Nuevas
-content/01a.Comparativa FNA industria.md:23:tecnologías
-content/01a.Comparativa FNA industria.md:27:aplicados
-content/01a.Comparativa FNA industria.md:27:aspectos
-content/01a.Comparativa FNA industria.md:27:cada
-content/01a.Comparativa FNA industria.md:27:desde
-content/01a.Comparativa FNA industria.md:27:el
-content/01a.Comparativa FNA industria.md:27:estos
-content/01a.Comparativa FNA industria.md:27:financiero
-content/01a.Comparativa FNA industria.md:27:FNA
-content/01a.Comparativa FNA industria.md:27:posteriormente
-content/01a.Comparativa FNA industria.md:27:Presentaremos
-content/01a.Comparativa FNA industria.md:27:serán
-content/01a.Comparativa FNA industria.md:27:uno
-content/01a.Comparativa FNA industria.md:31:Arquitectura
-content/01a.Comparativa FNA industria.md:31:SOA
-content/01a.Comparativa FNA industria.md:33:Descripción
-content/01a.Comparativa FNA industria.md:34:arquitectura
-content/01a.Comparativa FNA industria.md:34:arquitectura
-content/01a.Comparativa FNA industria.md:34:arquitectura
-content/01a.Comparativa FNA industria.md:34:Arquitectura
-content/01a.Comparativa FNA industria.md:34:asociadas
-content/01a.Comparativa FNA industria.md:34:cargos
-content/01a.Comparativa FNA industria.md:34:categoría
-content/01a.Comparativa FNA industria.md:34:comparativa
-content/01a.Comparativa FNA industria.md:34:consideraciones
-content/01a.Comparativa FNA industria.md:34:criterios
-content/01a.Comparativa FNA industria.md:34:cuenta
-content/01a.Comparativa FNA industria.md:34:dentro
-content/01a.Comparativa FNA industria.md:34:depósito
-content/01a.Comparativa FNA industria.md:34:desarrollo
-content/01a.Comparativa FNA industria.md:34:el
-content/01a.Comparativa FNA industria.md:34:el
-content/01a.Comparativa FNA industria.md:34:encuentran
-content/01a.Comparativa FNA industria.md:34:esta
-content/01a.Comparativa FNA industria.md:34:establecemos
-content/01a.Comparativa FNA industria.md:34:este
-content/01a.Comparativa FNA industria.md:34:Esto
-content/01a.Comparativa FNA industria.md:34:Fondo
-content/01a.Comparativa FNA industria.md:34:formalismo
-content/01a.Comparativa FNA industria.md:34:gobierno
-content/01a.Comparativa FNA industria.md:34:grupo
-content/01a.Comparativa FNA industria.md:34:incluye
-content/01a.Comparativa FNA industria.md:34:manejo
-content/01a.Comparativa FNA industria.md:34:mantener
-content/01a.Comparativa FNA industria.md:34:modelos
-content/01a.Comparativa FNA industria.md:34:nivel
-content/01a.Comparativa FNA industria.md:34:organización
-content/01a.Comparativa FNA industria.md:34:prácticas
-content/01a.Comparativa FNA industria.md:34:realizar
-content/01a.Comparativa FNA industria.md:34:SOA
-content/01a.Comparativa FNA industria.md:34:SOA
-content/01a.Comparativa FNA industria.md:34:SOA
-content/01a.Comparativa FNA industria.md:34:último
-content/01a.Comparativa FNA industria.md:37:Financiero
-content/01a.Comparativa FNA industria.md:37:Prácticas
-content/01a.Comparativa FNA industria.md:39:arquitectura
-content/01a.Comparativa FNA industria.md:39:Depoósito
-content/01a.Comparativa FNA industria.md:40:Análisis
-content/01a.Comparativa FNA industria.md:40:arquitectura
-content/01a.Comparativa FNA industria.md:40:modelos
-content/01a.Comparativa FNA industria.md:41:arquitecturas
-content/01a.Comparativa FNA industria.md:41:Herramientas
-content/01a.Comparativa FNA industria.md:41:modelado
-content/01a.Comparativa FNA industria.md:41:servicios
-content/01a.Comparativa FNA industria.md:43:Comparativa
-content/01a.Comparativa FNA industria.md:43:FNA
-content/01a.Comparativa FNA industria.md:49:Portafolio
-content/01a.Comparativa FNA industria.md:49:Servicios
-content/01a.Comparativa FNA industria.md:51:Descripción
-content/01a.Comparativa FNA industria.md:52:busca
-content/01a.Comparativa FNA industria.md:52:búsqueda
-content/01a.Comparativa FNA industria.md:52:categoría
-content/01a.Comparativa FNA industria.md:52:comparativo
-content/01a.Comparativa FNA industria.md:52:documentación
-content/01a.Comparativa FNA industria.md:52:el
-content/01a.Comparativa FNA industria.md:52:el
-content/01a.Comparativa FNA industria.md:52:el
-content/01a.Comparativa FNA industria.md:52:entre
-content/01a.Comparativa FNA industria.md:52:Esta
-content/01a.Comparativa FNA industria.md:52:establecer
-content/01a.Comparativa FNA industria.md:52:FNA
-content/01a.Comparativa FNA industria.md:52:gestión
-content/01a.Comparativa FNA industria.md:52:Herramientas
-content/01a.Comparativa FNA industria.md:52:industria
-content/01a.Comparativa FNA industria.md:52:manejo
-content/01a.Comparativa FNA industria.md:52:manejo
-content/01a.Comparativa FNA industria.md:52:portafolio
-content/01a.Comparativa FNA industria.md:52:prácticas
-content/01a.Comparativa FNA industria.md:52:registro
-content/01a.Comparativa FNA industria.md:52:relacionadas
-content/01a.Comparativa FNA industria.md:52:relacionadas
-content/01a.Comparativa FNA industria.md:52:servicios
-content/01a.Comparativa FNA industria.md:52:su
-content/01a.Comparativa FNA industria.md:52:su
-content/01a.Comparativa FNA industria.md:54:Financiero
-content/01a.Comparativa FNA industria.md:54:Prácticas
-content/01a.Comparativa FNA industria.md:55:el
-content/01a.Comparativa FNA industria.md:55:Herramientas
-content/01a.Comparativa FNA industria.md:55:manejo
-content/01a.Comparativa FNA industria.md:55:portafolio
-content/01a.Comparativa FNA industria.md:55:servicios
-content/01a.Comparativa FNA industria.md:56:Gobierno
-content/01a.Comparativa FNA industria.md:56:portafolio
-content/01a.Comparativa FNA industria.md:56:servicios
-content/01a.Comparativa FNA industria.md:58:Comparativa
-content/01a.Comparativa FNA industria.md:58:FNA
-content/01a.Comparativa FNA industria.md:62:Gobierno
-content/01a.Comparativa FNA industria.md:62:SOA
-content/01a.Comparativa FNA industria.md:64:Descripción
-content/01a.Comparativa FNA industria.md:65:allá
-content/01a.Comparativa FNA industria.md:65:arquitectura
-content/01a.Comparativa FNA industria.md:65:asociados
-content/01a.Comparativa FNA industria.md:65:busca
-content/01a.Comparativa FNA industria.md:65:categoría
-content/01a.Comparativa FNA industria.md:65:categoría
-content/01a.Comparativa FNA industria.md:65:comparar
-content/01a.Comparativa FNA industria.md:65:criterios
-content/01a.Comparativa FNA industria.md:65:dirección
-content/01a.Comparativa FNA industria.md:65:directa
-content/01a.Comparativa FNA industria.md:65:el
-content/01a.Comparativa FNA industria.md:65:el
-content/01a.Comparativa FNA industria.md:65:el
-content/01a.Comparativa FNA industria.md:65:esta
-content/01a.Comparativa FNA industria.md:65:Esta
-content/01a.Comparativa FNA industria.md:65:establecen
-content/01a.Comparativa FNA industria.md:65:Este
-content/01a.Comparativa FNA industria.md:65:FNA
-content/01a.Comparativa FNA industria.md:65:forma
-content/01a.Comparativa FNA industria.md:65:gobierno
-content/01a.Comparativa FNA industria.md:65:guías
-content/01a.Comparativa FNA industria.md:65:mejores
-content/01a.Comparativa FNA industria.md:65:organización
-content/01a.Comparativa FNA industria.md:65:pero
-content/01a.Comparativa FNA industria.md:65:políticas
-content/01a.Comparativa FNA industria.md:65:portafolio
-content/01a.Comparativa FNA industria.md:65:prácticas
-content/01a.Comparativa FNA industria.md:65:procedimientos
-content/01a.Comparativa FNA industria.md:65:punto
-content/01a.Comparativa FNA industria.md:65:relaciona
-content/01a.Comparativa FNA industria.md:65:servicios
-content/01a.Comparativa FNA industria.md:65:servicios
-content/01a.Comparativa FNA industria.md:65:SOA
-content/01a.Comparativa FNA industria.md:67:el
-content/01a.Comparativa FNA industria.md:67:Mejores
-content/01a.Comparativa FNA industria.md:67:prácticas
-content/01a.Comparativa FNA industria.md:68:arquitectura
-content/01a.Comparativa FNA industria.md:68:Comité
-content/01a.Comparativa FNA industria.md:69:lineamientos
-content/01a.Comparativa FNA industria.md:69:Políticas
-content/01a.Comparativa FNA industria.md:70:Arquitectura
-content/01a.Comparativa FNA industria.md:70:referencia
-content/01a.Comparativa FNA industria.md:71:decisión
-content/01a.Comparativa FNA industria.md:71:Toma
-content/01a.Comparativa FNA industria.md:72:Priorización
-content/01a.Comparativa FNA industria.md:72:servicios
-content/01a.Comparativa FNA industria.md:74:Comparativa
-content/01a.Comparativa FNA industria.md:74:FNA
-content/01a.Comparativa FNA industria.md:78:Estrategia
-content/01a.Comparativa FNA industria.md:78:Versionamiento
-content/01a.Comparativa FNA industria.md:80:Descripción
-content/01a.Comparativa FNA industria.md:81:busca
-content/01a.Comparativa FNA industria.md:81:categoría
-content/01a.Comparativa FNA industria.md:81:el
-content/01a.Comparativa FNA industria.md:81:Esta
-content/01a.Comparativa FNA industria.md:81:establecer
-content/01a.Comparativa FNA industria.md:81:herramientas
-content/01a.Comparativa FNA industria.md:81:manejo
-content/01a.Comparativa FNA industria.md:81:mecanismos
-content/01a.Comparativa FNA industria.md:81:mejores
-content/01a.Comparativa FNA industria.md:81:prácticas
-content/01a.Comparativa FNA industria.md:81:relacionadas
-content/01a.Comparativa FNA industria.md:81:servicios
-content/01a.Comparativa FNA industria.md:81:versiones
-content/01a.Comparativa FNA industria.md:85:Financiero
-content/01a.Comparativa FNA industria.md:85:Prácticas
-content/01a.Comparativa FNA industria.md:87:cambio
-content/01a.Comparativa FNA industria.md:87:gestión
-content/01a.Comparativa FNA industria.md:87:Manejo
-content/01a.Comparativa FNA industria.md:88:documentación
-content/01a.Comparativa FNA industria.md:88:gestión
-content/01a.Comparativa FNA industria.md:88:Herramientas
-content/01a.Comparativa FNA industria.md:88:servicios
-content/01a.Comparativa FNA industria.md:88:versiones
-content/01a.Comparativa FNA industria.md:89:Documentación
-content/01a.Comparativa FNA industria.md:89:servicios
-content/01a.Comparativa FNA industria.md:89:sus
-content/01a.Comparativa FNA industria.md:89:versiones
-content/01a.Comparativa FNA industria.md:93:Comparativa
-content/01a.Comparativa FNA industria.md:93:FNA
-content/01a.Comparativa FNA industria.md:97:Monitoreo
-content/01a.Comparativa FNA industria.md:97:Operación
-content/01a.Comparativa FNA industria.md:99:Descripción
-content/01a.Comparativa FNA industria.md:100:analiza
-content/01a.Comparativa FNA industria.md:100:categoría
-content/01a.Comparativa FNA industria.md:100:diferentes
-content/01a.Comparativa FNA industria.md:100:el
-content/01a.Comparativa FNA industria.md:100:Esta
-content/01a.Comparativa FNA industria.md:100:herramientas
-content/01a.Comparativa FNA industria.md:100:mecanismos
-content/01a.Comparativa FNA industria.md:100:mejores
-content/01a.Comparativa FNA industria.md:100:monitoreo
-content/01a.Comparativa FNA industria.md:100:operación
-content/01a.Comparativa FNA industria.md:100:operación
-content/01a.Comparativa FNA industria.md:100:prácticas
-content/01a.Comparativa FNA industria.md:100:relacionadas
-content/01a.Comparativa FNA industria.md:100:servicios
-content/01a.Comparativa FNA industria.md:102:Financiero
-content/01a.Comparativa FNA industria.md:102:Prácticas
-content/01a.Comparativa FNA industria.md:103:despliegue
-content/01a.Comparativa FNA industria.md:103:el
-content/01a.Comparativa FNA industria.md:103:gestionar
-content/01a.Comparativa FNA industria.md:103:Herramientas
-content/01a.Comparativa FNA industria.md:103:operación
-content/01a.Comparativa FNA industria.md:103:servicios
-content/01a.Comparativa FNA industria.md:103:utilizadas
-content/01a.Comparativa FNA industria.md:104:alarmas
-content/01a.Comparativa FNA industria.md:104:gestión
-content/01a.Comparativa FNA industria.md:104:Herramientas
-content/01a.Comparativa FNA industria.md:104:monitoreo
-content/01a.Comparativa FNA industria.md:104:notificaciones
-content/01a.Comparativa FNA industria.md:104:operación
-content/01a.Comparativa FNA industria.md:106:Comparativa
-content/01a.Comparativa FNA industria.md:106:FNA
-content/01a.Comparativa FNA industria.md:110:Evolución
-content/01a.Comparativa FNA industria.md:110:Mantenimiento
-content/01a.Comparativa FNA industria.md:112:Descripción
-content/01a.Comparativa FNA industria.md:113:analiza
-content/01a.Comparativa FNA industria.md:113:capacidad
-content/01a.Comparativa FNA industria.md:113:categoría
-content/01a.Comparativa FNA industria.md:113:corregir
-content/01a.Comparativa FNA industria.md:113:decir
-content/01a.Comparativa FNA industria.md:113:el
-content/01a.Comparativa FNA industria.md:113:Esta
-content/01a.Comparativa FNA industria.md:113:estrategias
-content/01a.Comparativa FNA industria.md:113:evolución
-content/01a.Comparativa FNA industria.md:113:evolucionar
-content/01a.Comparativa FNA industria.md:113:favorecer
-content/01a.Comparativa FNA industria.md:113:mantener
-content/01a.Comparativa FNA industria.md:113:mantenimiento
-content/01a.Comparativa FNA industria.md:113:mejorar
-content/01a.Comparativa FNA industria.md:113:organización
-content/01a.Comparativa FNA industria.md:113:organizacón
-content/01a.Comparativa FNA industria.md:113:poder
-content/01a.Comparativa FNA industria.md:113:recomendadas
-content/01a.Comparativa FNA industria.md:113:servicios
-content/01a.Comparativa FNA industria.md:113:servicios
-content/01a.Comparativa FNA industria.md:115:Financiero
-content/01a.Comparativa FNA industria.md:115:Prácticas
-content/01a.Comparativa FNA industria.md:116:cambio
-content/01a.Comparativa FNA industria.md:116:Gestión
-content/01a.Comparativa FNA industria.md:117:cambio
-content/01a.Comparativa FNA industria.md:117:Manejo
-content/01a.Comparativa FNA industria.md:117:solicitudes
-content/01a.Comparativa FNA industria.md:118:cambios
-content/01a.Comparativa FNA industria.md:118:Gestión
-content/01a.Comparativa FNA industria.md:118:prioridades
-content/01a.Comparativa FNA industria.md:119:defectos
-content/01a.Comparativa FNA industria.md:119:Gestión
-content/01a.Comparativa FNA industria.md:119:inconformidades
-content/01a.Comparativa FNA industria.md:121:Comparativa
-content/01a.Comparativa FNA industria.md:121:FNA
-content/01a.Comparativa FNA industria.md:125:Nuevas
-content/01a.Comparativa FNA industria.md:125:tecnologías
-content/01a.Comparativa FNA industria.md:127:Descripción
-content/01a.Comparativa FNA industria.md:128:adopción
-content/01a.Comparativa FNA industria.md:128:analizan
-content/01a.Comparativa FNA industria.md:128:así
-content/01a.Comparativa FNA industria.md:128:asociadas
-content/01a.Comparativa FNA industria.md:128:categoria
-content/01a.Comparativa FNA industria.md:128:comparadas
-content/01a.Comparativa FNA industria.md:128:dichas
-content/01a.Comparativa FNA industria.md:128:esta
-content/01a.Comparativa FNA industria.md:128:FNA
-content/01a.Comparativa FNA industria.md:128:industria
-content/01a.Comparativa FNA industria.md:128:nuevas
-content/01a.Comparativa FNA industria.md:128:políticas
-content/01a.Comparativa FNA industria.md:128:prácticas
-content/01a.Comparativa FNA industria.md:128:relacionados
-content/01a.Comparativa FNA industria.md:128:renovación
-content/01a.Comparativa FNA industria.md:128:servicios
-content/01a.Comparativa FNA industria.md:128:tecnologías
-content/01a.Comparativa FNA industria.md:128:tecnologías
-content/01a.Comparativa FNA industria.md:128:temas
-content/01a.Comparativa FNA industria.md:128:vigilancia
-content/01a.Comparativa FNA industria.md:130:Financiero
-content/01a.Comparativa FNA industria.md:130:Prácticas
-content/01a.Comparativa FNA industria.md:132:Políticas
-content/01a.Comparativa FNA industria.md:132:vigilancia
-content/01a.Comparativa FNA industria.md:133:experimentación
-content/01a.Comparativa FNA industria.md:133:Laboratorios
-content/01a.Comparativa FNA industria.md:133:nuevas
-content/01a.Comparativa FNA industria.md:133:tecnologías
-content/01a.Comparativa FNA industria.md:134:Capacitación
-content/01a.Comparativa FNA industria.md:134:entrenamiento
-content/01a.Comparativa FNA industria.md:135:adopción
-content/01a.Comparativa FNA industria.md:135:migracións
-content/01a.Comparativa FNA industria.md:135:programado
-content/01a.Comparativa FNA industria.md:137:Comparativa
-content/01a.Comparativa FNA industria.md:137:FNA
-content/01.Fase1 PR6. Comparativa FNA industria.md:1:Estado
-content/01.Fase1 PR6. Comparativa FNA industria.md:1:Fase
-content/01.Fase1 PR6. Comparativa FNA industria.md:1:SOA
-content/01.Fase1 PR6. Comparativa FNA industria.md:2:Contenido
-content/01.Fase1 PR6. Comparativa FNA industria.md:2:Contractuales
-content/01.Fase1 PR6. Comparativa FNA industria.md:2:Productos
-content/01.Fase1 PR6. Comparativa FNA industria.md:6:Comparativa
-content/01.Fase1 PR6. Comparativa FNA industria.md:6:el
-content/01.Fase1 PR6. Comparativa FNA industria.md:6:FNA
-content/01.Fase1 PR6. Comparativa FNA industria.md:6:industria
-content/01.Fase1 PR6. Comparativa FNA industria.md:6:Producto
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:cómo
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:comparar
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:Describir
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:el
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:empresas
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:enfrentan
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:flexibilidad
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:Fondo
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:independencia
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:industria
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:manera
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:negocio
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:otros
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:proveedor
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:retos
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:sectores
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:segmento
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:SOA
-content/01.Fase1 PR6. Comparativa FNA industria.md:7:tecnológico
-content/01.Fase1 PR6. Comparativa FNA industria.md:9:análisis
-content/01.Fase1 PR6. Comparativa FNA industria.md:9:aplicaciones
-content/01.Fase1 PR6. Comparativa FNA industria.md:9:dependencia
-content/01.Fase1 PR6. Comparativa FNA industria.md:9:el
-content/01.Fase1 PR6. Comparativa FNA industria.md:9:este
-content/01.Fase1 PR6. Comparativa FNA industria.md:9:Nota
-content/01.Fase1 PR6. Comparativa FNA industria.md:9:objetivos
-content/01.Fase1 PR6. Comparativa FNA industria.md:9:producto
-content/01.Fase1 PR6. Comparativa FNA industria.md:9:proveedor
-content/01.Fase1 PR6. Comparativa FNA industria.md:9:provienen
-content/01.Fase1 PR6. Comparativa FNA industria.md:9:proyecto
-content/01.Fase1 PR6. Comparativa FNA industria.md:9:SOA
-content/01.Fase1 PR6. Comparativa FNA industria.md:9:SOA
-content/01.Fase1 PR6. Comparativa FNA industria.md:9:tiempo
-content/01.Fase1 PR6. Comparativa FNA industria.md:9:únicamente
-content/01.Fase1 PR6. Comparativa FNA industria.md:13:Justificación
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:aplicables
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:comparativa
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:esta
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:Fondo
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:Fondo
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:futuras
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:gobierno
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:guía
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:hallazgos
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:hoja
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:industria
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:información
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:iniciativas
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:mejora
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:pertenecientes
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:procesos
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:procesos
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:productos
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:proveerá
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:puede
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:ruta
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:ser
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:SOA
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:SOA
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:sus
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:tanto
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:traducida
-content/01.Fase1 PR6. Comparativa FNA industria.md:14:vez
-content/01.Fase1 PR6. Comparativa FNA industria.md:16:Contenidos
-content/01.Fase1 PR6. Comparativa FNA industria.md:17:Arquitectura
-content/01.Fase1 PR6. Comparativa FNA industria.md:17:SOA
-content/01.Fase1 PR6. Comparativa FNA industria.md:18:Portafolio
-content/01.Fase1 PR6. Comparativa FNA industria.md:18:servicios
-content/01.Fase1 PR6. Comparativa FNA industria.md:19:Gobierno
-content/01.Fase1 PR6. Comparativa FNA industria.md:19:SOA
-content/01.Fase1 PR6. Comparativa FNA industria.md:20:servicios
-content/01.Fase1 PR6. Comparativa FNA industria.md:20:Versionamiento
-content/01.Fase1 PR6. Comparativa FNA industria.md:21:Monitoreo
-content/01.Fase1 PR6. Comparativa FNA industria.md:21:operación
-content/01.Fase1 PR6. Comparativa FNA industria.md:21:SOA
-content/01.Fase1 PR6. Comparativa FNA industria.md:22:evolución
-content/01.Fase1 PR6. Comparativa FNA industria.md:22:Mantenimiento
-content/01.Fase1 PR6. Comparativa FNA industria.md:22:servicios
-content/01.Fase1 PR6. Comparativa FNA industria.md:23:Nuevas
-content/01.Fase1 PR6. Comparativa FNA industria.md:23:tecnologías
-content/01.Fase1 PR6. Comparativa FNA industria.md:27:Aceptación
-content/01.Fase1 PR6. Comparativa FNA industria.md:27:Criterios
-content/01.Fase1 PR6. Comparativa FNA industria.md:29:el
-content/01.Fase1 PR6. Comparativa FNA industria.md:29:FNA
-content/01.Fase1 PR6. Comparativa FNA industria.md:29:iniciativas
-content/01.Fase1 PR6. Comparativa FNA industria.md:29:Lista
-content/01.Fase1 PR6. Comparativa FNA industria.md:29:oportunidades
-content/01.Fase1 PR6. Comparativa FNA industria.md:29:por
-content/01.Fase1 PR6. Comparativa FNA industria.md:29:ralizables
-content/01.Fase1 PR6. Comparativa FNA industria.md:30:arquitectura
-content/01.Fase1 PR6. Comparativa FNA industria.md:30:capacidades
-content/01.Fase1 PR6. Comparativa FNA industria.md:30:Fondo
-content/01.Fase1 PR6. Comparativa FNA industria.md:30:Mejoras
-content/01.Fase1 PR6. Comparativa FNA industria.md:30:SOA
-content/01.Fase1 PR6. Comparativa FNA industria.md:30:visibles
+content/05a.Comparativa FNA industria.md:1:Comparación
+content/05a.Comparativa FNA industria.md:1:FNA
+content/05a.Comparativa FNA industria.md:1:SOA
+content/05a.Comparativa FNA industria.md:3:Comparación
+content/05a.Comparativa FNA industria.md:3:FNA
+content/05a.Comparativa FNA industria.md:3:SOA
+content/05a.Comparativa FNA industria.md:3:Tema
+content/05a.Comparativa FNA industria.md:5:clave
+content/05a.Comparativa FNA industria.md:5:Comparativa
+content/05a.Comparativa FNA industria.md:5:Palabras
+content/05a.Comparativa FNA industria.md:5:Situación
+content/05a.Comparativa FNA industria.md:5:SOA
+content/05a.Comparativa FNA industria.md:6:Autor
+content/05a.Comparativa FNA industria.md:7:Fuente
+content/05a.Comparativa FNA industria.md:8:Hijo
+content/05a.Comparativa FNA industria.md:8:Secuencia
+content/05a.Comparativa FNA industria.md:9:FNA
+content/05a.Comparativa FNA industria.md:9:Segmento
+content/05a.Comparativa FNA industria.md:9:SOA
+content/05a.Comparativa FNA industria.md:9:Vínculos
+content/05a.Comparativa FNA industria.md:13:algunas
+content/05a.Comparativa FNA industria.md:13:análisis
+content/05a.Comparativa FNA industria.md:13:categorías
+content/05a.Comparativa FNA industria.md:13:comparación
+content/05a.Comparativa FNA industria.md:13:comparativo
+content/05a.Comparativa FNA industria.md:13:dimensiones
+content/05a.Comparativa FNA industria.md:13:este
+content/05a.Comparativa FNA industria.md:13:facilitan
+content/05a.Comparativa FNA industria.md:13:presentación
+content/05a.Comparativa FNA industria.md:13:presentar
+content/05a.Comparativa FNA industria.md:13:selecionado
+content/05a.Comparativa FNA industria.md:15:aspectos
+content/05a.Comparativa FNA industria.md:15:comparativa
+content/05a.Comparativa FNA industria.md:15:cuenta
+content/05a.Comparativa FNA industria.md:15:serán
+content/05a.Comparativa FNA industria.md:15:tener
+content/05a.Comparativa FNA industria.md:17:Arquitectura
+content/05a.Comparativa FNA industria.md:17:SOA
+content/05a.Comparativa FNA industria.md:18:Portafolio
+content/05a.Comparativa FNA industria.md:18:Servicios
+content/05a.Comparativa FNA industria.md:19:Gobierno
+content/05a.Comparativa FNA industria.md:19:SOA
+content/05a.Comparativa FNA industria.md:20:Estrategia
+content/05a.Comparativa FNA industria.md:20:Versionamiento
+content/05a.Comparativa FNA industria.md:21:Monitoreo
+content/05a.Comparativa FNA industria.md:21:Operación
+content/05a.Comparativa FNA industria.md:22:Evolución
+content/05a.Comparativa FNA industria.md:22:Mantenimiento
+content/05a.Comparativa FNA industria.md:23:Nuevas
+content/05a.Comparativa FNA industria.md:23:tecnologías
+content/05a.Comparativa FNA industria.md:27:aplicados
+content/05a.Comparativa FNA industria.md:27:aspectos
+content/05a.Comparativa FNA industria.md:27:cada
+content/05a.Comparativa FNA industria.md:27:desde
+content/05a.Comparativa FNA industria.md:27:el
+content/05a.Comparativa FNA industria.md:27:estos
+content/05a.Comparativa FNA industria.md:27:financiero
+content/05a.Comparativa FNA industria.md:27:FNA
+content/05a.Comparativa FNA industria.md:27:posteriormente
+content/05a.Comparativa FNA industria.md:27:Presentaremos
+content/05a.Comparativa FNA industria.md:27:serán
+content/05a.Comparativa FNA industria.md:27:uno
+content/05a.Comparativa FNA industria.md:31:Arquitectura
+content/05a.Comparativa FNA industria.md:31:SOA
+content/05a.Comparativa FNA industria.md:33:Descripción
+content/05a.Comparativa FNA industria.md:34:arquitectura
+content/05a.Comparativa FNA industria.md:34:arquitectura
+content/05a.Comparativa FNA industria.md:34:arquitectura
+content/05a.Comparativa FNA industria.md:34:Arquitectura
+content/05a.Comparativa FNA industria.md:34:asociadas
+content/05a.Comparativa FNA industria.md:34:cargos
+content/05a.Comparativa FNA industria.md:34:categoría
+content/05a.Comparativa FNA industria.md:34:comparativa
+content/05a.Comparativa FNA industria.md:34:consideraciones
+content/05a.Comparativa FNA industria.md:34:criterios
+content/05a.Comparativa FNA industria.md:34:cuenta
+content/05a.Comparativa FNA industria.md:34:dentro
+content/05a.Comparativa FNA industria.md:34:depósito
+content/05a.Comparativa FNA industria.md:34:desarrollo
+content/05a.Comparativa FNA industria.md:34:el
+content/05a.Comparativa FNA industria.md:34:el
+content/05a.Comparativa FNA industria.md:34:encuentran
+content/05a.Comparativa FNA industria.md:34:esta
+content/05a.Comparativa FNA industria.md:34:establecemos
+content/05a.Comparativa FNA industria.md:34:este
+content/05a.Comparativa FNA industria.md:34:Esto
+content/05a.Comparativa FNA industria.md:34:Fondo
+content/05a.Comparativa FNA industria.md:34:formalismo
+content/05a.Comparativa FNA industria.md:34:gobierno
+content/05a.Comparativa FNA industria.md:34:grupo
+content/05a.Comparativa FNA industria.md:34:incluye
+content/05a.Comparativa FNA industria.md:34:manejo
+content/05a.Comparativa FNA industria.md:34:mantener
+content/05a.Comparativa FNA industria.md:34:modelos
+content/05a.Comparativa FNA industria.md:34:nivel
+content/05a.Comparativa FNA industria.md:34:organización
+content/05a.Comparativa FNA industria.md:34:prácticas
+content/05a.Comparativa FNA industria.md:34:realizar
+content/05a.Comparativa FNA industria.md:34:SOA
+content/05a.Comparativa FNA industria.md:34:SOA
+content/05a.Comparativa FNA industria.md:34:SOA
+content/05a.Comparativa FNA industria.md:34:último
+content/05a.Comparativa FNA industria.md:37:Financiero
+content/05a.Comparativa FNA industria.md:37:Prácticas
+content/05a.Comparativa FNA industria.md:39:arquitectura
+content/05a.Comparativa FNA industria.md:39:Depoósito
+content/05a.Comparativa FNA industria.md:40:Análisis
+content/05a.Comparativa FNA industria.md:40:arquitectura
+content/05a.Comparativa FNA industria.md:40:modelos
+content/05a.Comparativa FNA industria.md:41:arquitecturas
+content/05a.Comparativa FNA industria.md:41:Herramientas
+content/05a.Comparativa FNA industria.md:41:modelado
+content/05a.Comparativa FNA industria.md:41:servicios
+content/05a.Comparativa FNA industria.md:43:Comparativa
+content/05a.Comparativa FNA industria.md:43:FNA
+content/05a.Comparativa FNA industria.md:49:Portafolio
+content/05a.Comparativa FNA industria.md:49:Servicios
+content/05a.Comparativa FNA industria.md:51:Descripción
+content/05a.Comparativa FNA industria.md:52:busca
+content/05a.Comparativa FNA industria.md:52:búsqueda
+content/05a.Comparativa FNA industria.md:52:categoría
+content/05a.Comparativa FNA industria.md:52:comparativo
+content/05a.Comparativa FNA industria.md:52:documentación
+content/05a.Comparativa FNA industria.md:52:el
+content/05a.Comparativa FNA industria.md:52:el
+content/05a.Comparativa FNA industria.md:52:el
+content/05a.Comparativa FNA industria.md:52:entre
+content/05a.Comparativa FNA industria.md:52:Esta
+content/05a.Comparativa FNA industria.md:52:establecer
+content/05a.Comparativa FNA industria.md:52:FNA
+content/05a.Comparativa FNA industria.md:52:gestión
+content/05a.Comparativa FNA industria.md:52:Herramientas
+content/05a.Comparativa FNA industria.md:52:industria
+content/05a.Comparativa FNA industria.md:52:manejo
+content/05a.Comparativa FNA industria.md:52:manejo
+content/05a.Comparativa FNA industria.md:52:portafolio
+content/05a.Comparativa FNA industria.md:52:prácticas
+content/05a.Comparativa FNA industria.md:52:registro
+content/05a.Comparativa FNA industria.md:52:relacionadas
+content/05a.Comparativa FNA industria.md:52:relacionadas
+content/05a.Comparativa FNA industria.md:52:servicios
+content/05a.Comparativa FNA industria.md:52:su
+content/05a.Comparativa FNA industria.md:52:su
+content/05a.Comparativa FNA industria.md:54:Financiero
+content/05a.Comparativa FNA industria.md:54:Prácticas
+content/05a.Comparativa FNA industria.md:55:el
+content/05a.Comparativa FNA industria.md:55:Herramientas
+content/05a.Comparativa FNA industria.md:55:manejo
+content/05a.Comparativa FNA industria.md:55:portafolio
+content/05a.Comparativa FNA industria.md:55:servicios
+content/05a.Comparativa FNA industria.md:56:Gobierno
+content/05a.Comparativa FNA industria.md:56:portafolio
+content/05a.Comparativa FNA industria.md:56:servicios
+content/05a.Comparativa FNA industria.md:58:Comparativa
+content/05a.Comparativa FNA industria.md:58:FNA
+content/05a.Comparativa FNA industria.md:62:Gobierno
+content/05a.Comparativa FNA industria.md:62:SOA
+content/05a.Comparativa FNA industria.md:64:Descripción
+content/05a.Comparativa FNA industria.md:65:allá
+content/05a.Comparativa FNA industria.md:65:arquitectura
+content/05a.Comparativa FNA industria.md:65:asociados
+content/05a.Comparativa FNA industria.md:65:busca
+content/05a.Comparativa FNA industria.md:65:categoría
+content/05a.Comparativa FNA industria.md:65:categoría
+content/05a.Comparativa FNA industria.md:65:comparar
+content/05a.Comparativa FNA industria.md:65:criterios
+content/05a.Comparativa FNA industria.md:65:dirección
+content/05a.Comparativa FNA industria.md:65:directa
+content/05a.Comparativa FNA industria.md:65:el
+content/05a.Comparativa FNA industria.md:65:el
+content/05a.Comparativa FNA industria.md:65:el
+content/05a.Comparativa FNA industria.md:65:esta
+content/05a.Comparativa FNA industria.md:65:Esta
+content/05a.Comparativa FNA industria.md:65:establecen
+content/05a.Comparativa FNA industria.md:65:Este
+content/05a.Comparativa FNA industria.md:65:FNA
+content/05a.Comparativa FNA industria.md:65:forma
+content/05a.Comparativa FNA industria.md:65:gobierno
+content/05a.Comparativa FNA industria.md:65:guías
+content/05a.Comparativa FNA industria.md:65:mejores
+content/05a.Comparativa FNA industria.md:65:organización
+content/05a.Comparativa FNA industria.md:65:pero
+content/05a.Comparativa FNA industria.md:65:políticas
+content/05a.Comparativa FNA industria.md:65:portafolio
+content/05a.Comparativa FNA industria.md:65:prácticas
+content/05a.Comparativa FNA industria.md:65:procedimientos
+content/05a.Comparativa FNA industria.md:65:punto
+content/05a.Comparativa FNA industria.md:65:relaciona
+content/05a.Comparativa FNA industria.md:65:servicios
+content/05a.Comparativa FNA industria.md:65:servicios
+content/05a.Comparativa FNA industria.md:65:SOA
+content/05a.Comparativa FNA industria.md:67:el
+content/05a.Comparativa FNA industria.md:67:Mejores
+content/05a.Comparativa FNA industria.md:67:prácticas
+content/05a.Comparativa FNA industria.md:68:arquitectura
+content/05a.Comparativa FNA industria.md:68:Comité
+content/05a.Comparativa FNA industria.md:69:lineamientos
+content/05a.Comparativa FNA industria.md:69:Políticas
+content/05a.Comparativa FNA industria.md:70:Arquitectura
+content/05a.Comparativa FNA industria.md:70:referencia
+content/05a.Comparativa FNA industria.md:71:decisión
+content/05a.Comparativa FNA industria.md:71:Toma
+content/05a.Comparativa FNA industria.md:72:Priorización
+content/05a.Comparativa FNA industria.md:72:servicios
+content/05a.Comparativa FNA industria.md:74:Comparativa
+content/05a.Comparativa FNA industria.md:74:FNA
+content/05a.Comparativa FNA industria.md:78:Estrategia
+content/05a.Comparativa FNA industria.md:78:Versionamiento
+content/05a.Comparativa FNA industria.md:80:Descripción
+content/05a.Comparativa FNA industria.md:81:busca
+content/05a.Comparativa FNA industria.md:81:categoría
+content/05a.Comparativa FNA industria.md:81:el
+content/05a.Comparativa FNA industria.md:81:Esta
+content/05a.Comparativa FNA industria.md:81:establecer
+content/05a.Comparativa FNA industria.md:81:herramientas
+content/05a.Comparativa FNA industria.md:81:manejo
+content/05a.Comparativa FNA industria.md:81:mecanismos
+content/05a.Comparativa FNA industria.md:81:mejores
+content/05a.Comparativa FNA industria.md:81:prácticas
+content/05a.Comparativa FNA industria.md:81:relacionadas
+content/05a.Comparativa FNA industria.md:81:servicios
+content/05a.Comparativa FNA industria.md:81:versiones
+content/05a.Comparativa FNA industria.md:85:Financiero
+content/05a.Comparativa FNA industria.md:85:Prácticas
+content/05a.Comparativa FNA industria.md:87:cambio
+content/05a.Comparativa FNA industria.md:87:gestión
+content/05a.Comparativa FNA industria.md:87:Manejo
+content/05a.Comparativa FNA industria.md:88:documentación
+content/05a.Comparativa FNA industria.md:88:gestión
+content/05a.Comparativa FNA industria.md:88:Herramientas
+content/05a.Comparativa FNA industria.md:88:servicios
+content/05a.Comparativa FNA industria.md:88:versiones
+content/05a.Comparativa FNA industria.md:89:Documentación
+content/05a.Comparativa FNA industria.md:89:servicios
+content/05a.Comparativa FNA industria.md:89:sus
+content/05a.Comparativa FNA industria.md:89:versiones
+content/05a.Comparativa FNA industria.md:93:Comparativa
+content/05a.Comparativa FNA industria.md:93:FNA
+content/05a.Comparativa FNA industria.md:97:Monitoreo
+content/05a.Comparativa FNA industria.md:97:Operación
+content/05a.Comparativa FNA industria.md:99:Descripción
+content/05a.Comparativa FNA industria.md:100:analiza
+content/05a.Comparativa FNA industria.md:100:categoría
+content/05a.Comparativa FNA industria.md:100:diferentes
+content/05a.Comparativa FNA industria.md:100:el
+content/05a.Comparativa FNA industria.md:100:Esta
+content/05a.Comparativa FNA industria.md:100:herramientas
+content/05a.Comparativa FNA industria.md:100:mecanismos
+content/05a.Comparativa FNA industria.md:100:mejores
+content/05a.Comparativa FNA industria.md:100:monitoreo
+content/05a.Comparativa FNA industria.md:100:operación
+content/05a.Comparativa FNA industria.md:100:operación
+content/05a.Comparativa FNA industria.md:100:prácticas
+content/05a.Comparativa FNA industria.md:100:relacionadas
+content/05a.Comparativa FNA industria.md:100:servicios
+content/05a.Comparativa FNA industria.md:102:Financiero
+content/05a.Comparativa FNA industria.md:102:Prácticas
+content/05a.Comparativa FNA industria.md:103:despliegue
+content/05a.Comparativa FNA industria.md:103:el
+content/05a.Comparativa FNA industria.md:103:gestionar
+content/05a.Comparativa FNA industria.md:103:Herramientas
+content/05a.Comparativa FNA industria.md:103:operación
+content/05a.Comparativa FNA industria.md:103:servicios
+content/05a.Comparativa FNA industria.md:103:utilizadas
+content/05a.Comparativa FNA industria.md:104:alarmas
+content/05a.Comparativa FNA industria.md:104:gestión
+content/05a.Comparativa FNA industria.md:104:Herramientas
+content/05a.Comparativa FNA industria.md:104:monitoreo
+content/05a.Comparativa FNA industria.md:104:notificaciones
+content/05a.Comparativa FNA industria.md:104:operación
+content/05a.Comparativa FNA industria.md:106:Comparativa
+content/05a.Comparativa FNA industria.md:106:FNA
+content/05a.Comparativa FNA industria.md:110:Evolución
+content/05a.Comparativa FNA industria.md:110:Mantenimiento
+content/05a.Comparativa FNA industria.md:112:Descripción
+content/05a.Comparativa FNA industria.md:113:analiza
+content/05a.Comparativa FNA industria.md:113:capacidad
+content/05a.Comparativa FNA industria.md:113:categoría
+content/05a.Comparativa FNA industria.md:113:corregir
+content/05a.Comparativa FNA industria.md:113:decir
+content/05a.Comparativa FNA industria.md:113:el
+content/05a.Comparativa FNA industria.md:113:Esta
+content/05a.Comparativa FNA industria.md:113:estrategias
+content/05a.Comparativa FNA industria.md:113:evolución
+content/05a.Comparativa FNA industria.md:113:evolucionar
+content/05a.Comparativa FNA industria.md:113:favorecer
+content/05a.Comparativa FNA industria.md:113:mantener
+content/05a.Comparativa FNA industria.md:113:mantenimiento
+content/05a.Comparativa FNA industria.md:113:mejorar
+content/05a.Comparativa FNA industria.md:113:organización
+content/05a.Comparativa FNA industria.md:113:organizacón
+content/05a.Comparativa FNA industria.md:113:poder
+content/05a.Comparativa FNA industria.md:113:recomendadas
+content/05a.Comparativa FNA industria.md:113:servicios
+content/05a.Comparativa FNA industria.md:113:servicios
+content/05a.Comparativa FNA industria.md:115:Financiero
+content/05a.Comparativa FNA industria.md:115:Prácticas
+content/05a.Comparativa FNA industria.md:116:cambio
+content/05a.Comparativa FNA industria.md:116:Gestión
+content/05a.Comparativa FNA industria.md:117:cambio
+content/05a.Comparativa FNA industria.md:117:Manejo
+content/05a.Comparativa FNA industria.md:117:solicitudes
+content/05a.Comparativa FNA industria.md:118:cambios
+content/05a.Comparativa FNA industria.md:118:Gestión
+content/05a.Comparativa FNA industria.md:118:prioridades
+content/05a.Comparativa FNA industria.md:119:defectos
+content/05a.Comparativa FNA industria.md:119:Gestión
+content/05a.Comparativa FNA industria.md:119:inconformidades
+content/05a.Comparativa FNA industria.md:121:Comparativa
+content/05a.Comparativa FNA industria.md:121:FNA
+content/05a.Comparativa FNA industria.md:125:Nuevas
+content/05a.Comparativa FNA industria.md:125:tecnologías
+content/05a.Comparativa FNA industria.md:127:Descripción
+content/05a.Comparativa FNA industria.md:128:adopción
+content/05a.Comparativa FNA industria.md:128:analizan
+content/05a.Comparativa FNA industria.md:128:así
+content/05a.Comparativa FNA industria.md:128:asociadas
+content/05a.Comparativa FNA industria.md:128:categoria
+content/05a.Comparativa FNA industria.md:128:comparadas
+content/05a.Comparativa FNA industria.md:128:dichas
+content/05a.Comparativa FNA industria.md:128:esta
+content/05a.Comparativa FNA industria.md:128:FNA
+content/05a.Comparativa FNA industria.md:128:industria
+content/05a.Comparativa FNA industria.md:128:nuevas
+content/05a.Comparativa FNA industria.md:128:políticas
+content/05a.Comparativa FNA industria.md:128:prácticas
+content/05a.Comparativa FNA industria.md:128:relacionados
+content/05a.Comparativa FNA industria.md:128:renovación
+content/05a.Comparativa FNA industria.md:128:servicios
+content/05a.Comparativa FNA industria.md:128:tecnologías
+content/05a.Comparativa FNA industria.md:128:tecnologías
+content/05a.Comparativa FNA industria.md:128:temas
+content/05a.Comparativa FNA industria.md:128:vigilancia
+content/05a.Comparativa FNA industria.md:130:Financiero
+content/05a.Comparativa FNA industria.md:130:Prácticas
+content/05a.Comparativa FNA industria.md:132:Políticas
+content/05a.Comparativa FNA industria.md:132:vigilancia
+content/05a.Comparativa FNA industria.md:133:experimentación
+content/05a.Comparativa FNA industria.md:133:Laboratorios
+content/05a.Comparativa FNA industria.md:133:nuevas
+content/05a.Comparativa FNA industria.md:133:tecnologías
+content/05a.Comparativa FNA industria.md:134:Capacitación
+content/05a.Comparativa FNA industria.md:134:entrenamiento
+content/05a.Comparativa FNA industria.md:135:adopción
+content/05a.Comparativa FNA industria.md:135:migracións
+content/05a.Comparativa FNA industria.md:135:programado
+content/05a.Comparativa FNA industria.md:137:Comparativa
+content/05a.Comparativa FNA industria.md:137:FNA
+content/05.Fase 2 PR5 Comparativa FNA industria.md:1:Estado
+content/05.Fase 2 PR5 Comparativa FNA industria.md:1:Fase
+content/05.Fase 2 PR5 Comparativa FNA industria.md:1:SOA
+content/05.Fase 2 PR5 Comparativa FNA industria.md:2:Contenido
+content/05.Fase 2 PR5 Comparativa FNA industria.md:2:Contractuales
+content/05.Fase 2 PR5 Comparativa FNA industria.md:2:Productos
+content/05.Fase 2 PR5 Comparativa FNA industria.md:6:Comparativa
+content/05.Fase 2 PR5 Comparativa FNA industria.md:6:el
+content/05.Fase 2 PR5 Comparativa FNA industria.md:6:FNA
+content/05.Fase 2 PR5 Comparativa FNA industria.md:6:industria
+content/05.Fase 2 PR5 Comparativa FNA industria.md:6:Producto
+content/05.Fase 2 PR5 Comparativa FNA industria.md:7:cómo
+content/05.Fase 2 PR5 Comparativa FNA industria.md:7:comparar
+content/05.Fase 2 PR5 Comparativa FNA industria.md:7:Describir
+content/05.Fase 2 PR5 Comparativa FNA industria.md:7:el
+content/05.Fase 2 PR5 Comparativa FNA industria.md:7:empresas
+content/05.Fase 2 PR5 Comparativa FNA industria.md:7:enfrentan
+content/05.Fase 2 PR5 Comparativa FNA industria.md:7:flexibilidad
+content/05.Fase 2 PR5 Comparativa FNA industria.md:7:Fondo
+content/05.Fase 2 PR5 Comparativa FNA industria.md:7:independencia
+content/05.Fase 2 PR5 Comparativa FNA industria.md:7:industria
+content/05.Fase 2 PR5 Comparativa FNA industria.md:7:manera
+content/05.Fase 2 PR5 Comparativa FNA industria.md:7:negocio
+content/05.Fase 2 PR5 Comparativa FNA industria.md:7:otros
+content/05.Fase 2 PR5 Comparativa FNA industria.md:7:proveedor
+content/05.Fase 2 PR5 Comparativa FNA industria.md:7:retos
+content/05.Fase 2 PR5 Comparativa FNA industria.md:7:sectores
+content/05.Fase 2 PR5 Comparativa FNA industria.md:7:segmento
+content/05.Fase 2 PR5 Comparativa FNA industria.md:7:SOA
+content/05.Fase 2 PR5 Comparativa FNA industria.md:7:tecnológico
+content/05.Fase 2 PR5 Comparativa FNA industria.md:9:análisis
+content/05.Fase 2 PR5 Comparativa FNA industria.md:9:aplicaciones
+content/05.Fase 2 PR5 Comparativa FNA industria.md:9:dependencia
+content/05.Fase 2 PR5 Comparativa FNA industria.md:9:el
+content/05.Fase 2 PR5 Comparativa FNA industria.md:9:este
+content/05.Fase 2 PR5 Comparativa FNA industria.md:9:Nota
+content/05.Fase 2 PR5 Comparativa FNA industria.md:9:objetivos
+content/05.Fase 2 PR5 Comparativa FNA industria.md:9:producto
+content/05.Fase 2 PR5 Comparativa FNA industria.md:9:proveedor
+content/05.Fase 2 PR5 Comparativa FNA industria.md:9:provienen
+content/05.Fase 2 PR5 Comparativa FNA industria.md:9:proyecto
+content/05.Fase 2 PR5 Comparativa FNA industria.md:9:SOA
+content/05.Fase 2 PR5 Comparativa FNA industria.md:9:SOA
+content/05.Fase 2 PR5 Comparativa FNA industria.md:9:tiempo
+content/05.Fase 2 PR5 Comparativa FNA industria.md:9:únicamente
+content/05.Fase 2 PR5 Comparativa FNA industria.md:13:Justificación
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:aplicables
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:comparativa
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:esta
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:Fondo
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:Fondo
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:futuras
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:gobierno
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:guía
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:hallazgos
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:hoja
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:industria
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:información
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:iniciativas
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:mejora
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:pertenecientes
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:procesos
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:procesos
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:productos
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:proveerá
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:puede
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:ruta
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:ser
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:SOA
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:SOA
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:sus
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:tanto
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:traducida
+content/05.Fase 2 PR5 Comparativa FNA industria.md:14:vez
+content/05.Fase 2 PR5 Comparativa FNA industria.md:16:Contenidos
+content/05.Fase 2 PR5 Comparativa FNA industria.md:17:Arquitectura
+content/05.Fase 2 PR5 Comparativa FNA industria.md:17:SOA
+content/05.Fase 2 PR5 Comparativa FNA industria.md:18:Portafolio
+content/05.Fase 2 PR5 Comparativa FNA industria.md:18:servicios
+content/05.Fase 2 PR5 Comparativa FNA industria.md:19:Gobierno
+content/05.Fase 2 PR5 Comparativa FNA industria.md:19:SOA
+content/05.Fase 2 PR5 Comparativa FNA industria.md:20:servicios
+content/05.Fase 2 PR5 Comparativa FNA industria.md:20:Versionamiento
+content/05.Fase 2 PR5 Comparativa FNA industria.md:21:Monitoreo
+content/05.Fase 2 PR5 Comparativa FNA industria.md:21:operación
+content/05.Fase 2 PR5 Comparativa FNA industria.md:21:SOA
+content/05.Fase 2 PR5 Comparativa FNA industria.md:22:evolución
+content/05.Fase 2 PR5 Comparativa FNA industria.md:22:Mantenimiento
+content/05.Fase 2 PR5 Comparativa FNA industria.md:22:servicios
+content/05.Fase 2 PR5 Comparativa FNA industria.md:23:Nuevas
+content/05.Fase 2 PR5 Comparativa FNA industria.md:23:tecnologías
+content/05.Fase 2 PR5 Comparativa FNA industria.md:27:Aceptación
+content/05.Fase 2 PR5 Comparativa FNA industria.md:27:Criterios
+content/05.Fase 2 PR5 Comparativa FNA industria.md:29:el
+content/05.Fase 2 PR5 Comparativa FNA industria.md:29:FNA
+content/05.Fase 2 PR5 Comparativa FNA industria.md:29:iniciativas
+content/05.Fase 2 PR5 Comparativa FNA industria.md:29:Lista
+content/05.Fase 2 PR5 Comparativa FNA industria.md:29:oportunidades
+content/05.Fase 2 PR5 Comparativa FNA industria.md:29:por
+content/05.Fase 2 PR5 Comparativa FNA industria.md:29:ralizables
+content/05.Fase 2 PR5 Comparativa FNA industria.md:30:arquitectura
+content/05.Fase 2 PR5 Comparativa FNA industria.md:30:capacidades
+content/05.Fase 2 PR5 Comparativa FNA industria.md:30:Fondo
+content/05.Fase 2 PR5 Comparativa FNA industria.md:30:Mejoras
+content/05.Fase 2 PR5 Comparativa FNA industria.md:30:SOA
+content/05.Fase 2 PR5 Comparativa FNA industria.md:30:visibles
+content/06.Fase 2 PR6 Gobierno SOA.md:1:Fase
+content/06.Fase 2 PR6 Gobierno SOA.md:1:Objetivo
+content/06.Fase 2 PR6 Gobierno SOA.md:1:SOA
+content/06.Fase 2 PR6 Gobierno SOA.md:2:Contenido
+content/06.Fase 2 PR6 Gobierno SOA.md:2:Contractuales
+content/06.Fase 2 PR6 Gobierno SOA.md:2:Productos
+content/06.Fase 2 PR6 Gobierno SOA.md:4:Gobierno
+content/06.Fase 2 PR6 Gobierno SOA.md:4:Producto
+content/06.Fase 2 PR6 Gobierno SOA.md:4:SOA
+content/06.Fase 2 PR6 Gobierno SOA.md:5:aplicación
+content/06.Fase 2 PR6 Gobierno SOA.md:5:áreas
+content/06.Fase 2 PR6 Gobierno SOA.md:5:asistir
+content/06.Fase 2 PR6 Gobierno SOA.md:5:crédito
+content/06.Fase 2 PR6 Gobierno SOA.md:5:debe
+content/06.Fase 2 PR6 Gobierno SOA.md:5:diagnóstico
+content/06.Fase 2 PR6 Gobierno SOA.md:5:diseño
+content/06.Fase 2 PR6 Gobierno SOA.md:5:ejecución
+content/06.Fase 2 PR6 Gobierno SOA.md:5:el
+content/06.Fase 2 PR6 Gobierno SOA.md:5:el
+content/06.Fase 2 PR6 Gobierno SOA.md:5:el
+content/06.Fase 2 PR6 Gobierno SOA.md:5:El
+content/06.Fase 2 PR6 Gobierno SOA.md:5:El
+content/06.Fase 2 PR6 Gobierno SOA.md:5:encargado
+content/06.Fase 2 PR6 Gobierno SOA.md:5:entre
+content/06.Fase 2 PR6 Gobierno SOA.md:5:estándar
+content/06.Fase 2 PR6 Gobierno SOA.md:5:FNA
+content/06.Fase 2 PR6 Gobierno SOA.md:5:FNA
+content/06.Fase 2 PR6 Gobierno SOA.md:5:Fondo
+content/06.Fase 2 PR6 Gobierno SOA.md:5:gobierno
+content/06.Fase 2 PR6 Gobierno SOA.md:5:gobierno
+content/06.Fase 2 PR6 Gobierno SOA.md:5:implementación
+content/06.Fase 2 PR6 Gobierno SOA.md:5:implementación
+content/06.Fase 2 PR6 Gobierno SOA.md:5:incluidas
+content/06.Fase 2 PR6 Gobierno SOA.md:5:marcha
+content/06.Fase 2 PR6 Gobierno SOA.md:5:modelo
+content/06.Fase 2 PR6 Gobierno SOA.md:5:negocio
+content/06.Fase 2 PR6 Gobierno SOA.md:5:observación
+content/06.Fase 2 PR6 Gobierno SOA.md:5:operaciones
+content/06.Fase 2 PR6 Gobierno SOA.md:5:presente
+content/06.Fase 2 PR6 Gobierno SOA.md:5:puesta
+content/06.Fase 2 PR6 Gobierno SOA.md:5:régimen
+content/06.Fase 2 PR6 Gobierno SOA.md:5:relaciones
+content/06.Fase 2 PR6 Gobierno SOA.md:5:segmento
+content/06.Fase 2 PR6 Gobierno SOA.md:5:SOA
+content/06.Fase 2 PR6 Gobierno SOA.md:5:SOA
+content/06.Fase 2 PR6 Gobierno SOA.md:5:SOA
+content/06.Fase 2 PR6 Gobierno SOA.md:5:SOA
+content/06.Fase 2 PR6 Gobierno SOA.md:5:soluciones
+content/06.Fase 2 PR6 Gobierno SOA.md:5:soluciones
+content/06.Fase 2 PR6 Gobierno SOA.md:5:vicepresidencia
+content/06.Fase 2 PR6 Gobierno SOA.md:5:vicepresidencia
+content/06.Fase 2 PR6 Gobierno SOA.md:5:vigilar
+content/06.Fase 2 PR6 Gobierno SOA.md:7:análisis
+content/06.Fase 2 PR6 Gobierno SOA.md:7:aplicaciones
+content/06.Fase 2 PR6 Gobierno SOA.md:7:cumplir
+content/06.Fase 2 PR6 Gobierno SOA.md:7:dependencia
+content/06.Fase 2 PR6 Gobierno SOA.md:7:dirigidos
+content/06.Fase 2 PR6 Gobierno SOA.md:7:están
+content/06.Fase 2 PR6 Gobierno SOA.md:7:este
+content/06.Fase 2 PR6 Gobierno SOA.md:7:Nota
+content/06.Fase 2 PR6 Gobierno SOA.md:7:objetivos
+content/06.Fase 2 PR6 Gobierno SOA.md:7:producto
+content/06.Fase 2 PR6 Gobierno SOA.md:7:proveedor
+content/06.Fase 2 PR6 Gobierno SOA.md:7:proyecto
+content/06.Fase 2 PR6 Gobierno SOA.md:7:SOA
+content/06.Fase 2 PR6 Gobierno SOA.md:7:SOA
+content/06.Fase 2 PR6 Gobierno SOA.md:7:tiempo
+content/06.Fase 2 PR6 Gobierno SOA.md:11:Justificación
+content/06.Fase 2 PR6 Gobierno SOA.md:12:alineación
+content/06.Fase 2 PR6 Gobierno SOA.md:12:alineación
+content/06.Fase 2 PR6 Gobierno SOA.md:12:aumentar
+content/06.Fase 2 PR6 Gobierno SOA.md:12:beneficios
+content/06.Fase 2 PR6 Gobierno SOA.md:12:brechas
+content/06.Fase 2 PR6 Gobierno SOA.md:12:brechas
+content/06.Fase 2 PR6 Gobierno SOA.md:12:cierre
+content/06.Fase 2 PR6 Gobierno SOA.md:12:debe
+content/06.Fase 2 PR6 Gobierno SOA.md:12:demostrar
+content/06.Fase 2 PR6 Gobierno SOA.md:12:diagnóstico
+content/06.Fase 2 PR6 Gobierno SOA.md:12:disciplina
+content/06.Fase 2 PR6 Gobierno SOA.md:12:eficacia
+content/06.Fase 2 PR6 Gobierno SOA.md:12:el
+content/06.Fase 2 PR6 Gobierno SOA.md:12:el
+content/06.Fase 2 PR6 Gobierno SOA.md:12:el
+content/06.Fase 2 PR6 Gobierno SOA.md:12:el
+content/06.Fase 2 PR6 Gobierno SOA.md:12:el
+content/06.Fase 2 PR6 Gobierno SOA.md:12:el
+content/06.Fase 2 PR6 Gobierno SOA.md:12:El
+content/06.Fase 2 PR6 Gobierno SOA.md:12:El
+content/06.Fase 2 PR6 Gobierno SOA.md:12:este
+content/06.Fase 2 PR6 Gobierno SOA.md:12:FNA
+content/06.Fase 2 PR6 Gobierno SOA.md:12:FNA
+content/06.Fase 2 PR6 Gobierno SOA.md:12:FNA
+content/06.Fase 2 PR6 Gobierno SOA.md:12:Fondo
+content/06.Fase 2 PR6 Gobierno SOA.md:12:frente
+content/06.Fase 2 PR6 Gobierno SOA.md:12:funciona
+content/06.Fase 2 PR6 Gobierno SOA.md:12:futuros
+content/06.Fase 2 PR6 Gobierno SOA.md:12:gobierno
+content/06.Fase 2 PR6 Gobierno SOA.md:12:gobierno
+content/06.Fase 2 PR6 Gobierno SOA.md:12:gobierno
+content/06.Fase 2 PR6 Gobierno SOA.md:12:hacer
+content/06.Fase 2 PR6 Gobierno SOA.md:12:implementar
+content/06.Fase 2 PR6 Gobierno SOA.md:12:inciativas
+content/06.Fase 2 PR6 Gobierno SOA.md:12:inversión
+content/06.Fase 2 PR6 Gobierno SOA.md:12:madurez
+content/06.Fase 2 PR6 Gobierno SOA.md:12:mirada
+content/06.Fase 2 PR6 Gobierno SOA.md:12:modelo
+content/06.Fase 2 PR6 Gobierno SOA.md:12:negocio
+content/06.Fase 2 PR6 Gobierno SOA.md:12:negocio
+content/06.Fase 2 PR6 Gobierno SOA.md:12:nivel
+content/06.Fase 2 PR6 Gobierno SOA.md:12:operativos
+content/06.Fase 2 PR6 Gobierno SOA.md:12:Pero
+content/06.Fase 2 PR6 Gobierno SOA.md:12:por
+content/06.Fase 2 PR6 Gobierno SOA.md:12:por
+content/06.Fase 2 PR6 Gobierno SOA.md:12:Por
+content/06.Fase 2 PR6 Gobierno SOA.md:12:Portafolio
+content/06.Fase 2 PR6 Gobierno SOA.md:12:principales
+content/06.Fase 2 PR6 Gobierno SOA.md:12:razones
+content/06.Fase 2 PR6 Gobierno SOA.md:12:retos
+content/06.Fase 2 PR6 Gobierno SOA.md:12:riesgos
+content/06.Fase 2 PR6 Gobierno SOA.md:12:segmento
+content/06.Fase 2 PR6 Gobierno SOA.md:12:seleccionado
+content/06.Fase 2 PR6 Gobierno SOA.md:12:SOA
+content/06.Fase 2 PR6 Gobierno SOA.md:12:SOA
+content/06.Fase 2 PR6 Gobierno SOA.md:12:SOA
+content/06.Fase 2 PR6 Gobierno SOA.md:12:SOA
+content/06.Fase 2 PR6 Gobierno SOA.md:12:también
+content/06.Fase 2 PR6 Gobierno SOA.md:12:tanto
+content/06.Fase 2 PR6 Gobierno SOA.md:12:tecnología
+content/06.Fase 2 PR6 Gobierno SOA.md:12:todo
+content/06.Fase 2 PR6 Gobierno SOA.md:12:último
+content/06.Fase 2 PR6 Gobierno SOA.md:12:una
+content/06.Fase 2 PR6 Gobierno SOA.md:12:una
+content/06.Fase 2 PR6 Gobierno SOA.md:12:una
+content/06.Fase 2 PR6 Gobierno SOA.md:12:única
+content/06.Fase 2 PR6 Gobierno SOA.md:12:Ver
+content/06.Fase 2 PR6 Gobierno SOA.md:14:Contenidos
+content/06.Fase 2 PR6 Gobierno SOA.md:15:capacidades
+content/06.Fase 2 PR6 Gobierno SOA.md:15:Definición
+content/06.Fase 2 PR6 Gobierno SOA.md:15:gobierno
+content/06.Fase 2 PR6 Gobierno SOA.md:15:objetivos
+content/06.Fase 2 PR6 Gobierno SOA.md:15:SOA
+content/06.Fase 2 PR6 Gobierno SOA.md:16:arquitectura
+content/06.Fase 2 PR6 Gobierno SOA.md:16:Equilibrio
+content/06.Fase 2 PR6 Gobierno SOA.md:16:procesos
+content/06.Fase 2 PR6 Gobierno SOA.md:16:SOA
+content/06.Fase 2 PR6 Gobierno SOA.md:17:efectividad
+content/06.Fase 2 PR6 Gobierno SOA.md:17:factibilidad
+content/06.Fase 2 PR6 Gobierno SOA.md:17:SOA
+content/06.Fase 2 PR6 Gobierno SOA.md:17:Supervisión
+content/06.Fase 2 PR6 Gobierno SOA.md:18:efectividad
+content/06.Fase 2 PR6 Gobierno SOA.md:18:índices
+content/06.Fase 2 PR6 Gobierno SOA.md:18:índices
+content/06.Fase 2 PR6 Gobierno SOA.md:18:madurez
+content/06.Fase 2 PR6 Gobierno SOA.md:18:Mejora
+content/06.Fase 2 PR6 Gobierno SOA.md:18:SOA
+content/06.Fase 2 PR6 Gobierno SOA.md:19:Consideraciones
+content/06.Fase 2 PR6 Gobierno SOA.md:19:el
+content/06.Fase 2 PR6 Gobierno SOA.md:19:fna
+content/06.Fase 2 PR6 Gobierno SOA.md:19:gobierno
+content/06.Fase 2 PR6 Gobierno SOA.md:19:marcha
+content/06.Fase 2 PR6 Gobierno SOA.md:19:puesta
+content/06.Fase 2 PR6 Gobierno SOA.md:19:SOA
+content/06.Fase 2 PR6 Gobierno SOA.md:23:Aceptación
+content/06.Fase 2 PR6 Gobierno SOA.md:23:Criterios
+content/06.Fase 2 PR6 Gobierno SOA.md:25:capacidades
+content/06.Fase 2 PR6 Gobierno SOA.md:25:el
+content/06.Fase 2 PR6 Gobierno SOA.md:25:Fondo
+content/06.Fase 2 PR6 Gobierno SOA.md:25:gobierno
+content/06.Fase 2 PR6 Gobierno SOA.md:25:Objetivos
+content/06.Fase 2 PR6 Gobierno SOA.md:25:SOA
+content/06.Fase 2 PR6 Gobierno SOA.md:26:efectividad
+content/06.Fase 2 PR6 Gobierno SOA.md:26:Índices
+content/06.Fase 2 PR6 Gobierno SOA.md:26:Índices
+content/06.Fase 2 PR6 Gobierno SOA.md:26:madurez
+content/06.Fase 2 PR6 Gobierno SOA.md:26:SOA
+content/07a. Vigilancia avances de la industria.md:1:Avances
+content/07a. Vigilancia avances de la industria.md:1:Estrategia
+content/07a. Vigilancia avances de la industria.md:1:identificación
+content/07a. Vigilancia avances de la industria.md:1:Industria
+content/07a. Vigilancia avances de la industria.md:1:modelado
+content/07a. Vigilancia avances de la industria.md:1:servicios
+content/07a. Vigilancia avances de la industria.md:1:Tema
+content/07a. Vigilancia avances de la industria.md:1:Vigilancia
+content/07a. Vigilancia avances de la industria.md:3:Avances
+content/07a. Vigilancia avances de la industria.md:3:clave
+content/07a. Vigilancia avances de la industria.md:3:Palabras
+content/07a. Vigilancia avances de la industria.md:3:SOA
+content/07a. Vigilancia avances de la industria.md:3:Tecnologías
+content/07a. Vigilancia avances de la industria.md:3:Vigilancia
+content/07a. Vigilancia avances de la industria.md:4:Autor
+content/07a. Vigilancia avances de la industria.md:5:Fuente
+content/07a. Vigilancia avances de la industria.md:6:Hijo
+content/07a. Vigilancia avances de la industria.md:6:Secuencia
+content/07a. Vigilancia avances de la industria.md:7:FNA
+content/07a. Vigilancia avances de la industria.md:7:Segmento
+content/07a. Vigilancia avances de la industria.md:7:SOA
+content/07a. Vigilancia avances de la industria.md:7:Vínculos
+content/07a. Vigilancia avances de la industria.md:11:Estrategia
+content/07a. Vigilancia avances de la industria.md:11:identificación
+content/07a. Vigilancia avances de la industria.md:11:modelado
+content/07a. Vigilancia avances de la industria.md:11:servicios
+content/07a. Vigilancia avances de la industria.md:14:arquitecturas
+content/07a. Vigilancia avances de la industria.md:14:búsqueda
+content/07a. Vigilancia avances de la industria.md:14:diseño
+content/07a. Vigilancia avances de la industria.md:14:estrategias
+content/07a. Vigilancia avances de la industria.md:14:facilidad
+content/07a. Vigilancia avances de la industria.md:14:mantenimiento
+content/07a. Vigilancia avances de la industria.md:14:microservicios
+content/07a. Vigilancia avances de la industria.md:14:orientadas
+content/07a. Vigilancia avances de la industria.md:14:por
+content/07a. Vigilancia avances de la industria.md:14:principales
+content/07a. Vigilancia avances de la industria.md:14:reemplazar
+content/07a. Vigilancia avances de la industria.md:14:reutilización
+content/07a. Vigilancia avances de la industria.md:14:servicios
+content/07a. Vigilancia avances de la industria.md:14:servicios
+content/07a. Vigilancia avances de la industria.md:14:Una
+content/07a. Vigilancia avances de la industria.md:16:afectar
+content/07a. Vigilancia avances de la industria.md:16:algo
+content/07a. Vigilancia avances de la industria.md:16:aplicaciones
+content/07a. Vigilancia avances de la industria.md:16:bastante
+content/07a. Vigilancia avances de la industria.md:16:bien
+content/07a. Vigilancia avances de la industria.md:16:cambio
+content/07a. Vigilancia avances de la industria.md:16:canónicos
+content/07a. Vigilancia avances de la industria.md:16:casos
+content/07a. Vigilancia avances de la industria.md:16:desbalance
+content/07a. Vigilancia avances de la industria.md:16:diferentes
+content/07a. Vigilancia avances de la industria.md:16:diferentes
+content/07a. Vigilancia avances de la industria.md:16:diferentes
+content/07a. Vigilancia avances de la industria.md:16:El
+content/07a. Vigilancia avances de la industria.md:16:específicos
+content/07a. Vigilancia avances de la industria.md:16:esta
+content/07a. Vigilancia avances de la industria.md:16:esto
+content/07a. Vigilancia avances de la industria.md:16:facilidad
+content/07a. Vigilancia avances de la industria.md:16:formatos
+content/07a. Vigilancia avances de la industria.md:16:implica
+content/07a. Vigilancia avances de la industria.md:16:implica
+content/07a. Vigilancia avances de la industria.md:16:implicaba
+content/07a. Vigilancia avances de la industria.md:16:manejan
+content/07a. Vigilancia avances de la industria.md:16:modificación
+content/07a. Vigilancia avances de la industria.md:16:necesidades
+content/07a. Vigilancia avances de la industria.md:16:negocio
+content/07a. Vigilancia avances de la industria.md:16:negocio
+content/07a. Vigilancia avances de la industria.md:16:negocio
+content/07a. Vigilancia avances de la industria.md:16:negocio
+content/07a. Vigilancia avances de la industria.md:16:normalmente
+content/07a. Vigilancia avances de la industria.md:16:ojetivo
+content/07a. Vigilancia avances de la industria.md:16:organización
+content/07a. Vigilancia avances de la industria.md:16:organizacionales
+content/07a. Vigilancia avances de la industria.md:16:particulares
+content/07a. Vigilancia avances de la industria.md:16:por
+content/07a. Vigilancia avances de la industria.md:16:principio
+content/07a. Vigilancia avances de la industria.md:16:procesos
+content/07a. Vigilancia avances de la industria.md:16:propender
+content/07a. Vigilancia avances de la industria.md:16:pueda
+content/07a. Vigilancia avances de la industria.md:16:puedan
+content/07a. Vigilancia avances de la industria.md:16:puntuales
+content/07a. Vigilancia avances de la industria.md:16:regla
+content/07a. Vigilancia avances de la industria.md:16:reglas
+content/07a. Vigilancia avances de la industria.md:16:reutilización
+content/07a. Vigilancia avances de la industria.md:16:reutilizados
+content/07a. Vigilancia avances de la industria.md:16:ser
+content/07a. Vigilancia avances de la industria.md:16:servicio
+content/07a. Vigilancia avances de la industria.md:16:servicio
+content/07a. Vigilancia avances de la industria.md:16:servicio
+content/07a. Vigilancia avances de la industria.md:16:servicios
+content/07a. Vigilancia avances de la industria.md:16:servicios
+content/07a. Vigilancia avances de la industria.md:16:SOA
+content/07a. Vigilancia avances de la industria.md:16:solucionar
+content/07a. Vigilancia avances de la industria.md:16:solucionar
+content/07a. Vigilancia avances de la industria.md:16:tienen
+content/07a. Vigilancia avances de la industria.md:16:toda
+content/07a. Vigilancia avances de la industria.md:16:todos
+content/07a. Vigilancia avances de la industria.md:16:una
+content/07a. Vigilancia avances de la industria.md:16:unidades
+content/07a. Vigilancia avances de la industria.md:16:unidades
+content/07a. Vigilancia avances de la industria.md:16:usualmente
+content/07a. Vigilancia avances de la industria.md:16:usuarios
+content/07a. Vigilancia avances de la industria.md:16:veía
+content/07a. Vigilancia avances de la industria.md:16:versionamiento
+content/07a. Vigilancia avances de la industria.md:18:actualmente
+content/07a. Vigilancia avances de la industria.md:18:así
+content/07a. Vigilancia avances de la industria.md:18:busca
+content/07a. Vigilancia avances de la industria.md:18:DDD
+content/07a. Vigilancia avances de la industria.md:18:dedicados
+content/07a. Vigilancia avances de la industria.md:18:diferente
+content/07a. Vigilancia avances de la industria.md:18:dominio
+content/07a. Vigilancia avances de la industria.md:18:esta
+content/07a. Vigilancia avances de la industria.md:18:está
+content/07a. Vigilancia avances de la industria.md:18:estrategias
+content/07a. Vigilancia avances de la industria.md:18:modelar
+content/07a. Vigilancia avances de la industria.md:18:partir
+content/07a. Vigilancia avances de la industria.md:18:propuesta
+content/07a. Vigilancia avances de la industria.md:18:propuesta
+content/07a. Vigilancia avances de la industria.md:18:reutilizados
+content/07a. Vigilancia avances de la industria.md:18:servicios
+content/07a. Vigilancia avances de la industria.md:18:servicios
+content/07a. Vigilancia avances de la industria.md:18:tener
+content/07a. Vigilancia avances de la industria.md:18:Una
+content/07a. Vigilancia avances de la industria.md:18:utilizando
+content/07a. Vigilancia avances de la industria.md:20:alineación
+content/07a. Vigilancia avances de la industria.md:20:busca
+content/07a. Vigilancia avances de la industria.md:20:comenzando
+content/07a. Vigilancia avances de la industria.md:20:DDD
+content/07a. Vigilancia avances de la industria.md:20:dominios
+content/07a. Vigilancia avances de la industria.md:20:elemento
+content/07a. Vigilancia avances de la industria.md:20:entre
+content/07a. Vigilancia avances de la industria.md:20:estrategia
+content/07a. Vigilancia avances de la industria.md:20:negocio
+content/07a. Vigilancia avances de la industria.md:20:negocio
+content/07a. Vigilancia avances de la industria.md:20:negocio
+content/07a. Vigilancia avances de la industria.md:20:organización
+content/07a. Vigilancia avances de la industria.md:20:por
+content/07a. Vigilancia avances de la industria.md:20:reconoce
+content/07a. Vigilancia avances de la industria.md:20:servicios
+content/07a. Vigilancia avances de la industria.md:20:subdominios
+content/07a. Vigilancia avances de la industria.md:20:subdominios
+content/07a. Vigilancia avances de la industria.md:20:tecnología
+content/07a. Vigilancia avances de la industria.md:20:tener
+content/07a. Vigilancia avances de la industria.md:20:una
+content/07a. Vigilancia avances de la industria.md:25:Ilustración
+content/07a. Vigilancia avances de la industria.md:25:Imagen
+content/07a. Vigilancia avances de la industria.md:27:elaboración
+content/07a. Vigilancia avances de la industria.md:27:propia
+content/07a. Vigilancia avances de la industria.md:31:clasificados
+content/07a. Vigilancia avances de la industria.md:31:El
+content/07a. Vigilancia avances de la industria.md:31:generales
+content/07a. Vigilancia avances de la industria.md:31:generales
+content/07a. Vigilancia avances de la industria.md:31:misional
+content/07a. Vigilancia avances de la industria.md:31:negocio
+content/07a. Vigilancia avances de la industria.md:31:organización
+content/07a. Vigilancia avances de la industria.md:31:organizaciones
+content/07a. Vigilancia avances de la industria.md:31:orientados
+content/07a. Vigilancia avances de la industria.md:31:pueden
+content/07a. Vigilancia avances de la industria.md:31:representa
+content/07a. Vigilancia avances de la industria.md:31:representan
+content/07a. Vigilancia avances de la industria.md:31:ser
+content/07a. Vigilancia avances de la industria.md:31:servicios
+content/07a. Vigilancia avances de la industria.md:31:soporte
+content/07a. Vigilancia avances de la industria.md:31:Soporte
+content/07a. Vigilancia avances de la industria.md:31:subdominio
+content/07a. Vigilancia avances de la industria.md:31:subdominios
+content/07a. Vigilancia avances de la industria.md:31:subdominios
+content/07a. Vigilancia avances de la industria.md:31:transversales
+content/07a. Vigilancia avances de la industria.md:31:unidades
+content/07a. Vigilancia avances de la industria.md:35:Ilustración
+content/07a. Vigilancia avances de la industria.md:35:Imagen
+content/07a. Vigilancia avances de la industria.md:37:elaboración
+content/07a. Vigilancia avances de la industria.md:37:propia
+content/07a. Vigilancia avances de la industria.md:41:acotados
+content/07a. Vigilancia avances de la industria.md:41:acotados
+content/07a. Vigilancia avances de la industria.md:41:agrupaciones
+content/07a. Vigilancia avances de la industria.md:41:asociadas
+content/07a. Vigilancia avances de la industria.md:41:contexto
+content/07a. Vigilancia avances de la industria.md:41:contexto
+content/07a. Vigilancia avances de la industria.md:41:entre
+content/07a. Vigilancia avances de la industria.md:41:hace
+content/07a. Vigilancia avances de la industria.md:41:identifican
+content/07a. Vigilancia avances de la industria.md:41:llamados
+content/07a. Vigilancia avances de la industria.md:41:organización
+content/07a. Vigilancia avances de la industria.md:41:organización
+content/07a. Vigilancia avances de la industria.md:41:pueden
+content/07a. Vigilancia avances de la industria.md:41:relación
+content/07a. Vigilancia avances de la industria.md:41:servicios
+content/07a. Vigilancia avances de la industria.md:41:subdominio
+content/07a. Vigilancia avances de la industria.md:41:subdominios
+content/07a. Vigilancia avances de la industria.md:41:subdominios
+content/07a. Vigilancia avances de la industria.md:41:una
+content/07a. Vigilancia avances de la industria.md:41:Una
+content/07a. Vigilancia avances de la industria.md:41:vez
+content/07a. Vigilancia avances de la industria.md:43:acotados
+content/07a. Vigilancia avances de la industria.md:43:agrupaciones
+content/07a. Vigilancia avances de la industria.md:43:asociadas
+content/07a. Vigilancia avances de la industria.md:43:asociados
+content/07a. Vigilancia avances de la industria.md:43:concepto
+content/07a. Vigilancia avances de la industria.md:43:contextos
+content/07a. Vigilancia avances de la industria.md:43:decir
+content/07a. Vigilancia avances de la industria.md:43:el
+content/07a. Vigilancia avances de la industria.md:43:mismo
+content/07a. Vigilancia avances de la industria.md:43:negocio
+content/07a. Vigilancia avances de la industria.md:43:negocio
+content/07a. Vigilancia avances de la industria.md:43:pero
+content/07a. Vigilancia avances de la industria.md:43:posible
+content/07a. Vigilancia avances de la industria.md:43:represente
+content/07a. Vigilancia avances de la industria.md:43:separadas
+content/07a. Vigilancia avances de la industria.md:43:servicios
+content/07a. Vigilancia avances de la industria.md:43:subdominio
+content/07a. Vigilancia avances de la industria.md:43:subdominio
+content/07a. Vigilancia avances de la industria.md:43:tenga
+content/07a. Vigilancia avances de la industria.md:43:varios
+content/07a. Vigilancia avances de la industria.md:47:Ilustración
+content/07a. Vigilancia avances de la industria.md:47:Imagen
+content/07a. Vigilancia avances de la industria.md:49:elaboración
+content/07a. Vigilancia avances de la industria.md:49:propia
+content/07a. Vigilancia avances de la industria.md:53:acotado
+content/07a. Vigilancia avances de la industria.md:53:acotados
+content/07a. Vigilancia avances de la industria.md:53:característica
+content/07a. Vigilancia avances de la industria.md:53:cliente
+content/07a. Vigilancia avances de la industria.md:53:conceptos
+content/07a. Vigilancia avances de la industria.md:53:contexto
+content/07a. Vigilancia avances de la industria.md:53:contextos
+content/07a. Vigilancia avances de la industria.md:53:decir
+content/07a. Vigilancia avances de la industria.md:53:diferentes
+content/07a. Vigilancia avances de la industria.md:53:diferentes
+content/07a. Vigilancia avances de la industria.md:53:el
+content/07a. Vigilancia avances de la industria.md:53:Esto
+content/07a. Vigilancia avances de la industria.md:53:lenguaje
+content/07a. Vigilancia avances de la industria.md:53:producto
+content/07a. Vigilancia avances de la industria.md:53:pueden
+content/07a. Vigilancia avances de la industria.md:53:quiere
+content/07a. Vigilancia avances de la industria.md:53:servicio
+content/07a. Vigilancia avances de la industria.md:53:significados
+content/07a. Vigilancia avances de la industria.md:53:tener
+content/07a. Vigilancia avances de la industria.md:53:ubicuo
+content/07a. Vigilancia avances de la industria.md:53:Una
+content/07a. Vigilancia avances de la industria.md:55:acotadas
+content/07a. Vigilancia avances de la industria.md:55:busque
+content/07a. Vigilancia avances de la industria.md:55:cada
+content/07a. Vigilancia avances de la industria.md:55:cliente
+content/07a. Vigilancia avances de la industria.md:55:Cliente
+content/07a. Vigilancia avances de la industria.md:55:contexto
+content/07a. Vigilancia avances de la industria.md:55:diferentes
+content/07a. Vigilancia avances de la industria.md:55:ejemplo
+content/07a. Vigilancia avances de la industria.md:55:encapsular
+content/07a. Vigilancia avances de la industria.md:55:Esto
+content/07a. Vigilancia avances de la industria.md:55:existan
+content/07a. Vigilancia avances de la industria.md:55:funcionalidades
+content/07a. Vigilancia avances de la industria.md:55:gana
+content/07a. Vigilancia avances de la industria.md:55:hace
+content/07a. Vigilancia avances de la industria.md:55:hace
+content/07a. Vigilancia avances de la industria.md:55:mantenimiento
+content/07a. Vigilancia avances de la industria.md:55:más
+content/07a. Vigilancia avances de la industria.md:55:negocio
+content/07a. Vigilancia avances de la industria.md:55:organización
+content/07a. Vigilancia avances de la industria.md:55:pequeñas
+content/07a. Vigilancia avances de la industria.md:55:pero
+content/07a. Vigilancia avances de la industria.md:55:pierda
+content/07a. Vigilancia avances de la industria.md:55:por
+content/07a. Vigilancia avances de la industria.md:55:posibles
+content/07a. Vigilancia avances de la industria.md:55:reglas
+content/07a. Vigilancia avances de la industria.md:55:reutilización
+content/07a. Vigilancia avances de la industria.md:55:servicio
+content/07a. Vigilancia avances de la industria.md:55:servicios
+content/07a. Vigilancia avances de la industria.md:55:sino
+content/07a. Vigilancia avances de la industria.md:55:solución
+content/07a. Vigilancia avances de la industria.md:55:todas
+content/07a. Vigilancia avances de la industria.md:59:Ilustración
+content/07a. Vigilancia avances de la industria.md:59:Imagen
+content/07a. Vigilancia avances de la industria.md:61:elaboración
+content/07a. Vigilancia avances de la industria.md:61:propia
+content/07a. Vigilancia avances de la industria.md:65:acotados
+content/07a. Vigilancia avances de la industria.md:65:agrupaciones
+content/07a. Vigilancia avances de la industria.md:65:contextos
+content/07a. Vigilancia avances de la industria.md:65:denomina
+content/07a. Vigilancia avances de la industria.md:65:diseño
+content/07a. Vigilancia avances de la industria.md:65:diseño
+content/07a. Vigilancia avances de la industria.md:65:el
+content/07a. Vigilancia avances de la industria.md:65:El
+content/07a. Vigilancia avances de la industria.md:65:estratégico
+content/07a. Vigilancia avances de la industria.md:65:estratégico
+content/07a. Vigilancia avances de la industria.md:65:explicado
+content/07a. Vigilancia avances de la industria.md:65:identifica
+content/07a. Vigilancia avances de la industria.md:65:identificación
+content/07a. Vigilancia avances de la industria.md:65:lenguajes
+content/07a. Vigilancia avances de la industria.md:65:proceso
+content/07a. Vigilancia avances de la industria.md:65:servicios
+content/07a. Vigilancia avances de la industria.md:65:sus
+content/07a. Vigilancia avances de la industria.md:65:ubicuos
+content/07a. Vigilancia avances de la industria.md:67:agregado
+content/07a. Vigilancia avances de la industria.md:67:agregados
+content/07a. Vigilancia avances de la industria.md:67:agregados
+content/07a. Vigilancia avances de la industria.md:67:componentes
+content/07a. Vigilancia avances de la industria.md:67:decir
+content/07a. Vigilancia avances de la industria.md:67:denominados
+content/07a. Vigilancia avances de la industria.md:67:diseño
+content/07a. Vigilancia avances de la industria.md:67:esta
+content/07a. Vigilancia avances de la industria.md:67:fase
+content/07a. Vigilancia avances de la industria.md:67:fase
+content/07a. Vigilancia avances de la industria.md:67:identifican
+content/07a. Vigilancia avances de la industria.md:67:implementación
+content/07a. Vigilancia avances de la industria.md:67:más
+content/07a. Vigilancia avances de la industria.md:67:pequeños
+content/07a. Vigilancia avances de la industria.md:67:pueden
+content/07a. Vigilancia avances de la industria.md:67:servicio
+content/07a. Vigilancia avances de la industria.md:67:servicios
+content/07a. Vigilancia avances de la industria.md:67:siguiente
+content/07a. Vigilancia avances de la industria.md:67:SOA
+content/07a. Vigilancia avances de la industria.md:67:táctico
+content/07a. Vigilancia avances de la industria.md:67:unidades
+content/07a. Vigilancia avances de la industria.md:67:usualmente
+content/07a. Vigilancia avances de la industria.md:67:ver
+content/07a. Vigilancia avances de la industria.md:71:Ilustración
+content/07a. Vigilancia avances de la industria.md:71:Imagen
+content/07a. Vigilancia avances de la industria.md:73:elaboración
+content/07a. Vigilancia avances de la industria.md:73:propia
+content/07a. Vigilancia avances de la industria.md:77:agregados
+content/07a. Vigilancia avances de la industria.md:77:conformando
+content/07a. Vigilancia avances de la industria.md:77:conjunto
+content/07a. Vigilancia avances de la industria.md:77:el
+content/07a. Vigilancia avances de la industria.md:77:El
+content/07a. Vigilancia avances de la industria.md:77:irán
+content/07a. Vigilancia avances de la industria.md:77:organización
+content/07a. Vigilancia avances de la industria.md:77:portafolio
+content/07a. Vigilancia avances de la industria.md:77:servicios
+content/07a. Vigilancia avances de la industria.md:81:Ilustración
+content/07a. Vigilancia avances de la industria.md:81:Imagen
+content/07a. Vigilancia avances de la industria.md:83:elaboración
+content/07a. Vigilancia avances de la industria.md:83:propia
+content/07a. Vigilancia avances de la industria.md:87:elemento
+content/07a. Vigilancia avances de la industria.md:87:forma
+content/07a. Vigilancia avances de la industria.md:87:identificador
+content/07a. Vigilancia avances de la industria.md:87:Modela
+content/07a. Vigilancia avances de la industria.md:87:Tiene
+content/07a. Vigilancia avances de la industria.md:87:único
+content/07a. Vigilancia avances de la industria.md:88:concepto
+content/07a. Vigilancia avances de la industria.md:88:cual
+content/07a. Vigilancia avances de la industria.md:88:cuantificar
+content/07a. Vigilancia avances de la industria.md:88:describir
+content/07a. Vigilancia avances de la industria.md:88:el
+content/07a. Vigilancia avances de la industria.md:88:identificador
+content/07a. Vigilancia avances de la industria.md:88:inmmutable
+content/07a. Vigilancia avances de la industria.md:88:medir
+content/07a. Vigilancia avances de la industria.md:88:Modela
+content/07a. Vigilancia avances de la industria.md:88:tiene
+content/07a. Vigilancia avances de la industria.md:88:único
+content/07a. Vigilancia avances de la industria.md:88:Usualmente
+content/07a. Vigilancia avances de la industria.md:89:agregación
+content/07a. Vigilancia avances de la industria.md:89:agregación
+content/07a. Vigilancia avances de la industria.md:89:contiene
+content/07a. Vigilancia avances de la industria.md:89:el
+content/07a. Vigilancia avances de la industria.md:89:el
+content/07a. Vigilancia avances de la industria.md:89:elementos
+content/07a. Vigilancia avances de la industria.md:89:entidades
+content/07a. Vigilancia avances de la industria.md:89:entrada
+content/07a. Vigilancia avances de la industria.md:89:nombre
+content/07a. Vigilancia avances de la industria.md:89:otros
+content/07a. Vigilancia avances de la industria.md:89:punto
+content/07a. Vigilancia avances de la industria.md:89:todos
+content/07a. Vigilancia avances de la industria.md:89:único
+content/07a. Vigilancia avances de la industria.md:93:Ilustración
+content/07a. Vigilancia avances de la industria.md:93:Imagen
+content/07a. Vigilancia avances de la industria.md:95:elaboración
+content/07a. Vigilancia avances de la industria.md:95:propia
+content/07a. Vigilancia avances de la industria.md:99:cada
+content/07a. Vigilancia avances de la industria.md:99:consistentes
+content/07a. Vigilancia avances de la industria.md:99:forma
+content/07a. Vigilancia avances de la industria.md:99:frontera
+content/07a. Vigilancia avances de la industria.md:99:partes
+content/07a. Vigilancia avances de la industria.md:99:Por
+content/07a. Vigilancia avances de la industria.md:99:todo
+content/07a. Vigilancia avances de la industria.md:99:transaccional
+content/07a. Vigilancia avances de la industria.md:99:último
+content/07a. Vigilancia avances de la industria.md:99:una
+content/07a. Vigilancia avances de la industria.md:101:dentro
+content/07a. Vigilancia avances de la industria.md:101:innvariantes
+content/07a. Vigilancia avances de la industria.md:101:negocio
+content/07a. Vigilancia avances de la industria.md:101:protegen
+content/07a. Vigilancia avances de la industria.md:102:diseñar
+content/07a. Vigilancia avances de la industria.md:102:pequeños
+content/07a. Vigilancia avances de la industria.md:102:por
+content/07a. Vigilancia avances de la industria.md:102:Propender
+content/07a. Vigilancia avances de la industria.md:103:identificador
+content/07a. Vigilancia avances de la industria.md:103:otros
+content/07a. Vigilancia avances de la industria.md:103:por
+content/07a. Vigilancia avances de la industria.md:103:referencian
+content/07a. Vigilancia avances de la industria.md:103:su
+content/07a. Vigilancia avances de la industria.md:104:actualizan
+content/07a. Vigilancia avances de la industria.md:104:consistencia
+content/07a. Vigilancia avances de la industria.md:104:mediante
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:1:Fase
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:1:Objetivo
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:1:SOA
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:2:Contenido
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:2:Contractuales
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:2:Productos
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:4:Producto
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:4:SOA
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:4:Tecnológica
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:4:Vigilancia
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:5:Ahorro
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:5:aplicables
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:5:Describir
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:5:diseño
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:5:FNA
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:5:Fondo
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:5:gestión
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:5:implementación
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:5:justificar
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:5:Nacional
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:5:selección
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:5:servicios
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:5:SOA
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:5:técnicas
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:5:tecnologías
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:7:análisis
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:7:aplicaciones
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:7:cumplir
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:7:dependencia
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:7:dirigidos
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:7:están
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:7:este
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:7:Nota
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:7:objetivos
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:7:producto
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:7:proveedor
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:7:proyecto
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:7:SOA
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:7:SOA
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:7:tiempo
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:11:Justificación
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:12:avances
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:12:desarrollo
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:12:el
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:12:el
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:12:FNA
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:12:Identificar
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:12:impulsen
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:12:iniciativas
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:12:propuestas
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:12:SOA
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:12:SOA
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:12:solución
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:14:Contenidos
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:15:afines
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:15:Fondo
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:15:Lista
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:15:SOA
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:15:tecnologías
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:16:beneficios
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:16:FNA
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:16:Lista
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:16:por
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:16:seleccionadas
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:16:tecnologías
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:17:adopción
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:17:adquisición
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:17:Implicaciones
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:17:tecnológica
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:21:Aceptación
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:21:Criterios
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:23:alineación
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:23:Evaluación
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:23:Identificación
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:23:objetivos
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:23:proyecto
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:23:SOA
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:23:tecnología
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:24:arquitectura
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:24:candidata
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:24:Presentación
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:24:SOA
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:24:una
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:24:versión
+content/08.Fase 2 PR8 Arquitectura de Solución.md:1:Fase
+content/08.Fase 2 PR8 Arquitectura de Solución.md:1:Objetivo
+content/08.Fase 2 PR8 Arquitectura de Solución.md:1:SOA
+content/08.Fase 2 PR8 Arquitectura de Solución.md:2:Contenido
+content/08.Fase 2 PR8 Arquitectura de Solución.md:2:Contractuales
+content/08.Fase 2 PR8 Arquitectura de Solución.md:2:Productos
+content/08.Fase 2 PR8 Arquitectura de Solución.md:4:Arquitectura
+content/08.Fase 2 PR8 Arquitectura de Solución.md:4:Candidata
+content/08.Fase 2 PR8 Arquitectura de Solución.md:4:FNA
+content/08.Fase 2 PR8 Arquitectura de Solución.md:4:Producto
+content/08.Fase 2 PR8 Arquitectura de Solución.md:4:SOA
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:análisis
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:análisis
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:análisis
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:arquitectura
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:arquitectura
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:arquitectura
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:candidata
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:candidata
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:capacidades
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:comparativa
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:continuación
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:desarrollada
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:diagnóstico
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:edición
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:el
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:el
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:el
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:el
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:el
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:empresa
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:Esta
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:estilos
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:Fase
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:FNA
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:FNA
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:Fondo
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:fortalecimiento
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:industria
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:madurez
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:negocio
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:nueva
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:planear
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:presente
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:previos
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:principalmente
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:recoge
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:referencia
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:segmento
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:situación
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:SOA
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:SOA
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:SOA
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:SOA
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:SOA
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:SOA
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:tecnológica
+content/08.Fase 2 PR8 Arquitectura de Solución.md:5:vigilancia
+content/08.Fase 2 PR8 Arquitectura de Solución.md:7:análisis
+content/08.Fase 2 PR8 Arquitectura de Solución.md:7:aplicaciones
+content/08.Fase 2 PR8 Arquitectura de Solución.md:7:cumplir
+content/08.Fase 2 PR8 Arquitectura de Solución.md:7:dependencia
+content/08.Fase 2 PR8 Arquitectura de Solución.md:7:dirigidos
+content/08.Fase 2 PR8 Arquitectura de Solución.md:7:están
+content/08.Fase 2 PR8 Arquitectura de Solución.md:7:este
+content/08.Fase 2 PR8 Arquitectura de Solución.md:7:Nota
+content/08.Fase 2 PR8 Arquitectura de Solución.md:7:objetivos
+content/08.Fase 2 PR8 Arquitectura de Solución.md:7:producto
+content/08.Fase 2 PR8 Arquitectura de Solución.md:7:proveedor
+content/08.Fase 2 PR8 Arquitectura de Solución.md:7:proyecto
+content/08.Fase 2 PR8 Arquitectura de Solución.md:7:SOA
+content/08.Fase 2 PR8 Arquitectura de Solución.md:7:SOA
+content/08.Fase 2 PR8 Arquitectura de Solución.md:7:tiempo
+content/08.Fase 2 PR8 Arquitectura de Solución.md:11:Justificación
+content/08.Fase 2 PR8 Arquitectura de Solución.md:12:arquitectura
+content/08.Fase 2 PR8 Arquitectura de Solución.md:12:brecha
+content/08.Fase 2 PR8 Arquitectura de Solución.md:12:cambios
+content/08.Fase 2 PR8 Arquitectura de Solución.md:12:candidata
+content/08.Fase 2 PR8 Arquitectura de Solución.md:12:cierre
+content/08.Fase 2 PR8 Arquitectura de Solución.md:12:Fase
+content/08.Fase 2 PR8 Arquitectura de Solución.md:12:FNA
+content/08.Fase 2 PR8 Arquitectura de Solución.md:12:Fondo
+content/08.Fase 2 PR8 Arquitectura de Solución.md:12:planeación
+content/08.Fase 2 PR8 Arquitectura de Solución.md:12:sirve
+content/08.Fase 2 PR8 Arquitectura de Solución.md:12:situación
+content/08.Fase 2 PR8 Arquitectura de Solución.md:12:SOA
+content/08.Fase 2 PR8 Arquitectura de Solución.md:12:SOA
+content/08.Fase 2 PR8 Arquitectura de Solución.md:12:ver
+content/08.Fase 2 PR8 Arquitectura de Solución.md:14:Contenidos
+content/08.Fase 2 PR8 Arquitectura de Solución.md:15:Arquitectura
+content/08.Fase 2 PR8 Arquitectura de Solución.md:15:FNA
+content/08.Fase 2 PR8 Arquitectura de Solución.md:15:referencia
+content/08.Fase 2 PR8 Arquitectura de Solución.md:15:SOA
+content/08.Fase 2 PR8 Arquitectura de Solución.md:15:versión
+content/08.Fase 2 PR8 Arquitectura de Solución.md:16:adaptabilidad
+content/08.Fase 2 PR8 Arquitectura de Solución.md:16:arquitectura
+content/08.Fase 2 PR8 Arquitectura de Solución.md:16:Consideraciones
+content/08.Fase 2 PR8 Arquitectura de Solución.md:16:gobierno
+content/08.Fase 2 PR8 Arquitectura de Solución.md:17:Administración
+content/08.Fase 2 PR8 Arquitectura de Solución.md:17:arquitectura
+content/08.Fase 2 PR8 Arquitectura de Solución.md:17:evolución
+content/08.Fase 2 PR8 Arquitectura de Solución.md:17:mantenimiento
+content/08.Fase 2 PR8 Arquitectura de Solución.md:17:requerimientos
+content/08.Fase 2 PR8 Arquitectura de Solución.md:18:arquitectura
+content/08.Fase 2 PR8 Arquitectura de Solución.md:18:candidata
+content/08.Fase 2 PR8 Arquitectura de Solución.md:18:evaluación
+content/08.Fase 2 PR8 Arquitectura de Solución.md:18:FNA
+content/08.Fase 2 PR8 Arquitectura de Solución.md:18:funcionales
+content/08.Fase 2 PR8 Arquitectura de Solución.md:18:Procedimientos
+content/08.Fase 2 PR8 Arquitectura de Solución.md:18:req
+content/08.Fase 2 PR8 Arquitectura de Solución.md:22:Aceptación
+content/08.Fase 2 PR8 Arquitectura de Solución.md:22:Criterios
+content/08.Fase 2 PR8 Arquitectura de Solución.md:24:Arquitectura
+content/08.Fase 2 PR8 Arquitectura de Solución.md:24:FNA
+content/08.Fase 2 PR8 Arquitectura de Solución.md:24:referencia
+content/08.Fase 2 PR8 Arquitectura de Solución.md:24:SOA
+content/08.Fase 2 PR8 Arquitectura de Solución.md:24:versión
+content/08.Fase 2 PR8 Arquitectura de Solución.md:25:Articulación
+content/08.Fase 2 PR8 Arquitectura de Solución.md:25:FNA
+content/08.Fase 2 PR8 Arquitectura de Solución.md:25:gobierno
+content/08.Fase 2 PR8 Arquitectura de Solución.md:25:SOA
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:1:Fase
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:1:Objetivo
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:1:SOA
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:2:Contenido
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:2:Contractuales
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:2:Productos
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:4:Brechas
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:4:Inciativas
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:4:Portafolio
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:4:Producto
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:análisis
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:analizadas
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:analizar
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:brecha
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:brechas
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:brechas
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:cierra
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:cuando
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:definir
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:desarrollo
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:desde
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:diagnóstico
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:ejecutables
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:ejecutadas
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:ejercicio
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:el
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:entre
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:esta
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:está
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:este
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:evolución
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:Fase
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:FNA
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:FNA
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:incluso
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:iniciativas
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:ítems
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:objetivo
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:omitidos
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:origen
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:perspectiva
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:por
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:portafolio
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:portafolio
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:priorizadas
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:proyecto
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:proyectos
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:proyectos
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:resaltar
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:ser
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:situación
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:situación
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:situación
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:SOA
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:SOA
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:SOA
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:técnica
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:todavía
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:última
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:utilizada
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:análisis
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:aplicaciones
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:cumplir
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:dependencia
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:dirigidos
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:están
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:este
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:Nota
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:objetivos
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:producto
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:proveedor
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:proyecto
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:SOA
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:SOA
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:tiempo
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:11:Justificación
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:apegada
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:arquitectura
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:arquitectura
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:Asegurar
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:cambios
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:capacidades
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:continuidad
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:cumplir
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:diagnóstico
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:ejercicio
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:entre
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:este
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:evoluciones
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:FNA
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:Fondo
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:impacto
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:información
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:información
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:negocio
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:objetivos
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:orden
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:procesamiento
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:realiación
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:requeridas
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:Segmento
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:sistemas
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:SOA
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:SOA
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:SOA
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:soporte
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:tecnologías
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:15:Contenidos
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:16:Arquitectura
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:16:candidata
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:16:el
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:16:FNA
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:16:segmento
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:16:segmento
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:16:SOA
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:17:brechas
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:17:FNA
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:17:Matriz
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:17:partes
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:17:segmento
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:18:actualizar
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:18:Bloques
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:18:cambios
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:18:el
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:18:FNA
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:18:ítems
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:18:por
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:18:rediseñar
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:18:retener
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:18:retirar
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:18:segmento
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:19:Análisis
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:19:cambios
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:19:dependencia
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:19:el
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:19:empresa
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:19:entre
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:19:impacto
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:19:segmento
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:20:descriptiva
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:20:el
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:20:Ficha
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:20:FNA
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:20:iniciativas
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:20:justificación
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:20:mejora
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:20:segmento
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:21:hacia
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:21:Hoja
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:21:mejora
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:21:objetivo
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:21:preliminar
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:21:ruta
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:25:Aceptación
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:25:Criterios
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:27:cambios
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:27:el
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:27:eliminados
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:27:FNA
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:27:incluídos
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:27:ítems
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:27:Lista
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:27:mejorar
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:27:nuevos
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:27:por
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:27:segmento
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:28:hacia
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:28:Hoja
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:28:mejora
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:28:objetivo
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:28:preliminar
+content/09a.Fase 2 PR9 Portafolio de iniciativas y brechas.md:28:ruta

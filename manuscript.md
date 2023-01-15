@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-01-10'
+date-meta: '2023-01-15'
 author-meta:
 - Harry Wong
 - Stefanini.com
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-01-10" />
-  <meta name="citation_publication_date" content="2023-01-10" />
-  <meta property="article:published_time" content="2023-01-10" />
-  <meta name="dc.modified" content="2023-01-10T22:02:44+00:00" />
-  <meta property="article:modified_time" content="2023-01-10T22:02:44+00:00" />
+  <meta name="dc.date" content="2023-01-15" />
+  <meta name="citation_publication_date" content="2023-01-15" />
+  <meta property="article:published_time" content="2023-01-15" />
+  <meta name="dc.modified" content="2023-01-15T18:13:21+00:00" />
+  <meta property="article:modified_time" content="2023-01-15T18:13:21+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,15 +39,15 @@ header-includes: |
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <link rel="canonical" href="https://hwong23.github.io/fna-pr6/" />
-  <meta property="og:url" content="https://hwong23.github.io/fna-pr6/" />
-  <meta property="twitter:url" content="https://hwong23.github.io/fna-pr6/" />
-  <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-pr6/" />
-  <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-pr6/manuscript.pdf" />
-  <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-pr6/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-pr6/v/6d2f4391af8912cd8e41d3725b595942748616a9/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-pr6/v/6d2f4391af8912cd8e41d3725b595942748616a9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-pr6/v/6d2f4391af8912cd8e41d3725b595942748616a9/manuscript.pdf" />
+  <link rel="canonical" href="https://hwong23.github.io/fna-devdocs-f2/" />
+  <meta property="og:url" content="https://hwong23.github.io/fna-devdocs-f2/" />
+  <meta property="twitter:url" content="https://hwong23.github.io/fna-devdocs-f2/" />
+  <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
+  <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
+  <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/0799d7260976510cec368bb12a4185db8819ed60/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/0799d7260976510cec368bb12a4185db8819ed60/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/0799d7260976510cec368bb12a4185db8819ed60/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -233,4 +233,231 @@ Capacitación y entrenamiento
 Plan programado de adopción y migracións
 
 ### Comparativa FNA
+
+
+# Fase 2: SOA Objetivo
+# Contenido de los Productos Contractuales, 181-2020
+
+# Producto 6: PR6. Gobierno SOA
+El gobierno SOA es el encargado de vigilar las relaciones entre las áreas de negocio incluidas en el segmento FNA del presente diagnóstico (la vicepresidencia de operaciones y la vicepresidencia de crédito del FNA) y la implementación y diseño de soluciones SOA. El modelo de gobierno SOA para el Fondo debe asistir en la aplicación y ejecución de un régimen (estándar) de implementación, observación y puesta en marcha de soluciones SOA.
+
+**Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto SOA: dependencia de proveedor (OBJ1), fortaleza SOA de las aplicaciones (OBJ2), y tiempo de mercado (OBJ3).
+
+<br>
+
+## Justificación
+El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inciativas y brechas) es una de las principales razones por las que implementar el modelo de gobierno SOA. Pero no es la única. El gobierno también debe demostrar los beneficios de aumentar el nivel de eficacia (madurez) SOA, tanto en el segmento FNA seleccionado por este diagnóstico como a todo el Fondo. Por último, el gobierno SOA funciona como una disciplina para hacer frente a los retos futuros con una mirada en la inversión de tecnología, los riesgos operativos y en la alineación con el negocio del FNA.
+
+## Contenidos
+1. Definición de objetivos y capacidades del gobierno SOA
+1. Equilibrio arquitectura y procesos SOA
+1. Supervisión de efectividad y factibilidad SOA
+1. Mejora de los índices de efectividad (madurez) SOA
+1. Consideraciones para la puesta en marcha del gobierno SOA en el fna
+
+<br>
+
+## Criterios de Aceptación
+
+* Objetivos y capacidades del gobierno SOA para el Fondo
+* Índices de efectividad (madurez) SOA
+
+*** 
+
+
+# Fase 2: SOA Objetivo
+# Contenido de los Productos Contractuales, 181-2020
+
+# Producto 7: PR7. Vigilancia Tecnológica SOA
+Describir y justificar la selección de tecnologías y las técnicas de diseño, implementación y gestión de servicios SOA aplicables al Fondo Nacional del Ahorro (FNA).
+
+**Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto SOA: dependencia de proveedor (OBJ1), fortaleza SOA de las aplicaciones (OBJ2), y tiempo de mercado (OBJ3).
+
+<br>
+
+## Justificación
+Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y propuestas de solución SOA para el FNA.
+
+## Contenidos
+1. Lista tecnologías SOA afines al Fondo
+1. Lista de beneficios al FNA por las tecnologías seleccionadas
+1. Implicaciones para la adquisición y adopción tecnológica
+
+<br>
+
+## Criterios de Aceptación
+
+* Evaluación e Identificación de la tecnología SOA en alineación con los objetivos del proyecto
+* Presentación de una arquitectura SOA candidata versión 1.1
+
+
+*** 
+
+
+|Tema|Vigilancia Avances de Industria: **Estrategia de modelado e identificación de servicios**
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
+|Autor||
+|Fuente||
+|Secuencia|Padre \| Hijo|
+|Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
+
+<br>
+
+# Estrategia de modelado e identificación de servicios 
+
+## Domain-Driven Design
+Una de las principales estrategias de diseño de arquitecturas orientadas a servicios / microservicios, es la de reemplazar la búsqueda de reutilización por la facilidad de mantenimiento de los servicios.
+
+En SOA es usual propender por servicios que puedan ser reutilizados a lo largo de toda la organización y en diferentes aplicaciones.  El ojetivo es que un servicio pueda solucionar necesidades de diferentes unidades organizacionales y diferentes procesos de negocio, esto implica usualmente servicios que manejan formatos canónicos y tienen reglas de negocio bastante particulares para solucionar casos puntuales y específicos de las unidades de negocio.  Si bien en un principio se veía esta reutilización como algo favorable, normalmente implicaba un desbalance con la facilidad de modificación.  Un cambio en una regla de negocio implica un versionamiento del servicio y afectar a todos los usuarios del servicio.
+
+Una propuesta diferente que se está utilizando actualmente es la de modelar los servicios a partir de estrategias como Domain-Driven Design o DDD. En esta propuesta se busca tener servicios dedicados al dominio así no sean reutilizados
+
+DDD reconoce los dominios y subdominios de negocio como elemento fundamental para la estrategia de servicios. Se busca tener una alineación entre negocio y tecnología, comenzando por los subdominios de negocio de la organización.
+
+
+![](images/vigilancia1.png)
+
+[Imagen. ]() Ilustración Domain-Driven Design.
+
+_Fuente: elaboración propia._
+
+<br>
+
+Los subdominios pueden ser clasificados en subdominios Core, Soporte y General. El subdominio Core representa lo misional de la organización, los de soporte, representan servicios generales y transversales a las organizaciones y los generales los orientados a las unidades de negocio no core.
+
+![](images/vigilancia2.png)
+
+[Imagen. ]() Ilustración Domain-Driven Design.
+
+_Fuente: elaboración propia._
+
+<br>
+
+Una vez se identifican los subdominios de la organización se hace una relación entre subdominio y los llamados contexto acotados. Los contexto acotados pueden verse como agrupaciones de servicios asociadas a subdominios de la organización
+
+Es posible que un subdominio de negocio tenga asociados varios contextos acotados, es decir que el subdominio se represente con agrupaciones de servicios separadas pero asociadas a un mismo concepto de negocio.
+
+![](images/vigilancia3.png)
+
+[Imagen. ]() Ilustración Domain-Driven Design.
+
+_Fuente: elaboración propia._
+
+<br>
+
+Una característica de un contexto acotado es el uso de un lenguaje ubicuo.  Esto quiere decir que conceptos como cliente, producto o servicio, pueden tener significados diferentes en diferentes contextos acotados.
+
+Lo anterior hace que ya no se busque encapsular en un solo servicio, por ejemplo cliente, todas las posibles reglas de negocio de la organización, sino que existan diferentes servicios Cliente, con funcionalidades más pequeñas y acotadas, en cada contexto. Esto hace que se pierda la reutilización pero se gana en mantenimiento de la solución.
+
+![](images/vigilancia4.png)
+
+[Imagen. ]() Ilustración Domain-Driven Design.
+
+_Fuente: elaboración propia._
+
+<br>
+
+El proceso de identificación de los contextos acotados y sus lenguajes ubicuos se denomina diseño estratégico. Como se ha explicado, el diseño estratégico identifica agrupaciones de servicios.
+
+La siguiente fase es la del diseño táctico. En esta fase, se identifican componentes más pequeños denominados agregados. Los agregados se pueden ver como las unidades de implementación en SOA, es decir los servicios. Un agregado es usualmente un servicio.
+
+![](images/vigilancia6.png)
+
+[Imagen. ]() Ilustración Domain-Driven Design.
+
+_Fuente: elaboración propia._
+
+<br>
+
+El conjunto de agregados irán conformando el portafolio de servicios de la organización.
+
+![](images/vigilancia7.png)
+
+[Imagen. ]() Ilustración Domain-Driven Design.
+
+_Fuente: elaboración propia._
+
+<br>
+
+* Entity. Modela un elemento de forma individual Tiene un identificador único.
+* Value Objects. Modela un concepto inmmutable, el cual no tiene identificador único. Usualmente se usa para describir, cuantificar o medir un Entity.
+* \<\<root>> Entity. Da el nombre a la agregación y contiene todos los otros elementos (entidades y values). Es el único punto de entrada a la agregación.
+
+![](images/vigilancia8.png)
+
+[Imagen. ]() Ilustración Domain-Driven Design.
+
+_Fuente: elaboración propia._
+
+<br>
+
+Por último, cada Aggregate, forma una frontera transaccional. Al interior todo las partes son consistentes.
+
+1. Las innvariantes de negocio se protegen dentro de un Aggregate
+1. Propender por diseñar Aggregates pequeños
+1. Solo se referencian otros aggregates por su identificador
+1. Los Aggregates se actualizan mediante la consistencia eventual
+
+
+
+# Fase 2: SOA Objetivo
+# Contenido de los Productos Contractuales, 181-2020
+
+# Producto 8: PR8. Arquitectura SOA Candidata para FNA
+La arquitectura SOA candidata para el FNA es la continuación de la referencia SOA desarrollada en la Fase 1 del presente diagnóstico. Esta nueva edición de la arquitectura es la base para planear el fortalecimiento SOA y de las capacidades de negocio del segmento de la empresa FNA. La arquitectura candidata recoge principalmente los análisis previos de situación actual SOA del Fondo, análisis de madurez SOA, el análisis de vigilancia tecnológica y estilos SOA, y el de la comparativa con el sector de la industria. 
+
+**Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto SOA: dependencia de proveedor (OBJ1), fortaleza SOA de las aplicaciones (OBJ2), y tiempo de mercado (OBJ3).
+
+<br>
+
+## Justificación
+La arquitectura SOA candidata del FNA sirve de base para la planeación de cambios de cierre de brecha de la situación actual SOA del Fondo (ver Fase 1).
+
+## Contenidos
+1. Arquitectura de referencia SOA FNA, versión 2.0
+1. Consideraciones para gobierno y adaptabilidad de la arquitectura 2.0
+1. Administración de requerimientos de arquitectura para evolución y mantenimiento
+1. Procedimientos de evaluación de la arquitectura candidata FNA (req. no funcionales)
+
+<br>
+
+## Criterios de Aceptación
+
+* Arquitectura de referencia SOA FNA, versión 2.0
+* Articulación con gobierno SOA del FNA
+
+*** 
+
+
+# Fase 2: SOA Objetivo
+# Contenido de los Productos Contractuales, 181-2020
+
+# Producto 8: PR8a. Portafolio de Inciativas y Brechas
+La técnica del portafolio de brechas es utilizada en el desarrollo de este ejercicio de diagnóstico SOA del FNA para analizar la situación actual SOA (Fase 1 del proyecto) desde la perspectiva de proyectos ejecutables. La idea principal del análisis de brecha es resaltar los proyectos o ítems omitidos, o por definir, entre la situación actual SOA del FNA y la situación objetivo, incluso cuando esta última está todavía en evolución. Lo anterior da origen al portafolio de iniciativas priorizadas que ser ejecutadas cierra las brechas analizadas.
+
+**Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto SOA: dependencia de proveedor (OBJ1), fortaleza SOA de las aplicaciones (OBJ2), y tiempo de mercado (OBJ3).
+
+<br>
+
+## Justificación
+Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](vistadesegmento.md) soporte al procesamiento de información, a los sistemas de información, a las capacidades de negocio, y tecnologías requeridas para cumplir los objetivos de este ejercicio de diagnóstico SOA. Dar continuidad y orden al impacto y realiación de los cambios entre evoluciones de la arquitectura SOA.
+
+
+## Contenidos
+1. Arquitectura SOA candidata para el segmento FNA (vista de segmento)
+1. Matriz de brechas de las partes del segmento FNA
+1. Bloques de cambios para el segmento FNA: ítems por retener, rediseñar, actualizar, retirar
+1. Análisis de impacto y dependencia entre los cambios en el segmento de la empresa
+1. Ficha descriptiva de iniciativas de mejora para el segmento FNA (justificación)
+1. Hoja de ruta preliminar hacia un objetivo de mejora
+
+<br>
+
+## Criterios de Aceptación
+
+* Lista de cambios para el segmento FNA: ítems incluídos, por mejorar, nuevos y eliminados
+* Hoja de ruta preliminar hacia un objetivo de mejora
+
+*** 
 
