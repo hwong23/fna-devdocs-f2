@@ -641,8 +641,6 @@ content/07a. Vigilancia avances de la industria.md:3:Tecnologías
 content/07a. Vigilancia avances de la industria.md:3:Vigilancia
 content/07a. Vigilancia avances de la industria.md:4:Autor
 content/07a. Vigilancia avances de la industria.md:5:Fuente
-content/07a. Vigilancia avances de la industria.md:6:Hijo
-content/07a. Vigilancia avances de la industria.md:6:Secuencia
 content/07a. Vigilancia avances de la industria.md:7:FNA
 content/07a. Vigilancia avances de la industria.md:7:Segmento
 content/07a. Vigilancia avances de la industria.md:7:SOA
