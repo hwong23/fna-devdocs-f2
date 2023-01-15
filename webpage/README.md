@@ -34,5 +34,5 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 
 ## Origen
 
-The manuscripts in this directory were built from
-[`$COMMIT`](https://github.com/$REPO_SLUG/commit/$COMMIT) en $FECHA_COMPILACION.
+Este manuscrito fue construído desde la revisión 
+[`$COMMIT`](https://github.com/$REPO_SLUG/commit/$COMMIT) del $FECHA_COMPILACION.
