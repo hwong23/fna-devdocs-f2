@@ -23,10 +23,12 @@ BUILD_LATEX="${BUILD_LATEX:-false}"
 SPELLCHECK="${SPELLCHECK:-false}"
 MANUBOT_USE_DOCKER="${MANUBOT_USE_DOCKER:-$DOCKER_RUNNING}"
 FECHA_COMPILACION="${COMPILATION_DATE}"
+COMMIT="${TRIGGERING_SHA_7}"
 # Pandoc's configuration is specified via files of option defaults
 # located in the $PANDOC_DATA_DIR/defaults directory.
 PANDOC_DATA_DIR="${PANDOC_DATA_DIR:-build/pandoc}"
-export FECHA_COMPILACION
+
+export FECHA_COMPILACION COMMIT
 
 
 # Generate reference information
