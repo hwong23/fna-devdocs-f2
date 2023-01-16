@@ -29,12 +29,6 @@ COMMIT="${TRIGGERING_SHA_7}"
 PANDOC_DATA_DIR="${PANDOC_DATA_DIR:-build/pandoc}"
 export FECHA_COMPILACION COMMIT
 
-# Add commit hash to the manuscript
-envsubst < output/manuscript.md > output/manuscript.hash
-mv output/manuscript.hash output/manuscript.md
-
-
-
 # Generate reference information
 echo >&2 "Retrieving and processing reference metadata"
 manubot process \
@@ -46,6 +40,10 @@ manubot process \
 
 # Make output directory
 mkdir -p output
+
+# Add commit hash to the manuscript
+envsubst < output/manuscript.md > output/manuscript.hash
+mv output/manuscript.hash output/manuscript.md
 
 # Create HTML output
 # https://pandoc.org/MANUAL.html
