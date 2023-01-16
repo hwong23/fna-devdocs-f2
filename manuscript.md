@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-01-15'
+date-meta: '2023-01-16'
 author-meta:
 - Harry Wong
 - Stefanini.com
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-01-15" />
-  <meta name="citation_publication_date" content="2023-01-15" />
-  <meta property="article:published_time" content="2023-01-15" />
-  <meta name="dc.modified" content="2023-01-15T23:45:37+00:00" />
-  <meta property="article:modified_time" content="2023-01-15T23:45:37+00:00" />
+  <meta name="dc.date" content="2023-01-16" />
+  <meta name="citation_publication_date" content="2023-01-16" />
+  <meta property="article:published_time" content="2023-01-16" />
+  <meta name="dc.modified" content="2023-01-16T01:32:36+00:00" />
+  <meta property="article:modified_time" content="2023-01-16T01:32:36+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/b32a98504f2303a1f86ee7f997a529ed7a5b24de/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/b32a98504f2303a1f86ee7f997a529ed7a5b24de/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/b32a98504f2303a1f86ee7f997a529ed7a5b24de/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/380bdf96c17535e354bfc146185a78e5367a597f/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/380bdf96c17535e354bfc146185a78e5367a597f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/380bdf96c17535e354bfc146185a78e5367a597f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -103,7 +103,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa|
 |Autor||
 |Fuente||
-|Version|$COMMIT del $FECHA_COMPILACION|
+|Version|380bdf9 del 16 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -299,7 +299,7 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|$COMMIT del $FECHA_COMPILACION|
+|Version|380bdf9 del 16 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
