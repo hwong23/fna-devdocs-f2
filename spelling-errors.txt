@@ -21,7 +21,7 @@ algo
 algunas
 alineación
 allá
-Análisis
+análisis
 analiza
 analizadas
 analizan
@@ -43,9 +43,8 @@ asociados
 aspectos
 aumentar
 Autor
-avances
+Avances
 bastante
-bdf
 beneficios
 bien
 Bloques
@@ -86,7 +85,7 @@ concepto
 conceptos
 conformando
 conjunto
-consideraciones
+Consideraciones
 consistencia
 consistentes
 Contenido
@@ -99,7 +98,7 @@ continuidad
 Contractuales
 corregir
 crédito
-criterios
+Criterios
 cual
 cuando
 cuantificar
@@ -123,7 +122,7 @@ depósito
 desarrollada
 desarrollo
 desbalance
-Describir
+describir
 Descripción
 descriptiva
 desde
@@ -139,7 +138,7 @@ dirigidos
 disciplina
 diseñar
 diseño
-documentación
+Documentación
 dominio
 dominios
 edición
@@ -150,7 +149,7 @@ ejecutables
 ejecutadas
 ejemplo
 ejercicio
-el
+El
 elaboración
 elemento
 elementos
@@ -177,9 +176,9 @@ están
 estándar
 Este
 estilos
-esto
+Esto
 estos
-estrategia
+Estrategia
 estrategias
 estratégico
 evaluación
@@ -194,6 +193,7 @@ facilitan
 factibilidad
 Fase
 favorecer
+fdf
 Ficha
 Financiero
 flexibilidad
@@ -215,7 +215,7 @@ gana
 generales
 gestión
 gestionar
-Gobierno
+gobierno
 grupo
 guía
 guías
@@ -224,9 +224,9 @@ hacer
 hacia
 hallazgos
 herramientas
-hoja
+Hoja
 identifica
-identificación
+Identificación
 identificador
 identifican
 Identificar
@@ -269,14 +269,14 @@ manejan
 manejo
 manera
 mantener
-mantenimiento
+Mantenimiento
 marcha
 más
 Matriz
 mecanismos
 mediante
 medir
-Mejora
+mejora
 mejorar
 Mejoras
 Mejores
@@ -291,7 +291,7 @@ modelar
 modelo
 modelos
 modificación
-monitoreo
+Monitoreo
 Nacional
 necesidades
 negocio
@@ -301,7 +301,7 @@ normalmente
 Nota
 notificaciones
 nueva
-Nuevas
+nuevas
 nuevos
 objetivo
 Objetivos
@@ -327,7 +327,7 @@ particulares
 partir
 pequeñas
 pequeños
-pero
+Pero
 perspectiva
 pertenecientes
 pierda
@@ -336,13 +336,13 @@ planear
 poder
 políticas
 Por
-Portafolio
+portafolio
 posible
 posibles
 posteriormente
-prácticas
+Prácticas
 preliminar
-Presentación
+presentación
 presentar
 Presentaremos
 presente
@@ -358,9 +358,9 @@ procesamiento
 proceso
 procesos
 producto
-Productos
+productos
 programado
-propender
+Propender
 propia
 propuesta
 propuestas
@@ -414,7 +414,7 @@ reutilizados
 riesgos
 ruta
 sectores
-Segmento
+segmento
 selección
 seleccionadas
 seleccionado
@@ -447,7 +447,7 @@ tanto
 técnica
 técnicas
 tecnología
-tecnologías
+Tecnologías
 Tecnológica
 tecnológico
 Tema
@@ -455,7 +455,7 @@ temas
 tener
 tenga
 tiempo
-Tiene
+tiene
 tienen
 toda
 todas
@@ -485,7 +485,7 @@ varios
 veía
 Ver
 versión
-Versionamiento
+versionamiento
 versiones
 vez
 vicepresidencia

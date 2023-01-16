@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-16" />
   <meta name="citation_publication_date" content="2023-01-16" />
   <meta property="article:published_time" content="2023-01-16" />
-  <meta name="dc.modified" content="2023-01-16T01:32:36+00:00" />
-  <meta property="article:modified_time" content="2023-01-16T01:32:36+00:00" />
+  <meta name="dc.modified" content="2023-01-16T16:54:51+00:00" />
+  <meta property="article:modified_time" content="2023-01-16T16:54:51+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/380bdf96c17535e354bfc146185a78e5367a597f/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/380bdf96c17535e354bfc146185a78e5367a597f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/380bdf96c17535e354bfc146185a78e5367a597f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/3fdf0377c99d41e3c986add76c3179a673e2ab76/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/3fdf0377c99d41e3c986add76c3179a673e2ab76/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/3fdf0377c99d41e3c986add76c3179a673e2ab76/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -103,7 +103,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa|
 |Autor||
 |Fuente||
-|Version|380bdf9 del 16 Jan 2023|
+|Version|3fdf037 del 16 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -260,7 +260,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 ## Criterios de Aceptación
 
 * Objetivos y capacidades del gobierno SOA para el Fondo
-* Índices de efectividad (madurez) SOA
+* Índices de efectividad (madurez) SOA 1
 
 *** 
 
@@ -299,7 +299,7 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|380bdf9 del 16 Jan 2023|
+|Version|3fdf037 del 16 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
