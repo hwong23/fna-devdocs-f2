@@ -968,14 +968,12 @@ content/06a.Objetivos y capacidades.md:11:contraen
 content/06a.Objetivos y capacidades.md:11:diagnóstico
 content/06a.Objetivos y capacidades.md:11:el
 content/06a.Objetivos y capacidades.md:11:el
-content/06a.Objetivos y capacidades.md:11:entra
 content/06a.Objetivos y capacidades.md:11:entre
 content/06a.Objetivos y capacidades.md:11:Esta
 content/06a.Objetivos y capacidades.md:11:este
 content/06a.Objetivos y capacidades.md:11:esto
 content/06a.Objetivos y capacidades.md:11:Fase
 content/06a.Objetivos y capacidades.md:11:Fase
-content/06a.Objetivos y capacidades.md:11:figura
 content/06a.Objetivos y capacidades.md:11:figura
 content/06a.Objetivos y capacidades.md:11:FNA
 content/06a.Objetivos y capacidades.md:11:Fondo
@@ -992,12 +990,12 @@ content/06a.Objetivos y capacidades.md:11:procesos
 content/06a.Objetivos y capacidades.md:11:Resumen
 content/06a.Objetivos y capacidades.md:11:riesgos
 content/06a.Objetivos y capacidades.md:11:servicios
+content/06a.Objetivos y capacidades.md:11:sirve
 content/06a.Objetivos y capacidades.md:11:SOA
 content/06a.Objetivos y capacidades.md:11:tecnológico
 content/06a.Objetivos y capacidades.md:11:ver
 content/06a.Objetivos y capacidades.md:11:ver
-content/06a.Objetivos y capacidades.md:13:bien
-content/06a.Objetivos y capacidades.md:13:cambio
+content/06a.Objetivos y capacidades.md:13:cambios
 content/06a.Objetivos y capacidades.md:13:causa
 content/06a.Objetivos y capacidades.md:13:complejidad
 content/06a.Objetivos y capacidades.md:13:condición
@@ -1018,6 +1016,7 @@ content/06a.Objetivos y capacidades.md:13:impacto
 content/06a.Objetivos y capacidades.md:13:incrementan
 content/06a.Objetivos y capacidades.md:13:manejo
 content/06a.Objetivos y capacidades.md:13:mayoría
+content/06a.Objetivos y capacidades.md:13:muy
 content/06a.Objetivos y capacidades.md:13:predecir
 content/06a.Objetivos y capacidades.md:13:presente
 content/06a.Objetivos y capacidades.md:13:problemáticas
@@ -1069,6 +1068,7 @@ content/06a.Objetivos y capacidades.md:15:sí
 content/06a.Objetivos y capacidades.md:15:SOA
 content/06a.Objetivos y capacidades.md:15:trazabilidad
 content/06a.Objetivos y capacidades.md:15:ver
+content/06a.Objetivos y capacidades.md:17:Por
 content/06.Fase 2 PR6 Gobierno SOA.md:1:Fase
 content/06.Fase 2 PR6 Gobierno SOA.md:1:Objetivo
 content/06.Fase 2 PR6 Gobierno SOA.md:1:SOA
