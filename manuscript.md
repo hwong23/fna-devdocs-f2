@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-01-26'
+date-meta: '2023-01-27'
 author-meta:
 - Harry Wong
 - Stefanini.com
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-01-26" />
-  <meta name="citation_publication_date" content="2023-01-26" />
-  <meta property="article:published_time" content="2023-01-26" />
-  <meta name="dc.modified" content="2023-01-26T18:52:06+00:00" />
-  <meta property="article:modified_time" content="2023-01-26T18:52:06+00:00" />
+  <meta name="dc.date" content="2023-01-27" />
+  <meta name="citation_publication_date" content="2023-01-27" />
+  <meta property="article:published_time" content="2023-01-27" />
+  <meta name="dc.modified" content="2023-01-27T16:59:24+00:00" />
+  <meta property="article:modified_time" content="2023-01-27T16:59:24+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/15b3d3c3dc45f5d51e88ca5c6f0ee8ab6dd184a4/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/15b3d3c3dc45f5d51e88ca5c6f0ee8ab6dd184a4/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/15b3d3c3dc45f5d51e88ca5c6f0ee8ab6dd184a4/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/a5bcf250422b4aeaaa06b50502f868ec6ad9be61/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/a5bcf250422b4aeaaa06b50502f868ec6ad9be61/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/a5bcf250422b4aeaaa06b50502f868ec6ad9be61/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -96,19 +96,18 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 *** 
 
 
-# Comparación SOA FNA - Sector
-
 |Tema|**Comparación SOA FNA - Sector**
 |----|-------------------------------------------------|
 |Palabras clave|SOA, Situación actual, Comparativa|
 |Autor||
 |Fuente||
-|Version|15b3d3c del 26 Jan 2023|
+|Version|a5bcf25 del 27 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
 
-Para presentar este análisis comparativo se han selecionado algunas dimensiones que facilitan la presentación de la comparación en categorías. 
+# Comparación SOA FNA - Sector
+Para presentar este análisis comparativo hemos selecionado algunas dimensiones que facilitan la presentación de la comparación en categorías. 
 
 Los aspectos a tener en cuenta en la comparativa serán:
 
@@ -265,6 +264,18 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 *** 
 
 
+|Tema|Gobierno SOA: **Definición de objetivos y capacidades del gobierno SOA**
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Situación actual, Capacidades de negocio|
+|Autor||
+|Fuente||
+|Version|a5bcf25 del 27 Jan 2023|
+|Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
+
+<br>
+
+## Tema 1
+
 # Fase 2: SOA Objetivo
 # Contenido de los Productos Contractuales, 181-2020
 
@@ -299,7 +310,7 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|15b3d3c del 26 Jan 2023|
+|Version|a5bcf25 del 27 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
