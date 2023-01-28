@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-28" />
   <meta name="citation_publication_date" content="2023-01-28" />
   <meta property="article:published_time" content="2023-01-28" />
-  <meta name="dc.modified" content="2023-01-28T22:23:08+00:00" />
-  <meta property="article:modified_time" content="2023-01-28T22:23:08+00:00" />
+  <meta name="dc.modified" content="2023-01-28T23:07:41+00:00" />
+  <meta property="article:modified_time" content="2023-01-28T23:07:41+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/849d888d9cf9f3a621857a54cca9698ace6fe2bd/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/849d888d9cf9f3a621857a54cca9698ace6fe2bd/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/849d888d9cf9f3a621857a54cca9698ace6fe2bd/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/ac30e7517b77558d81efdb7dee4d2ab568a0f2a0/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/ac30e7517b77558d81efdb7dee4d2ab568a0f2a0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/ac30e7517b77558d81efdb7dee4d2ab568a0f2a0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -101,7 +101,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa|
 |Autor||
 |Fuente||
-|Version|849d888 del 28 Jan 2023|
+|Version|ac30e75 del 28 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -306,7 +306,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|849d888 del 28 Jan 2023|
+|Version|ac30e75 del 28 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -317,13 +317,21 @@ De las problemáticas encontradas en la Fase 1 del presente diagnóstico, nos es
 
 Junto a esta complicación, que de por sí hace obligatoria la introdución de la figura del gobierno SOA en el Fondo, y que organizaciones como el OpenGroup señalan que se dan por la falta de Arquitectura Empresarial, y por consiguiente, por un débil gobierno, se encuentran otras que fueron levantadas en la Fase 1 del presente diagnóstico: agilidad limitada, complejidad e imprecisión en la trazabilidad, ocultamiento de funcionalidades (ver [04b.Resumen Fase 1](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)).
 
+<br>
 
 ### Objetivos del Gobierno SOA del FNA
 Una vez identificadas estas problemáticas de orden mayor existentes en la empresa y que podemos resumir en tres: riesgo tecnológico, complejidad y nivel de adopción SOA presente en los desarrollos e implementaciones del FNA, el gobierno SOA propuesto para el Fondo debe incluir entre sus objetivos, como mínimo, los siguientes
 
-1. Vigilancia del riesgo tecnológico en estas vías: hacer seguimiento a la inversión tecnológica, el cual involucra a los provedores y colaboración con  externos; evaluar y constatar la implementación de herramientas de software, la cual podría limitarse a servicios SOA; y finalmente, controlar la adopción de nuevos diseños, nuevos marcos de trabajo, librerías o componentes de terceros.
+![](images/GobiernoSOA.3n.png )
+[Imagen.]() Objetivos gobierno SOA del FNA.
+
+_Fuente: elaboración propia._
+
+<br>
+
+1. Vigilancia del riesgo tecnológico en estas vías: hacer seguimiento a la inversión tecnológica, el cual involucra a los provedores y colaboración con externos; evaluar y constatar la implementación de herramientas de software, la cual podría limitarse a servicios SOA; y finalmente, controlar la adopción de nuevos diseños, nuevos marcos de trabajo, librerías o componentes de terceros.
 2. Vigilar el crecimiento de la complejidad y el impacto de los nuevos cambios en la arquitectura de referencia SOA del Fondo, bien sea por medio de las revisiones de diseño, el comité de arquitectura, o por el desarrollo y distribución de un catálogo de soluciones preconstruídas que alivie y guíe a las fábricas y desarrolladores que trabajan para la empresa.
-3. Vigilar y perseguir el aumento de los índices de efectividad SOA presentes en los análisis de madurez como el realizado en la Fase 1 del diagnóstico presentre (ver [02.Fase 2 PR2 Estudio Madurez SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)).
+3. Vigilar y perseguir el aumento de los índices de efectividad SOA presentes en los análisis de madurez como el realizado en la Fase 1 del diagnóstico presente (ver [02.Fase 2 PR2 Estudio Madurez SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)).
 
 
 
@@ -366,7 +374,7 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|849d888 del 28 Jan 2023|
+|Version|ac30e75 del 28 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
