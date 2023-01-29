@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-29" />
   <meta name="citation_publication_date" content="2023-01-29" />
   <meta property="article:published_time" content="2023-01-29" />
-  <meta name="dc.modified" content="2023-01-29T00:58:11+00:00" />
-  <meta property="article:modified_time" content="2023-01-29T00:58:11+00:00" />
+  <meta name="dc.modified" content="2023-01-29T02:57:25+00:00" />
+  <meta property="article:modified_time" content="2023-01-29T02:57:25+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/c04e446a61a7b21fc48525f39690acc76388caec/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/c04e446a61a7b21fc48525f39690acc76388caec/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/c04e446a61a7b21fc48525f39690acc76388caec/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/c9b56af9772d9ae6bf42249b59c435d244d8c5ca/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/c9b56af9772d9ae6bf42249b59c435d244d8c5ca/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/c9b56af9772d9ae6bf42249b59c435d244d8c5ca/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -101,7 +101,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa|
 |Autor||
 |Fuente||
-|Version|c04e446 del 29 Jan 2023|
+|Version|c9b56af del 29 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -306,7 +306,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|c04e446 del 29 Jan 2023|
+|Version|c9b56af del 29 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -340,7 +340,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|c04e446 del 29 Jan 2023|
+|Version|c9b56af del 29 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -362,14 +362,16 @@ El gobierno SOA del FNA debe buscar la capacidad para medir y gestionar (agregar
 
 <br>
 
-![](images/ESB-IBM.png )
+![](images/ESB-IBM.png)
+
 [Imagen 1.]() Riesgo no. 1 y 2. Agilidad limitada por el proliferación de la copmlejidad en los servicios SOA del Fondo.
 
 _Fuente: elaboración propia, ae_fna_as_is.archimate._
 
 <br>
 
-![](images/CRM.png )
+![](images/CRM.png)
+
 [Imagen 1.]() Riesgo no. 4 y 5. Caso de CRM del FNA. Le afecta el riesgo de estándarización en la interoperabilidad, aumenta la cantidad de adaptadores particulares.
 
 _Fuente: ae_fna_as_is.archimate._
@@ -380,28 +382,43 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|c04e446 del 29 Jan 2023|
+|Version|c9b56af del 29 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
 
 ### Capacidades FNA por Desarrollar para el Gobierno SOA
-Las capacidades requeridas por el gobierno SOA del Fondo, que a la vez hacen parte de las responsabilidades futuras del equipo de gobierno SOA o del Comité de arquitectura del Fondo están relacionados directamente con los objeitvos del gobierno SOA y con los riesgos tecnológicos encontrados en la Fase 1 (ver [06a.Objetivos gobierno](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md), y [06c.Riesgos tecnológicos SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)).
+Las capacidades requeridas por el gobierno SOA del Fondo, que a la vez soportan a la matriz de roles y responsabilidades (RACI) futuras del equipo de gobierno SOA o del Comité de arquitectura del Fondo están relacionados directamente con los objeitvos del gobierno SOA y con los riesgos tecnológicos encontrados en la Fase 1 (ver [06a.Objetivos gobierno](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md), y [06c.Riesgos tecnológicos SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)).
 
+<br>
 
+>**Nota**: no es del alcance de esta consultoría, E-Service (contrato 181-2020) desarrollar estas capacidades, lo cual requeriría de otro(s) proyecto. Para esto, el Fondo podría desarrollar las capacidades indicadas por este diagnóstico internamente, o contratar proyectos para su implementación.
 
+<br>
 
-Enterprise architecture provides frameworks, tools, and techniques to assist organizations with the development and maintenance of their SOAs. Some of the key benefits that enterprise architecture provides include:
+![](images/capacidades.png)
 
-	• Consistent abstractions of high-level strategies and deliverables to support planning and analysis
-	• Linkage of different perspectives to a single business problem (e.g., business, data, application, technology, abstract, concrete, etc.) providing a consistent model to address various domains and tests for completeness
-	• Identification of clear roadmaps to achieve future state
-	• Traceability that links IT and other assets to the business they support
-	• Support for impact assessment, risk/value analysis, and portfolio management
-	• Identified and documented principles, constraints, frameworks, patterns, and standards
-	• Governance frameworks and processes that ensure appropriate authority for decision-making
+[Imagen 1.]() TOGAF 9, Fase G, Implementation governance para la implementación de las capacidades de ejecución de hojas de ruta del FNA.
 
+_Fuente: elaboración propia._
 
+<br>
+
+1. CAP1. Realizar e implementar estrategias y entregables para planear y analizar la arquitectura de referencia SOA del Fondo (resultado Fase 2 de este diagnóstico).
+1. CAP2. Relacionar elementos de la arquitectura de referencia SOA (181-2020), esto es, procesos de negocio, servicios, datos, aplicaciones, componentes, tecnologías, etc., y vincular distintas perspetivas a una vertical de negocio del  Fondo, como, Gestión Comercial, Cesantías, Ahorro Voluntario para desarrollar modelos consistentes y desarrollar la oportunidad de dirigir cambios y atacar los problemas de integralidad de las pruebas.
+1. CAP3. Realizar y gestionar la puesta en marcha de hojas de ruta para cerrar brechas y alcanzar estados futuros de la arquitectura (TOGAF 9, Fase G, Implementation governance). Ver imagen 2.
+1. CAP4. Ejercitar la trazabilidad de los activos y productos de TI con los productos y decisiones de negocio de las áreas del FNA, como la vicepresidencia de Crédito y la de Operaciones ante la llegada de impactos, cambios, reformas y bajas tecnológicas.
+1. CAP5. Realizar análisis de impacto, riesgos, costo beneficio, capacidad usada, y gestión de demanda ante la evaluación de cambios a la arquitectura de referencia SOA y activos de TI, cuando lo amerite.
+1. CAP6. Emitir y gestionar los contenidos de documentación técnica, como principios, restricciones tecnológicas, marcos de trabajo, normas, diseños, y estándares para el uso de los proveedores, servicios de fábricas del FNA, planta interna, Comunicación y Planeación.
+1. CAP7. Emitir y actualzar el marco de trabajo de gobierno SOA que complemente el de TI del Fondo y que enuncie los procesos, procedimientos y responsabilidades de este con el fin de generar la autoridad y asistir en la toma de deciones internas (áreas de TI y Planeación del Fondo) y externas (proveedores del Fondo)
+
+<br>
+
+![](images/adm.gif)
+
+[Imagen 2.]() TOGAF 9, Fase G, Implementation governance para la implementación de las capacidades de ejecución de hojas de ruta del FNA.
+
+_Fuente: www.opengroup.org/soa/source-book/togaf._
 
 
 
@@ -444,7 +461,7 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|c04e446 del 29 Jan 2023|
+|Version|c9b56af del 29 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>

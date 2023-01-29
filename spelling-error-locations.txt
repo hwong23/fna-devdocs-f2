@@ -1310,36 +1310,36 @@ content/06c.Riesgos tecnológicos SOA.md:24:servicios
 content/06c.Riesgos tecnológicos SOA.md:24:SOA
 content/06c.Riesgos tecnológicos SOA.md:24:trazabilidad
 content/06c.Riesgos tecnológicos SOA.md:28:ESB
-content/06c.Riesgos tecnológicos SOA.md:29:Agilidad
-content/06c.Riesgos tecnológicos SOA.md:29:copmlejidad
-content/06c.Riesgos tecnológicos SOA.md:29:el
-content/06c.Riesgos tecnológicos SOA.md:29:Fondo
-content/06c.Riesgos tecnológicos SOA.md:29:Imagen
-content/06c.Riesgos tecnológicos SOA.md:29:limitada
-content/06c.Riesgos tecnológicos SOA.md:29:por
-content/06c.Riesgos tecnológicos SOA.md:29:proliferación
-content/06c.Riesgos tecnológicos SOA.md:29:Riesgo
-content/06c.Riesgos tecnológicos SOA.md:29:servicios
-content/06c.Riesgos tecnológicos SOA.md:29:SOA
-content/06c.Riesgos tecnológicos SOA.md:31:archimate
-content/06c.Riesgos tecnológicos SOA.md:31:elaboración
-content/06c.Riesgos tecnológicos SOA.md:31:propia
-content/06c.Riesgos tecnológicos SOA.md:35:CRM
-content/06c.Riesgos tecnológicos SOA.md:36:adaptadores
-content/06c.Riesgos tecnológicos SOA.md:36:afecta
-content/06c.Riesgos tecnológicos SOA.md:36:aumenta
-content/06c.Riesgos tecnológicos SOA.md:36:cantidad
-content/06c.Riesgos tecnológicos SOA.md:36:Caso
+content/06c.Riesgos tecnológicos SOA.md:30:Agilidad
+content/06c.Riesgos tecnológicos SOA.md:30:copmlejidad
+content/06c.Riesgos tecnológicos SOA.md:30:el
+content/06c.Riesgos tecnológicos SOA.md:30:Fondo
+content/06c.Riesgos tecnológicos SOA.md:30:Imagen
+content/06c.Riesgos tecnológicos SOA.md:30:limitada
+content/06c.Riesgos tecnológicos SOA.md:30:por
+content/06c.Riesgos tecnológicos SOA.md:30:proliferación
+content/06c.Riesgos tecnológicos SOA.md:30:Riesgo
+content/06c.Riesgos tecnológicos SOA.md:30:servicios
+content/06c.Riesgos tecnológicos SOA.md:30:SOA
+content/06c.Riesgos tecnológicos SOA.md:32:archimate
+content/06c.Riesgos tecnológicos SOA.md:32:elaboración
+content/06c.Riesgos tecnológicos SOA.md:32:propia
 content/06c.Riesgos tecnológicos SOA.md:36:CRM
-content/06c.Riesgos tecnológicos SOA.md:36:el
-content/06c.Riesgos tecnológicos SOA.md:36:estándarización
-content/06c.Riesgos tecnológicos SOA.md:36:FNA
-content/06c.Riesgos tecnológicos SOA.md:36:Imagen
-content/06c.Riesgos tecnológicos SOA.md:36:interoperabilidad
-content/06c.Riesgos tecnológicos SOA.md:36:particulares
-content/06c.Riesgos tecnológicos SOA.md:36:riesgo
-content/06c.Riesgos tecnológicos SOA.md:36:Riesgo
-content/06c.Riesgos tecnológicos SOA.md:38:archimate
+content/06c.Riesgos tecnológicos SOA.md:38:adaptadores
+content/06c.Riesgos tecnológicos SOA.md:38:afecta
+content/06c.Riesgos tecnológicos SOA.md:38:aumenta
+content/06c.Riesgos tecnológicos SOA.md:38:cantidad
+content/06c.Riesgos tecnológicos SOA.md:38:Caso
+content/06c.Riesgos tecnológicos SOA.md:38:CRM
+content/06c.Riesgos tecnológicos SOA.md:38:el
+content/06c.Riesgos tecnológicos SOA.md:38:estándarización
+content/06c.Riesgos tecnológicos SOA.md:38:FNA
+content/06c.Riesgos tecnológicos SOA.md:38:Imagen
+content/06c.Riesgos tecnológicos SOA.md:38:interoperabilidad
+content/06c.Riesgos tecnológicos SOA.md:38:particulares
+content/06c.Riesgos tecnológicos SOA.md:38:riesgo
+content/06c.Riesgos tecnológicos SOA.md:38:Riesgo
+content/06c.Riesgos tecnológicos SOA.md:40:archimate
 content/06d.Capacidades gobierno.md:1:Capacidades
 content/06d.Capacidades gobierno.md:1:Desarrollar
 content/06d.Capacidades gobierno.md:1:el
@@ -1385,11 +1385,11 @@ content/06d.Capacidades gobierno.md:12:gobierno
 content/06d.Capacidades gobierno.md:12:gobierno
 content/06d.Capacidades gobierno.md:12:gobierno
 content/06d.Capacidades gobierno.md:12:gobierno
-content/06d.Capacidades gobierno.md:12:hacen
+content/06d.Capacidades gobierno.md:12:matriz
 content/06d.Capacidades gobierno.md:12:objeitvos
 content/06d.Capacidades gobierno.md:12:Objetivos
-content/06d.Capacidades gobierno.md:12:parte
 content/06d.Capacidades gobierno.md:12:por
+content/06d.Capacidades gobierno.md:12:RACI
 content/06d.Capacidades gobierno.md:12:relacionados
 content/06d.Capacidades gobierno.md:12:requeridas
 content/06d.Capacidades gobierno.md:12:responsabilidades
@@ -1399,11 +1399,211 @@ content/06d.Capacidades gobierno.md:12:SOA
 content/06d.Capacidades gobierno.md:12:SOA
 content/06d.Capacidades gobierno.md:12:SOA
 content/06d.Capacidades gobierno.md:12:SOA
+content/06d.Capacidades gobierno.md:12:soportan
 content/06d.Capacidades gobierno.md:12:tecnológicos
 content/06d.Capacidades gobierno.md:12:tecnológicos
 content/06d.Capacidades gobierno.md:12:ver
 content/06d.Capacidades gobierno.md:12:vez
-content/06d.Capacidades gobierno.md:17:SOAs
+content/06d.Capacidades gobierno.md:16:alcance
+content/06d.Capacidades gobierno.md:16:capacidades
+content/06d.Capacidades gobierno.md:16:capacidades
+content/06d.Capacidades gobierno.md:16:consultoría
+content/06d.Capacidades gobierno.md:16:contratar
+content/06d.Capacidades gobierno.md:16:contrato
+content/06d.Capacidades gobierno.md:16:cual
+content/06d.Capacidades gobierno.md:16:desarrollar
+content/06d.Capacidades gobierno.md:16:desarrollar
+content/06d.Capacidades gobierno.md:16:diagnóstico
+content/06d.Capacidades gobierno.md:16:el
+content/06d.Capacidades gobierno.md:16:esta
+content/06d.Capacidades gobierno.md:16:estas
+content/06d.Capacidades gobierno.md:16:este
+content/06d.Capacidades gobierno.md:16:esto
+content/06d.Capacidades gobierno.md:16:Fondo
+content/06d.Capacidades gobierno.md:16:implementación
+content/06d.Capacidades gobierno.md:16:indicadas
+content/06d.Capacidades gobierno.md:16:internamente
+content/06d.Capacidades gobierno.md:16:Nota
+content/06d.Capacidades gobierno.md:16:otro
+content/06d.Capacidades gobierno.md:16:podría
+content/06d.Capacidades gobierno.md:16:por
+content/06d.Capacidades gobierno.md:16:proyecto
+content/06d.Capacidades gobierno.md:16:proyectos
+content/06d.Capacidades gobierno.md:16:requeriría
+content/06d.Capacidades gobierno.md:16:su
+content/06d.Capacidades gobierno.md:20:capacidades
+content/06d.Capacidades gobierno.md:22:capacidades
+content/06d.Capacidades gobierno.md:22:ejecución
+content/06d.Capacidades gobierno.md:22:Fase
+content/06d.Capacidades gobierno.md:22:FNA
+content/06d.Capacidades gobierno.md:22:hojas
+content/06d.Capacidades gobierno.md:22:Imagen
+content/06d.Capacidades gobierno.md:22:implementación
+content/06d.Capacidades gobierno.md:22:ruta
+content/06d.Capacidades gobierno.md:22:TOGAF
+content/06d.Capacidades gobierno.md:24:elaboración
+content/06d.Capacidades gobierno.md:24:propia
+content/06d.Capacidades gobierno.md:28:analizar
+content/06d.Capacidades gobierno.md:28:arquitectura
+content/06d.Capacidades gobierno.md:28:diagnóstico
+content/06d.Capacidades gobierno.md:28:entregables
+content/06d.Capacidades gobierno.md:28:este
+content/06d.Capacidades gobierno.md:28:estrategias
+content/06d.Capacidades gobierno.md:28:Fase
+content/06d.Capacidades gobierno.md:28:Fondo
+content/06d.Capacidades gobierno.md:28:implementar
+content/06d.Capacidades gobierno.md:28:planear
+content/06d.Capacidades gobierno.md:28:Realizar
+content/06d.Capacidades gobierno.md:28:referencia
+content/06d.Capacidades gobierno.md:28:resultado
+content/06d.Capacidades gobierno.md:28:SOA
+content/06d.Capacidades gobierno.md:29:Ahorro
+content/06d.Capacidades gobierno.md:29:aplicaciones
+content/06d.Capacidades gobierno.md:29:arquitectura
+content/06d.Capacidades gobierno.md:29:atacar
+content/06d.Capacidades gobierno.md:29:cambios
+content/06d.Capacidades gobierno.md:29:Cesantías
+content/06d.Capacidades gobierno.md:29:Comercial
+content/06d.Capacidades gobierno.md:29:componentes
+content/06d.Capacidades gobierno.md:29:consistentes
+content/06d.Capacidades gobierno.md:29:datos
+content/06d.Capacidades gobierno.md:29:desarrollar
+content/06d.Capacidades gobierno.md:29:desarrollar
+content/06d.Capacidades gobierno.md:29:dirigir
+content/06d.Capacidades gobierno.md:29:distintas
+content/06d.Capacidades gobierno.md:29:elementos
+content/06d.Capacidades gobierno.md:29:esto
+content/06d.Capacidades gobierno.md:29:Fondo
+content/06d.Capacidades gobierno.md:29:Gestión
+content/06d.Capacidades gobierno.md:29:integralidad
+content/06d.Capacidades gobierno.md:29:modelos
+content/06d.Capacidades gobierno.md:29:negocio
+content/06d.Capacidades gobierno.md:29:negocio
+content/06d.Capacidades gobierno.md:29:oportunidad
+content/06d.Capacidades gobierno.md:29:perspetivas
+content/06d.Capacidades gobierno.md:29:problemas
+content/06d.Capacidades gobierno.md:29:procesos
+content/06d.Capacidades gobierno.md:29:pruebas
+content/06d.Capacidades gobierno.md:29:referencia
+content/06d.Capacidades gobierno.md:29:Relacionar
+content/06d.Capacidades gobierno.md:29:servicios
+content/06d.Capacidades gobierno.md:29:SOA
+content/06d.Capacidades gobierno.md:29:tecnologías
+content/06d.Capacidades gobierno.md:29:una
+content/06d.Capacidades gobierno.md:29:vincular
+content/06d.Capacidades gobierno.md:29:Voluntario
+content/06d.Capacidades gobierno.md:30:alcanzar
+content/06d.Capacidades gobierno.md:30:arquitectura
+content/06d.Capacidades gobierno.md:30:brechas
+content/06d.Capacidades gobierno.md:30:cerrar
+content/06d.Capacidades gobierno.md:30:estados
+content/06d.Capacidades gobierno.md:30:Fase
+content/06d.Capacidades gobierno.md:30:futuros
+content/06d.Capacidades gobierno.md:30:gestionar
+content/06d.Capacidades gobierno.md:30:hojas
+content/06d.Capacidades gobierno.md:30:imagen
+content/06d.Capacidades gobierno.md:30:marcha
+content/06d.Capacidades gobierno.md:30:puesta
+content/06d.Capacidades gobierno.md:30:Realizar
+content/06d.Capacidades gobierno.md:30:ruta
+content/06d.Capacidades gobierno.md:30:TOGAF
+content/06d.Capacidades gobierno.md:30:Ver
+content/06d.Capacidades gobierno.md:31:activos
+content/06d.Capacidades gobierno.md:31:áreas
+content/06d.Capacidades gobierno.md:31:bajas
+content/06d.Capacidades gobierno.md:31:cambios
+content/06d.Capacidades gobierno.md:31:Crédito
+content/06d.Capacidades gobierno.md:31:decisiones
+content/06d.Capacidades gobierno.md:31:Ejercitar
+content/06d.Capacidades gobierno.md:31:FNA
+content/06d.Capacidades gobierno.md:31:impactos
+content/06d.Capacidades gobierno.md:31:llegada
+content/06d.Capacidades gobierno.md:31:negocio
+content/06d.Capacidades gobierno.md:31:Operaciones
+content/06d.Capacidades gobierno.md:31:productos
+content/06d.Capacidades gobierno.md:31:productos
+content/06d.Capacidades gobierno.md:31:reformas
+content/06d.Capacidades gobierno.md:31:tecnológicas
+content/06d.Capacidades gobierno.md:31:trazabilidad
+content/06d.Capacidades gobierno.md:31:vicepresidencia
+content/06d.Capacidades gobierno.md:32:activos
+content/06d.Capacidades gobierno.md:32:amerite
+content/06d.Capacidades gobierno.md:32:análisis
+content/06d.Capacidades gobierno.md:32:arquitectura
+content/06d.Capacidades gobierno.md:32:beneficio
+content/06d.Capacidades gobierno.md:32:cambios
+content/06d.Capacidades gobierno.md:32:capacidad
+content/06d.Capacidades gobierno.md:32:costo
+content/06d.Capacidades gobierno.md:32:cuando
+content/06d.Capacidades gobierno.md:32:demanda
+content/06d.Capacidades gobierno.md:32:evaluación
+content/06d.Capacidades gobierno.md:32:gestión
+content/06d.Capacidades gobierno.md:32:impacto
+content/06d.Capacidades gobierno.md:32:Realizar
+content/06d.Capacidades gobierno.md:32:referencia
+content/06d.Capacidades gobierno.md:32:riesgos
+content/06d.Capacidades gobierno.md:32:SOA
+content/06d.Capacidades gobierno.md:32:usada
+content/06d.Capacidades gobierno.md:33:Comunicación
+content/06d.Capacidades gobierno.md:33:contenidos
+content/06d.Capacidades gobierno.md:33:diseños
+content/06d.Capacidades gobierno.md:33:documentación
+content/06d.Capacidades gobierno.md:33:el
+content/06d.Capacidades gobierno.md:33:Emitir
+content/06d.Capacidades gobierno.md:33:estándares
+content/06d.Capacidades gobierno.md:33:fábricas
+content/06d.Capacidades gobierno.md:33:FNA
+content/06d.Capacidades gobierno.md:33:gestionar
+content/06d.Capacidades gobierno.md:33:interna
+content/06d.Capacidades gobierno.md:33:normas
+content/06d.Capacidades gobierno.md:33:Planeación
+content/06d.Capacidades gobierno.md:33:planta
+content/06d.Capacidades gobierno.md:33:principios
+content/06d.Capacidades gobierno.md:33:proveedores
+content/06d.Capacidades gobierno.md:33:restricciones
+content/06d.Capacidades gobierno.md:33:servicios
+content/06d.Capacidades gobierno.md:33:técnica
+content/06d.Capacidades gobierno.md:33:tecnológicas
+content/06d.Capacidades gobierno.md:33:trabajo
+content/06d.Capacidades gobierno.md:34:actualzar
+content/06d.Capacidades gobierno.md:34:áreas
+content/06d.Capacidades gobierno.md:34:asistir
+content/06d.Capacidades gobierno.md:34:autoridad
+content/06d.Capacidades gobierno.md:34:complemente
+content/06d.Capacidades gobierno.md:34:deciones
+content/06d.Capacidades gobierno.md:34:el
+content/06d.Capacidades gobierno.md:34:el
+content/06d.Capacidades gobierno.md:34:el
+content/06d.Capacidades gobierno.md:34:Emitir
+content/06d.Capacidades gobierno.md:34:enuncie
+content/06d.Capacidades gobierno.md:34:este
+content/06d.Capacidades gobierno.md:34:externas
+content/06d.Capacidades gobierno.md:34:Fondo
+content/06d.Capacidades gobierno.md:34:Fondo
+content/06d.Capacidades gobierno.md:34:Fondo
+content/06d.Capacidades gobierno.md:34:generar
+content/06d.Capacidades gobierno.md:34:gobierno
+content/06d.Capacidades gobierno.md:34:internas
+content/06d.Capacidades gobierno.md:34:Planeación
+content/06d.Capacidades gobierno.md:34:procedimientos
+content/06d.Capacidades gobierno.md:34:procesos
+content/06d.Capacidades gobierno.md:34:proveedores
+content/06d.Capacidades gobierno.md:34:responsabilidades
+content/06d.Capacidades gobierno.md:34:SOA
+content/06d.Capacidades gobierno.md:34:toma
+content/06d.Capacidades gobierno.md:34:trabajo
+content/06d.Capacidades gobierno.md:40:capacidades
+content/06d.Capacidades gobierno.md:40:ejecución
+content/06d.Capacidades gobierno.md:40:Fase
+content/06d.Capacidades gobierno.md:40:FNA
+content/06d.Capacidades gobierno.md:40:hojas
+content/06d.Capacidades gobierno.md:40:Imagen
+content/06d.Capacidades gobierno.md:40:implementación
+content/06d.Capacidades gobierno.md:40:ruta
+content/06d.Capacidades gobierno.md:40:TOGAF
+content/06d.Capacidades gobierno.md:42:opengroup
+content/06d.Capacidades gobierno.md:42:soa
+content/06d.Capacidades gobierno.md:42:togaf
 content/06.Fase 2 PR6 Gobierno SOA.md:1:Fase
 content/06.Fase 2 PR6 Gobierno SOA.md:1:Objetivo
 content/06.Fase 2 PR6 Gobierno SOA.md:1:SOA
