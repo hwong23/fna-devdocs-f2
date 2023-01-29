@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-29" />
   <meta name="citation_publication_date" content="2023-01-29" />
   <meta property="article:published_time" content="2023-01-29" />
-  <meta name="dc.modified" content="2023-01-29T00:48:41+00:00" />
-  <meta property="article:modified_time" content="2023-01-29T00:48:41+00:00" />
+  <meta name="dc.modified" content="2023-01-29T00:58:11+00:00" />
+  <meta property="article:modified_time" content="2023-01-29T00:58:11+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/0a4dbff759c0b7d747f0bd00a417a9661b410877/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/0a4dbff759c0b7d747f0bd00a417a9661b410877/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/0a4dbff759c0b7d747f0bd00a417a9661b410877/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/c04e446a61a7b21fc48525f39690acc76388caec/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/c04e446a61a7b21fc48525f39690acc76388caec/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/c04e446a61a7b21fc48525f39690acc76388caec/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -101,7 +101,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa|
 |Autor||
 |Fuente||
-|Version|0a4dbff del 29 Jan 2023|
+|Version|c04e446 del 29 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -306,7 +306,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|0a4dbff del 29 Jan 2023|
+|Version|c04e446 del 29 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -335,38 +335,12 @@ _Fuente: elaboración propia._
 
 
 
-|Tema|Gobierno SOA: **Definición de objetivos y capacidades del gobierno SOA**
-|----|-------------------------------------------------|
-|Palabras clave|SOA, Situación actual, Capacidades de negocio|
-|Autor||
-|Fuente||
-|Version|0a4dbff del 29 Jan 2023|
-|Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
-
-<br>
-
-### Capacidades del FNA para el Gobierno SOA
-
-Enterprise architecture provides frameworks, tools, and techniques to assist organizations with the development and maintenance of their SOAs. Some of the key benefits that enterprise architecture provides include:
-
-	• Consistent abstractions of high-level strategies and deliverables to support planning and analysis
-	• Linkage of different perspectives to a single business problem (e.g., business, data, application, technology, abstract, concrete, etc.) providing a consistent model to address various domains and tests for completeness
-	• Identification of clear roadmaps to achieve future state
-	• Traceability that links IT and other assets to the business they support
-	• Support for impact assessment, risk/value analysis, and portfolio management
-	• Identified and documented principles, constraints, frameworks, patterns, and standards
-	• Governance frameworks and processes that ensure appropriate authority for decision-making
-
-
-
-
-
 |Tema|Gobierno SOA: **Riesgos tecnológicos del FNA**
 |----|-------------------------------------------------|
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|0a4dbff del 29 Jan 2023|
+|Version|c04e446 del 29 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -399,6 +373,36 @@ _Fuente: elaboración propia, ae_fna_as_is.archimate._
 [Imagen 1.]() Riesgo no. 4 y 5. Caso de CRM del FNA. Le afecta el riesgo de estándarización en la interoperabilidad, aumenta la cantidad de adaptadores particulares.
 
 _Fuente: ae_fna_as_is.archimate._
+
+
+|Tema|Gobierno SOA: **Capacidades FNA por Desarrollar para el Gobierno SOA**
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Situación actual, Capacidades de negocio|
+|Autor||
+|Fuente||
+|Version|c04e446 del 29 Jan 2023|
+|Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
+
+<br>
+
+### Capacidades FNA por Desarrollar para el Gobierno SOA
+Las capacidades requeridas por el gobierno SOA del Fondo, que a la vez hacen parte de las responsabilidades futuras del equipo de gobierno SOA o del Comité de arquitectura del Fondo están relacionados directamente con los objeitvos del gobierno SOA y con los riesgos tecnológicos encontrados en la Fase 1 (ver [06a.Objetivos gobierno](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md), y [06c.Riesgos tecnológicos SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)).
+
+
+
+
+Enterprise architecture provides frameworks, tools, and techniques to assist organizations with the development and maintenance of their SOAs. Some of the key benefits that enterprise architecture provides include:
+
+	• Consistent abstractions of high-level strategies and deliverables to support planning and analysis
+	• Linkage of different perspectives to a single business problem (e.g., business, data, application, technology, abstract, concrete, etc.) providing a consistent model to address various domains and tests for completeness
+	• Identification of clear roadmaps to achieve future state
+	• Traceability that links IT and other assets to the business they support
+	• Support for impact assessment, risk/value analysis, and portfolio management
+	• Identified and documented principles, constraints, frameworks, patterns, and standards
+	• Governance frameworks and processes that ensure appropriate authority for decision-making
+
+
+
 
 
 ## Anexos 
@@ -440,7 +444,7 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|0a4dbff del 29 Jan 2023|
+|Version|c04e446 del 29 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>

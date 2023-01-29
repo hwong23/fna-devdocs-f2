@@ -935,300 +935,274 @@ content/05.Fase 2 PR5 Comparativa FNA industria.md:30:Fondo
 content/05.Fase 2 PR5 Comparativa FNA industria.md:30:Mejoras
 content/05.Fase 2 PR5 Comparativa FNA industria.md:30:SOA
 content/05.Fase 2 PR5 Comparativa FNA industria.md:30:visibles
-content/06a.Objetivos y capacidades.md:1:Definición
-content/06a.Objetivos y capacidades.md:1:gobierno
-content/06a.Objetivos y capacidades.md:1:Gobierno
-content/06a.Objetivos y capacidades.md:1:objetivos
-content/06a.Objetivos y capacidades.md:1:SOA
-content/06a.Objetivos y capacidades.md:1:SOA
-content/06a.Objetivos y capacidades.md:1:Tema
-content/06a.Objetivos y capacidades.md:3:Capacidades
-content/06a.Objetivos y capacidades.md:3:clave
-content/06a.Objetivos y capacidades.md:3:negocio
-content/06a.Objetivos y capacidades.md:3:Palabras
-content/06a.Objetivos y capacidades.md:3:Situación
-content/06a.Objetivos y capacidades.md:3:SOA
-content/06a.Objetivos y capacidades.md:4:Autor
-content/06a.Objetivos y capacidades.md:5:Fuente
-content/06a.Objetivos y capacidades.md:7:Fase
-content/06a.Objetivos y capacidades.md:7:Gobierno
-content/06a.Objetivos y capacidades.md:7:SOA
-content/06a.Objetivos y capacidades.md:7:Vínculos
-content/06a.Objetivos y capacidades.md:11:además
-content/06a.Objetivos y capacidades.md:11:alcanzado
-content/06a.Objetivos y capacidades.md:11:analizadas
-content/06a.Objetivos y capacidades.md:11:anexo
-content/06a.Objetivos y capacidades.md:11:Anexos
-content/06a.Objetivos y capacidades.md:11:aplicaciones
-content/06a.Objetivos y capacidades.md:11:carácter
-content/06a.Objetivos y capacidades.md:11:complejidad
-content/06a.Objetivos y capacidades.md:11:complementar
-content/06a.Objetivos y capacidades.md:11:contraen
-content/06a.Objetivos y capacidades.md:11:diagnóstico
-content/06a.Objetivos y capacidades.md:11:el
-content/06a.Objetivos y capacidades.md:11:el
-content/06a.Objetivos y capacidades.md:11:entre
-content/06a.Objetivos y capacidades.md:11:Esta
-content/06a.Objetivos y capacidades.md:11:este
-content/06a.Objetivos y capacidades.md:11:esto
-content/06a.Objetivos y capacidades.md:11:Fase
-content/06a.Objetivos y capacidades.md:11:Fase
-content/06a.Objetivos y capacidades.md:11:figura
-content/06a.Objetivos y capacidades.md:11:FNA
-content/06a.Objetivos y capacidades.md:11:Fondo
-content/06a.Objetivos y capacidades.md:11:Fondo
-content/06a.Objetivos y capacidades.md:11:gobierno
-content/06a.Objetivos y capacidades.md:11:infraestructura
-content/06a.Objetivos y capacidades.md:11:niveles
-content/06a.Objetivos y capacidades.md:11:obligatorio
-content/06a.Objetivos y capacidades.md:11:otros
-content/06a.Objetivos y capacidades.md:11:partes
-content/06a.Objetivos y capacidades.md:11:por
-content/06a.Objetivos y capacidades.md:11:procedimientos
-content/06a.Objetivos y capacidades.md:11:procesos
-content/06a.Objetivos y capacidades.md:11:Resumen
-content/06a.Objetivos y capacidades.md:11:riesgos
-content/06a.Objetivos y capacidades.md:11:servicios
-content/06a.Objetivos y capacidades.md:11:sirve
-content/06a.Objetivos y capacidades.md:11:SOA
-content/06a.Objetivos y capacidades.md:11:tecnológico
-content/06a.Objetivos y capacidades.md:11:ver
-content/06a.Objetivos y capacidades.md:11:ver
-content/06a.Objetivos y capacidades.md:13:cambios
-content/06a.Objetivos y capacidades.md:13:causa
-content/06a.Objetivos y capacidades.md:13:complejidad
-content/06a.Objetivos y capacidades.md:13:condición
-content/06a.Objetivos y capacidades.md:13:conocido
-content/06a.Objetivos y capacidades.md:13:demostrado
-content/06a.Objetivos y capacidades.md:13:dependencias
-content/06a.Objetivos y capacidades.md:13:diagnóstico
-content/06a.Objetivos y capacidades.md:13:dificultades
-content/06a.Objetivos y capacidades.md:13:el
-content/06a.Objetivos y capacidades.md:13:encontradas
-content/06a.Objetivos y capacidades.md:13:esta
-content/06a.Objetivos y capacidades.md:13:estamos
-content/06a.Objetivos y capacidades.md:13:explícitamente
-content/06a.Objetivos y capacidades.md:13:Fase
-content/06a.Objetivos y capacidades.md:13:FNA
-content/06a.Objetivos y capacidades.md:13:herramientas
-content/06a.Objetivos y capacidades.md:13:impacto
-content/06a.Objetivos y capacidades.md:13:incrementan
-content/06a.Objetivos y capacidades.md:13:manejo
-content/06a.Objetivos y capacidades.md:13:mayoría
-content/06a.Objetivos y capacidades.md:13:muy
-content/06a.Objetivos y capacidades.md:13:predecir
-content/06a.Objetivos y capacidades.md:13:presente
-content/06a.Objetivos y capacidades.md:13:problemáticas
-content/06a.Objetivos y capacidades.md:13:refiriendo
-content/06a.Objetivos y capacidades.md:13:servicios
-content/06a.Objetivos y capacidades.md:13:SOA
-content/06a.Objetivos y capacidades.md:13:sobreesfuerzos
-content/06a.Objetivos y capacidades.md:13:soluciones
-content/06a.Objetivos y capacidades.md:13:su
-content/06a.Objetivos y capacidades.md:13:tecnológicas
-content/06a.Objetivos y capacidades.md:15:agilidad
-content/06a.Objetivos y capacidades.md:15:Arquitectura
-content/06a.Objetivos y capacidades.md:15:complejidad
-content/06a.Objetivos y capacidades.md:15:complicación
-content/06a.Objetivos y capacidades.md:15:consiguiente
-content/06a.Objetivos y capacidades.md:15:débil
-content/06a.Objetivos y capacidades.md:15:diagnóstico
-content/06a.Objetivos y capacidades.md:15:el
-content/06a.Objetivos y capacidades.md:15:el
-content/06a.Objetivos y capacidades.md:15:Empresarial
-content/06a.Objetivos y capacidades.md:15:encuentran
-content/06a.Objetivos y capacidades.md:15:esta
-content/06a.Objetivos y capacidades.md:15:falta
-content/06a.Objetivos y capacidades.md:15:Fase
-content/06a.Objetivos y capacidades.md:15:Fase
-content/06a.Objetivos y capacidades.md:15:figura
-content/06a.Objetivos y capacidades.md:15:Fondo
-content/06a.Objetivos y capacidades.md:15:fueron
-content/06a.Objetivos y capacidades.md:15:funcionalidades
-content/06a.Objetivos y capacidades.md:15:gobierno
-content/06a.Objetivos y capacidades.md:15:gobierno
-content/06a.Objetivos y capacidades.md:15:hace
-content/06a.Objetivos y capacidades.md:15:imprecisión
-content/06a.Objetivos y capacidades.md:15:introdución
-content/06a.Objetivos y capacidades.md:15:Junto
-content/06a.Objetivos y capacidades.md:15:levantadas
-content/06a.Objetivos y capacidades.md:15:limitada
-content/06a.Objetivos y capacidades.md:15:obligatoria
-content/06a.Objetivos y capacidades.md:15:ocultamiento
-content/06a.Objetivos y capacidades.md:15:OpenGroup
-content/06a.Objetivos y capacidades.md:15:organizaciones
-content/06a.Objetivos y capacidades.md:15:otras
-content/06a.Objetivos y capacidades.md:15:por
-content/06a.Objetivos y capacidades.md:15:por
-content/06a.Objetivos y capacidades.md:15:por
-content/06a.Objetivos y capacidades.md:15:por
-content/06a.Objetivos y capacidades.md:15:presente
-content/06a.Objetivos y capacidades.md:15:Resumen
-content/06a.Objetivos y capacidades.md:15:señalan
-content/06a.Objetivos y capacidades.md:15:sí
-content/06a.Objetivos y capacidades.md:15:SOA
-content/06a.Objetivos y capacidades.md:15:trazabilidad
-content/06a.Objetivos y capacidades.md:15:ver
-content/06a.Objetivos y capacidades.md:19:FNA
-content/06a.Objetivos y capacidades.md:19:Gobierno
-content/06a.Objetivos y capacidades.md:19:Objetivos
-content/06a.Objetivos y capacidades.md:19:SOA
-content/06a.Objetivos y capacidades.md:20:adopción
-content/06a.Objetivos y capacidades.md:20:complejidad
-content/06a.Objetivos y capacidades.md:20:debe
-content/06a.Objetivos y capacidades.md:20:desarrollos
-content/06a.Objetivos y capacidades.md:20:el
-content/06a.Objetivos y capacidades.md:20:el
-content/06a.Objetivos y capacidades.md:20:empresa
-content/06a.Objetivos y capacidades.md:20:entre
-content/06a.Objetivos y capacidades.md:20:estas
-content/06a.Objetivos y capacidades.md:20:existentes
-content/06a.Objetivos y capacidades.md:20:FNA
-content/06a.Objetivos y capacidades.md:20:Fondo
-content/06a.Objetivos y capacidades.md:20:gobierno
-content/06a.Objetivos y capacidades.md:20:identificadas
-content/06a.Objetivos y capacidades.md:20:implementaciones
-content/06a.Objetivos y capacidades.md:20:incluir
-content/06a.Objetivos y capacidades.md:20:mínimo
-content/06a.Objetivos y capacidades.md:20:nivel
-content/06a.Objetivos y capacidades.md:20:objetivos
-content/06a.Objetivos y capacidades.md:20:orden
-content/06a.Objetivos y capacidades.md:20:podemos
-content/06a.Objetivos y capacidades.md:20:presente
-content/06a.Objetivos y capacidades.md:20:problemáticas
-content/06a.Objetivos y capacidades.md:20:propuesto
-content/06a.Objetivos y capacidades.md:20:resumir
-content/06a.Objetivos y capacidades.md:20:riesgo
-content/06a.Objetivos y capacidades.md:20:siguientes
-content/06a.Objetivos y capacidades.md:20:SOA
-content/06a.Objetivos y capacidades.md:20:SOA
-content/06a.Objetivos y capacidades.md:20:sus
-content/06a.Objetivos y capacidades.md:20:tecnológico
-content/06a.Objetivos y capacidades.md:20:tres
-content/06a.Objetivos y capacidades.md:20:Una
-content/06a.Objetivos y capacidades.md:20:vez
-content/06a.Objetivos y capacidades.md:23:FNA
-content/06a.Objetivos y capacidades.md:23:gobierno
-content/06a.Objetivos y capacidades.md:23:Imagen
-content/06a.Objetivos y capacidades.md:23:Objetivos
-content/06a.Objetivos y capacidades.md:23:SOA
-content/06a.Objetivos y capacidades.md:25:elaboración
-content/06a.Objetivos y capacidades.md:25:propia
-content/06a.Objetivos y capacidades.md:29:adopción
-content/06a.Objetivos y capacidades.md:29:colaboración
-content/06a.Objetivos y capacidades.md:29:componentes
-content/06a.Objetivos y capacidades.md:29:constatar
-content/06a.Objetivos y capacidades.md:29:controlar
-content/06a.Objetivos y capacidades.md:29:cual
-content/06a.Objetivos y capacidades.md:29:cual
-content/06a.Objetivos y capacidades.md:29:diseños
-content/06a.Objetivos y capacidades.md:29:el
-content/06a.Objetivos y capacidades.md:29:estas
-content/06a.Objetivos y capacidades.md:29:evaluar
-content/06a.Objetivos y capacidades.md:29:externos
-content/06a.Objetivos y capacidades.md:29:finalmente
-content/06a.Objetivos y capacidades.md:29:hacer
-content/06a.Objetivos y capacidades.md:29:herramientas
-content/06a.Objetivos y capacidades.md:29:implementación
-content/06a.Objetivos y capacidades.md:29:inversión
-content/06a.Objetivos y capacidades.md:29:involucra
-content/06a.Objetivos y capacidades.md:29:librerías
-content/06a.Objetivos y capacidades.md:29:limitarse
-content/06a.Objetivos y capacidades.md:29:nuevos
-content/06a.Objetivos y capacidades.md:29:nuevos
-content/06a.Objetivos y capacidades.md:29:podría
-content/06a.Objetivos y capacidades.md:29:provedores
-content/06a.Objetivos y capacidades.md:29:riesgo
-content/06a.Objetivos y capacidades.md:29:seguimiento
-content/06a.Objetivos y capacidades.md:29:servicios
-content/06a.Objetivos y capacidades.md:29:SOA
-content/06a.Objetivos y capacidades.md:29:tecnológica
-content/06a.Objetivos y capacidades.md:29:tecnológico
-content/06a.Objetivos y capacidades.md:29:terceros
-content/06a.Objetivos y capacidades.md:29:trabajo
-content/06a.Objetivos y capacidades.md:29:vías
-content/06a.Objetivos y capacidades.md:29:Vigilancia
-content/06a.Objetivos y capacidades.md:30:alivie
-content/06a.Objetivos y capacidades.md:30:arquitectura
-content/06a.Objetivos y capacidades.md:30:arquitectura
-content/06a.Objetivos y capacidades.md:30:bien
-content/06a.Objetivos y capacidades.md:30:cambios
-content/06a.Objetivos y capacidades.md:30:catálogo
-content/06a.Objetivos y capacidades.md:30:comité
-content/06a.Objetivos y capacidades.md:30:complejidad
-content/06a.Objetivos y capacidades.md:30:crecimiento
-content/06a.Objetivos y capacidades.md:30:desarrolladores
-content/06a.Objetivos y capacidades.md:30:desarrollo
-content/06a.Objetivos y capacidades.md:30:diseño
-content/06a.Objetivos y capacidades.md:30:distribución
-content/06a.Objetivos y capacidades.md:30:el
-content/06a.Objetivos y capacidades.md:30:el
-content/06a.Objetivos y capacidades.md:30:el
-content/06a.Objetivos y capacidades.md:30:el
-content/06a.Objetivos y capacidades.md:30:empresa
-content/06a.Objetivos y capacidades.md:30:fábricas
-content/06a.Objetivos y capacidades.md:30:Fondo
-content/06a.Objetivos y capacidades.md:30:guíe
-content/06a.Objetivos y capacidades.md:30:impacto
-content/06a.Objetivos y capacidades.md:30:medio
-content/06a.Objetivos y capacidades.md:30:nuevos
-content/06a.Objetivos y capacidades.md:30:por
-content/06a.Objetivos y capacidades.md:30:por
-content/06a.Objetivos y capacidades.md:30:preconstruídas
-content/06a.Objetivos y capacidades.md:30:referencia
-content/06a.Objetivos y capacidades.md:30:revisiones
-content/06a.Objetivos y capacidades.md:30:SOA
-content/06a.Objetivos y capacidades.md:30:soluciones
-content/06a.Objetivos y capacidades.md:30:trabajan
-content/06a.Objetivos y capacidades.md:30:Vigilar
-content/06a.Objetivos y capacidades.md:31:análisis
-content/06a.Objetivos y capacidades.md:31:aumento
-content/06a.Objetivos y capacidades.md:31:diagnóstico
-content/06a.Objetivos y capacidades.md:31:efectividad
-content/06a.Objetivos y capacidades.md:31:el
-content/06a.Objetivos y capacidades.md:31:el
-content/06a.Objetivos y capacidades.md:31:Estudio
-content/06a.Objetivos y capacidades.md:31:Fase
-content/06a.Objetivos y capacidades.md:31:Fase
-content/06a.Objetivos y capacidades.md:31:FNA
-content/06a.Objetivos y capacidades.md:31:índices
-content/06a.Objetivos y capacidades.md:31:índices
-content/06a.Objetivos y capacidades.md:31:madurez
-content/06a.Objetivos y capacidades.md:31:Madurez
-content/06a.Objetivos y capacidades.md:31:perseguir
-content/06a.Objetivos y capacidades.md:31:presente
-content/06a.Objetivos y capacidades.md:31:presentes
-content/06a.Objetivos y capacidades.md:31:realizado
-content/06a.Objetivos y capacidades.md:31:SOA
-content/06a.Objetivos y capacidades.md:31:SOA
-content/06a.Objetivos y capacidades.md:31:ver
-content/06a.Objetivos y capacidades.md:31:Vigilar
-content/06b.Objetivos y capacidades.md:1:capacidades
-content/06b.Objetivos y capacidades.md:1:Definición
-content/06b.Objetivos y capacidades.md:1:gobierno
-content/06b.Objetivos y capacidades.md:1:Gobierno
-content/06b.Objetivos y capacidades.md:1:objetivos
-content/06b.Objetivos y capacidades.md:1:SOA
-content/06b.Objetivos y capacidades.md:1:SOA
-content/06b.Objetivos y capacidades.md:1:Tema
-content/06b.Objetivos y capacidades.md:3:Capacidades
-content/06b.Objetivos y capacidades.md:3:clave
-content/06b.Objetivos y capacidades.md:3:negocio
-content/06b.Objetivos y capacidades.md:3:Palabras
-content/06b.Objetivos y capacidades.md:3:Situación
-content/06b.Objetivos y capacidades.md:3:SOA
-content/06b.Objetivos y capacidades.md:4:Autor
-content/06b.Objetivos y capacidades.md:5:Fuente
-content/06b.Objetivos y capacidades.md:7:Fase
-content/06b.Objetivos y capacidades.md:7:Gobierno
-content/06b.Objetivos y capacidades.md:7:SOA
-content/06b.Objetivos y capacidades.md:7:Vínculos
-content/06b.Objetivos y capacidades.md:11:Capacidades
-content/06b.Objetivos y capacidades.md:11:el
-content/06b.Objetivos y capacidades.md:11:FNA
-content/06b.Objetivos y capacidades.md:11:Gobierno
-content/06b.Objetivos y capacidades.md:11:SOA
-content/06b.Objetivos y capacidades.md:13:SOAs
+content/06a.Objetivos gobierno .md:1:Definición
+content/06a.Objetivos gobierno .md:1:gobierno
+content/06a.Objetivos gobierno .md:1:Gobierno
+content/06a.Objetivos gobierno .md:1:objetivos
+content/06a.Objetivos gobierno .md:1:SOA
+content/06a.Objetivos gobierno .md:1:SOA
+content/06a.Objetivos gobierno .md:1:Tema
+content/06a.Objetivos gobierno .md:3:Capacidades
+content/06a.Objetivos gobierno .md:3:clave
+content/06a.Objetivos gobierno .md:3:negocio
+content/06a.Objetivos gobierno .md:3:Palabras
+content/06a.Objetivos gobierno .md:3:Situación
+content/06a.Objetivos gobierno .md:3:SOA
+content/06a.Objetivos gobierno .md:4:Autor
+content/06a.Objetivos gobierno .md:5:Fuente
+content/06a.Objetivos gobierno .md:7:Fase
+content/06a.Objetivos gobierno .md:7:Gobierno
+content/06a.Objetivos gobierno .md:7:SOA
+content/06a.Objetivos gobierno .md:7:Vínculos
+content/06a.Objetivos gobierno .md:11:además
+content/06a.Objetivos gobierno .md:11:alcanzado
+content/06a.Objetivos gobierno .md:11:analizadas
+content/06a.Objetivos gobierno .md:11:anexo
+content/06a.Objetivos gobierno .md:11:Anexos
+content/06a.Objetivos gobierno .md:11:aplicaciones
+content/06a.Objetivos gobierno .md:11:carácter
+content/06a.Objetivos gobierno .md:11:complejidad
+content/06a.Objetivos gobierno .md:11:complementar
+content/06a.Objetivos gobierno .md:11:contraen
+content/06a.Objetivos gobierno .md:11:diagnóstico
+content/06a.Objetivos gobierno .md:11:el
+content/06a.Objetivos gobierno .md:11:el
+content/06a.Objetivos gobierno .md:11:entre
+content/06a.Objetivos gobierno .md:11:Esta
+content/06a.Objetivos gobierno .md:11:este
+content/06a.Objetivos gobierno .md:11:esto
+content/06a.Objetivos gobierno .md:11:Fase
+content/06a.Objetivos gobierno .md:11:Fase
+content/06a.Objetivos gobierno .md:11:figura
+content/06a.Objetivos gobierno .md:11:FNA
+content/06a.Objetivos gobierno .md:11:Fondo
+content/06a.Objetivos gobierno .md:11:Fondo
+content/06a.Objetivos gobierno .md:11:gobierno
+content/06a.Objetivos gobierno .md:11:infraestructura
+content/06a.Objetivos gobierno .md:11:niveles
+content/06a.Objetivos gobierno .md:11:obligatorio
+content/06a.Objetivos gobierno .md:11:otros
+content/06a.Objetivos gobierno .md:11:partes
+content/06a.Objetivos gobierno .md:11:por
+content/06a.Objetivos gobierno .md:11:procedimientos
+content/06a.Objetivos gobierno .md:11:procesos
+content/06a.Objetivos gobierno .md:11:Resumen
+content/06a.Objetivos gobierno .md:11:riesgos
+content/06a.Objetivos gobierno .md:11:servicios
+content/06a.Objetivos gobierno .md:11:sirve
+content/06a.Objetivos gobierno .md:11:SOA
+content/06a.Objetivos gobierno .md:11:tecnológico
+content/06a.Objetivos gobierno .md:11:ver
+content/06a.Objetivos gobierno .md:11:ver
+content/06a.Objetivos gobierno .md:13:cambios
+content/06a.Objetivos gobierno .md:13:causa
+content/06a.Objetivos gobierno .md:13:complejidad
+content/06a.Objetivos gobierno .md:13:condición
+content/06a.Objetivos gobierno .md:13:conocido
+content/06a.Objetivos gobierno .md:13:demostrado
+content/06a.Objetivos gobierno .md:13:dependencias
+content/06a.Objetivos gobierno .md:13:diagnóstico
+content/06a.Objetivos gobierno .md:13:dificultades
+content/06a.Objetivos gobierno .md:13:el
+content/06a.Objetivos gobierno .md:13:encontradas
+content/06a.Objetivos gobierno .md:13:esta
+content/06a.Objetivos gobierno .md:13:estamos
+content/06a.Objetivos gobierno .md:13:explícitamente
+content/06a.Objetivos gobierno .md:13:Fase
+content/06a.Objetivos gobierno .md:13:FNA
+content/06a.Objetivos gobierno .md:13:herramientas
+content/06a.Objetivos gobierno .md:13:impacto
+content/06a.Objetivos gobierno .md:13:incrementan
+content/06a.Objetivos gobierno .md:13:manejo
+content/06a.Objetivos gobierno .md:13:mayoría
+content/06a.Objetivos gobierno .md:13:muy
+content/06a.Objetivos gobierno .md:13:predecir
+content/06a.Objetivos gobierno .md:13:presente
+content/06a.Objetivos gobierno .md:13:problemáticas
+content/06a.Objetivos gobierno .md:13:refiriendo
+content/06a.Objetivos gobierno .md:13:servicios
+content/06a.Objetivos gobierno .md:13:SOA
+content/06a.Objetivos gobierno .md:13:sobreesfuerzos
+content/06a.Objetivos gobierno .md:13:soluciones
+content/06a.Objetivos gobierno .md:13:su
+content/06a.Objetivos gobierno .md:13:tecnológicas
+content/06a.Objetivos gobierno .md:15:agilidad
+content/06a.Objetivos gobierno .md:15:Arquitectura
+content/06a.Objetivos gobierno .md:15:complejidad
+content/06a.Objetivos gobierno .md:15:complicación
+content/06a.Objetivos gobierno .md:15:consiguiente
+content/06a.Objetivos gobierno .md:15:débil
+content/06a.Objetivos gobierno .md:15:diagnóstico
+content/06a.Objetivos gobierno .md:15:el
+content/06a.Objetivos gobierno .md:15:el
+content/06a.Objetivos gobierno .md:15:Empresarial
+content/06a.Objetivos gobierno .md:15:encuentran
+content/06a.Objetivos gobierno .md:15:esta
+content/06a.Objetivos gobierno .md:15:falta
+content/06a.Objetivos gobierno .md:15:Fase
+content/06a.Objetivos gobierno .md:15:Fase
+content/06a.Objetivos gobierno .md:15:figura
+content/06a.Objetivos gobierno .md:15:Fondo
+content/06a.Objetivos gobierno .md:15:fueron
+content/06a.Objetivos gobierno .md:15:funcionalidades
+content/06a.Objetivos gobierno .md:15:gobierno
+content/06a.Objetivos gobierno .md:15:gobierno
+content/06a.Objetivos gobierno .md:15:hace
+content/06a.Objetivos gobierno .md:15:imprecisión
+content/06a.Objetivos gobierno .md:15:introdución
+content/06a.Objetivos gobierno .md:15:Junto
+content/06a.Objetivos gobierno .md:15:levantadas
+content/06a.Objetivos gobierno .md:15:limitada
+content/06a.Objetivos gobierno .md:15:obligatoria
+content/06a.Objetivos gobierno .md:15:ocultamiento
+content/06a.Objetivos gobierno .md:15:OpenGroup
+content/06a.Objetivos gobierno .md:15:organizaciones
+content/06a.Objetivos gobierno .md:15:otras
+content/06a.Objetivos gobierno .md:15:por
+content/06a.Objetivos gobierno .md:15:por
+content/06a.Objetivos gobierno .md:15:por
+content/06a.Objetivos gobierno .md:15:por
+content/06a.Objetivos gobierno .md:15:presente
+content/06a.Objetivos gobierno .md:15:Resumen
+content/06a.Objetivos gobierno .md:15:señalan
+content/06a.Objetivos gobierno .md:15:sí
+content/06a.Objetivos gobierno .md:15:SOA
+content/06a.Objetivos gobierno .md:15:trazabilidad
+content/06a.Objetivos gobierno .md:15:ver
+content/06a.Objetivos gobierno .md:19:FNA
+content/06a.Objetivos gobierno .md:19:Gobierno
+content/06a.Objetivos gobierno .md:19:Objetivos
+content/06a.Objetivos gobierno .md:19:SOA
+content/06a.Objetivos gobierno .md:20:adopción
+content/06a.Objetivos gobierno .md:20:complejidad
+content/06a.Objetivos gobierno .md:20:debe
+content/06a.Objetivos gobierno .md:20:desarrollos
+content/06a.Objetivos gobierno .md:20:el
+content/06a.Objetivos gobierno .md:20:el
+content/06a.Objetivos gobierno .md:20:empresa
+content/06a.Objetivos gobierno .md:20:entre
+content/06a.Objetivos gobierno .md:20:estas
+content/06a.Objetivos gobierno .md:20:existentes
+content/06a.Objetivos gobierno .md:20:FNA
+content/06a.Objetivos gobierno .md:20:Fondo
+content/06a.Objetivos gobierno .md:20:gobierno
+content/06a.Objetivos gobierno .md:20:identificadas
+content/06a.Objetivos gobierno .md:20:implementaciones
+content/06a.Objetivos gobierno .md:20:incluir
+content/06a.Objetivos gobierno .md:20:mínimo
+content/06a.Objetivos gobierno .md:20:nivel
+content/06a.Objetivos gobierno .md:20:objetivos
+content/06a.Objetivos gobierno .md:20:orden
+content/06a.Objetivos gobierno .md:20:podemos
+content/06a.Objetivos gobierno .md:20:presente
+content/06a.Objetivos gobierno .md:20:problemáticas
+content/06a.Objetivos gobierno .md:20:propuesto
+content/06a.Objetivos gobierno .md:20:resumir
+content/06a.Objetivos gobierno .md:20:riesgo
+content/06a.Objetivos gobierno .md:20:siguientes
+content/06a.Objetivos gobierno .md:20:SOA
+content/06a.Objetivos gobierno .md:20:SOA
+content/06a.Objetivos gobierno .md:20:sus
+content/06a.Objetivos gobierno .md:20:tecnológico
+content/06a.Objetivos gobierno .md:20:tres
+content/06a.Objetivos gobierno .md:20:Una
+content/06a.Objetivos gobierno .md:20:vez
+content/06a.Objetivos gobierno .md:23:FNA
+content/06a.Objetivos gobierno .md:23:gobierno
+content/06a.Objetivos gobierno .md:23:Imagen
+content/06a.Objetivos gobierno .md:23:Objetivos
+content/06a.Objetivos gobierno .md:23:SOA
+content/06a.Objetivos gobierno .md:25:elaboración
+content/06a.Objetivos gobierno .md:25:propia
+content/06a.Objetivos gobierno .md:29:adopción
+content/06a.Objetivos gobierno .md:29:colaboración
+content/06a.Objetivos gobierno .md:29:componentes
+content/06a.Objetivos gobierno .md:29:constatar
+content/06a.Objetivos gobierno .md:29:controlar
+content/06a.Objetivos gobierno .md:29:cual
+content/06a.Objetivos gobierno .md:29:cual
+content/06a.Objetivos gobierno .md:29:diseños
+content/06a.Objetivos gobierno .md:29:el
+content/06a.Objetivos gobierno .md:29:estas
+content/06a.Objetivos gobierno .md:29:evaluar
+content/06a.Objetivos gobierno .md:29:externos
+content/06a.Objetivos gobierno .md:29:finalmente
+content/06a.Objetivos gobierno .md:29:hacer
+content/06a.Objetivos gobierno .md:29:herramientas
+content/06a.Objetivos gobierno .md:29:implementación
+content/06a.Objetivos gobierno .md:29:inversión
+content/06a.Objetivos gobierno .md:29:involucra
+content/06a.Objetivos gobierno .md:29:librerías
+content/06a.Objetivos gobierno .md:29:limitarse
+content/06a.Objetivos gobierno .md:29:nuevos
+content/06a.Objetivos gobierno .md:29:nuevos
+content/06a.Objetivos gobierno .md:29:podría
+content/06a.Objetivos gobierno .md:29:provedores
+content/06a.Objetivos gobierno .md:29:riesgo
+content/06a.Objetivos gobierno .md:29:seguimiento
+content/06a.Objetivos gobierno .md:29:servicios
+content/06a.Objetivos gobierno .md:29:SOA
+content/06a.Objetivos gobierno .md:29:tecnológica
+content/06a.Objetivos gobierno .md:29:tecnológico
+content/06a.Objetivos gobierno .md:29:terceros
+content/06a.Objetivos gobierno .md:29:trabajo
+content/06a.Objetivos gobierno .md:29:vías
+content/06a.Objetivos gobierno .md:29:Vigilancia
+content/06a.Objetivos gobierno .md:30:alivie
+content/06a.Objetivos gobierno .md:30:arquitectura
+content/06a.Objetivos gobierno .md:30:arquitectura
+content/06a.Objetivos gobierno .md:30:bien
+content/06a.Objetivos gobierno .md:30:cambios
+content/06a.Objetivos gobierno .md:30:catálogo
+content/06a.Objetivos gobierno .md:30:comité
+content/06a.Objetivos gobierno .md:30:complejidad
+content/06a.Objetivos gobierno .md:30:crecimiento
+content/06a.Objetivos gobierno .md:30:desarrolladores
+content/06a.Objetivos gobierno .md:30:desarrollo
+content/06a.Objetivos gobierno .md:30:diseño
+content/06a.Objetivos gobierno .md:30:distribución
+content/06a.Objetivos gobierno .md:30:el
+content/06a.Objetivos gobierno .md:30:el
+content/06a.Objetivos gobierno .md:30:el
+content/06a.Objetivos gobierno .md:30:el
+content/06a.Objetivos gobierno .md:30:empresa
+content/06a.Objetivos gobierno .md:30:fábricas
+content/06a.Objetivos gobierno .md:30:Fondo
+content/06a.Objetivos gobierno .md:30:guíe
+content/06a.Objetivos gobierno .md:30:impacto
+content/06a.Objetivos gobierno .md:30:medio
+content/06a.Objetivos gobierno .md:30:nuevos
+content/06a.Objetivos gobierno .md:30:por
+content/06a.Objetivos gobierno .md:30:por
+content/06a.Objetivos gobierno .md:30:preconstruídas
+content/06a.Objetivos gobierno .md:30:referencia
+content/06a.Objetivos gobierno .md:30:revisiones
+content/06a.Objetivos gobierno .md:30:SOA
+content/06a.Objetivos gobierno .md:30:soluciones
+content/06a.Objetivos gobierno .md:30:trabajan
+content/06a.Objetivos gobierno .md:30:Vigilar
+content/06a.Objetivos gobierno .md:31:análisis
+content/06a.Objetivos gobierno .md:31:aumento
+content/06a.Objetivos gobierno .md:31:diagnóstico
+content/06a.Objetivos gobierno .md:31:efectividad
+content/06a.Objetivos gobierno .md:31:el
+content/06a.Objetivos gobierno .md:31:el
+content/06a.Objetivos gobierno .md:31:Estudio
+content/06a.Objetivos gobierno .md:31:Fase
+content/06a.Objetivos gobierno .md:31:Fase
+content/06a.Objetivos gobierno .md:31:FNA
+content/06a.Objetivos gobierno .md:31:índices
+content/06a.Objetivos gobierno .md:31:índices
+content/06a.Objetivos gobierno .md:31:madurez
+content/06a.Objetivos gobierno .md:31:Madurez
+content/06a.Objetivos gobierno .md:31:perseguir
+content/06a.Objetivos gobierno .md:31:presente
+content/06a.Objetivos gobierno .md:31:presentes
+content/06a.Objetivos gobierno .md:31:realizado
+content/06a.Objetivos gobierno .md:31:SOA
+content/06a.Objetivos gobierno .md:31:SOA
+content/06a.Objetivos gobierno .md:31:ver
+content/06a.Objetivos gobierno .md:31:Vigilar
 content/06c.Riesgos tecnológicos SOA.md:1:FNA
 content/06c.Riesgos tecnológicos SOA.md:1:Gobierno
 content/06c.Riesgos tecnológicos SOA.md:1:Riesgos
@@ -1366,6 +1340,70 @@ content/06c.Riesgos tecnológicos SOA.md:36:particulares
 content/06c.Riesgos tecnológicos SOA.md:36:riesgo
 content/06c.Riesgos tecnológicos SOA.md:36:Riesgo
 content/06c.Riesgos tecnológicos SOA.md:38:archimate
+content/06d.Capacidades gobierno.md:1:Capacidades
+content/06d.Capacidades gobierno.md:1:Desarrollar
+content/06d.Capacidades gobierno.md:1:el
+content/06d.Capacidades gobierno.md:1:FNA
+content/06d.Capacidades gobierno.md:1:Gobierno
+content/06d.Capacidades gobierno.md:1:Gobierno
+content/06d.Capacidades gobierno.md:1:por
+content/06d.Capacidades gobierno.md:1:SOA
+content/06d.Capacidades gobierno.md:1:SOA
+content/06d.Capacidades gobierno.md:1:Tema
+content/06d.Capacidades gobierno.md:3:Capacidades
+content/06d.Capacidades gobierno.md:3:clave
+content/06d.Capacidades gobierno.md:3:negocio
+content/06d.Capacidades gobierno.md:3:Palabras
+content/06d.Capacidades gobierno.md:3:Situación
+content/06d.Capacidades gobierno.md:3:SOA
+content/06d.Capacidades gobierno.md:4:Autor
+content/06d.Capacidades gobierno.md:5:Fuente
+content/06d.Capacidades gobierno.md:7:Fase
+content/06d.Capacidades gobierno.md:7:Gobierno
+content/06d.Capacidades gobierno.md:7:SOA
+content/06d.Capacidades gobierno.md:7:Vínculos
+content/06d.Capacidades gobierno.md:11:Capacidades
+content/06d.Capacidades gobierno.md:11:Desarrollar
+content/06d.Capacidades gobierno.md:11:el
+content/06d.Capacidades gobierno.md:11:FNA
+content/06d.Capacidades gobierno.md:11:Gobierno
+content/06d.Capacidades gobierno.md:11:por
+content/06d.Capacidades gobierno.md:11:SOA
+content/06d.Capacidades gobierno.md:12:arquitectura
+content/06d.Capacidades gobierno.md:12:capacidades
+content/06d.Capacidades gobierno.md:12:Comité
+content/06d.Capacidades gobierno.md:12:directamente
+content/06d.Capacidades gobierno.md:12:el
+content/06d.Capacidades gobierno.md:12:encontrados
+content/06d.Capacidades gobierno.md:12:equipo
+content/06d.Capacidades gobierno.md:12:están
+content/06d.Capacidades gobierno.md:12:Fase
+content/06d.Capacidades gobierno.md:12:Fondo
+content/06d.Capacidades gobierno.md:12:Fondo
+content/06d.Capacidades gobierno.md:12:futuras
+content/06d.Capacidades gobierno.md:12:gobierno
+content/06d.Capacidades gobierno.md:12:gobierno
+content/06d.Capacidades gobierno.md:12:gobierno
+content/06d.Capacidades gobierno.md:12:gobierno
+content/06d.Capacidades gobierno.md:12:hacen
+content/06d.Capacidades gobierno.md:12:objeitvos
+content/06d.Capacidades gobierno.md:12:Objetivos
+content/06d.Capacidades gobierno.md:12:parte
+content/06d.Capacidades gobierno.md:12:por
+content/06d.Capacidades gobierno.md:12:relacionados
+content/06d.Capacidades gobierno.md:12:requeridas
+content/06d.Capacidades gobierno.md:12:responsabilidades
+content/06d.Capacidades gobierno.md:12:riesgos
+content/06d.Capacidades gobierno.md:12:Riesgos
+content/06d.Capacidades gobierno.md:12:SOA
+content/06d.Capacidades gobierno.md:12:SOA
+content/06d.Capacidades gobierno.md:12:SOA
+content/06d.Capacidades gobierno.md:12:SOA
+content/06d.Capacidades gobierno.md:12:tecnológicos
+content/06d.Capacidades gobierno.md:12:tecnológicos
+content/06d.Capacidades gobierno.md:12:ver
+content/06d.Capacidades gobierno.md:12:vez
+content/06d.Capacidades gobierno.md:17:SOAs
 content/06.Fase 2 PR6 Gobierno SOA.md:1:Fase
 content/06.Fase 2 PR6 Gobierno SOA.md:1:Objetivo
 content/06.Fase 2 PR6 Gobierno SOA.md:1:SOA
@@ -1541,11 +1579,11 @@ content/06.Fase 2 PR6 Gobierno SOA.md:26:Índices
 content/06.Fase 2 PR6 Gobierno SOA.md:26:Índices
 content/06.Fase 2 PR6 Gobierno SOA.md:26:madurez
 content/06.Fase 2 PR6 Gobierno SOA.md:26:SOA
-content/06n. Anexos.md:1:Anexos
-content/06n. Anexos.md:3:Área
-content/06n. Anexos.md:3:Área
-content/06n. Anexos.md:3:FNA
-content/06n. Anexos.md:3:Procedimiento
+content/06n.Anexos.md:1:Anexos
+content/06n.Anexos.md:3:Área
+content/06n.Anexos.md:3:Área
+content/06n.Anexos.md:3:FNA
+content/06n.Anexos.md:3:Procedimiento
 content/07a. Vigilancia avances de la industria.md:1:Avances
 content/07a. Vigilancia avances de la industria.md:1:Estrategia
 content/07a. Vigilancia avances de la industria.md:1:identificación
