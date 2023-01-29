@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-01-28'
+date-meta: '2023-01-29'
 author-meta:
 - Harry Wong
 - Stefanini.com
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-01-28" />
-  <meta name="citation_publication_date" content="2023-01-28" />
-  <meta property="article:published_time" content="2023-01-28" />
-  <meta name="dc.modified" content="2023-01-28T23:07:41+00:00" />
-  <meta property="article:modified_time" content="2023-01-28T23:07:41+00:00" />
+  <meta name="dc.date" content="2023-01-29" />
+  <meta name="citation_publication_date" content="2023-01-29" />
+  <meta property="article:published_time" content="2023-01-29" />
+  <meta name="dc.modified" content="2023-01-29T00:48:41+00:00" />
+  <meta property="article:modified_time" content="2023-01-29T00:48:41+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/ac30e7517b77558d81efdb7dee4d2ab568a0f2a0/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/ac30e7517b77558d81efdb7dee4d2ab568a0f2a0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/ac30e7517b77558d81efdb7dee4d2ab568a0f2a0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/0a4dbff759c0b7d747f0bd00a417a9661b410877/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/0a4dbff759c0b7d747f0bd00a417a9661b410877/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/0a4dbff759c0b7d747f0bd00a417a9661b410877/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -101,7 +101,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa|
 |Autor||
 |Fuente||
-|Version|ac30e75 del 28 Jan 2023|
+|Version|0a4dbff del 29 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -301,12 +301,12 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 *** 
 
 
-|Tema|Gobierno SOA: **Definición de objetivos y capacidades del gobierno SOA**
+|Tema|Gobierno SOA: **Definición de objetivos del gobierno SOA**
 |----|-------------------------------------------------|
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|ac30e75 del 28 Jan 2023|
+|Version|0a4dbff del 29 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -333,6 +333,72 @@ _Fuente: elaboración propia._
 2. Vigilar el crecimiento de la complejidad y el impacto de los nuevos cambios en la arquitectura de referencia SOA del Fondo, bien sea por medio de las revisiones de diseño, el comité de arquitectura, o por el desarrollo y distribución de un catálogo de soluciones preconstruídas que alivie y guíe a las fábricas y desarrolladores que trabajan para la empresa.
 3. Vigilar y perseguir el aumento de los índices de efectividad SOA presentes en los análisis de madurez como el realizado en la Fase 1 del diagnóstico presente (ver [02.Fase 2 PR2 Estudio Madurez SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)).
 
+
+
+|Tema|Gobierno SOA: **Definición de objetivos y capacidades del gobierno SOA**
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Situación actual, Capacidades de negocio|
+|Autor||
+|Fuente||
+|Version|0a4dbff del 29 Jan 2023|
+|Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
+
+<br>
+
+### Capacidades del FNA para el Gobierno SOA
+
+Enterprise architecture provides frameworks, tools, and techniques to assist organizations with the development and maintenance of their SOAs. Some of the key benefits that enterprise architecture provides include:
+
+	• Consistent abstractions of high-level strategies and deliverables to support planning and analysis
+	• Linkage of different perspectives to a single business problem (e.g., business, data, application, technology, abstract, concrete, etc.) providing a consistent model to address various domains and tests for completeness
+	• Identification of clear roadmaps to achieve future state
+	• Traceability that links IT and other assets to the business they support
+	• Support for impact assessment, risk/value analysis, and portfolio management
+	• Identified and documented principles, constraints, frameworks, patterns, and standards
+	• Governance frameworks and processes that ensure appropriate authority for decision-making
+
+
+
+
+
+|Tema|Gobierno SOA: **Riesgos tecnológicos del FNA**
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
+|Autor||
+|Fuente||
+|Version|0a4dbff del 29 Jan 2023|
+|Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
+
+<br>
+
+Los riesgos tecnológicos encontrados en el diagnóstco SOA de Fase 1 deben ser incorporados a las vigilancias del gobierno SOA propuesto. Los riesgos mencionados a continuación deben ser agregados a la matriz de gestión actual del Fondo, y gestionados por los métodos propios ya existentes.
+
+<br>
+
+### Riesgos Tecnológicos del Gobierno SOA del FNA
+El gobierno SOA del FNA debe buscar la capacidad para medir y gestionar (agregar a la lista de riesgos de la empresa) los riesgos que lo están afectando.
+
+* R1. Riesgo de agilidad limitada (ver imagen 1)
+* R2. Riesgo de baja orquestación SOA
+* R3. Riesgo de crecimiento de dependencias entre servicios SOA
+* R4. Riesgo de crecimiento de adaptadores particulares --opuesto al estándar-- (ver imagen 2)
+* R5. Riesgo de baja reutilización de servicios SOA
+* R6. Riesgo de permanencia de aplicaciones silos
+* R7. Riesgo de falta de trazabilidad para la evolución e implementación de los servicios SOA
+
+<br>
+
+![](images/ESB-IBM.png )
+[Imagen 1.]() Riesgo no. 1 y 2. Agilidad limitada por el proliferación de la copmlejidad en los servicios SOA del Fondo.
+
+_Fuente: elaboración propia, ae_fna_as_is.archimate._
+
+<br>
+
+![](images/CRM.png )
+[Imagen 1.]() Riesgo no. 4 y 5. Caso de CRM del FNA. Le afecta el riesgo de estándarización en la interoperabilidad, aumenta la cantidad de adaptadores particulares.
+
+_Fuente: ae_fna_as_is.archimate._
 
 
 ## Anexos 
@@ -374,7 +440,7 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|ac30e75 del 28 Jan 2023|
+|Version|0a4dbff del 29 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
