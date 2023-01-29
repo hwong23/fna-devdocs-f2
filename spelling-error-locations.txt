@@ -1,3 +1,10 @@
+content/00.caratula.md:8:Documentación
+content/00.caratula.md:8:proyecto
+content/00.caratula.md:14:continuación
+content/00.caratula.md:14:encuentra
+content/00.caratula.md:14:indicada
+content/00.caratula.md:14:versión
+content/00.caratula.md:24:Grupo
 content/05a.Comparativa FNA industria.md:1:Comparación
 content/05a.Comparativa FNA industria.md:1:Comparativa
 content/05a.Comparativa FNA industria.md:1:el
@@ -829,8 +836,9 @@ content/05a.Comparativa FNA industria.md:174:programado
 content/05a.Comparativa FNA industria.md:174:Sala
 content/05a.Comparativa FNA industria.md:174:salida
 content/05a.Comparativa FNA industria.md:174:sobre
-content/05.Fase 2 PR5 Comparativa FNA industria.md:1:Estado
 content/05.Fase 2 PR5 Comparativa FNA industria.md:1:Fase
+content/05.Fase 2 PR5 Comparativa FNA industria.md:1:FNA
+content/05.Fase 2 PR5 Comparativa FNA industria.md:1:Objetivo
 content/05.Fase 2 PR5 Comparativa FNA industria.md:1:SOA
 content/05.Fase 2 PR5 Comparativa FNA industria.md:2:Contenido
 content/05.Fase 2 PR5 Comparativa FNA industria.md:2:Contractuales
@@ -1605,6 +1613,7 @@ content/06d.Capacidades gobierno.md:42:opengroup
 content/06d.Capacidades gobierno.md:42:soa
 content/06d.Capacidades gobierno.md:42:togaf
 content/06.Fase 2 PR6 Gobierno SOA.md:1:Fase
+content/06.Fase 2 PR6 Gobierno SOA.md:1:FNA
 content/06.Fase 2 PR6 Gobierno SOA.md:1:Objetivo
 content/06.Fase 2 PR6 Gobierno SOA.md:1:SOA
 content/06.Fase 2 PR6 Gobierno SOA.md:2:Contenido
@@ -2176,6 +2185,7 @@ content/07a. Vigilancia avances de la industria.md:104:actualizan
 content/07a. Vigilancia avances de la industria.md:104:consistencia
 content/07a. Vigilancia avances de la industria.md:104:mediante
 content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:1:Fase
+content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:1:FNA
 content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:1:Objetivo
 content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:1:SOA
 content/07.Fase2 PR7 Vigilancia Tecnológica SOA.md:2:Contenido

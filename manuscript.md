@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-29" />
   <meta name="citation_publication_date" content="2023-01-29" />
   <meta property="article:published_time" content="2023-01-29" />
-  <meta name="dc.modified" content="2023-01-29T02:57:25+00:00" />
-  <meta property="article:modified_time" content="2023-01-29T02:57:25+00:00" />
+  <meta name="dc.modified" content="2023-01-29T03:35:57+00:00" />
+  <meta property="article:modified_time" content="2023-01-29T03:35:57+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/c9b56af9772d9ae6bf42249b59c435d244d8c5ca/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/c9b56af9772d9ae6bf42249b59c435d244d8c5ca/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/c9b56af9772d9ae6bf42249b59c435d244d8c5ca/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/350188a3a0f2192ae3af32837270906ceedd5ac0/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/350188a3a0f2192ae3af32837270906ceedd5ac0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/350188a3a0f2192ae3af32837270906ceedd5ac0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -62,7 +62,53 @@ manubot-requests-cache-path: ci/cache/requests-cache
 manubot-clear-requests-cache: false
 ...
 
-# Fase 1: Estado SOA Actual
+
+
+
+
+Documentación del proyecto 181-2020, E-Service, 
+([permalink](https://hwong23.github.io/fna-devdocs-f2/v/350188a3a0f2192ae3af32837270906ceedd5ac0/))
+versión indicada a continuación, se encuentra en 
+[350188a](https://github.com/hwong23/fna-devdocs-f2/tree/350188a3a0f2192ae3af32837270906ceedd5ac0)
+on January 29, 2023.
+
+
+
+## Grupo E-Service
+
+
+
++ **Harry Wong**
+  <br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [hwong23](https://github.com/hwong23)
+    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
+    [johndoe](https://twitter.com/johndoe)
+    <br>
+  <small>
+     Department of Something, University of Whatever
+     · Funded by Grant XXXXXXXX
+  </small>
+
++ **Stefanini.com**
+  ^[✉](#correspondence)^<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [hwong23](https://github.com/hwong23)
+    <br>
+  <small>
+     Department of Something, University of Whatever; Department of Whatever, University of Something
+  </small>
+
+
+
+***
+
+
+# Fase 2: SOA Objetivo FNA
 # Contenido de los Productos Contractuales, 181-2020
 
 <br>
@@ -101,7 +147,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa|
 |Autor||
 |Fuente||
-|Version|c9b56af del 29 Jan 2023|
+|Version|350188a del 29 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -271,7 +317,7 @@ Plan programado de adopción y migracións
 | Capacitación y entrenamiento | | Política de certificación con aliados claves de tecnología | Presupuesto interno para estimular el crecimiento academico, adicional hay enfoque en proyectos personales |
 | Plan programado de adopción y migraciones | || Politica de salida a producción completamente automatizada, bajo el principio de "Sala blanca", donde el proceso garantiza que no hay dudas sobre lo que sale a producción|
 
-# Fase 2: SOA Objetivo
+# Fase 2: SOA Objetivo FNA
 # Contenido de los Productos Contractuales, 181-2020
 
 # Producto 6: PR6. Gobierno SOA
@@ -306,7 +352,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|c9b56af del 29 Jan 2023|
+|Version|350188a del 29 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -340,7 +386,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|c9b56af del 29 Jan 2023|
+|Version|350188a del 29 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -382,7 +428,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|c9b56af del 29 Jan 2023|
+|Version|350188a del 29 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -427,7 +473,7 @@ _Fuente: www.opengroup.org/soa/source-book/togaf._
 ### Procedimiento del Área TI del FNA
 
 
-# Fase 2: SOA Objetivo
+# Fase 2: SOA Objetivo FNA
 # Contenido de los Productos Contractuales, 181-2020
 
 # Producto 7: PR7. Vigilancia Tecnológica SOA
@@ -461,7 +507,7 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|c9b56af del 29 Jan 2023|
+|Version|350188a del 29 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
