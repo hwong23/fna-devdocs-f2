@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-31" />
   <meta name="citation_publication_date" content="2023-01-31" />
   <meta property="article:published_time" content="2023-01-31" />
-  <meta name="dc.modified" content="2023-01-31T11:37:15+00:00" />
-  <meta property="article:modified_time" content="2023-01-31T11:37:15+00:00" />
+  <meta name="dc.modified" content="2023-01-31T11:59:55+00:00" />
+  <meta property="article:modified_time" content="2023-01-31T11:59:55+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/9d55ca93a26ba7a4bddd152f23664eacddbb78bc/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/9d55ca93a26ba7a4bddd152f23664eacddbb78bc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/9d55ca93a26ba7a4bddd152f23664eacddbb78bc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/19c9d018a8a294ad801a3183f339863a9cf79537/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/19c9d018a8a294ad801a3183f339863a9cf79537/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/19c9d018a8a294ad801a3183f339863a9cf79537/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,9 +67,9 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdocs-f2/v/9d55ca93a26ba7a4bddd152f23664eacddbb78bc/))
+([permalink](https://hwong23.github.io/fna-devdocs-f2/v/19c9d018a8a294ad801a3183f339863a9cf79537/))
 versión indicada a continuación, se encuentra en 
-[9d55ca9](https://github.com/hwong23/fna-devdocs-f2/tree/9d55ca93a26ba7a4bddd152f23664eacddbb78bc)
+[19c9d01](https://github.com/hwong23/fna-devdocs-f2/tree/19c9d018a8a294ad801a3183f339863a9cf79537)
 on January 31, 2023.
 
 
@@ -147,7 +147,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa|
 |Autor||
 |Fuente||
-|Version|9d55ca9 del 31 Jan 2023|
+|Version|19c9d01 del 31 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -352,7 +352,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|9d55ca9 del 31 Jan 2023|
+|Version|19c9d01 del 31 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -404,7 +404,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|9d55ca9 del 31 Jan 2023|
+|Version|19c9d01 del 31 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -463,7 +463,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|9d55ca9 del 31 Jan 2023|
+|Version|19c9d01 del 31 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -509,7 +509,7 @@ _Fuente: www.opengroup.org/soa/source-book/togaf._
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor||
 |Fuente||
-|Version|9d55ca9 del 31 Jan 2023|
+|Version|19c9d01 del 31 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -579,7 +579,7 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor||
 |Fuente||
-|Version|9d55ca9 del 31 Jan 2023|
+|Version|19c9d01 del 31 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -588,6 +588,8 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 
 
 ### Marco de Trabajo para Implementar Gobierno SOA en FNA
+Un Marco de trabajo adaptado para la organización que responde y gestiona los cambios evolutivos de la arquitectura de referencia SOA instalada en el Fondo. Esta versión del marco de gobierno, que necesariamente es una versión inicial para el FNA dado el resultado del análisis de madurez de la Fase 1, procura únicamente la gestión de cambios de la arquitectura. Versiones posteriores de este modelo puede y deberá abordar problemáticas señaladas por nuevos análisis.
+
 ![](images/modelo-gob.png)
 
 [Imagen 1.]() Actores del FNA necesarios para el Gobierno SOA.
@@ -596,7 +598,9 @@ _Fuente: elaboración propia._
 
 <br>
 
-### Equpo de Trabajo
+### Equpo de Trabajo para el Gobierno SOA del FNA
+El equipo de trabajo requerido conforme el modelo de gobierno SOA presentado aquí se compone del capital humano en los roles de gestión de la tecnología y arquitectura en los ámbitos de diseño de servicios y componentes, infraestructura tecnológica y redes, aplicaciones de solución y herramientas de software y del especialista de las estructuras de negocio e información. Estos recursos deben ser preferiblemente internos a la organización debido a la gestión de conocimiento del _activo más importante del gobierno SOA, la arquitectura de referencia y los vínculos de esta con los contextos de negocio y TI_.
+
 ![](images/equipo-gob.png)
 
 [Imagen 2.]() Roles y Grupos de trabajo del gobierno SOA del FNA.
@@ -606,12 +610,17 @@ _Fuente: elaboración propia._
 <br>
 
 ### Proceso de Gobierno SOA para el FNA
+Por último, el proceso de gobierno SOA es la conjugación de las dos condiciones aquí presentadas, el marco de trabajo (acciones y herramientas) y el equipo de trabajo, que son los recursos de capital humano y sus intereacciones. Este proceso adaptado al FNA busca alcanzar los objetivos SOA determinados por este diagnóstico. (ver imagen abajo)
+
 ![](images/proceso-gob.png)
 
-[Imagen 3.]() Actividades y relaciones del proceso principal de gobierno SOA para el FNA.
+[Imagen 3.]() Actividades y relaciones del proceso principal de gobierno SOA para el FNA. Relación con capacidades y objetivos SOA necesarios para el FNA.
 
 _Fuente: elaboración propia._
 
+<br>
+
+El proceso de gobierno SOA está en línea y apoya a las capacidades SOA que el FNA debe implementar. De esa manera, las capacidades SOA relacionadas con este proceso buscan lograr los objetivos SOA establecidos por esta consultoría y que el FNA debe perseguir.
 
 
 ## Anexos 
@@ -653,7 +662,7 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|9d55ca9 del 31 Jan 2023|
+|Version|19c9d01 del 31 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
