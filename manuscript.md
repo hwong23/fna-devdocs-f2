@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-31" />
   <meta name="citation_publication_date" content="2023-01-31" />
   <meta property="article:published_time" content="2023-01-31" />
-  <meta name="dc.modified" content="2023-01-31T03:45:49+00:00" />
-  <meta property="article:modified_time" content="2023-01-31T03:45:49+00:00" />
+  <meta name="dc.modified" content="2023-01-31T04:42:59+00:00" />
+  <meta property="article:modified_time" content="2023-01-31T04:42:59+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/e30ca49f9a1940d1303982584a5db251df5a32dc/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/e30ca49f9a1940d1303982584a5db251df5a32dc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/e30ca49f9a1940d1303982584a5db251df5a32dc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/a7188418024b8d23e87662c96641aca12e08b8fb/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/a7188418024b8d23e87662c96641aca12e08b8fb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/a7188418024b8d23e87662c96641aca12e08b8fb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,9 +67,9 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdocs-f2/v/e30ca49f9a1940d1303982584a5db251df5a32dc/))
+([permalink](https://hwong23.github.io/fna-devdocs-f2/v/a7188418024b8d23e87662c96641aca12e08b8fb/))
 versión indicada a continuación, se encuentra en 
-[e30ca49](https://github.com/hwong23/fna-devdocs-f2/tree/e30ca49f9a1940d1303982584a5db251df5a32dc)
+[a718841](https://github.com/hwong23/fna-devdocs-f2/tree/a7188418024b8d23e87662c96641aca12e08b8fb)
 on January 31, 2023.
 
 
@@ -147,7 +147,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa|
 |Autor||
 |Fuente||
-|Version|e30ca49 del 31 Jan 2023|
+|Version|a718841 del 31 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -352,7 +352,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|e30ca49 del 31 Jan 2023|
+|Version|a718841 del 31 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -404,7 +404,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|e30ca49 del 31 Jan 2023|
+|Version|a718841 del 31 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -463,7 +463,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|e30ca49 del 31 Jan 2023|
+|Version|a718841 del 31 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -509,7 +509,7 @@ _Fuente: www.opengroup.org/soa/source-book/togaf._
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor||
 |Fuente||
-|Version|e30ca49 del 31 Jan 2023|
+|Version|a718841 del 31 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -532,21 +532,26 @@ _Fuente: elaboración propia._
 
 
 ## Indicadores Complementarios del Gobierno SOA
-Los siguientes indicadores sirven de base de pirámide para el indicador principal. 
-
+Los siguientes indicadores han sido escogidos para atacar los problemas en la gestión de SOA encontrados en la Fase 1 del presente diagnóstico (ver [04b.Resumen Fase 1](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)). sirven de base de pirámide para el indicador principal. 
  
+1. Índice de alineación de la arquitectura de referencia SOA con las capacidades de negocio
+1. Índice de conformidad de los servicios SOA a los estándares de diseño orientados a servicio 
+1. Índice de reutilización y composición de los servicios SOA del portafolio FNA
 
+<br>
 
+Cada uno de estos indicadores debe ser soportados con fuentes de información existentes o por desarrollar, que aparecen en la imagen como _Objeto de información_.
 
+![](images/indices.png)
 
+[Imagen 1.]() Indicador principal del gobierno SOA: KPI de Vínculo Contexto Negocio-SOA. Identifica y justifica los cambios SOA en relación al Valor de negocio.
 
-***
-El principal aspecto que determina 
-Through its linking of the business context to information technology, enterprise architecture readily identifies and provides justification for the cost of change programs in relation to the business value to be derived from the effort. Enterprise architecture may provide the context and analysis capabilities to support:
+_Fuente: elaboración propia._
 
-Showing how SOA solutions can be effectively architected to support business capabilities
-Showing which services should be built and which should be re-used
-Showing how services should be designed
+<br>
+
+Algunas fuentes u objetos de información sugeridas y ya existentes en el FNA son, por ejemplo, el número y tipo de requerimientos registrados en las herramienta de gestión, como Clear Case (IBM); los resultados de las evaluaciones de calidad de las implementaciones de los proveedores del Fondo; o el número de casos correctivos en un período contenidos en el Service Manager, entre otros.
+
 
 ## Anexos 
 
@@ -587,7 +592,7 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|e30ca49 del 31 Jan 2023|
+|Version|a718841 del 31 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
