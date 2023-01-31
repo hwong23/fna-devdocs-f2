@@ -1810,306 +1810,407 @@ content/06d.Capacidades gobierno.md:41:TOGAF
 content/06d.Capacidades gobierno.md:43:opengroup
 content/06d.Capacidades gobierno.md:43:soa
 content/06d.Capacidades gobierno.md:43:togaf
-content/06e..Mejora de los índices de efectividad SOA.md:1:efectividad
-content/06e..Mejora de los índices de efectividad SOA.md:1:Gobierno
-content/06e..Mejora de los índices de efectividad SOA.md:1:indicadores
-content/06e..Mejora de los índices de efectividad SOA.md:1:madurez
-content/06e..Mejora de los índices de efectividad SOA.md:1:Mejora
-content/06e..Mejora de los índices de efectividad SOA.md:1:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:1:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:1:Tema
-content/06e..Mejora de los índices de efectividad SOA.md:3:clave
-content/06e..Mejora de los índices de efectividad SOA.md:3:Eficacia
-content/06e..Mejora de los índices de efectividad SOA.md:3:Inversión
-content/06e..Mejora de los índices de efectividad SOA.md:3:KPI
-content/06e..Mejora de los índices de efectividad SOA.md:3:Palabras
-content/06e..Mejora de los índices de efectividad SOA.md:3:Proceso
-content/06e..Mejora de los índices de efectividad SOA.md:3:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:3:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:4:Autor
-content/06e..Mejora de los índices de efectividad SOA.md:5:Fuente
-content/06e..Mejora de los índices de efectividad SOA.md:7:Fase
-content/06e..Mejora de los índices de efectividad SOA.md:7:Gobierno
-content/06e..Mejora de los índices de efectividad SOA.md:7:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:7:Vínculos
-content/06e..Mejora de los índices de efectividad SOA.md:11:Efectividad
-content/06e..Mejora de los índices de efectividad SOA.md:11:Gobierno
-content/06e..Mejora de los índices de efectividad SOA.md:11:Indicadores
-content/06e..Mejora de los índices de efectividad SOA.md:11:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:12:activo
-content/06e..Mejora de los índices de efectividad SOA.md:12:activos
-content/06e..Mejora de los índices de efectividad SOA.md:12:activos
-content/06e..Mejora de los índices de efectividad SOA.md:12:actualidad
-content/06e..Mejora de los índices de efectividad SOA.md:12:alcance
-content/06e..Mejora de los índices de efectividad SOA.md:12:allá
-content/06e..Mejora de los índices de efectividad SOA.md:12:análisis
-content/06e..Mejora de los índices de efectividad SOA.md:12:arquitectura
-content/06e..Mejora de los índices de efectividad SOA.md:12:aunque
-content/06e..Mejora de los índices de efectividad SOA.md:12:clave
-content/06e..Mejora de los índices de efectividad SOA.md:12:contexto
-content/06e..Mejora de los índices de efectividad SOA.md:12:contextos
-content/06e..Mejora de los índices de efectividad SOA.md:12:desarrollado
-content/06e..Mejora de los índices de efectividad SOA.md:12:diagnóstico
-content/06e..Mejora de los índices de efectividad SOA.md:12:ejercicio
-content/06e..Mejora de los índices de efectividad SOA.md:12:el
-content/06e..Mejora de los índices de efectividad SOA.md:12:el
-content/06e..Mejora de los índices de efectividad SOA.md:12:el
-content/06e..Mejora de los índices de efectividad SOA.md:12:el
-content/06e..Mejora de los índices de efectividad SOA.md:12:el
-content/06e..Mejora de los índices de efectividad SOA.md:12:entre
-content/06e..Mejora de los índices de efectividad SOA.md:12:escapen
-content/06e..Mejora de los índices de efectividad SOA.md:12:este
-content/06e..Mejora de los índices de efectividad SOA.md:12:este
-content/06e..Mejora de los índices de efectividad SOA.md:12:Esto
-content/06e..Mejora de los índices de efectividad SOA.md:12:existencia
-content/06e..Mejora de los índices de efectividad SOA.md:12:Fase
-content/06e..Mejora de los índices de efectividad SOA.md:12:FNA
-content/06e..Mejora de los índices de efectividad SOA.md:12:FNA
-content/06e..Mejora de los índices de efectividad SOA.md:12:gobierno
-content/06e..Mejora de los índices de efectividad SOA.md:12:indicador
-content/06e..Mejora de los índices de efectividad SOA.md:12:índices
-content/06e..Mejora de los índices de efectividad SOA.md:12:índices
-content/06e..Mejora de los índices de efectividad SOA.md:12:infraestructura
-content/06e..Mejora de los índices de efectividad SOA.md:12:madurez
-content/06e..Mejora de los índices de efectividad SOA.md:12:mantener
-content/06e..Mejora de los índices de efectividad SOA.md:12:Más
-content/06e..Mejora de los índices de efectividad SOA.md:12:negocio
-content/06e..Mejora de los índices de efectividad SOA.md:12:negocio
-content/06e..Mejora de los índices de efectividad SOA.md:12:Operaciones
-content/06e..Mejora de los índices de efectividad SOA.md:12:por
-content/06e..Mejora de los índices de efectividad SOA.md:12:propuestos
-content/06e..Mejora de los índices de efectividad SOA.md:12:referencia
-content/06e..Mejora de los índices de efectividad SOA.md:12:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:12:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:12:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:12:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:12:su
-content/06e..Mejora de los índices de efectividad SOA.md:12:sus
-content/06e..Mejora de los índices de efectividad SOA.md:12:tanto
-content/06e..Mejora de los índices de efectividad SOA.md:12:tecnología
-content/06e..Mejora de los índices de efectividad SOA.md:12:todos
-content/06e..Mejora de los índices de efectividad SOA.md:12:vicepresidencias
-content/06e..Mejora de los índices de efectividad SOA.md:12:vínculo
-content/06e..Mejora de los índices de efectividad SOA.md:12:vínculos
-content/06e..Mejora de los índices de efectividad SOA.md:14:cambio
-content/06e..Mejora de los índices de efectividad SOA.md:14:cambio
-content/06e..Mejora de los índices de efectividad SOA.md:14:contextos
-content/06e..Mejora de los índices de efectividad SOA.md:14:costos
-content/06e..Mejora de los índices de efectividad SOA.md:14:decisiones
-content/06e..Mejora de los índices de efectividad SOA.md:14:disciplinas
-content/06e..Mejora de los índices de efectividad SOA.md:14:el
-content/06e..Mejora de los índices de efectividad SOA.md:14:Este
-content/06e..Mejora de los índices de efectividad SOA.md:14:gestión
-content/06e..Mejora de los índices de efectividad SOA.md:14:gestión
-content/06e..Mejora de los índices de efectividad SOA.md:14:gobierno
-content/06e..Mejora de los índices de efectividad SOA.md:14:indicador
-content/06e..Mejora de los índices de efectividad SOA.md:14:inversión
-content/06e..Mejora de los índices de efectividad SOA.md:14:justifica
-content/06e..Mejora de los índices de efectividad SOA.md:14:mejora
-content/06e..Mejora de los índices de efectividad SOA.md:14:negocio
-content/06e..Mejora de los índices de efectividad SOA.md:14:negocio
-content/06e..Mejora de los índices de efectividad SOA.md:14:obsolutamente
-content/06e..Mejora de los índices de efectividad SOA.md:14:otras
-content/06e..Mejora de los índices de efectividad SOA.md:14:otras
-content/06e..Mejora de los índices de efectividad SOA.md:14:procesos
-content/06e..Mejora de los índices de efectividad SOA.md:14:propias
-content/06e..Mejora de los índices de efectividad SOA.md:14:pueda
-content/06e..Mejora de los índices de efectividad SOA.md:14:recorte
-content/06e..Mejora de los índices de efectividad SOA.md:14:relación
-content/06e..Mejora de los índices de efectividad SOA.md:14:Sirve
-content/06e..Mejora de los índices de efectividad SOA.md:14:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:14:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:14:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:14:también
-content/06e..Mejora de los índices de efectividad SOA.md:14:tecnología
-content/06e..Mejora de los índices de efectividad SOA.md:14:tecnología
-content/06e..Mejora de los índices de efectividad SOA.md:14:todas
-content/06e..Mejora de los índices de efectividad SOA.md:14:útil
-content/06e..Mejora de los índices de efectividad SOA.md:14:vínculo
-content/06e..Mejora de los índices de efectividad SOA.md:15:además
-content/06e..Mejora de los índices de efectividad SOA.md:15:análisis
-content/06e..Mejora de los índices de efectividad SOA.md:15:confiabilidad
-content/06e..Mejora de los índices de efectividad SOA.md:15:el
-content/06e..Mejora de los índices de efectividad SOA.md:15:el
-content/06e..Mejora de los índices de efectividad SOA.md:15:estas
-content/06e..Mejora de los índices de efectividad SOA.md:15:este
-content/06e..Mejora de los índices de efectividad SOA.md:15:Fondo
-content/06e..Mejora de los índices de efectividad SOA.md:15:gobierno
-content/06e..Mejora de los índices de efectividad SOA.md:15:indicador
-content/06e..Mejora de los índices de efectividad SOA.md:15:medir
-content/06e..Mejora de los índices de efectividad SOA.md:15:modelos
-content/06e..Mejora de los índices de efectividad SOA.md:15:por
-content/06e..Mejora de los índices de efectividad SOA.md:15:razones
-content/06e..Mejora de los índices de efectividad SOA.md:15:realicen
-content/06e..Mejora de los índices de efectividad SOA.md:15:Sirve
-content/06e..Mejora de los índices de efectividad SOA.md:15:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:15:sobre
-content/06e..Mejora de los índices de efectividad SOA.md:17:activo
-content/06e..Mejora de los índices de efectividad SOA.md:17:actualización
-content/06e..Mejora de los índices de efectividad SOA.md:17:arquitectura
-content/06e..Mejora de los índices de efectividad SOA.md:17:aumentará
-content/06e..Mejora de los índices de efectividad SOA.md:17:cantidad
-content/06e..Mejora de los índices de efectividad SOA.md:17:clave
-content/06e..Mejora de los índices de efectividad SOA.md:17:Contexto
-content/06e..Mejora de los índices de efectividad SOA.md:17:contextos
-content/06e..Mejora de los índices de efectividad SOA.md:17:debe
-content/06e..Mejora de los índices de efectividad SOA.md:17:el
-content/06e..Mejora de los índices de efectividad SOA.md:17:el
-content/06e..Mejora de los índices de efectividad SOA.md:17:el
-content/06e..Mejora de los índices de efectividad SOA.md:17:el
-content/06e..Mejora de los índices de efectividad SOA.md:17:el
-content/06e..Mejora de los índices de efectividad SOA.md:17:el
-content/06e..Mejora de los índices de efectividad SOA.md:17:este
-content/06e..Mejora de los índices de efectividad SOA.md:17:este
-content/06e..Mejora de los índices de efectividad SOA.md:17:FNA
-content/06e..Mejora de los índices de efectividad SOA.md:17:FNA
-content/06e..Mejora de los índices de efectividad SOA.md:17:gestión
-content/06e..Mejora de los índices de efectividad SOA.md:17:importante
-content/06e..Mejora de los índices de efectividad SOA.md:17:indicador
-content/06e..Mejora de los índices de efectividad SOA.md:17:indicador
-content/06e..Mejora de los índices de efectividad SOA.md:17:indicador
-content/06e..Mejora de los índices de efectividad SOA.md:17:información
-content/06e..Mejora de los índices de efectividad SOA.md:17:mantener
-content/06e..Mejora de los índices de efectividad SOA.md:17:mantenimiento
-content/06e..Mejora de los índices de efectividad SOA.md:17:más
-content/06e..Mejora de los índices de efectividad SOA.md:17:medida
-content/06e..Mejora de los índices de efectividad SOA.md:17:Negocio
-content/06e..Mejora de los índices de efectividad SOA.md:17:opeaciones
-content/06e..Mejora de los índices de efectividad SOA.md:17:puntaje
-content/06e..Mejora de los índices de efectividad SOA.md:17:recurrir
-content/06e..Mejora de los índices de efectividad SOA.md:17:referidos
-content/06e..Mejora de los índices de efectividad SOA.md:17:repositorio
-content/06e..Mejora de los índices de efectividad SOA.md:17:repositorio
-content/06e..Mejora de los índices de efectividad SOA.md:17:repositorio
-content/06e..Mejora de los índices de efectividad SOA.md:17:será
-content/06e..Mejora de los índices de efectividad SOA.md:17:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:17:todas
-content/06e..Mejora de los índices de efectividad SOA.md:17:todos
-content/06e..Mejora de los índices de efectividad SOA.md:17:vez
-content/06e..Mejora de los índices de efectividad SOA.md:17:Vínculo
-content/06e..Mejora de los índices de efectividad SOA.md:21:cambios
-content/06e..Mejora de los índices de efectividad SOA.md:21:Contexto
-content/06e..Mejora de los índices de efectividad SOA.md:21:gobierno
-content/06e..Mejora de los índices de efectividad SOA.md:21:Identifica
-content/06e..Mejora de los índices de efectividad SOA.md:21:Imagen
-content/06e..Mejora de los índices de efectividad SOA.md:21:Indicador
-content/06e..Mejora de los índices de efectividad SOA.md:21:justifica
-content/06e..Mejora de los índices de efectividad SOA.md:21:KPI
-content/06e..Mejora de los índices de efectividad SOA.md:21:negocio
-content/06e..Mejora de los índices de efectividad SOA.md:21:Negocio
-content/06e..Mejora de los índices de efectividad SOA.md:21:relación
-content/06e..Mejora de los índices de efectividad SOA.md:21:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:21:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:21:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:21:Vínculo
-content/06e..Mejora de los índices de efectividad SOA.md:23:elaboración
-content/06e..Mejora de los índices de efectividad SOA.md:23:propia
-content/06e..Mejora de los índices de efectividad SOA.md:28:Complementarios
-content/06e..Mejora de los índices de efectividad SOA.md:28:Gobierno
-content/06e..Mejora de los índices de efectividad SOA.md:28:Indicadores
-content/06e..Mejora de los índices de efectividad SOA.md:28:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:29:atacar
-content/06e..Mejora de los índices de efectividad SOA.md:29:diagnóstico
-content/06e..Mejora de los índices de efectividad SOA.md:29:el
-content/06e..Mejora de los índices de efectividad SOA.md:29:encontrados
-content/06e..Mejora de los índices de efectividad SOA.md:29:escogidos
-content/06e..Mejora de los índices de efectividad SOA.md:29:Fase
-content/06e..Mejora de los índices de efectividad SOA.md:29:Fase
-content/06e..Mejora de los índices de efectividad SOA.md:29:gestión
-content/06e..Mejora de los índices de efectividad SOA.md:29:indicador
-content/06e..Mejora de los índices de efectividad SOA.md:29:indicadores
-content/06e..Mejora de los índices de efectividad SOA.md:29:pirámide
-content/06e..Mejora de los índices de efectividad SOA.md:29:presente
-content/06e..Mejora de los índices de efectividad SOA.md:29:problemas
-content/06e..Mejora de los índices de efectividad SOA.md:29:Resumen
-content/06e..Mejora de los índices de efectividad SOA.md:29:sido
-content/06e..Mejora de los índices de efectividad SOA.md:29:siguientes
-content/06e..Mejora de los índices de efectividad SOA.md:29:sirven
-content/06e..Mejora de los índices de efectividad SOA.md:29:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:29:ver
-content/06e..Mejora de los índices de efectividad SOA.md:31:alineación
-content/06e..Mejora de los índices de efectividad SOA.md:31:arquitectura
-content/06e..Mejora de los índices de efectividad SOA.md:31:capacidades
-content/06e..Mejora de los índices de efectividad SOA.md:31:Índice
-content/06e..Mejora de los índices de efectividad SOA.md:31:negocio
-content/06e..Mejora de los índices de efectividad SOA.md:31:referencia
-content/06e..Mejora de los índices de efectividad SOA.md:31:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:32:conformidad
-content/06e..Mejora de los índices de efectividad SOA.md:32:diseño
-content/06e..Mejora de los índices de efectividad SOA.md:32:estándares
-content/06e..Mejora de los índices de efectividad SOA.md:32:Índice
-content/06e..Mejora de los índices de efectividad SOA.md:32:orientados
-content/06e..Mejora de los índices de efectividad SOA.md:32:servicio
-content/06e..Mejora de los índices de efectividad SOA.md:32:servicios
-content/06e..Mejora de los índices de efectividad SOA.md:32:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:33:composición
-content/06e..Mejora de los índices de efectividad SOA.md:33:FNA
-content/06e..Mejora de los índices de efectividad SOA.md:33:Índice
-content/06e..Mejora de los índices de efectividad SOA.md:33:portafolio
-content/06e..Mejora de los índices de efectividad SOA.md:33:reutilización
-content/06e..Mejora de los índices de efectividad SOA.md:33:servicios
-content/06e..Mejora de los índices de efectividad SOA.md:33:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:37:aparecen
-content/06e..Mejora de los índices de efectividad SOA.md:37:Cada
-content/06e..Mejora de los índices de efectividad SOA.md:37:debe
-content/06e..Mejora de los índices de efectividad SOA.md:37:desarrollar
-content/06e..Mejora de los índices de efectividad SOA.md:37:estos
-content/06e..Mejora de los índices de efectividad SOA.md:37:existentes
-content/06e..Mejora de los índices de efectividad SOA.md:37:imagen
-content/06e..Mejora de los índices de efectividad SOA.md:37:indicadores
-content/06e..Mejora de los índices de efectividad SOA.md:37:información
-content/06e..Mejora de los índices de efectividad SOA.md:37:por
-content/06e..Mejora de los índices de efectividad SOA.md:37:ser
-content/06e..Mejora de los índices de efectividad SOA.md:37:soportados
-content/06e..Mejora de los índices de efectividad SOA.md:37:uno
-content/06e..Mejora de los índices de efectividad SOA.md:41:cambios
-content/06e..Mejora de los índices de efectividad SOA.md:41:Contexto
-content/06e..Mejora de los índices de efectividad SOA.md:41:gobierno
-content/06e..Mejora de los índices de efectividad SOA.md:41:Identifica
-content/06e..Mejora de los índices de efectividad SOA.md:41:Imagen
-content/06e..Mejora de los índices de efectividad SOA.md:41:Indicador
-content/06e..Mejora de los índices de efectividad SOA.md:41:justifica
-content/06e..Mejora de los índices de efectividad SOA.md:41:KPI
-content/06e..Mejora de los índices de efectividad SOA.md:41:negocio
-content/06e..Mejora de los índices de efectividad SOA.md:41:Negocio
-content/06e..Mejora de los índices de efectividad SOA.md:41:relación
-content/06e..Mejora de los índices de efectividad SOA.md:41:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:41:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:41:SOA
-content/06e..Mejora de los índices de efectividad SOA.md:41:Vínculo
-content/06e..Mejora de los índices de efectividad SOA.md:43:elaboración
-content/06e..Mejora de los índices de efectividad SOA.md:43:propia
-content/06e..Mejora de los índices de efectividad SOA.md:47:Algunas
-content/06e..Mejora de los índices de efectividad SOA.md:47:calidad
-content/06e..Mejora de los índices de efectividad SOA.md:47:casos
-content/06e..Mejora de los índices de efectividad SOA.md:47:contenidos
-content/06e..Mejora de los índices de efectividad SOA.md:47:correctivos
-content/06e..Mejora de los índices de efectividad SOA.md:47:ejemplo
-content/06e..Mejora de los índices de efectividad SOA.md:47:el
-content/06e..Mejora de los índices de efectividad SOA.md:47:el
-content/06e..Mejora de los índices de efectividad SOA.md:47:el
-content/06e..Mejora de los índices de efectividad SOA.md:47:el
-content/06e..Mejora de los índices de efectividad SOA.md:47:entre
-content/06e..Mejora de los índices de efectividad SOA.md:47:evaluaciones
-content/06e..Mejora de los índices de efectividad SOA.md:47:existentes
-content/06e..Mejora de los índices de efectividad SOA.md:47:FNA
-content/06e..Mejora de los índices de efectividad SOA.md:47:Fondo
-content/06e..Mejora de los índices de efectividad SOA.md:47:gestión
-content/06e..Mejora de los índices de efectividad SOA.md:47:herramienta
-content/06e..Mejora de los índices de efectividad SOA.md:47:implementaciones
-content/06e..Mejora de los índices de efectividad SOA.md:47:información
-content/06e..Mejora de los índices de efectividad SOA.md:47:número
-content/06e..Mejora de los índices de efectividad SOA.md:47:número
-content/06e..Mejora de los índices de efectividad SOA.md:47:objetos
-content/06e..Mejora de los índices de efectividad SOA.md:47:otros
-content/06e..Mejora de los índices de efectividad SOA.md:47:período
-content/06e..Mejora de los índices de efectividad SOA.md:47:por
-content/06e..Mejora de los índices de efectividad SOA.md:47:proveedores
-content/06e..Mejora de los índices de efectividad SOA.md:47:registrados
-content/06e..Mejora de los índices de efectividad SOA.md:47:requerimientos
-content/06e..Mejora de los índices de efectividad SOA.md:47:resultados
-content/06e..Mejora de los índices de efectividad SOA.md:47:sugeridas
-content/06e..Mejora de los índices de efectividad SOA.md:47:tipo
+content/06e.Índices de efectividad SOA.md:1:efectividad
+content/06e.Índices de efectividad SOA.md:1:Gobierno
+content/06e.Índices de efectividad SOA.md:1:indicadores
+content/06e.Índices de efectividad SOA.md:1:madurez
+content/06e.Índices de efectividad SOA.md:1:Mejora
+content/06e.Índices de efectividad SOA.md:1:SOA
+content/06e.Índices de efectividad SOA.md:1:SOA
+content/06e.Índices de efectividad SOA.md:1:Tema
+content/06e.Índices de efectividad SOA.md:3:clave
+content/06e.Índices de efectividad SOA.md:3:Eficacia
+content/06e.Índices de efectividad SOA.md:3:Inversión
+content/06e.Índices de efectividad SOA.md:3:KPI
+content/06e.Índices de efectividad SOA.md:3:Palabras
+content/06e.Índices de efectividad SOA.md:3:Proceso
+content/06e.Índices de efectividad SOA.md:3:SOA
+content/06e.Índices de efectividad SOA.md:3:SOA
+content/06e.Índices de efectividad SOA.md:4:Autor
+content/06e.Índices de efectividad SOA.md:5:Fuente
+content/06e.Índices de efectividad SOA.md:7:Fase
+content/06e.Índices de efectividad SOA.md:7:Gobierno
+content/06e.Índices de efectividad SOA.md:7:SOA
+content/06e.Índices de efectividad SOA.md:7:Vínculos
+content/06e.Índices de efectividad SOA.md:11:Efectividad
+content/06e.Índices de efectividad SOA.md:11:Gobierno
+content/06e.Índices de efectividad SOA.md:11:Indicadores
+content/06e.Índices de efectividad SOA.md:11:SOA
+content/06e.Índices de efectividad SOA.md:12:activo
+content/06e.Índices de efectividad SOA.md:12:activos
+content/06e.Índices de efectividad SOA.md:12:activos
+content/06e.Índices de efectividad SOA.md:12:actualidad
+content/06e.Índices de efectividad SOA.md:12:alcance
+content/06e.Índices de efectividad SOA.md:12:allá
+content/06e.Índices de efectividad SOA.md:12:análisis
+content/06e.Índices de efectividad SOA.md:12:arquitectura
+content/06e.Índices de efectividad SOA.md:12:aunque
+content/06e.Índices de efectividad SOA.md:12:clave
+content/06e.Índices de efectividad SOA.md:12:contexto
+content/06e.Índices de efectividad SOA.md:12:contextos
+content/06e.Índices de efectividad SOA.md:12:desarrollado
+content/06e.Índices de efectividad SOA.md:12:diagnóstico
+content/06e.Índices de efectividad SOA.md:12:ejercicio
+content/06e.Índices de efectividad SOA.md:12:el
+content/06e.Índices de efectividad SOA.md:12:el
+content/06e.Índices de efectividad SOA.md:12:el
+content/06e.Índices de efectividad SOA.md:12:el
+content/06e.Índices de efectividad SOA.md:12:el
+content/06e.Índices de efectividad SOA.md:12:entre
+content/06e.Índices de efectividad SOA.md:12:escapen
+content/06e.Índices de efectividad SOA.md:12:este
+content/06e.Índices de efectividad SOA.md:12:este
+content/06e.Índices de efectividad SOA.md:12:Esto
+content/06e.Índices de efectividad SOA.md:12:existencia
+content/06e.Índices de efectividad SOA.md:12:Fase
+content/06e.Índices de efectividad SOA.md:12:FNA
+content/06e.Índices de efectividad SOA.md:12:FNA
+content/06e.Índices de efectividad SOA.md:12:gobierno
+content/06e.Índices de efectividad SOA.md:12:indicador
+content/06e.Índices de efectividad SOA.md:12:índices
+content/06e.Índices de efectividad SOA.md:12:índices
+content/06e.Índices de efectividad SOA.md:12:infraestructura
+content/06e.Índices de efectividad SOA.md:12:madurez
+content/06e.Índices de efectividad SOA.md:12:mantener
+content/06e.Índices de efectividad SOA.md:12:Más
+content/06e.Índices de efectividad SOA.md:12:negocio
+content/06e.Índices de efectividad SOA.md:12:negocio
+content/06e.Índices de efectividad SOA.md:12:Operaciones
+content/06e.Índices de efectividad SOA.md:12:por
+content/06e.Índices de efectividad SOA.md:12:propuestos
+content/06e.Índices de efectividad SOA.md:12:referencia
+content/06e.Índices de efectividad SOA.md:12:SOA
+content/06e.Índices de efectividad SOA.md:12:SOA
+content/06e.Índices de efectividad SOA.md:12:SOA
+content/06e.Índices de efectividad SOA.md:12:SOA
+content/06e.Índices de efectividad SOA.md:12:su
+content/06e.Índices de efectividad SOA.md:12:sus
+content/06e.Índices de efectividad SOA.md:12:tanto
+content/06e.Índices de efectividad SOA.md:12:tecnología
+content/06e.Índices de efectividad SOA.md:12:todos
+content/06e.Índices de efectividad SOA.md:12:vicepresidencias
+content/06e.Índices de efectividad SOA.md:12:vínculo
+content/06e.Índices de efectividad SOA.md:12:vínculos
+content/06e.Índices de efectividad SOA.md:14:cambio
+content/06e.Índices de efectividad SOA.md:14:cambio
+content/06e.Índices de efectividad SOA.md:14:contextos
+content/06e.Índices de efectividad SOA.md:14:costos
+content/06e.Índices de efectividad SOA.md:14:decisiones
+content/06e.Índices de efectividad SOA.md:14:disciplinas
+content/06e.Índices de efectividad SOA.md:14:el
+content/06e.Índices de efectividad SOA.md:14:Este
+content/06e.Índices de efectividad SOA.md:14:gestión
+content/06e.Índices de efectividad SOA.md:14:gestión
+content/06e.Índices de efectividad SOA.md:14:gobierno
+content/06e.Índices de efectividad SOA.md:14:indicador
+content/06e.Índices de efectividad SOA.md:14:inversión
+content/06e.Índices de efectividad SOA.md:14:justifica
+content/06e.Índices de efectividad SOA.md:14:mejora
+content/06e.Índices de efectividad SOA.md:14:negocio
+content/06e.Índices de efectividad SOA.md:14:negocio
+content/06e.Índices de efectividad SOA.md:14:obsolutamente
+content/06e.Índices de efectividad SOA.md:14:otras
+content/06e.Índices de efectividad SOA.md:14:otras
+content/06e.Índices de efectividad SOA.md:14:procesos
+content/06e.Índices de efectividad SOA.md:14:propias
+content/06e.Índices de efectividad SOA.md:14:pueda
+content/06e.Índices de efectividad SOA.md:14:recorte
+content/06e.Índices de efectividad SOA.md:14:relación
+content/06e.Índices de efectividad SOA.md:14:Sirve
+content/06e.Índices de efectividad SOA.md:14:SOA
+content/06e.Índices de efectividad SOA.md:14:SOA
+content/06e.Índices de efectividad SOA.md:14:SOA
+content/06e.Índices de efectividad SOA.md:14:también
+content/06e.Índices de efectividad SOA.md:14:tecnología
+content/06e.Índices de efectividad SOA.md:14:tecnología
+content/06e.Índices de efectividad SOA.md:14:todas
+content/06e.Índices de efectividad SOA.md:14:útil
+content/06e.Índices de efectividad SOA.md:14:vínculo
+content/06e.Índices de efectividad SOA.md:15:además
+content/06e.Índices de efectividad SOA.md:15:análisis
+content/06e.Índices de efectividad SOA.md:15:confiabilidad
+content/06e.Índices de efectividad SOA.md:15:el
+content/06e.Índices de efectividad SOA.md:15:el
+content/06e.Índices de efectividad SOA.md:15:estas
+content/06e.Índices de efectividad SOA.md:15:este
+content/06e.Índices de efectividad SOA.md:15:Fondo
+content/06e.Índices de efectividad SOA.md:15:gobierno
+content/06e.Índices de efectividad SOA.md:15:indicador
+content/06e.Índices de efectividad SOA.md:15:medir
+content/06e.Índices de efectividad SOA.md:15:modelos
+content/06e.Índices de efectividad SOA.md:15:por
+content/06e.Índices de efectividad SOA.md:15:razones
+content/06e.Índices de efectividad SOA.md:15:realicen
+content/06e.Índices de efectividad SOA.md:15:Sirve
+content/06e.Índices de efectividad SOA.md:15:SOA
+content/06e.Índices de efectividad SOA.md:15:sobre
+content/06e.Índices de efectividad SOA.md:17:activo
+content/06e.Índices de efectividad SOA.md:17:actualización
+content/06e.Índices de efectividad SOA.md:17:arquitectura
+content/06e.Índices de efectividad SOA.md:17:aumentará
+content/06e.Índices de efectividad SOA.md:17:cantidad
+content/06e.Índices de efectividad SOA.md:17:clave
+content/06e.Índices de efectividad SOA.md:17:Contexto
+content/06e.Índices de efectividad SOA.md:17:contextos
+content/06e.Índices de efectividad SOA.md:17:debe
+content/06e.Índices de efectividad SOA.md:17:el
+content/06e.Índices de efectividad SOA.md:17:el
+content/06e.Índices de efectividad SOA.md:17:el
+content/06e.Índices de efectividad SOA.md:17:el
+content/06e.Índices de efectividad SOA.md:17:el
+content/06e.Índices de efectividad SOA.md:17:el
+content/06e.Índices de efectividad SOA.md:17:este
+content/06e.Índices de efectividad SOA.md:17:este
+content/06e.Índices de efectividad SOA.md:17:FNA
+content/06e.Índices de efectividad SOA.md:17:FNA
+content/06e.Índices de efectividad SOA.md:17:gestión
+content/06e.Índices de efectividad SOA.md:17:importante
+content/06e.Índices de efectividad SOA.md:17:indicador
+content/06e.Índices de efectividad SOA.md:17:indicador
+content/06e.Índices de efectividad SOA.md:17:indicador
+content/06e.Índices de efectividad SOA.md:17:información
+content/06e.Índices de efectividad SOA.md:17:mantener
+content/06e.Índices de efectividad SOA.md:17:mantenimiento
+content/06e.Índices de efectividad SOA.md:17:más
+content/06e.Índices de efectividad SOA.md:17:medida
+content/06e.Índices de efectividad SOA.md:17:Negocio
+content/06e.Índices de efectividad SOA.md:17:opeaciones
+content/06e.Índices de efectividad SOA.md:17:puntaje
+content/06e.Índices de efectividad SOA.md:17:recurrir
+content/06e.Índices de efectividad SOA.md:17:referidos
+content/06e.Índices de efectividad SOA.md:17:repositorio
+content/06e.Índices de efectividad SOA.md:17:repositorio
+content/06e.Índices de efectividad SOA.md:17:repositorio
+content/06e.Índices de efectividad SOA.md:17:será
+content/06e.Índices de efectividad SOA.md:17:SOA
+content/06e.Índices de efectividad SOA.md:17:todas
+content/06e.Índices de efectividad SOA.md:17:todos
+content/06e.Índices de efectividad SOA.md:17:vez
+content/06e.Índices de efectividad SOA.md:17:Vínculo
+content/06e.Índices de efectividad SOA.md:21:cambios
+content/06e.Índices de efectividad SOA.md:21:Contexto
+content/06e.Índices de efectividad SOA.md:21:gobierno
+content/06e.Índices de efectividad SOA.md:21:Identifica
+content/06e.Índices de efectividad SOA.md:21:Imagen
+content/06e.Índices de efectividad SOA.md:21:Indicador
+content/06e.Índices de efectividad SOA.md:21:justifica
+content/06e.Índices de efectividad SOA.md:21:KPI
+content/06e.Índices de efectividad SOA.md:21:negocio
+content/06e.Índices de efectividad SOA.md:21:Negocio
+content/06e.Índices de efectividad SOA.md:21:relación
+content/06e.Índices de efectividad SOA.md:21:SOA
+content/06e.Índices de efectividad SOA.md:21:SOA
+content/06e.Índices de efectividad SOA.md:21:SOA
+content/06e.Índices de efectividad SOA.md:21:Vínculo
+content/06e.Índices de efectividad SOA.md:23:elaboración
+content/06e.Índices de efectividad SOA.md:23:propia
+content/06e.Índices de efectividad SOA.md:28:Complementarios
+content/06e.Índices de efectividad SOA.md:28:Gobierno
+content/06e.Índices de efectividad SOA.md:28:Indicadores
+content/06e.Índices de efectividad SOA.md:28:SOA
+content/06e.Índices de efectividad SOA.md:29:atacar
+content/06e.Índices de efectividad SOA.md:29:diagnóstico
+content/06e.Índices de efectividad SOA.md:29:el
+content/06e.Índices de efectividad SOA.md:29:encontrados
+content/06e.Índices de efectividad SOA.md:29:escogidos
+content/06e.Índices de efectividad SOA.md:29:Fase
+content/06e.Índices de efectividad SOA.md:29:Fase
+content/06e.Índices de efectividad SOA.md:29:gestión
+content/06e.Índices de efectividad SOA.md:29:indicador
+content/06e.Índices de efectividad SOA.md:29:indicadores
+content/06e.Índices de efectividad SOA.md:29:pirámide
+content/06e.Índices de efectividad SOA.md:29:presente
+content/06e.Índices de efectividad SOA.md:29:problemas
+content/06e.Índices de efectividad SOA.md:29:Resumen
+content/06e.Índices de efectividad SOA.md:29:sido
+content/06e.Índices de efectividad SOA.md:29:siguientes
+content/06e.Índices de efectividad SOA.md:29:sirven
+content/06e.Índices de efectividad SOA.md:29:SOA
+content/06e.Índices de efectividad SOA.md:29:ver
+content/06e.Índices de efectividad SOA.md:31:alineación
+content/06e.Índices de efectividad SOA.md:31:arquitectura
+content/06e.Índices de efectividad SOA.md:31:capacidades
+content/06e.Índices de efectividad SOA.md:31:Índice
+content/06e.Índices de efectividad SOA.md:31:Índice
+content/06e.Índices de efectividad SOA.md:31:negocio
+content/06e.Índices de efectividad SOA.md:31:referencia
+content/06e.Índices de efectividad SOA.md:31:SOA
+content/06e.Índices de efectividad SOA.md:32:conformidad
+content/06e.Índices de efectividad SOA.md:32:diseño
+content/06e.Índices de efectividad SOA.md:32:estándares
+content/06e.Índices de efectividad SOA.md:32:Índice
+content/06e.Índices de efectividad SOA.md:32:Índice
+content/06e.Índices de efectividad SOA.md:32:orientados
+content/06e.Índices de efectividad SOA.md:32:servicio
+content/06e.Índices de efectividad SOA.md:32:servicios
+content/06e.Índices de efectividad SOA.md:32:SOA
+content/06e.Índices de efectividad SOA.md:33:composición
+content/06e.Índices de efectividad SOA.md:33:FNA
+content/06e.Índices de efectividad SOA.md:33:Índice
+content/06e.Índices de efectividad SOA.md:33:Índice
+content/06e.Índices de efectividad SOA.md:33:portafolio
+content/06e.Índices de efectividad SOA.md:33:reutilización
+content/06e.Índices de efectividad SOA.md:33:servicios
+content/06e.Índices de efectividad SOA.md:33:SOA
+content/06e.Índices de efectividad SOA.md:37:aparecen
+content/06e.Índices de efectividad SOA.md:37:Cada
+content/06e.Índices de efectividad SOA.md:37:debe
+content/06e.Índices de efectividad SOA.md:37:desarrollar
+content/06e.Índices de efectividad SOA.md:37:estos
+content/06e.Índices de efectividad SOA.md:37:existentes
+content/06e.Índices de efectividad SOA.md:37:imagen
+content/06e.Índices de efectividad SOA.md:37:indicadores
+content/06e.Índices de efectividad SOA.md:37:información
+content/06e.Índices de efectividad SOA.md:37:por
+content/06e.Índices de efectividad SOA.md:37:ser
+content/06e.Índices de efectividad SOA.md:37:soportados
+content/06e.Índices de efectividad SOA.md:37:uno
+content/06e.Índices de efectividad SOA.md:41:cambios
+content/06e.Índices de efectividad SOA.md:41:Contexto
+content/06e.Índices de efectividad SOA.md:41:gobierno
+content/06e.Índices de efectividad SOA.md:41:Identifica
+content/06e.Índices de efectividad SOA.md:41:Imagen
+content/06e.Índices de efectividad SOA.md:41:Indicador
+content/06e.Índices de efectividad SOA.md:41:justifica
+content/06e.Índices de efectividad SOA.md:41:KPI
+content/06e.Índices de efectividad SOA.md:41:negocio
+content/06e.Índices de efectividad SOA.md:41:Negocio
+content/06e.Índices de efectividad SOA.md:41:relación
+content/06e.Índices de efectividad SOA.md:41:SOA
+content/06e.Índices de efectividad SOA.md:41:SOA
+content/06e.Índices de efectividad SOA.md:41:SOA
+content/06e.Índices de efectividad SOA.md:41:Vínculo
+content/06e.Índices de efectividad SOA.md:43:elaboración
+content/06e.Índices de efectividad SOA.md:43:propia
+content/06e.Índices de efectividad SOA.md:47:Algunas
+content/06e.Índices de efectividad SOA.md:47:calidad
+content/06e.Índices de efectividad SOA.md:47:casos
+content/06e.Índices de efectividad SOA.md:47:contenidos
+content/06e.Índices de efectividad SOA.md:47:correctivos
+content/06e.Índices de efectividad SOA.md:47:ejemplo
+content/06e.Índices de efectividad SOA.md:47:el
+content/06e.Índices de efectividad SOA.md:47:el
+content/06e.Índices de efectividad SOA.md:47:el
+content/06e.Índices de efectividad SOA.md:47:el
+content/06e.Índices de efectividad SOA.md:47:entre
+content/06e.Índices de efectividad SOA.md:47:evaluaciones
+content/06e.Índices de efectividad SOA.md:47:existentes
+content/06e.Índices de efectividad SOA.md:47:FNA
+content/06e.Índices de efectividad SOA.md:47:Fondo
+content/06e.Índices de efectividad SOA.md:47:gestión
+content/06e.Índices de efectividad SOA.md:47:herramienta
+content/06e.Índices de efectividad SOA.md:47:implementaciones
+content/06e.Índices de efectividad SOA.md:47:información
+content/06e.Índices de efectividad SOA.md:47:número
+content/06e.Índices de efectividad SOA.md:47:número
+content/06e.Índices de efectividad SOA.md:47:objetos
+content/06e.Índices de efectividad SOA.md:47:otros
+content/06e.Índices de efectividad SOA.md:47:período
+content/06e.Índices de efectividad SOA.md:47:por
+content/06e.Índices de efectividad SOA.md:47:proveedores
+content/06e.Índices de efectividad SOA.md:47:registrados
+content/06e.Índices de efectividad SOA.md:47:requerimientos
+content/06e.Índices de efectividad SOA.md:47:resultados
+content/06e.Índices de efectividad SOA.md:47:sugeridas
+content/06e.Índices de efectividad SOA.md:47:tipo
+content/06e.Índices de efectividad SOA.md:51:Eficiencia
+content/06e.Índices de efectividad SOA.md:51:Indicadores
+content/06e.Índices de efectividad SOA.md:51:SOA
+content/06e.Índices de efectividad SOA.md:52:Además
+content/06e.Índices de efectividad SOA.md:52:arquitectura
+content/06e.Índices de efectividad SOA.md:52:arriba
+content/06e.Índices de efectividad SOA.md:52:debe
+content/06e.Índices de efectividad SOA.md:52:eficiencia
+content/06e.Índices de efectividad SOA.md:52:ejercer
+content/06e.Índices de efectividad SOA.md:52:el
+content/06e.Índices de efectividad SOA.md:52:el
+content/06e.Índices de efectividad SOA.md:52:enunciados
+content/06e.Índices de efectividad SOA.md:52:FNA
+content/06e.Índices de efectividad SOA.md:52:gobierno
+content/06e.Índices de efectividad SOA.md:52:gobierno
+content/06e.Índices de efectividad SOA.md:52:indicadores
+content/06e.Índices de efectividad SOA.md:52:indicadores
+content/06e.Índices de efectividad SOA.md:52:proceso
+content/06e.Índices de efectividad SOA.md:52:referencia
+content/06e.Índices de efectividad SOA.md:52:siguientes
+content/06e.Índices de efectividad SOA.md:52:SOA
+content/06e.Índices de efectividad SOA.md:52:SOA
+content/06e.Índices de efectividad SOA.md:52:sobre
+content/06e.Índices de efectividad SOA.md:54:Análisis
+content/06e.Índices de efectividad SOA.md:54:Fase
+content/06e.Índices de efectividad SOA.md:54:FNA
+content/06e.Índices de efectividad SOA.md:54:Madurez
+content/06e.Índices de efectividad SOA.md:54:SOA
+content/06e.Índices de efectividad SOA.md:55:afectan
+content/06e.Índices de efectividad SOA.md:55:alcanzó
+content/06e.Índices de efectividad SOA.md:55:dimensión
+content/06e.Índices de efectividad SOA.md:55:eficacia
+content/06e.Índices de efectividad SOA.md:55:el
+content/06e.Índices de efectividad SOA.md:55:el
+content/06e.Índices de efectividad SOA.md:55:el
+content/06e.Índices de efectividad SOA.md:55:esfuerzos
+content/06e.Índices de efectividad SOA.md:55:Este
+content/06e.Índices de efectividad SOA.md:55:exigencias
+content/06e.Índices de efectividad SOA.md:55:FNA
+content/06e.Índices de efectividad SOA.md:55:fue
+content/06e.Índices de efectividad SOA.md:55:hecho
+content/06e.Índices de efectividad SOA.md:55:índice
+content/06e.Índices de efectividad SOA.md:55:índice
+content/06e.Índices de efectividad SOA.md:55:inversión
+content/06e.Índices de efectividad SOA.md:55:meritorios
+content/06e.Índices de efectividad SOA.md:55:negocio
+content/06e.Índices de efectividad SOA.md:55:Negocio
+content/06e.Índices de efectividad SOA.md:55:operativamente
+content/06e.Índices de efectividad SOA.md:55:percentil
+content/06e.Índices de efectividad SOA.md:55:pero
+content/06e.Índices de efectividad SOA.md:55:puntajes
+content/06e.Índices de efectividad SOA.md:55:responde
+content/06e.Índices de efectividad SOA.md:55:retorno
+content/06e.Índices de efectividad SOA.md:55:seguramente
+content/06e.Índices de efectividad SOA.md:55:sintetiza
+content/06e.Índices de efectividad SOA.md:55:SOA
+content/06e.Índices de efectividad SOA.md:55:SOA
+content/06e.Índices de efectividad SOA.md:55:tuvo
+content/06e.Índices de efectividad SOA.md:57:causado
+content/06e.Índices de efectividad SOA.md:57:diagnóstico
+content/06e.Índices de efectividad SOA.md:57:dificultades
+content/06e.Índices de efectividad SOA.md:57:dimensión
+content/06e.Índices de efectividad SOA.md:57:eficacia
+content/06e.Índices de efectividad SOA.md:57:esfuerzo
+content/06e.Índices de efectividad SOA.md:57:internos
+content/06e.Índices de efectividad SOA.md:57:negocio
+content/06e.Índices de efectividad SOA.md:57:por
+content/06e.Índices de efectividad SOA.md:57:problemas
+content/06e.Índices de efectividad SOA.md:57:resultados
+content/06e.Índices de efectividad SOA.md:57:Según
+content/06e.Índices de efectividad SOA.md:57:siguientes
+content/06e.Índices de efectividad SOA.md:58:abajo
+content/06e.Índices de efectividad SOA.md:58:bajo
+content/06e.Índices de efectividad SOA.md:58:El
+content/06e.Índices de efectividad SOA.md:58:grado
+content/06e.Índices de efectividad SOA.md:58:imagen
+content/06e.Índices de efectividad SOA.md:58:independencia
+content/06e.Índices de efectividad SOA.md:58:proveedor
+content/06e.Índices de efectividad SOA.md:58:puntos
+content/06e.Índices de efectividad SOA.md:58:ver
+content/06e.Índices de efectividad SOA.md:59:baja
+content/06e.Índices de efectividad SOA.md:59:entrega
+content/06e.Índices de efectividad SOA.md:59:flexbilidad
+content/06e.Índices de efectividad SOA.md:59:Muy
+content/06e.Índices de efectividad SOA.md:59:tiempos
+content/06e.Índices de efectividad SOA.md:63:diagnóstico
+content/06e.Índices de efectividad SOA.md:63:Dimensión
+content/06e.Índices de efectividad SOA.md:63:Imagen
+content/06e.Índices de efectividad SOA.md:63:internos
+content/06e.Índices de efectividad SOA.md:63:Negocio
+content/06e.Índices de efectividad SOA.md:63:resultados
+content/06e.Índices de efectividad SOA.md:63:Resultados
+content/06e.Índices de efectividad SOA.md:63:Según
+content/06e.Índices de efectividad SOA.md:65:diagnóstico
+content/06e.Índices de efectividad SOA.md:65:Elaboración
+content/06e.Índices de efectividad SOA.md:65:herramienta
+content/06e.Índices de efectividad SOA.md:65:madurez
+content/06e.Índices de efectividad SOA.md:65:SOA
 content/06.Fase 2 PR6 Gobierno SOA.md:1:Fase
 content/06.Fase 2 PR6 Gobierno SOA.md:1:FNA
 content/06.Fase 2 PR6 Gobierno SOA.md:1:Objetivo
