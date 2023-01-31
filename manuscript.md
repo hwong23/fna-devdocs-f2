@@ -7,8 +7,10 @@ keywords:
 lang: en-US
 date-meta: '2023-01-31'
 author-meta:
-- Harry Wong
-- Stefanini.com
+- Harry Wong, ing.
+- Eddie Hernandez, ing.
+- Federico Suárez, ing.
+- Darío Correal, ing.
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,31 +25,31 @@ header-includes: |
   <meta name="dc.date" content="2023-01-31" />
   <meta name="citation_publication_date" content="2023-01-31" />
   <meta property="article:published_time" content="2023-01-31" />
-  <meta name="dc.modified" content="2023-01-31T11:59:55+00:00" />
-  <meta property="article:modified_time" content="2023-01-31T11:59:55+00:00" />
+  <meta name="dc.modified" content="2023-01-31T12:42:47+00:00" />
+  <meta property="article:modified_time" content="2023-01-31T12:42:47+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="Harry Wong" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Stefanini.com" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Harry Wong, ing." />
+  <meta name="citation_author_institution" content="Arquitecto SOA, Stefanini" />
+  <meta name="citation_author" content="Eddie Hernandez, ing." />
+  <meta name="citation_author_institution" content="Datos, Stefanini" />
+  <meta name="citation_author" content="Federico Suárez, ing." />
+  <meta name="citation_author_institution" content="Infraestructura, Stefanini" />
+  <meta name="citation_author" content="Darío Correal, ing." />
+  <meta name="citation_author_institution" content="Arquitecto TI, Stefanini" />
   <link rel="canonical" href="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta property="og:url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta property="twitter:url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/19c9d018a8a294ad801a3183f339863a9cf79537/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/19c9d018a8a294ad801a3183f339863a9cf79537/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/19c9d018a8a294ad801a3183f339863a9cf79537/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/6ddfe81bba19fae380ed26056ac3a8933411cba1/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/6ddfe81bba19fae380ed26056ac3a8933411cba1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/6ddfe81bba19fae380ed26056ac3a8933411cba1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,9 +69,9 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdocs-f2/v/19c9d018a8a294ad801a3183f339863a9cf79537/))
+([permalink](https://hwong23.github.io/fna-devdocs-f2/v/6ddfe81bba19fae380ed26056ac3a8933411cba1/))
 versión indicada a continuación, se encuentra en 
-[19c9d01](https://github.com/hwong23/fna-devdocs-f2/tree/19c9d018a8a294ad801a3183f339863a9cf79537)
+[6ddfe81](https://github.com/hwong23/fna-devdocs-f2/tree/6ddfe81bba19fae380ed26056ac3a8933411cba1)
 on January 31, 2023.
 
 
@@ -78,29 +80,40 @@ on January 31, 2023.
 
 
 
-+ **Harry Wong**
++ **Harry Wong, ing.**
   <br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [hwong23](https://github.com/hwong23)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
+    [e_hwong](https://github.com/e_hwong)
     <br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
+     Arquitecto SOA, Stefanini
   </small>
 
-+ **Stefanini.com**
-  ^[✉](#correspondence)^<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
++ **Eddie Hernandez, ing.**
+  <br>
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [hwong23](https://github.com/hwong23)
+    [e_ehernandez](https://github.com/e_ehernandez)
     <br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Datos, Stefanini
+  </small>
+
++ **Federico Suárez, ing.**
+  <br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [e_fsuarez](https://github.com/e_fsuarez)
+    <br>
+  <small>
+     Infraestructura, Stefanini
+  </small>
+
++ **Darío Correal, ing.**
+  <br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [e_dcorreal](https://github.com/e_dcorreal)
+    <br>
+  <small>
+     Arquitecto TI, Stefanini
   </small>
 
 
@@ -147,7 +160,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa|
 |Autor||
 |Fuente||
-|Version|19c9d01 del 31 Jan 2023|
+|Version|6ddfe81 del 31 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -352,7 +365,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|19c9d01 del 31 Jan 2023|
+|Version|6ddfe81 del 31 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -404,7 +417,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|19c9d01 del 31 Jan 2023|
+|Version|6ddfe81 del 31 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -463,7 +476,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|19c9d01 del 31 Jan 2023|
+|Version|6ddfe81 del 31 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -509,7 +522,7 @@ _Fuente: www.opengroup.org/soa/source-book/togaf._
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor||
 |Fuente||
-|Version|19c9d01 del 31 Jan 2023|
+|Version|6ddfe81 del 31 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -579,7 +592,7 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor||
 |Fuente||
-|Version|19c9d01 del 31 Jan 2023|
+|Version|6ddfe81 del 31 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -662,106 +675,760 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|19c9d01 del 31 Jan 2023|
+|Version|6ddfe81 del 31 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
 
-# Estrategia de modelado e identificación de servicios 
+## Arquitecturas Orientadas a Servicios (SOA)
 
-## Domain-Driven Design
-Una de las principales estrategias de diseño de arquitecturas orientadas a servicios / microservicios, es la de reemplazar la búsqueda de reutilización por la facilidad de mantenimiento de los servicios.
+SOA como estilo de arquitectura, representó un cambio fundamental en los
+procesos de desarrollo de soluciones informáticas, así como de procesos
+de negocio, en los últimos años. Como estilo de arquitectura, el uso de
+SOA pretendía favorecer la reutilización de código con la promesa de
+construir piezas de software que pudieran ser localizadas y consumidas
+por demanda.
 
-En SOA es usual propender por servicios que puedan ser reutilizados a lo largo de toda la organización y en diferentes aplicaciones.  El ojetivo es que un servicio pueda solucionar necesidades de diferentes unidades organizacionales y diferentes procesos de negocio, esto implica usualmente servicios que manejan formatos canónicos y tienen reglas de negocio bastante particulares para solucionar casos puntuales y específicos de las unidades de negocio.  Si bien en un principio se veía esta reutilización como algo favorable, normalmente implicaba un desbalance con la facilidad de modificación.  Un cambio en una regla de negocio implica un versionamiento del servicio y afectar a todos los usuarios del servicio.
+En la actualidad, vemos que varias de las premisas se cumplieron, pero
+otras no han podido realmente implementarse. En primer lugar, la
+construcción de servicios ha presentado un reto en cuanto al diseño y
+granularidad de los servicios, los mecanismos de despliegue y
+comunicación de servicios y su relación con las arquitecturas
+monolíticas y la evolución y mantenimiento de los servicios. Otro
+aspecto que hace complejo el uso de los servicios, es el costeo de los
+servicios y la demostración del retorno de inversión de los mismos.
 
-Una propuesta diferente que se está utilizando actualmente es la de modelar los servicios a partir de estrategias como Domain-Driven Design o DDD. En esta propuesta se busca tener servicios dedicados al dominio así no sean reutilizados
+### Diseño y granularidad de los servicios
 
-DDD reconoce los dominios y subdominios de negocio como elemento fundamental para la estrategia de servicios. Se busca tener una alineación entre negocio y tecnología, comenzando por los subdominios de negocio de la organización.
+En buena medida la justificación de reutilización de los servicios ha
+ido implicando que se implementen modificaciones y extensiones al
+software para cubrir diferentes funcionalidades de negocio dentro de la
+organización. Lo anterior implica que para poder reutilizar un servicio,
+usualmente se adicionan a su implementación funcionalidades nuevas
+específicas para una unidad de negocio. Lo anterior genera un aumento en
+el tamaño del código y la complejidad de los servicios. Finalmente, esto
+redunda en un decremento de la disponibilidad de los servicios, aumento
+de las fallas en producción y aumento en los costos de mantenimiento y
+modificación de cada servicio.
 
+### Mecanismos de Comunicación
 
-![](images/vigilancia1.png)
+SOA como toda tecnología ha venido evolucionando. En temas de
+comunicación, los inicios de SOA impusieron SOPA y WS-\* como mecanismos
+de intercambio de información y flujo de lógica de negocio. Sin embargo,
+la complejidad de SOAP sigue siendo un limitante en la utilización de
+SOA. La utilización reciente de mecanismos más ligeros como REST y JSON
+han facilitado el uso de los servicios, principalmente intermediados por
+APIs.
 
-[Imagen. ]() Ilustración Domain-Driven Design.
+El esquema de trabajo actual ha permitido el uso de servicios aunque la
+realidad es que las aplicaciones actuales tienen una mezcla de servicios
+legados utilizando SOAP con nuevos servicios utilizando REST. Esto lleva
+a introducir nuevos elementos en la arquitectura, como conectores y
+adaptadores, complicando un poco más el ecosistema de servicios de una
+solución.
 
-_Fuente: elaboración propia._
+### Arquitecturas Monolíticas y Servicios
 
-<br>
+Uno de los principales retos desde el punto de vista de arquitectura y
+el uso de los servicios es poder mantener una consistencia de la oferta
+de servicios con las aplicaciones legadas de la organización. Muchas de
+las implementaciones de servicios, proponen un nivel intermedio que
+oculta o encapsula la funcionalidad de aplicaciones legadas. En este
+sentido los servicios son ofrecidos como puntos de contacto con los
+consumidores de la lógica de negocio. Estos servicios realizan labores
+de transformación y adaptación para poder llamar lógica de negocio de
+sistema legados.
 
-Los subdominios pueden ser clasificados en subdominios Core, Soporte y General. El subdominio Core representa lo misional de la organización, los de soporte, representan servicios generales y transversales a las organizaciones y los generales los orientados a las unidades de negocio no core.
+Esta estrategia ha funcionado en buena medida, pues aplicaciones que no
+habían sido pensadas para interoperar en esquemas heterogéneos de
+soluciones, ahora pueden ser incluidas en este tipo de orquestaciones
+mediante los servicios que las representan. Sin embargo, aun cuando se
+tiene un nuevo nivel de servicios, las aplicaciones siguen siendo
+monolíticas y por lo tanto, su migración, reutilización, modificación y
+adaptación, conlleva grandes tiempos y esfuerzos. SOA en este sentido se
+ha visto como una opción válida para la exposición de capacidades
+expuestas por aplicativos legados, sin embargo, también implica tiempos
+de entrada en producción altos y costos considerables.
 
-![](images/vigilancia2.png)
+El uso de SOA no facilita la incorporación de prácticas como la
+integración continua y el despliegue continuo, requeridas actualmente en
+los procesos de desarrollo modernos y en organizaciones más ágiles.
 
-[Imagen. ]() Ilustración Domain-Driven Design.
+### Localización y Orquestación
 
-_Fuente: elaboración propia._
+Otro aspecto a considerar es el uso de tecnologías para la localización
+y orquestación de servicios. Hasta hace unos años, el bus de servicios
+(ESB) era una parte fundamental de los ecosistemas de tecnología de las
+organizaciones, fundamentalmente en esquemas de despliegue on-premises.
+Los ESB se convirtieron en pieza fundamental para la orquestación de
+servicios y para la construcción de soluciones basadas en llamados
+sincrónicos entre servicios. Este esquema funciona, cuando en general
+todas las aplicaciones involucradas se encuentran desplegadas en un
+mismo ambiente (por ejemplo: on-premises). Sin embargo, con la llegada
+de la nube y el despliegue de soluciones en este ambiente, los ESB no
+encajan perfectamente, ni tampoco ofrecen soluciones claras para
+arquitecturas no monolíticas y heterogéneas.
 
-<br>
+### Reflexiones
 
-Una vez se identifican los subdominios de la organización se hace una relación entre subdominio y los llamados contexto acotados. Los contexto acotados pueden verse como agrupaciones de servicios asociadas a subdominios de la organización
+Si bien SOA constituye una alternativa viable y vigente para la
+construcción de soluciones basadas en servicios, su utilización y
+evolución a futuro deja muchas inquietudes e interrogantes. Las
+arquitecturas actuales, se han convertido en algo más híbrido, con el
+uso de soluciones on-premises mediades por buses de servicios, y
+soluciones desplegadas en la nube, orientadas a eventos y coreografía de
+servicios en lugar de los esquemas tradicionales de orquestación.
 
-Es posible que un subdominio de negocio tenga asociados varios contextos acotados, es decir que el subdominio se represente con agrupaciones de servicios separadas pero asociadas a un mismo concepto de negocio.
+Si bien, los activos desarrollados en esquemas tradicionales de SOA y
+ESBs siguen siendo utilizados y la inversión realizada en estas
+soluciones debe seguir siendo recuperada, es importante gradualmente ir
+considerando una migración a soluciones basadas en eventos, colas de
+mensajes y esquemas de comunicación más orientados a la nube, somo los
+service-mesh.
 
-![](images/vigilancia3.png)
+## Web Oriented Architectures (WOA)
 
-[Imagen. ]() Ilustración Domain-Driven Design.
+El esquema SOA se ha venido combinando con esquemas más orientados al
+uso de las tecnologías Web. A este cambio se le denomina el Web Oriented
+Architectures (WOA), o arquitecturas de solución orientadas al uso de
+tecnologías como Microservicios, APIs(API Economy), Arquitecturas
+Orientadas a Eventos, y mecanismos alternativos para la orquestación y
+comunicación sincrónica de microservicios (Service-Mesh).
 
-_Fuente: elaboración propia._
+### API / API Economy
 
-<br>
+En la actualidad las APIs han pasado de ser un mecanismo de integración,
+a un elemento crítico tanto a nivel interno dentro de las
+organizaciones, como mecanismo de interoperabilidad entre socios de
+negocio y clientes finales.
 
-Una característica de un contexto acotado es el uso de un lenguaje ubicuo.  Esto quiere decir que conceptos como cliente, producto o servicio, pueden tener significados diferentes en diferentes contextos acotados.
+#### Portafolios de APIs
 
-Lo anterior hace que ya no se busque encapsular en un solo servicio, por ejemplo cliente, todas las posibles reglas de negocio de la organización, sino que existan diferentes servicios Cliente, con funcionalidades más pequeñas y acotadas, en cada contexto. Esto hace que se pierda la reutilización pero se gana en mantenimiento de la solución.
+Uno de los riesgos, sin embargo, que presenta esta estrategia de
+integración, es la proliferación de APIs sin control, un bajo esquema de
+gobierno que no controle la creación de dichas APIs, así como su
+evolución y mantenimiento.
 
-![](images/vigilancia4.png)
+Un mecanismo para solucionar este riesgo, es diseñar un portafolio de
+APIs, donde se mantenga una estructura clara y controlada de los
+diferentes tipos de APIs con los que cuenta la organización. Este
+portafolio debe ser diseñado con cuidado, buscando satisfacer atributos
+de calidad, niveles de servicios, monitoreo en ejecución, documentación
+y entrenamiento, así como control de costos y propiedad.
 
-[Imagen. ]() Ilustración Domain-Driven Design.
+Actualmente las organizaciones hablan de un término denominado API
+Economy, que tiene dos visiones. De una parte el negocio va hora en las
+APIs de la organización, una nueva fuente de ingresos, como consecuencia
+de la implementación de procesos con clientes y socios de negocio. De
+otra parte, las áreas de tecnología de las organizaciones, ven en el uso
+de las APIs, un mecanimo de comunicación y tercerización de sus tarea de
+desarrollo de software con fábricas de software y desarrolladores.
 
-_Fuente: elaboración propia._
+#### Proceso de diseño de APIs
 
-<br>
+Usualmente la organización tiene muchas APIs que van surgiendo con el
+paso del tiempo. Un portafolio de APIs es más que una colección
+desordenada de APIs. El portafolio debe ser diseñado con cuidado, de
+forma que todas las APIs del portafolio sean consistentes unas con
+otras, reutilizables, descubribles y personalizables.
 
-El proceso de identificación de los contextos acotados y sus lenguajes ubicuos se denomina diseño estratégico. Como se ha explicado, el diseño estratégico identifica agrupaciones de servicios.
+El Portafolio debe cumplir con requisitos funcionales y no funcionales
+como : consistencia, reuso, personalización, descubrimiento y longevidad
 
-La siguiente fase es la del diseño táctico. En esta fase, se identifican componentes más pequeños denominados agregados. Los agregados se pueden ver como las unidades de implementación en SOA, es decir los servicios. Un agregado es usualmente un servicio.
+Consistencia: Un cliente o una solución seguramente usarán varias APIs
+del portafolio. Es deseable que la salida de una API pueda ser usada
+como entrada en otra API. Si las entradas esperadas por una API son muy
+difíciles de lograr a partir de las mismas salidas de otra API del
+portafolio, se tendrá falta de consistencia. Una estrategia para
+favorecer la consistencia es abstraer aspectos comunes y llevarlos a
+otras APIs.
 
-![](images/vigilancia6.png)
+La URI de las APIs debe seguir una estructura común e intuitiva: Nombres
+de campos y formatos deben ser consistentes a lo largo del portafolio.
+Las validaciones a las entradas deben hacerse de forma similar en todo
+el portafolio. Los mecanismos de seguridad deben ser los mismos en todo
+el portafolio.
 
-[Imagen. ]() Ilustración Domain-Driven Design.
+Reuso: De ser posible las APIs no debe ser construidas para un cliente
+específico. Se espera que su diseño e implementación sirvan a múltiples
+consumidores, al menos parcialmente.
 
-_Fuente: elaboración propia._
+-   Reuso de algunas características de las APIs
 
-<br>
+-   Reuso de APIs completas
 
-El conjunto de agregados irán conformando el portafolio de servicios de la organización.
+-   Reuso de APIs propias
 
-![](images/vigilancia7.png)
+-   Reuso de APIs de terceros
 
-[Imagen. ]() Ilustración Domain-Driven Design.
+Personalizable: Si bien las APIs no deberían ser diseñadas para un
+cliente específicamente, si deben poder ser configurables y
+personalizables para la necesidad particular un cliente o grupo de
+clientes. Aspectos a personalizar: Formateo de datos, entrega de datos,
+agrupamiento de datos
 
-_Fuente: elaboración propia._
+Descubrible: Debe ser fácil para un consumidor descubrir las APIs
+ofrecidas en el portafolio. El portafolio debe ofrecer mecanismos de
+consulta y descubrimiento de las APIs, de forma que para los
+consumidores se fácil encontrar el API que buscan.
 
-<br>
+Longevidad: Se debe buscar que las APIs sean funcionales por la mayor
+cantidad de tiempo posible. Esto usualmente ocurre cuando una API
+refleja la propuesta de valor del cliente, dado que estas se mantienen
+en el tiempo. Desde el punto de vista técnico, se espera que las APIs
+evolucionen constantemente, pero las firmas de las operaciones deben
+permanecer estables tanto como sea posible.
 
-* Entity. Modela un elemento de forma individual Tiene un identificador único.
-* Value Objects. Modela un concepto inmmutable, el cual no tiene identificador único. Usualmente se usa para describir, cuantificar o medir un Entity.
-* \<\<root>> Entity. Da el nombre a la agregación y contiene todos los otros elementos (entidades y values). Es el único punto de entrada a la agregación.
+Gobernable: Se debe buscar un equilibrio entre un proceso de desarrollo
+de APIs ágil que permita probar fácilmente nuevas iniciativas de
+negocio. Reglas y políticas firmes para evitar el desorden en el
+portafolio de APIs.
 
-![](images/vigilancia8.png)
+El proceso de desarrollo de APIs dentro de las organizaciones debe ser
+institucionalizado y formalizado. Se debe buscar formalizar el diseño,
+desarrollo y puesta en producción de las APIs de la organización. Como
+mínimo los proyectos de diseño y desarrollo de APIs deberían contar con
+actividades como análisis, desarrollo, operación y retiro.
 
-[Imagen. ]() Ilustración Domain-Driven Design.
+##### Análisis
 
-_Fuente: elaboración propia._
+La fase de análisis debe buscar responder preguntas como:
 
-<br>
+-   ¿La organización requiere una API?
 
-Por último, cada Aggregate, forma una frontera transaccional. Al interior todo las partes son consistentes.
+-   ¿Cuáles funciones cumpliría?
 
-1. Las innvariantes de negocio se protegen dentro de un Aggregate
-1. Propender por diseñar Aggregates pequeños
-1. Solo se referencian otros aggregates por su identificador
-1. Los Aggregates se actualizan mediante la consistencia eventual
+-   ¿Cuál es la propuesta de valor de esta API?
 
+-   ¿La propuesta será algo fundamental para el negocio?
+
+-   ¿Qué requiere el negocio para operar esta API?
+
+-   ¿Cuáles métricas se deben cumplir?
+
+El objetivo fundamental de la fase de análisis deberá ser la alineación
+con las necesidades de negocio. Entendiendo que unidades de negocio
+serán usuarias de la API y cuáles serán propietarias y financiadores de
+las APIs. En este sentido es fundamental entender qué tipo de API se
+desea desarrollar:
+
+APIs Privadas: Usualmente buscan modernizar tecnología y procesos dentro
+de la organización, optimizar la cadena de valor e integrar sistemas de
+información legados al interior de la compañía.
+
+APIs tipo consorcio: Buscan usualmente mejorar procesos operativos con
+socios de negocio y proveedores de servicios. Buscan mejorar la gestión
+administrativa entre socios y mejorar el relacionamiento y comunicación
+externa con empresas del ecosistema de la organización. Responder a
+regulaciones de industria y exponer información parcialmente pública.
+
+APIs Públicas: Buscan automatizar procesos con clientes y potenciales
+clientes, mejorar la experiencia de usuarios y público en general,
+reducir tiempos de ingreso al mercado y proveer nuevas opciones de
+integración e interoperabilidad.
+
+##### Desarrollo
+
+Se deben definir estándares de desarrollo, tecnologías aprobadas por la
+organización para la implementación de APIs, tipos de APIs a
+desarrollar, pero sobre todo, tener en cuenta los atributos de calidad
+que debe exponer el API a desarrollar. Por ejemplo, a nivel de desempeño
+determinar las cargas de trabajo, niveles de escalabilidad, tiempos de
+respuesta y volúmenes de datos por unidad de tiempo que podrán ser
+respondidos ante una consulta. Determinar la utilización de REST como
+esquema de comunicación o la adopción de nuevas tecnologías como
+GraphQL.
+
+En este punto la organización debe tomar decisiones relacionadas con:
+
+-   Librerías de bloques construcción reutilizables
+
+-   Lenguajes de implementación de APIs
+
+-   IDEs y depuradores
+
+-   Lenguajes de diseño para APIs
+
+-   Herramientas para diseño de interfaces para APIs
+
+-   Herramientas para la generación de código y documentación
+
+##### Operación / Plataforma de ejecución
+
+La plataforma de ejecución se encarga de la puesta en producción,
+despliegue y consumo de las APIs en operación. Esta plataforma se
+encarga de responder a consultas hechas a las APIs, favoreciendo
+atributos de calidad como la baja latencia y la escalabilidad.
+
+La plataforma de ejecución se encarga de la ejecución de las APIs. Se
+encarga de la recepción de peticiones desde los consumidores y de la
+entrega de las respuestas. Esta plataforma también responsable del
+cumplimiento de los atributos de calidad, como el desempeño, la
+disponibilidad y la seguridad. Algunas tácticas de arquitectura que
+ejecuta la plataforma de ejecución son: balanceo de carga, cache y pool
+de conexiones. La plataforma ofrece también servicios de monitoreo, log,
+análisis de cumplimientos de niveles de servicio.
+
+La plataforma de ejecución es responsable igualmente por proveer
+capacidades para facilitar el despliegue de nuevas APIs y el
+mantenimiento de APIs existentes. Igualmente, esta plataforma se encarga
+del manejo de credenciales y configuraciones de múltiples ambientes de
+ejecución.
+
+Dentro de las decisiones a tomar con la plataforma de ejecución, se
+encuentra la configuración de múltiples ambientes de ejecución:
+
+-   Desarrollo
+
+-   Sandbox o simulación
+
+-   Testing
+
+-   Preproducción
+
+-   Producción
+
+##### 
+
+##### Gestión
+
+La plataforma de gestión es utilizada por los proveedores para
+interactuar con su comunidad de consumidores. La plataforma le debe
+ofrecer a los proveedores las capacidades de manejo y configuración de
+APIs.
+
+La plataforma de gestión debe ofrecer:
+
+-   Manejo de API: Configuración y reconfiguración de APIs existentes
+    sin necesidad de redespliegues
+
+-   Descubrimiento de APIs: Mecanismos para que los clientes obtengan
+    información de las APIs
+
+-   Identificación de clientes (Manejo de llaves)
+
+-   Información para la comunidad (foros, blogs, redes sociales, bases
+    de conocimiento, etc.)
+
+La plataforma de gestión ofrece adicionalmente documentación interactiva
+generada a partir de la descripción del API, manejo de versiones, manejo
+de los niveles de servicios y los cobros asociados
+
+La plataforma de gestión les ofrece a los consumidores del API,
+mecanismos para explorar y obtener información del Portafolio de APIs,
+documentación del portafolio, manejo de credenciales y manejo de planes
+de pago.
+
+La plataforma de gestión deber centrarse en ofrecer servicios de:
+
+-   Documentación del portafolio de APIs
+
+-   Soluciones basadas en el portafolio de APIs
+
+-   Posibilidad de usar el API interactivamente
+
+-   Ejemplos de soluciones / código
+
+-   Herramientas de apoyo a los usuarios de las APIs
+
+### Microservicios
+
+Una segunda tecnología que se muestra como el reemplazo del SOA
+tradicional son los Microservicios, como componentes de software
+independientes, que tienen como característica principal su capacidad de
+despliegue autónomo, orientados a la nube y con mayor adaptación a
+procesos de desarrollo de entrega continua y despliegue continuo.
+
+La utilización de Microservicios en lugar de las aproximaciones basadas
+en Servicios de alta granularidad, tipo SOA, sumado al uso de protocolos
+de comunicación basados en la exposición de APIs tanto REST como
+GraphQL, hacen que los tiempos de desarrollo y puesta en producción sean
+menores. Principalmente, la característica de ser independientes en el
+despliegue, facilita la modificación, cambio y evolución del software,
+inclusive desarrollado en diferentes tecnologías o lenguajes de
+programación.
+
+#### Proceso de desarrollo
+
+Uno de los elementos más críticos en las arquitecturas orientadas a
+servicios y en los Microservicios como nuevo esquema de trabajo SOA, es
+la identificación y diseño de los Microservicios. Las empresas
+actualmente aplican diferentes estrategias para identificar los
+servicios a desarrollar e implementar. Sin embargo, uno de los riesgos
+más críticos tiene que ver con el crecimiento descontrolado de
+Microservicios, que no tienen una alineación clara con el negocio.
+
+En la actualidad el proceso de identificación y diseño de Microservicios
+que se utiliza mayoritariamente, tiene que ver con el uso de
+Domain-Driven Design (DDD) para la identificación de los Microservicios
+y para la definición de los ecosistemas de servicios a desarrollar. A
+nivel de diseño detallado de los Microservicios, se utiliza
+principalmente la arquitectura hexagonal.
+
+#### Domain Driven Design
+
+El diseño orientado por dominio, busca que los servicios y
+microservicios no necesariamente busquen maximizar su reutilización,
+como se ha venido manteniendo en los últimos años. Por el contrario, en
+el DDD es normal que los servicios no sean reutilizables entre unidades
+de negocio, que manejan términos, conceptos y vocabularios
+indepesndientes. En DDD, se busca tener servicios alineados con el
+negocio, en lugar de reutilizar un mismo servicio en todas las unidades
+de negocio, de esta forma se logra el desacoplamiento, un menor tiempo
+de entrega y puesta en producción, así como el uso de técnicas de
+integración y despliegue continuo.
+
+![](./images/media/image1.png){width="3.701388888888889in"
+height="2.6326388888888888in"}
+
+En DDD la alineación con el negocio es lo fundamental, por eso, los
+subdominios de negocio o procesos de negocio se relacionan con las
+unidades de diseño, llamadas contextos acotados o *bounded context*s.
+
+![](./images/media/image2.png){width="3.6875in"
+height="3.0340277777777778in"}
+
+Una unidad de negocio puede tener varios contextos acotados, de forma
+que varios servicios son identificados para poblar el portafolio de
+servicios.
+
+![](./images/media/image3.png){width="3.58125in"
+height="3.033333333333333in"}
+
+Finalmente, un contexto acotado, es a su vez, subdivido en agregados.
+Los agregados tienen una estructura basada en entidades y objetos de
+valor. Las entidades representan una operación de negocio indivisible.
+
+![](./images/media/image4.png){width="3.26875in" height="3.1875in"}
+
+En este esquema de trabajo, usualmente un agregado es un microservicio.
+Esta técnica de identificación es mucho más precisa, que simplemente el
+proponer microservicios vistos como pequeñas unidades de software, que
+técnicamente cumplen con tener un tamaño de líneas de código pequeño,
+pero que no tienen en cuenta la alineación con el negocio.
+
+Al interior de un agregado, se identifican los siguientes elementos:
+
+![](./images/media/image5.png){width="2.9784722222222224in"
+height="2.6958333333333333in"}
+
+#### Arquitectura Hexagonal
+
+Una vez se tienen identificados los microservicios, y definida su
+estructura interna, el siguiente paso es identificar, los puntos de
+interacción con el ecosistemas de servicios. La arquitectura hexagonal
+sirve para definir estos puntos y para diseñar los mecanismos de
+comunicación de los microservicios, por ejemplo APIs o colas de
+comandos, así como para determinar los eventos que escuchará el
+microservicios, los mensajes a procesar, los eventos que emite el
+microservicios y la estrategia de almacenamiento de datos del
+microservicio.
+
+![](./images/media/image6.png){width="3.8020833333333335in"
+height="3.3381944444444445in"}
+
+### Buses de servicios (ESB)
+
+Sin duda alguno los buses de servicio han sido la piedra angular en las
+arquitecturas orientadas a servicios en los últimos años. La decisión de
+arquitectura de orientarse a los servicios implica también que los
+servicios deben poder ser localizados, que se debe poder intermediar la
+comunicación e intercambio de datos entre ellos y que deben contar con
+una infraestructura que les permita orquestar el llamado requerido entre
+ellos para implementar lógica de negocio.
+
+Los ESBs han sido fundamentales en la evolución de las arquitecturas
+orientadas a servicios. Sin embargo, un reto crítico actualmente es la
+decisión de cómo integrar los ESBs a las arquitecturas modernas, no
+monolíticas y más basadas en tecnologías Web y microservicios.
+
+![](./images/media/image7.png){width="4.817361111111111in"
+height="3.4625in"}
+
+### 
+
+### 
+
+### 
+
+### 
+
+### 
+
+### 
+
+### 
+
+### 
+
+### 
+
+### Tomado de: https://www.crosser.io/blog/posts/why-the-next-generation-enterprise-service-bus-esb-needs-to-be-intelligent/
+
+### 
+
+En la anterior figura, se muestra la evolución que han tenido los ESBs.
+La primera generación, caracterizada por ser infraestructura instalada
+normalmente en el datacenter de las organizaciones. En esta generación
+el apoyo a procesos ágiles de desarrollo y prácticas de DevOps era
+prácticamente impensable.
+
+### 
+
+La segunda generación se basa en infraestructura como servicio, buses
+desplegados tanto en los datacenters locales como en la nube, con
+capacidades de intercambio de datos en formato SOAP e integración batch.
+
+La tercera generación de buses, se basa en el despliegue en nubes
+híbridas, manejo de diferentes tipos de comunicación, ya sea punto a
+punto, mensajes, o corrientes de datos (streams). Quizás lo más
+importante a resaltar es el cambio de comunicaciones bloqueantes
+sincrónicas a comunicaciones basadas en eventos, pero sin los limitantes
+de latencia de las plataformas de mensajería antiguas. En este caso,
+hablamos de mecanismos de comunicación orientados a eventos, con
+capacidades de procesamiento muy altas y con muy baja latencia.
+
+### Arquitecturas Orientadas a Eventos
+
+Sin duda alguna el mecanismo de comunicación más utilizado en
+arquitectura orientadas a componentes y servicios es el mecanismo
+conocido como request-reply. Es decir, comunicaciones basadas en
+transferencia sincrónica de información. Este mecanismo implica en
+general, la comunicación entre un servicio consumidor y un servicio
+proveedor. El servicio consumidor, debe inicialmente localizar al
+servicio consumidor (posiblemente con ayuda de un ESB) y ejecutar una
+petición al servicio proveedor. A través de protocolos como SOAP la
+comunicación se establece y el intercambio de información comienza
+(posiblemente en datos usando formatos en XML).
+
+Este mecanismo de comunicación tiene ventajas, pero también presenta
+desventajas. La principal ventaja es que se trata de una comunicación
+sincrónica por lo que no es tan complicado seguir el flujo de control
+entre los diferentes servicios. A este proceso se le conoce como
+orquestación de servicios, es decir, el flujo de control iniciado por un
+servicio cliente, que consume en un orden específico los servicios
+proveedores. La desventaja de este esquema de comunicación es el manejo
+del error y la disponibilidad. En caso de que un servicio proveedor no
+esté disponible o falle en la mitad de una operación iniciada por un
+consumidor, toda la transacción falla. En situaciones de negocio
+críticas, este comportamiento es deseable, pero en otras ocasiones,
+implica una falla en la disponibilidad de la solución.
+
+Como medida de mitigación a la comunicación sincrónica basada en
+comunicaciones tipo request-reply, surgen los mecanismos de
+intermediación y comunicación basados en mensajes. Por su naturaleza,
+estos mecanismos son esencialmente asíncronos.
+
+En el esquema de comunicación basado en mensajes, tres conceptos son de
+suma importancia: Eventos, Queries y Comandos.
+
+Los eventos, en una Arquitectura orientada por eventos (EDA) representan
+hechos cumplidos, que desean ser notificados de manera asíncrona a los
+demás servicios participantes de una solución.
+
+![](./images/media/image8.png){width="3.466666666666667in"
+height="2.8958333333333335in"}
+
+Las consultas, representan peticiones a un servicio, que no tienen
+efecto de borde.
+
+![](./images/media/image9.png){width="3.738888888888889in"
+height="3.0625in"}
+
+### 
+
+Los comandos, representan una intención de cambio en el estado de la
+solución. Los comandos son solicitudes que pueden o no ejecutarse, no se
+tiene certeza de su cumplimiento. En cualquier caso, el resultado de
+ejecución de un comando, puede tener como resultado un evento
+notificando a los interesados el resultado obtenido.
+
+### ![](./images/media/image10.png){width="4.132638888888889in" height="3.0131944444444443in"}
+
+### 
+
+### 
+
+### 
+
+### 
+
+### 
+
+### 
+
+### 
+
+### 
+
+### 
+
+### 
+
+### 
+
+### 
+
+![](./images/media/image11.png){width="2.9868055555555557in"
+height="2.558333333333333in"}A partir de estos tres conceptos, se
+construyen soluciones desacopladas, que en su mayoría se comunican en
+forma asíncrona. El concepto fundamental, es que no se tienen servicios
+que realizan comunicaciones síncronas. Toda solicitud de realización de
+un comando es transmitida como un mensaje mediante una cola de mensajes.
+Los servicios proveedores reciben las peticiones, ejecutan los comandos
+o consultas y emiten eventos como resultado. No se tiene ninguna
+orquestación de servicios, solo coreografía de servicios desacoplado
+
+### 
+
+### 
+
+### 
+
+### 
+
+### 
+
+### 
+
+### 
+
+### 
+
+### 
+
+### 
+
+La figura anterior, muestra el esquema de comunicación fundamental en
+las arquitecturas orientadas a eventos. Para mejorar los tiempos de
+respuesta, las aplicaciones suelen replicar parcialmente datos de otros
+sistemas. Estos datos son utilizados solo para lectura. Debido al
+retardo en la actualización de los datos, se habla de que existe
+consistencia eventual entre los sistemas de información.
+
+### 
+
+### Service Mesh
+
+En los esquemas de comunicación sincrónica, donde los servicios
+localizan otros servicios y envían peticiones sincrónicas (conteniendo
+comandos o consultas). Uno de los problemas que pueden surgir, tienen
+que ver con la necesidad de satisfacer diferentes requisitos de calidad,
+como la seguridad, la disponibilidad y la escalabilidad. Varias de esos
+requisitos se resuelven con diferentes componentes, como, por ejemplo,
+los balanceadores de carga, herramientas de replicación y de
+autorización y autenticación. Adicionalmente, cada servicio implementa
+en su lógica, ciertas funcionalidades para manejar este tipo de
+requisitos, haciendo la complejidad y el mantenimiento de las
+aplicaciones más complejo. Este escenario se ilustra en la siguiente
+figura.
+
+![](./images/media/image12.png){width="2.9808464566929134in"
+height="1.3225918635170604in"}
+
+Tomado de:
+https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh
+
+En un esquema service mesh, cada servicio es acompañado de un proxy
+(llamado sidecar), este proxy se encarga de gestionar toda la seguridad,
+disponibilidad y escalabilidad, de forma que los servicios no tengan que
+preocuparse por estos elementos. La siguiente figura ilustra esta idea.
+
+![](./images/media/image13.png){width="3.053390201224847in"
+height="1.29834208223972in"}
+
+Tomado de:
+https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh
+
+La siguiente figura resume lo antes expuesto, donde además se ilustran
+los dos elementos fundamentales de este esquema: data plane y control
+plane.
+
+El término data plane, se refiere a los proxies (sidecars) asociados a
+cada microservicio. El control plane se encarga de gobernar los proxies
+asociados a los microservicios.
+
+![](./images/media/image14.png){width="4.0495778652668415in"
+height="1.748759842519685in"}
+
+Tomado de:
+https://www.techtarget.com/searchitoperations/definition/service-mesh
+
+### 
+
+### Plataforma de Integración Híbrida (HIP)
+
+Sin duda alguna tanto las tecnologías basadas en APIs y consumos de
+servicios síncronos han sido y seguirán siendo pieza clave en las
+arquitecturas de integración y orquestación de servicios. Las
+organizaciones han realizado inversiones altas en la instalación y
+mantenimiento de infraestructura como ESBs sin contar las múltiples
+soluciones que hoy día se manejan basadas en este esquema de
+comunicación.
+
+De otra parte, los mecanismos de sincronización y comunicación
+asíncronos, basados primordialmente en colas de mensajes, se vienen
+posicionando como una alternativa cada vez más seria a los buses de
+servicios tradicionales.
+
+Las plataformas de integración híbridas (HIP) se posicionan cada vez más
+como una forma de conciliar las estrategias de integración tradicionales
+y las nuevas tendencias orientadas a eventos. Estas plataformas
+propenden por la transferencia de estado entre sistema de información
+utilizando las plataformas de mensajería y la consulta de información de
+forma sincrónica sobre copias con ventanas de consistencia (consistencia
+eventual)
+
+![](./images/media/image15.png){width="4.3313156167979in"
+height="3.0198906386701663in"}
+
+### 
+
+### 
+
+### Hub de Integración Digital (DIH)
+
+Un DIH es un estilo de arquitectura que busca desacoplar sistemas de
+información en un ecosistema de TI. No solo a nivel de flujo de control
+sino también a nivel de datos, adicionando una capa de datos de muy baja
+latencia. Adicionalmente se propone una mezcla de los tipos de
+conectores expuestos anteriormente. En primer lugar, se cuenta con un
+API de desacoplamiento. Los DIH permiten trabajar en esquemas híbridos,
+con despliegues on-premises y despliegues en cloud.
+
+![](./images/media/image16.png){width="4.072457349081365in"
+height="3.013879046369204in"}
+
+Tomado de: https://www.gigaspaces.com/blog/digital-integration-hub-dih/
+
+Esta arquitectura permite la práctica de técnicas DevOps, como la
+integración y despliegue continuo. Adicionalmente, esta arquitectura se
+enfoca en la recolección de datos desde múltiples fuentes de datos.
+
+El término DIH fue propuesto por Gartner unos años atrás. En las
+siguiente figuras, podemos apreciar la comparación realizada en el
+informe original de Gartner, entre una arquitectura tradicional basada
+en APIS en la primera figura y una arquitectura basada en DIH en la
+segunda figura.
+
+![](./images/media/image17.png){width="3.864676290463692in"
+height="2.424093394575678in"}
+
+Tomado de:
+https://mindovermessaging.com/2022/03/29/maximising-your-apis-with-a-digital-integration-hub/
+
+![](./images/media/image18.png){width="3.8965157480314963in"
+height="2.9486122047244097in"}
+
+Tomado de:
+https://mindovermessaging.com/2022/03/29/maximising-your-apis-with-a-digital-integration-hub/
+
+En el esquema basado en DIH la diferencia fundamental radica en una
+nueva capa ubicada entre el API Gateway y los microservicios y la
+plataforma híbrida de integración. Esta capa denominada High Performance
+Data Store (HPDS). Esta capa se alimenta a partir de la plataforma de
+integración, usualmente utilizando un esquema basado en eventos.
 
 
 # Fase 2: SOA Objetivo
@@ -791,6 +1458,62 @@ La arquitectura SOA candidata del FNA sirve de base para la planeación de cambi
 * Articulación con gobierno SOA del FNA
 
 *** 
+
+
+## Arquitectura de Datos Candidata FNA
+
+Para la arquitectura To bese propone un enfoque conocido como malla de
+datos, este es un cambio de paradigma que permite pensar en los datos
+como un producto. La malla de datos introduce cambios organizativos y de
+procesos que las empresas necesitarán para gestionar los datos como un
+activo de capital tangible del negocio.
+
+Una malla de datos tiene como objetivo que los datos sean más accesibles
+y estén disponibles para los usuarios, conectando directamente a
+propietarios, los productores y los consumidores de datos. La malla de
+datos tiene como objetivo mejorar los resultados empresariales de las
+soluciones centradas en los datos, así como impulsar la adopción de
+arquitecturas de datos modernas.
+
+### Pilares de la malla de datos (Data Mesh)
+
+![](./images/d1/media/image1.png){width="6.1375in"
+height="3.0819444444444444in"}
+
+### Arquitectura To Be
+
+![](./images/d1/media/image2.png){width="6.1375in"
+height="3.5520833333333335in"}
+
+### Principales Características
+
+**Propiedad impulsada por el dominio**: el primer principio de un data
+mesh es transferir el poder de los datos y la propiedad a las manos de
+los equipos de dominio (es decir departamentos, unidades de negocio,
+etc.). Ellos serán los dueños de los datos de un extremo a otro, y
+podrán asegurarse de tener desde las fuentes correctas hasta los
+procesamientos necesarios y la entrega de los datos para que otros
+equipos de dominio los aprovechen como productos
+
+**Datos como producto:** los equipos de dominio son responsables de los
+datos y también de los productos de datos resultantes. El objetivo es
+lograr que cada "producto de datos" sea descubierto y utilizable por los
+consumidores y otros equipos de dominio, y el propietario del dominio es
+responsable de mantener y actualizar (o desaprobar) estos productos para
+garantizar la calidad y la precisión.
+
+**Infraestructura de autoservicio**: que todo sea "autoservicio" hace
+que nos olvidemos para siempre de las tecnologías complejas y las
+habilidades de nicho. El Data mesh se basa, por principio, en una
+gestión de datos mediante una plataforma común y un conjunto de
+herramientas que cualquier equipo de dominio pueda aprovechar.
+
+**Gobernanza federada**: si de verdad queremos eliminar controles de
+acceso necesitamos un equilibrio entre las políticas y controles de
+gobernanza global y la posibilidad de dominio y creación de productos.
+Esto es lo que llamamos gobernanza federada y en la práctica es
+fundamental para garantizar la privacidad, el cumplimiento y la
+posibilidad de escalar.
 
 
 # Fase 2: SOA Objetivo
