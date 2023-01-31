@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-01-29'
+date-meta: '2023-01-31'
 author-meta:
 - Harry Wong
 - Stefanini.com
@@ -20,11 +20,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-01-29" />
-  <meta name="citation_publication_date" content="2023-01-29" />
-  <meta property="article:published_time" content="2023-01-29" />
-  <meta name="dc.modified" content="2023-01-29T03:35:57+00:00" />
-  <meta property="article:modified_time" content="2023-01-29T03:35:57+00:00" />
+  <meta name="dc.date" content="2023-01-31" />
+  <meta name="citation_publication_date" content="2023-01-31" />
+  <meta property="article:published_time" content="2023-01-31" />
+  <meta name="dc.modified" content="2023-01-31T01:47:39+00:00" />
+  <meta property="article:modified_time" content="2023-01-31T01:47:39+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/350188a3a0f2192ae3af32837270906ceedd5ac0/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/350188a3a0f2192ae3af32837270906ceedd5ac0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/350188a3a0f2192ae3af32837270906ceedd5ac0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/fefc61a69946329348ce18afdeff96d26b4e60e6/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/fefc61a69946329348ce18afdeff96d26b4e60e6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/fefc61a69946329348ce18afdeff96d26b4e60e6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,10 +67,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdocs-f2/v/350188a3a0f2192ae3af32837270906ceedd5ac0/))
+([permalink](https://hwong23.github.io/fna-devdocs-f2/v/fefc61a69946329348ce18afdeff96d26b4e60e6/))
 versión indicada a continuación, se encuentra en 
-[350188a](https://github.com/hwong23/fna-devdocs-f2/tree/350188a3a0f2192ae3af32837270906ceedd5ac0)
-on January 29, 2023.
+[fefc61a](https://github.com/hwong23/fna-devdocs-f2/tree/fefc61a69946329348ce18afdeff96d26b4e60e6)
+on January 31, 2023.
 
 
 
@@ -147,7 +147,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa|
 |Autor||
 |Fuente||
-|Version|350188a del 29 Jan 2023|
+|Version|fefc61a del 31 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -352,7 +352,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|350188a del 29 Jan 2023|
+|Version|fefc61a del 31 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -386,12 +386,12 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|350188a del 29 Jan 2023|
+|Version|fefc61a del 31 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
 
-Los riesgos tecnológicos encontrados en el diagnóstco SOA de Fase 1 deben ser incorporados a las vigilancias del gobierno SOA propuesto. Los riesgos mencionados a continuación deben ser agregados a la matriz de gestión actual del Fondo, y gestionados por los métodos propios ya existentes.
+Los riesgos tecnológicos encontrados en el diagnóstco SOA de Fase 1 (ver [03.Fase 1 PR3 Resultado Diagnóstico Situación Actual](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)), y que describimos abajo, están incorporados a las vigilancias del gobierno SOA propuesto. A la vez, estos mismo riesgos descritos a continuación deben ser agregados a la matriz de gestión actual del Fondo, y gestionados por los métodos propios con los que ya cuenta el FNA.
 
 <br>
 
@@ -399,9 +399,9 @@ Los riesgos tecnológicos encontrados en el diagnóstco SOA de Fase 1 deben ser 
 El gobierno SOA del FNA debe buscar la capacidad para medir y gestionar (agregar a la lista de riesgos de la empresa) los riesgos que lo están afectando.
 
 * R1. Riesgo de agilidad limitada (ver imagen 1)
-* R2. Riesgo de baja orquestación SOA
+* R2. Riesgo de baja orquestación SOA (ver imagen 2a y 2b)
 * R3. Riesgo de crecimiento de dependencias entre servicios SOA
-* R4. Riesgo de crecimiento de adaptadores particulares --opuesto al estándar-- (ver imagen 2)
+* R4. Riesgo de crecimiento de adaptadores particulares --opuesto al estándar-- (ver imagen 3)
 * R5. Riesgo de baja reutilización de servicios SOA
 * R6. Riesgo de permanencia de aplicaciones silos
 * R7. Riesgo de falta de trazabilidad para la evolución e implementación de los servicios SOA
@@ -416,9 +416,25 @@ _Fuente: elaboración propia, ae_fna_as_is.archimate._
 
 <br>
 
+![](images/esb-procesos.png)
+
+[Imagen 2a.]() Riesgo no. 2. En el modelo "ae_fna_as_is.archimate" de situación actual del FNA no aparecen relaciones de este con los procesos de negocio. La principal utilización del bus (ESB-IBM, en la imagen) está destinada a la integración de aplicaciones. 
+
+_Fuente: ae_fna_as_is.archimate._
+
+<br>
+
+![](images/ESB-IBM-2.png)
+
+[Imagen 2b.]() En el modelo "ae_fna_as_is.archimate" no es posible encontrar relaciones del bus con los procesos.
+
+_Fuente: ae_fna_as_is.archimate._
+
+<br>
+
 ![](images/CRM.png)
 
-[Imagen 1.]() Riesgo no. 4 y 5. Caso de CRM del FNA. Le afecta el riesgo de estándarización en la interoperabilidad, aumenta la cantidad de adaptadores particulares.
+[Imagen 3.]() Riesgo no. 4 y 5. Caso de CRM del FNA. Le afecta el riesgo de estándarización en la interoperabilidad, aumenta la cantidad de adaptadores particulares.
 
 _Fuente: ae_fna_as_is.archimate._
 
@@ -428,7 +444,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|350188a del 29 Jan 2023|
+|Version|fefc61a del 31 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -438,7 +454,7 @@ Las capacidades requeridas por el gobierno SOA del Fondo, que a la vez soportan 
 
 <br>
 
->**Nota**: no es del alcance de esta consultoría, E-Service (contrato 181-2020) desarrollar estas capacidades, lo cual requeriría de otro(s) proyecto. Para esto, el Fondo podría desarrollar las capacidades indicadas por este diagnóstico internamente, o contratar proyectos para su implementación.
+>**Nota**: no es del alcance de esta consultoría, E-Service (contrato 181-2020), desarrollar estas capacidades. Esto requeriría de la ejecución de otro(s) proyecto. El Fondo podría desarrollar estas capacidades indicadas por este diagnóstico de forma interna, o contratar proyectos para la creación y gestión de estas capacidades.
 
 <br>
 
@@ -452,7 +468,7 @@ _Fuente: elaboración propia._
 
 1. CAP1. Realizar e implementar estrategias y entregables para planear y analizar la arquitectura de referencia SOA del Fondo (resultado Fase 2 de este diagnóstico).
 1. CAP2. Relacionar elementos de la arquitectura de referencia SOA (181-2020), esto es, procesos de negocio, servicios, datos, aplicaciones, componentes, tecnologías, etc., y vincular distintas perspetivas a una vertical de negocio del  Fondo, como, Gestión Comercial, Cesantías, Ahorro Voluntario para desarrollar modelos consistentes y desarrollar la oportunidad de dirigir cambios y atacar los problemas de integralidad de las pruebas.
-1. CAP3. Realizar y gestionar la puesta en marcha de hojas de ruta para cerrar brechas y alcanzar estados futuros de la arquitectura (TOGAF 9, Fase G, Implementation governance). Ver imagen 2.
+1. CAP3. Realizar y gestionar la puesta en marcha de hojas de ruta para cerrar brechas y alcanzar estados futuros de la arquitectura (TOGAF 9, Fase G, Implementation governance). Ver anexo 1.
 1. CAP4. Ejercitar la trazabilidad de los activos y productos de TI con los productos y decisiones de negocio de las áreas del FNA, como la vicepresidencia de Crédito y la de Operaciones ante la llegada de impactos, cambios, reformas y bajas tecnológicas.
 1. CAP5. Realizar análisis de impacto, riesgos, costo beneficio, capacidad usada, y gestión de demanda ante la evaluación de cambios a la arquitectura de referencia SOA y activos de TI, cuando lo amerite.
 1. CAP6. Emitir y gestionar los contenidos de documentación técnica, como principios, restricciones tecnológicas, marcos de trabajo, normas, diseños, y estándares para el uso de los proveedores, servicios de fábricas del FNA, planta interna, Comunicación y Planeación.
@@ -460,11 +476,24 @@ _Fuente: elaboración propia._
 
 <br>
 
+### Anexo 1. Proceso de Arquitectura Empresarial
 ![](images/adm.gif)
 
 [Imagen 2.]() TOGAF 9, Fase G, Implementation governance para la implementación de las capacidades de ejecución de hojas de ruta del FNA.
 
 _Fuente: www.opengroup.org/soa/source-book/togaf._
+
+
+
+|Tema|Gobierno SOA: **Equilibrio arquitectura y procesos SOA**
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Inversión TI, Eficacia|
+|Autor||
+|Fuente||
+|Version|fefc61a del 31 Jan 2023|
+|Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
+
+<br>
 
 
 
@@ -507,7 +536,7 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|350188a del 29 Jan 2023|
+|Version|fefc61a del 31 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>

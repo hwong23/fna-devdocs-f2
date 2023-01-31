@@ -1230,33 +1230,44 @@ content/06c.Riesgos tecnológicos SOA.md:7:Fase
 content/06c.Riesgos tecnológicos SOA.md:7:Gobierno
 content/06c.Riesgos tecnológicos SOA.md:7:SOA
 content/06c.Riesgos tecnológicos SOA.md:7:Vínculos
+content/06c.Riesgos tecnológicos SOA.md:11:abajo
 content/06c.Riesgos tecnológicos SOA.md:11:agregados
 content/06c.Riesgos tecnológicos SOA.md:11:continuación
+content/06c.Riesgos tecnológicos SOA.md:11:cuenta
 content/06c.Riesgos tecnológicos SOA.md:11:deben
-content/06c.Riesgos tecnológicos SOA.md:11:deben
+content/06c.Riesgos tecnológicos SOA.md:11:describimos
+content/06c.Riesgos tecnológicos SOA.md:11:descritos
 content/06c.Riesgos tecnológicos SOA.md:11:diagnóstco
+content/06c.Riesgos tecnológicos SOA.md:11:Diagnóstico
+content/06c.Riesgos tecnológicos SOA.md:11:el
 content/06c.Riesgos tecnológicos SOA.md:11:el
 content/06c.Riesgos tecnológicos SOA.md:11:encontrados
-content/06c.Riesgos tecnológicos SOA.md:11:existentes
+content/06c.Riesgos tecnológicos SOA.md:11:están
+content/06c.Riesgos tecnológicos SOA.md:11:estos
 content/06c.Riesgos tecnológicos SOA.md:11:Fase
+content/06c.Riesgos tecnológicos SOA.md:11:Fase
+content/06c.Riesgos tecnológicos SOA.md:11:FNA
 content/06c.Riesgos tecnológicos SOA.md:11:Fondo
 content/06c.Riesgos tecnológicos SOA.md:11:gestión
 content/06c.Riesgos tecnológicos SOA.md:11:gestionados
 content/06c.Riesgos tecnológicos SOA.md:11:gobierno
 content/06c.Riesgos tecnológicos SOA.md:11:incorporados
 content/06c.Riesgos tecnológicos SOA.md:11:matriz
-content/06c.Riesgos tecnológicos SOA.md:11:mencionados
 content/06c.Riesgos tecnológicos SOA.md:11:métodos
+content/06c.Riesgos tecnológicos SOA.md:11:mismo
 content/06c.Riesgos tecnológicos SOA.md:11:por
 content/06c.Riesgos tecnológicos SOA.md:11:propios
 content/06c.Riesgos tecnológicos SOA.md:11:propuesto
+content/06c.Riesgos tecnológicos SOA.md:11:Resultado
 content/06c.Riesgos tecnológicos SOA.md:11:riesgos
 content/06c.Riesgos tecnológicos SOA.md:11:riesgos
 content/06c.Riesgos tecnológicos SOA.md:11:ser
-content/06c.Riesgos tecnológicos SOA.md:11:ser
+content/06c.Riesgos tecnológicos SOA.md:11:Situación
 content/06c.Riesgos tecnológicos SOA.md:11:SOA
 content/06c.Riesgos tecnológicos SOA.md:11:SOA
 content/06c.Riesgos tecnológicos SOA.md:11:tecnológicos
+content/06c.Riesgos tecnológicos SOA.md:11:ver
+content/06c.Riesgos tecnológicos SOA.md:11:vez
 content/06c.Riesgos tecnológicos SOA.md:11:vigilancias
 content/06c.Riesgos tecnológicos SOA.md:15:FNA
 content/06c.Riesgos tecnológicos SOA.md:15:Gobierno
@@ -1285,9 +1296,11 @@ content/06c.Riesgos tecnológicos SOA.md:18:limitada
 content/06c.Riesgos tecnológicos SOA.md:18:Riesgo
 content/06c.Riesgos tecnológicos SOA.md:18:ver
 content/06c.Riesgos tecnológicos SOA.md:19:baja
+content/06c.Riesgos tecnológicos SOA.md:19:imagen
 content/06c.Riesgos tecnológicos SOA.md:19:orquestación
 content/06c.Riesgos tecnológicos SOA.md:19:Riesgo
 content/06c.Riesgos tecnológicos SOA.md:19:SOA
+content/06c.Riesgos tecnológicos SOA.md:19:ver
 content/06c.Riesgos tecnológicos SOA.md:20:crecimiento
 content/06c.Riesgos tecnológicos SOA.md:20:dependencias
 content/06c.Riesgos tecnológicos SOA.md:20:entre
@@ -1332,22 +1345,54 @@ content/06c.Riesgos tecnológicos SOA.md:30:SOA
 content/06c.Riesgos tecnológicos SOA.md:32:archimate
 content/06c.Riesgos tecnológicos SOA.md:32:elaboración
 content/06c.Riesgos tecnológicos SOA.md:32:propia
-content/06c.Riesgos tecnológicos SOA.md:36:CRM
-content/06c.Riesgos tecnológicos SOA.md:38:adaptadores
-content/06c.Riesgos tecnológicos SOA.md:38:afecta
-content/06c.Riesgos tecnológicos SOA.md:38:aumenta
-content/06c.Riesgos tecnológicos SOA.md:38:cantidad
-content/06c.Riesgos tecnológicos SOA.md:38:Caso
-content/06c.Riesgos tecnológicos SOA.md:38:CRM
+content/06c.Riesgos tecnológicos SOA.md:36:esb
+content/06c.Riesgos tecnológicos SOA.md:36:procesos
+content/06c.Riesgos tecnológicos SOA.md:38:aparecen
+content/06c.Riesgos tecnológicos SOA.md:38:aplicaciones
+content/06c.Riesgos tecnológicos SOA.md:38:archimate
+content/06c.Riesgos tecnológicos SOA.md:38:destinada
 content/06c.Riesgos tecnológicos SOA.md:38:el
-content/06c.Riesgos tecnológicos SOA.md:38:estándarización
+content/06c.Riesgos tecnológicos SOA.md:38:ESB
+content/06c.Riesgos tecnológicos SOA.md:38:está
+content/06c.Riesgos tecnológicos SOA.md:38:este
 content/06c.Riesgos tecnológicos SOA.md:38:FNA
+content/06c.Riesgos tecnológicos SOA.md:38:imagen
 content/06c.Riesgos tecnológicos SOA.md:38:Imagen
-content/06c.Riesgos tecnológicos SOA.md:38:interoperabilidad
-content/06c.Riesgos tecnológicos SOA.md:38:particulares
-content/06c.Riesgos tecnológicos SOA.md:38:riesgo
+content/06c.Riesgos tecnológicos SOA.md:38:integración
+content/06c.Riesgos tecnológicos SOA.md:38:modelo
+content/06c.Riesgos tecnológicos SOA.md:38:negocio
+content/06c.Riesgos tecnológicos SOA.md:38:procesos
+content/06c.Riesgos tecnológicos SOA.md:38:relaciones
 content/06c.Riesgos tecnológicos SOA.md:38:Riesgo
+content/06c.Riesgos tecnológicos SOA.md:38:situación
+content/06c.Riesgos tecnológicos SOA.md:38:utilización
 content/06c.Riesgos tecnológicos SOA.md:40:archimate
+content/06c.Riesgos tecnológicos SOA.md:44:ESB
+content/06c.Riesgos tecnológicos SOA.md:46:archimate
+content/06c.Riesgos tecnológicos SOA.md:46:el
+content/06c.Riesgos tecnológicos SOA.md:46:encontrar
+content/06c.Riesgos tecnológicos SOA.md:46:Imagen
+content/06c.Riesgos tecnológicos SOA.md:46:modelo
+content/06c.Riesgos tecnológicos SOA.md:46:posible
+content/06c.Riesgos tecnológicos SOA.md:46:procesos
+content/06c.Riesgos tecnológicos SOA.md:46:relaciones
+content/06c.Riesgos tecnológicos SOA.md:48:archimate
+content/06c.Riesgos tecnológicos SOA.md:52:CRM
+content/06c.Riesgos tecnológicos SOA.md:54:adaptadores
+content/06c.Riesgos tecnológicos SOA.md:54:afecta
+content/06c.Riesgos tecnológicos SOA.md:54:aumenta
+content/06c.Riesgos tecnológicos SOA.md:54:cantidad
+content/06c.Riesgos tecnológicos SOA.md:54:Caso
+content/06c.Riesgos tecnológicos SOA.md:54:CRM
+content/06c.Riesgos tecnológicos SOA.md:54:el
+content/06c.Riesgos tecnológicos SOA.md:54:estándarización
+content/06c.Riesgos tecnológicos SOA.md:54:FNA
+content/06c.Riesgos tecnológicos SOA.md:54:Imagen
+content/06c.Riesgos tecnológicos SOA.md:54:interoperabilidad
+content/06c.Riesgos tecnológicos SOA.md:54:particulares
+content/06c.Riesgos tecnológicos SOA.md:54:riesgo
+content/06c.Riesgos tecnológicos SOA.md:54:Riesgo
+content/06c.Riesgos tecnológicos SOA.md:56:archimate
 content/06d.Capacidades gobierno.md:1:Capacidades
 content/06d.Capacidades gobierno.md:1:Desarrollar
 content/06d.Capacidades gobierno.md:1:el
@@ -1415,22 +1460,27 @@ content/06d.Capacidades gobierno.md:12:vez
 content/06d.Capacidades gobierno.md:16:alcance
 content/06d.Capacidades gobierno.md:16:capacidades
 content/06d.Capacidades gobierno.md:16:capacidades
+content/06d.Capacidades gobierno.md:16:capacidades
 content/06d.Capacidades gobierno.md:16:consultoría
 content/06d.Capacidades gobierno.md:16:contratar
 content/06d.Capacidades gobierno.md:16:contrato
-content/06d.Capacidades gobierno.md:16:cual
+content/06d.Capacidades gobierno.md:16:creación
 content/06d.Capacidades gobierno.md:16:desarrollar
 content/06d.Capacidades gobierno.md:16:desarrollar
 content/06d.Capacidades gobierno.md:16:diagnóstico
-content/06d.Capacidades gobierno.md:16:el
+content/06d.Capacidades gobierno.md:16:ejecución
+content/06d.Capacidades gobierno.md:16:El
 content/06d.Capacidades gobierno.md:16:esta
 content/06d.Capacidades gobierno.md:16:estas
+content/06d.Capacidades gobierno.md:16:estas
+content/06d.Capacidades gobierno.md:16:estas
 content/06d.Capacidades gobierno.md:16:este
-content/06d.Capacidades gobierno.md:16:esto
+content/06d.Capacidades gobierno.md:16:Esto
 content/06d.Capacidades gobierno.md:16:Fondo
-content/06d.Capacidades gobierno.md:16:implementación
+content/06d.Capacidades gobierno.md:16:forma
+content/06d.Capacidades gobierno.md:16:gestión
 content/06d.Capacidades gobierno.md:16:indicadas
-content/06d.Capacidades gobierno.md:16:internamente
+content/06d.Capacidades gobierno.md:16:interna
 content/06d.Capacidades gobierno.md:16:Nota
 content/06d.Capacidades gobierno.md:16:otro
 content/06d.Capacidades gobierno.md:16:podría
@@ -1438,7 +1488,6 @@ content/06d.Capacidades gobierno.md:16:por
 content/06d.Capacidades gobierno.md:16:proyecto
 content/06d.Capacidades gobierno.md:16:proyectos
 content/06d.Capacidades gobierno.md:16:requeriría
-content/06d.Capacidades gobierno.md:16:su
 content/06d.Capacidades gobierno.md:20:capacidades
 content/06d.Capacidades gobierno.md:22:capacidades
 content/06d.Capacidades gobierno.md:22:ejecución
@@ -1501,6 +1550,7 @@ content/06d.Capacidades gobierno.md:29:una
 content/06d.Capacidades gobierno.md:29:vincular
 content/06d.Capacidades gobierno.md:29:Voluntario
 content/06d.Capacidades gobierno.md:30:alcanzar
+content/06d.Capacidades gobierno.md:30:anexo
 content/06d.Capacidades gobierno.md:30:arquitectura
 content/06d.Capacidades gobierno.md:30:brechas
 content/06d.Capacidades gobierno.md:30:cerrar
@@ -1509,7 +1559,6 @@ content/06d.Capacidades gobierno.md:30:Fase
 content/06d.Capacidades gobierno.md:30:futuros
 content/06d.Capacidades gobierno.md:30:gestionar
 content/06d.Capacidades gobierno.md:30:hojas
-content/06d.Capacidades gobierno.md:30:imagen
 content/06d.Capacidades gobierno.md:30:marcha
 content/06d.Capacidades gobierno.md:30:puesta
 content/06d.Capacidades gobierno.md:30:Realizar
@@ -1600,18 +1649,40 @@ content/06d.Capacidades gobierno.md:34:responsabilidades
 content/06d.Capacidades gobierno.md:34:SOA
 content/06d.Capacidades gobierno.md:34:toma
 content/06d.Capacidades gobierno.md:34:trabajo
-content/06d.Capacidades gobierno.md:40:capacidades
-content/06d.Capacidades gobierno.md:40:ejecución
-content/06d.Capacidades gobierno.md:40:Fase
-content/06d.Capacidades gobierno.md:40:FNA
-content/06d.Capacidades gobierno.md:40:hojas
-content/06d.Capacidades gobierno.md:40:Imagen
-content/06d.Capacidades gobierno.md:40:implementación
-content/06d.Capacidades gobierno.md:40:ruta
-content/06d.Capacidades gobierno.md:40:TOGAF
-content/06d.Capacidades gobierno.md:42:opengroup
-content/06d.Capacidades gobierno.md:42:soa
-content/06d.Capacidades gobierno.md:42:togaf
+content/06d.Capacidades gobierno.md:38:Anexo
+content/06d.Capacidades gobierno.md:38:Arquitectura
+content/06d.Capacidades gobierno.md:38:Empresarial
+content/06d.Capacidades gobierno.md:38:Proceso
+content/06d.Capacidades gobierno.md:41:capacidades
+content/06d.Capacidades gobierno.md:41:ejecución
+content/06d.Capacidades gobierno.md:41:Fase
+content/06d.Capacidades gobierno.md:41:FNA
+content/06d.Capacidades gobierno.md:41:hojas
+content/06d.Capacidades gobierno.md:41:Imagen
+content/06d.Capacidades gobierno.md:41:implementación
+content/06d.Capacidades gobierno.md:41:ruta
+content/06d.Capacidades gobierno.md:41:TOGAF
+content/06d.Capacidades gobierno.md:43:opengroup
+content/06d.Capacidades gobierno.md:43:soa
+content/06d.Capacidades gobierno.md:43:togaf
+content/06e.md:1:arquitectura
+content/06e.md:1:Equilibrio
+content/06e.md:1:Gobierno
+content/06e.md:1:procesos
+content/06e.md:1:SOA
+content/06e.md:1:SOA
+content/06e.md:1:Tema
+content/06e.md:3:clave
+content/06e.md:3:Eficacia
+content/06e.md:3:Inversión
+content/06e.md:3:Palabras
+content/06e.md:3:SOA
+content/06e.md:4:Autor
+content/06e.md:5:Fuente
+content/06e.md:7:Fase
+content/06e.md:7:Gobierno
+content/06e.md:7:SOA
+content/06e.md:7:Vínculos
 content/06.Fase 2 PR6 Gobierno SOA.md:1:Fase
 content/06.Fase 2 PR6 Gobierno SOA.md:1:FNA
 content/06.Fase 2 PR6 Gobierno SOA.md:1:Objetivo
