@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-31" />
   <meta name="citation_publication_date" content="2023-01-31" />
   <meta property="article:published_time" content="2023-01-31" />
-  <meta name="dc.modified" content="2023-01-31T04:53:47+00:00" />
-  <meta property="article:modified_time" content="2023-01-31T04:53:47+00:00" />
+  <meta name="dc.modified" content="2023-01-31T04:59:41+00:00" />
+  <meta property="article:modified_time" content="2023-01-31T04:59:41+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/f0e4ac9afef6be6dbcdc5e4632e4a417cf5765c2/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/f0e4ac9afef6be6dbcdc5e4632e4a417cf5765c2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/f0e4ac9afef6be6dbcdc5e4632e4a417cf5765c2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/e31bd2a18f9a1ebb2f4fe74d8b465353e8eb6a69/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/e31bd2a18f9a1ebb2f4fe74d8b465353e8eb6a69/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/e31bd2a18f9a1ebb2f4fe74d8b465353e8eb6a69/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,9 +67,9 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdocs-f2/v/f0e4ac9afef6be6dbcdc5e4632e4a417cf5765c2/))
+([permalink](https://hwong23.github.io/fna-devdocs-f2/v/e31bd2a18f9a1ebb2f4fe74d8b465353e8eb6a69/))
 versión indicada a continuación, se encuentra en 
-[f0e4ac9](https://github.com/hwong23/fna-devdocs-f2/tree/f0e4ac9afef6be6dbcdc5e4632e4a417cf5765c2)
+[e31bd2a](https://github.com/hwong23/fna-devdocs-f2/tree/e31bd2a18f9a1ebb2f4fe74d8b465353e8eb6a69)
 on January 31, 2023.
 
 
@@ -147,7 +147,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa|
 |Autor||
 |Fuente||
-|Version|f0e4ac9 del 31 Jan 2023|
+|Version|e31bd2a del 31 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -335,7 +335,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 1. Equilibrio arquitectura y procesos SOA
 1. Supervisión de efectividad y factibilidad SOA
 1. Mejora de los índices de efectividad (madurez) SOA
-1. Consideraciones para la puesta en marcha del gobierno SOA en el fna
+1. Consideraciones para la puesta en marcha del gobierno SOA en el FNA
 
 <br>
 
@@ -352,7 +352,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|f0e4ac9 del 31 Jan 2023|
+|Version|e31bd2a del 31 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -404,7 +404,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|f0e4ac9 del 31 Jan 2023|
+|Version|e31bd2a del 31 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -463,7 +463,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|f0e4ac9 del 31 Jan 2023|
+|Version|e31bd2a del 31 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -509,7 +509,7 @@ _Fuente: www.opengroup.org/soa/source-book/togaf._
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor||
 |Fuente||
-|Version|f0e4ac9 del 31 Jan 2023|
+|Version|e31bd2a del 31 Jan 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -574,6 +574,21 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 
 
 
+|Tema|Gobierno SOA: **Consideraciones para la puesta en marcha del gobierno SOA en el FNA**
+|----|-------------------------------------------------|
+|Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
+|Autor||
+|Fuente||
+|Version|e31bd2a del 31 Jan 2023|
+|Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
+
+<br>
+
+## Consideraciones para la puesta en marcha del gobierno SOA en el FNA
+
+
+
+
 ## Anexos 
 
 ### Procedimiento del Área TI del FNA
@@ -613,7 +628,7 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|f0e4ac9 del 31 Jan 2023|
+|Version|e31bd2a del 31 Jan 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>

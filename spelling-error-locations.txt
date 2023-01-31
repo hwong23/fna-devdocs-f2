@@ -2369,7 +2369,7 @@ content/06.Fase 2 PR6 Gobierno SOA.md:18:Mejora
 content/06.Fase 2 PR6 Gobierno SOA.md:18:SOA
 content/06.Fase 2 PR6 Gobierno SOA.md:19:Consideraciones
 content/06.Fase 2 PR6 Gobierno SOA.md:19:el
-content/06.Fase 2 PR6 Gobierno SOA.md:19:fna
+content/06.Fase 2 PR6 Gobierno SOA.md:19:FNA
 content/06.Fase 2 PR6 Gobierno SOA.md:19:gobierno
 content/06.Fase 2 PR6 Gobierno SOA.md:19:marcha
 content/06.Fase 2 PR6 Gobierno SOA.md:19:puesta
@@ -2387,6 +2387,37 @@ content/06.Fase 2 PR6 Gobierno SOA.md:26:Índices
 content/06.Fase 2 PR6 Gobierno SOA.md:26:Índices
 content/06.Fase 2 PR6 Gobierno SOA.md:26:madurez
 content/06.Fase 2 PR6 Gobierno SOA.md:26:SOA
+content/06f.Consideraciones para la puesta en marcha.md:1:Consideraciones
+content/06f.Consideraciones para la puesta en marcha.md:1:el
+content/06f.Consideraciones para la puesta en marcha.md:1:FNA
+content/06f.Consideraciones para la puesta en marcha.md:1:gobierno
+content/06f.Consideraciones para la puesta en marcha.md:1:Gobierno
+content/06f.Consideraciones para la puesta en marcha.md:1:marcha
+content/06f.Consideraciones para la puesta en marcha.md:1:puesta
+content/06f.Consideraciones para la puesta en marcha.md:1:SOA
+content/06f.Consideraciones para la puesta en marcha.md:1:SOA
+content/06f.Consideraciones para la puesta en marcha.md:1:Tema
+content/06f.Consideraciones para la puesta en marcha.md:3:clave
+content/06f.Consideraciones para la puesta en marcha.md:3:Eficacia
+content/06f.Consideraciones para la puesta en marcha.md:3:Inversión
+content/06f.Consideraciones para la puesta en marcha.md:3:KPI
+content/06f.Consideraciones para la puesta en marcha.md:3:Palabras
+content/06f.Consideraciones para la puesta en marcha.md:3:Proceso
+content/06f.Consideraciones para la puesta en marcha.md:3:SOA
+content/06f.Consideraciones para la puesta en marcha.md:3:SOA
+content/06f.Consideraciones para la puesta en marcha.md:4:Autor
+content/06f.Consideraciones para la puesta en marcha.md:5:Fuente
+content/06f.Consideraciones para la puesta en marcha.md:7:Fase
+content/06f.Consideraciones para la puesta en marcha.md:7:Gobierno
+content/06f.Consideraciones para la puesta en marcha.md:7:SOA
+content/06f.Consideraciones para la puesta en marcha.md:7:Vínculos
+content/06f.Consideraciones para la puesta en marcha.md:11:Consideraciones
+content/06f.Consideraciones para la puesta en marcha.md:11:el
+content/06f.Consideraciones para la puesta en marcha.md:11:FNA
+content/06f.Consideraciones para la puesta en marcha.md:11:gobierno
+content/06f.Consideraciones para la puesta en marcha.md:11:marcha
+content/06f.Consideraciones para la puesta en marcha.md:11:puesta
+content/06f.Consideraciones para la puesta en marcha.md:11:SOA
 content/06n.Anexos.md:1:Anexos
 content/06n.Anexos.md:3:Área
 content/06n.Anexos.md:3:Área
