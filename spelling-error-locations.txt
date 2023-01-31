@@ -1,11 +1,11 @@
-content/00.caratula.md:3:vienen
-content/00.caratula.md:8:Documentación
-content/00.caratula.md:8:proyecto
-content/00.caratula.md:14:continuación
-content/00.caratula.md:14:encuentra
-content/00.caratula.md:14:indicada
-content/00.caratula.md:14:versión
-content/00.caratula.md:24:Grupo
+content/00. caratula.md:3:vienen
+content/00. caratula.md:8:Documentación
+content/00. caratula.md:8:proyecto
+content/00. caratula.md:14:continuación
+content/00. caratula.md:14:encuentra
+content/00. caratula.md:14:indicada
+content/00. caratula.md:14:versión
+content/00. caratula.md:24:Grupo
 content/05a. Comparativa FNA industria.md:1:Comparación
 content/05a. Comparativa FNA industria.md:1:Comparativa
 content/05a. Comparativa FNA industria.md:1:el
@@ -110,6 +110,7 @@ content/05a. Comparativa FNA industria.md:33:realizar
 content/05a. Comparativa FNA industria.md:33:SOA
 content/05a. Comparativa FNA industria.md:33:SOA
 content/05a. Comparativa FNA industria.md:33:SOA
+content/05a. Comparativa FNA industria.md:33:último
 content/05a. Comparativa FNA industria.md:33:último
 content/05a. Comparativa FNA industria.md:36:Financiero
 content/05a. Comparativa FNA industria.md:36:Prácticas
@@ -837,113 +838,113 @@ content/05a. Comparativa FNA industria.md:174:programado
 content/05a. Comparativa FNA industria.md:174:Sala
 content/05a. Comparativa FNA industria.md:174:salida
 content/05a. Comparativa FNA industria.md:174:sobre
-content/05.Fase 2 PR5 Comparativa FNA industria.md:1:Fase
-content/05.Fase 2 PR5 Comparativa FNA industria.md:1:FNA
-content/05.Fase 2 PR5 Comparativa FNA industria.md:1:Objetivo
-content/05.Fase 2 PR5 Comparativa FNA industria.md:1:SOA
-content/05.Fase 2 PR5 Comparativa FNA industria.md:2:Contenido
-content/05.Fase 2 PR5 Comparativa FNA industria.md:2:Contractuales
-content/05.Fase 2 PR5 Comparativa FNA industria.md:2:Productos
-content/05.Fase 2 PR5 Comparativa FNA industria.md:6:Comparativa
-content/05.Fase 2 PR5 Comparativa FNA industria.md:6:el
-content/05.Fase 2 PR5 Comparativa FNA industria.md:6:FNA
-content/05.Fase 2 PR5 Comparativa FNA industria.md:6:industria
-content/05.Fase 2 PR5 Comparativa FNA industria.md:6:Producto
-content/05.Fase 2 PR5 Comparativa FNA industria.md:7:cómo
-content/05.Fase 2 PR5 Comparativa FNA industria.md:7:comparar
-content/05.Fase 2 PR5 Comparativa FNA industria.md:7:Describir
-content/05.Fase 2 PR5 Comparativa FNA industria.md:7:el
-content/05.Fase 2 PR5 Comparativa FNA industria.md:7:empresas
-content/05.Fase 2 PR5 Comparativa FNA industria.md:7:enfrentan
-content/05.Fase 2 PR5 Comparativa FNA industria.md:7:flexibilidad
-content/05.Fase 2 PR5 Comparativa FNA industria.md:7:Fondo
-content/05.Fase 2 PR5 Comparativa FNA industria.md:7:independencia
-content/05.Fase 2 PR5 Comparativa FNA industria.md:7:industria
-content/05.Fase 2 PR5 Comparativa FNA industria.md:7:manera
-content/05.Fase 2 PR5 Comparativa FNA industria.md:7:negocio
-content/05.Fase 2 PR5 Comparativa FNA industria.md:7:otros
-content/05.Fase 2 PR5 Comparativa FNA industria.md:7:proveedor
-content/05.Fase 2 PR5 Comparativa FNA industria.md:7:retos
-content/05.Fase 2 PR5 Comparativa FNA industria.md:7:sectores
-content/05.Fase 2 PR5 Comparativa FNA industria.md:7:segmento
-content/05.Fase 2 PR5 Comparativa FNA industria.md:7:SOA
-content/05.Fase 2 PR5 Comparativa FNA industria.md:7:tecnológico
-content/05.Fase 2 PR5 Comparativa FNA industria.md:9:análisis
-content/05.Fase 2 PR5 Comparativa FNA industria.md:9:aplicaciones
-content/05.Fase 2 PR5 Comparativa FNA industria.md:9:dependencia
-content/05.Fase 2 PR5 Comparativa FNA industria.md:9:el
-content/05.Fase 2 PR5 Comparativa FNA industria.md:9:este
-content/05.Fase 2 PR5 Comparativa FNA industria.md:9:Nota
-content/05.Fase 2 PR5 Comparativa FNA industria.md:9:objetivos
-content/05.Fase 2 PR5 Comparativa FNA industria.md:9:producto
-content/05.Fase 2 PR5 Comparativa FNA industria.md:9:proveedor
-content/05.Fase 2 PR5 Comparativa FNA industria.md:9:provienen
-content/05.Fase 2 PR5 Comparativa FNA industria.md:9:proyecto
-content/05.Fase 2 PR5 Comparativa FNA industria.md:9:SOA
-content/05.Fase 2 PR5 Comparativa FNA industria.md:9:SOA
-content/05.Fase 2 PR5 Comparativa FNA industria.md:9:tiempo
-content/05.Fase 2 PR5 Comparativa FNA industria.md:9:únicamente
-content/05.Fase 2 PR5 Comparativa FNA industria.md:13:Justificación
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:aplicables
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:comparativa
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:esta
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:Fondo
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:Fondo
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:futuras
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:gobierno
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:guía
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:hallazgos
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:hoja
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:industria
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:información
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:iniciativas
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:mejora
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:pertenecientes
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:procesos
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:procesos
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:productos
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:proveerá
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:puede
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:ruta
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:ser
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:SOA
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:SOA
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:sus
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:tanto
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:traducida
-content/05.Fase 2 PR5 Comparativa FNA industria.md:14:vez
-content/05.Fase 2 PR5 Comparativa FNA industria.md:16:Contenidos
-content/05.Fase 2 PR5 Comparativa FNA industria.md:17:Arquitectura
-content/05.Fase 2 PR5 Comparativa FNA industria.md:17:SOA
-content/05.Fase 2 PR5 Comparativa FNA industria.md:18:Portafolio
-content/05.Fase 2 PR5 Comparativa FNA industria.md:18:servicios
-content/05.Fase 2 PR5 Comparativa FNA industria.md:19:Gobierno
-content/05.Fase 2 PR5 Comparativa FNA industria.md:19:SOA
-content/05.Fase 2 PR5 Comparativa FNA industria.md:20:servicios
-content/05.Fase 2 PR5 Comparativa FNA industria.md:20:Versionamiento
-content/05.Fase 2 PR5 Comparativa FNA industria.md:21:Monitoreo
-content/05.Fase 2 PR5 Comparativa FNA industria.md:21:operación
-content/05.Fase 2 PR5 Comparativa FNA industria.md:21:SOA
-content/05.Fase 2 PR5 Comparativa FNA industria.md:22:evolución
-content/05.Fase 2 PR5 Comparativa FNA industria.md:22:Mantenimiento
-content/05.Fase 2 PR5 Comparativa FNA industria.md:22:servicios
-content/05.Fase 2 PR5 Comparativa FNA industria.md:23:Nuevas
-content/05.Fase 2 PR5 Comparativa FNA industria.md:23:tecnologías
-content/05.Fase 2 PR5 Comparativa FNA industria.md:27:Aceptación
-content/05.Fase 2 PR5 Comparativa FNA industria.md:27:Criterios
-content/05.Fase 2 PR5 Comparativa FNA industria.md:29:el
-content/05.Fase 2 PR5 Comparativa FNA industria.md:29:FNA
-content/05.Fase 2 PR5 Comparativa FNA industria.md:29:iniciativas
-content/05.Fase 2 PR5 Comparativa FNA industria.md:29:Lista
-content/05.Fase 2 PR5 Comparativa FNA industria.md:29:oportunidades
-content/05.Fase 2 PR5 Comparativa FNA industria.md:29:por
-content/05.Fase 2 PR5 Comparativa FNA industria.md:29:ralizables
-content/05.Fase 2 PR5 Comparativa FNA industria.md:30:arquitectura
-content/05.Fase 2 PR5 Comparativa FNA industria.md:30:capacidades
-content/05.Fase 2 PR5 Comparativa FNA industria.md:30:Fondo
-content/05.Fase 2 PR5 Comparativa FNA industria.md:30:Mejoras
-content/05.Fase 2 PR5 Comparativa FNA industria.md:30:SOA
-content/05.Fase 2 PR5 Comparativa FNA industria.md:30:visibles
+content/05. Fase 2 PR5 Comparativa FNA industria.md:1:Fase
+content/05. Fase 2 PR5 Comparativa FNA industria.md:1:FNA
+content/05. Fase 2 PR5 Comparativa FNA industria.md:1:Objetivo
+content/05. Fase 2 PR5 Comparativa FNA industria.md:1:SOA
+content/05. Fase 2 PR5 Comparativa FNA industria.md:2:Contenido
+content/05. Fase 2 PR5 Comparativa FNA industria.md:2:Contractuales
+content/05. Fase 2 PR5 Comparativa FNA industria.md:2:Productos
+content/05. Fase 2 PR5 Comparativa FNA industria.md:6:Comparativa
+content/05. Fase 2 PR5 Comparativa FNA industria.md:6:el
+content/05. Fase 2 PR5 Comparativa FNA industria.md:6:FNA
+content/05. Fase 2 PR5 Comparativa FNA industria.md:6:industria
+content/05. Fase 2 PR5 Comparativa FNA industria.md:6:Producto
+content/05. Fase 2 PR5 Comparativa FNA industria.md:7:cómo
+content/05. Fase 2 PR5 Comparativa FNA industria.md:7:comparar
+content/05. Fase 2 PR5 Comparativa FNA industria.md:7:Describir
+content/05. Fase 2 PR5 Comparativa FNA industria.md:7:el
+content/05. Fase 2 PR5 Comparativa FNA industria.md:7:empresas
+content/05. Fase 2 PR5 Comparativa FNA industria.md:7:enfrentan
+content/05. Fase 2 PR5 Comparativa FNA industria.md:7:flexibilidad
+content/05. Fase 2 PR5 Comparativa FNA industria.md:7:Fondo
+content/05. Fase 2 PR5 Comparativa FNA industria.md:7:independencia
+content/05. Fase 2 PR5 Comparativa FNA industria.md:7:industria
+content/05. Fase 2 PR5 Comparativa FNA industria.md:7:manera
+content/05. Fase 2 PR5 Comparativa FNA industria.md:7:negocio
+content/05. Fase 2 PR5 Comparativa FNA industria.md:7:otros
+content/05. Fase 2 PR5 Comparativa FNA industria.md:7:proveedor
+content/05. Fase 2 PR5 Comparativa FNA industria.md:7:retos
+content/05. Fase 2 PR5 Comparativa FNA industria.md:7:sectores
+content/05. Fase 2 PR5 Comparativa FNA industria.md:7:segmento
+content/05. Fase 2 PR5 Comparativa FNA industria.md:7:SOA
+content/05. Fase 2 PR5 Comparativa FNA industria.md:7:tecnológico
+content/05. Fase 2 PR5 Comparativa FNA industria.md:9:análisis
+content/05. Fase 2 PR5 Comparativa FNA industria.md:9:aplicaciones
+content/05. Fase 2 PR5 Comparativa FNA industria.md:9:dependencia
+content/05. Fase 2 PR5 Comparativa FNA industria.md:9:el
+content/05. Fase 2 PR5 Comparativa FNA industria.md:9:este
+content/05. Fase 2 PR5 Comparativa FNA industria.md:9:Nota
+content/05. Fase 2 PR5 Comparativa FNA industria.md:9:objetivos
+content/05. Fase 2 PR5 Comparativa FNA industria.md:9:producto
+content/05. Fase 2 PR5 Comparativa FNA industria.md:9:proveedor
+content/05. Fase 2 PR5 Comparativa FNA industria.md:9:provienen
+content/05. Fase 2 PR5 Comparativa FNA industria.md:9:proyecto
+content/05. Fase 2 PR5 Comparativa FNA industria.md:9:SOA
+content/05. Fase 2 PR5 Comparativa FNA industria.md:9:SOA
+content/05. Fase 2 PR5 Comparativa FNA industria.md:9:tiempo
+content/05. Fase 2 PR5 Comparativa FNA industria.md:9:únicamente
+content/05. Fase 2 PR5 Comparativa FNA industria.md:13:Justificación
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:aplicables
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:comparativa
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:esta
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:Fondo
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:Fondo
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:futuras
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:gobierno
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:guía
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:hallazgos
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:hoja
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:industria
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:información
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:iniciativas
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:mejora
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:pertenecientes
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:procesos
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:procesos
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:productos
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:proveerá
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:puede
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:ruta
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:ser
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:SOA
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:SOA
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:sus
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:tanto
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:traducida
+content/05. Fase 2 PR5 Comparativa FNA industria.md:14:vez
+content/05. Fase 2 PR5 Comparativa FNA industria.md:16:Contenidos
+content/05. Fase 2 PR5 Comparativa FNA industria.md:17:Arquitectura
+content/05. Fase 2 PR5 Comparativa FNA industria.md:17:SOA
+content/05. Fase 2 PR5 Comparativa FNA industria.md:18:Portafolio
+content/05. Fase 2 PR5 Comparativa FNA industria.md:18:servicios
+content/05. Fase 2 PR5 Comparativa FNA industria.md:19:Gobierno
+content/05. Fase 2 PR5 Comparativa FNA industria.md:19:SOA
+content/05. Fase 2 PR5 Comparativa FNA industria.md:20:servicios
+content/05. Fase 2 PR5 Comparativa FNA industria.md:20:Versionamiento
+content/05. Fase 2 PR5 Comparativa FNA industria.md:21:Monitoreo
+content/05. Fase 2 PR5 Comparativa FNA industria.md:21:operación
+content/05. Fase 2 PR5 Comparativa FNA industria.md:21:SOA
+content/05. Fase 2 PR5 Comparativa FNA industria.md:22:evolución
+content/05. Fase 2 PR5 Comparativa FNA industria.md:22:Mantenimiento
+content/05. Fase 2 PR5 Comparativa FNA industria.md:22:servicios
+content/05. Fase 2 PR5 Comparativa FNA industria.md:23:Nuevas
+content/05. Fase 2 PR5 Comparativa FNA industria.md:23:tecnologías
+content/05. Fase 2 PR5 Comparativa FNA industria.md:27:Aceptación
+content/05. Fase 2 PR5 Comparativa FNA industria.md:27:Criterios
+content/05. Fase 2 PR5 Comparativa FNA industria.md:29:el
+content/05. Fase 2 PR5 Comparativa FNA industria.md:29:FNA
+content/05. Fase 2 PR5 Comparativa FNA industria.md:29:iniciativas
+content/05. Fase 2 PR5 Comparativa FNA industria.md:29:Lista
+content/05. Fase 2 PR5 Comparativa FNA industria.md:29:oportunidades
+content/05. Fase 2 PR5 Comparativa FNA industria.md:29:por
+content/05. Fase 2 PR5 Comparativa FNA industria.md:29:ralizables
+content/05. Fase 2 PR5 Comparativa FNA industria.md:30:arquitectura
+content/05. Fase 2 PR5 Comparativa FNA industria.md:30:capacidades
+content/05. Fase 2 PR5 Comparativa FNA industria.md:30:Fondo
+content/05. Fase 2 PR5 Comparativa FNA industria.md:30:Mejoras
+content/05. Fase 2 PR5 Comparativa FNA industria.md:30:SOA
+content/05. Fase 2 PR5 Comparativa FNA industria.md:30:visibles
 content/06a. Objetivos gobierno .md:1:Definición
 content/06a. Objetivos gobierno .md:1:gobierno
 content/06a. Objetivos gobierno .md:1:Gobierno
@@ -2212,6 +2213,2347 @@ content/06e. Índices de efectividad SOA.md:65:Elaboración
 content/06e. Índices de efectividad SOA.md:65:herramienta
 content/06e. Índices de efectividad SOA.md:65:madurez
 content/06e. Índices de efectividad SOA.md:65:SOA
+content/06e. Modelo_Gobierno_Datos.md:1:Contenido
+content/06e. Modelo_Gobierno_Datos.md:3:Ilustraciones
+content/06e. Modelo_Gobierno_Datos.md:4:ilustraciones
+content/06e. Modelo_Gobierno_Datos.md:4:ilustraciones
+content/06e. Modelo_Gobierno_Datos.md:6:introducción
+content/06e. Modelo_Gobierno_Datos.md:6:introducción
+content/06e. Modelo_Gobierno_Datos.md:6:Introducción
+content/06e. Modelo_Gobierno_Datos.md:8:alcance
+content/06e. Modelo_Gobierno_Datos.md:8:alcance
+content/06e. Modelo_Gobierno_Datos.md:8:Alcance
+content/06e. Modelo_Gobierno_Datos.md:10:Antecedentes
+content/06e. Modelo_Gobierno_Datos.md:10:Normativa
+content/06e. Modelo_Gobierno_Datos.md:10:Política
+content/06e. Modelo_Gobierno_Datos.md:10:Pública
+content/06e. Modelo_Gobierno_Datos.md:11:antecedentes
+content/06e. Modelo_Gobierno_Datos.md:11:antecedentes
+content/06e. Modelo_Gobierno_Datos.md:11:normativa
+content/06e. Modelo_Gobierno_Datos.md:11:normativa
+content/06e. Modelo_Gobierno_Datos.md:11:política
+content/06e. Modelo_Gobierno_Datos.md:11:política
+content/06e. Modelo_Gobierno_Datos.md:11:pública
+content/06e. Modelo_Gobierno_Datos.md:11:pública
+content/06e. Modelo_Gobierno_Datos.md:13:teórico
+content/06e. Modelo_Gobierno_Datos.md:13:teórico
+content/06e. Modelo_Gobierno_Datos.md:13:teórico
+content/06e. Modelo_Gobierno_Datos.md:15:Datos
+content/06e. Modelo_Gobierno_Datos.md:15:Definición
+content/06e. Modelo_Gobierno_Datos.md:15:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:16:datos
+content/06e. Modelo_Gobierno_Datos.md:16:datos
+content/06e. Modelo_Gobierno_Datos.md:16:definición
+content/06e. Modelo_Gobierno_Datos.md:16:definición
+content/06e. Modelo_Gobierno_Datos.md:16:gobierno
+content/06e. Modelo_Gobierno_Datos.md:16:gobierno
+content/06e. Modelo_Gobierno_Datos.md:18:Datos
+content/06e. Modelo_Gobierno_Datos.md:18:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:18:Trabajo
+content/06e. Modelo_Gobierno_Datos.md:21:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:21:Modelo
+content/06e. Modelo_Gobierno_Datos.md:22:gobierno
+content/06e. Modelo_Gobierno_Datos.md:22:gobierno
+content/06e. Modelo_Gobierno_Datos.md:22:modelo
+content/06e. Modelo_Gobierno_Datos.md:22:modelo
+content/06e. Modelo_Gobierno_Datos.md:22:propuesto
+content/06e. Modelo_Gobierno_Datos.md:22:propuesto
+content/06e. Modelo_Gobierno_Datos.md:24:articulación
+content/06e. Modelo_Gobierno_Datos.md:24:articulación
+content/06e. Modelo_Gobierno_Datos.md:24:Articulación
+content/06e. Modelo_Gobierno_Datos.md:28:Centrado
+content/06e. Modelo_Gobierno_Datos.md:29:centrado
+content/06e. Modelo_Gobierno_Datos.md:29:centrado
+content/06e. Modelo_Gobierno_Datos.md:33:política
+content/06e. Modelo_Gobierno_Datos.md:33:política
+content/06e. Modelo_Gobierno_Datos.md:33:Política
+content/06e. Modelo_Gobierno_Datos.md:35:ejes
+content/06e. Modelo_Gobierno_Datos.md:35:ejes
+content/06e. Modelo_Gobierno_Datos.md:35:Ejes
+content/06e. Modelo_Gobierno_Datos.md:37:componentes
+content/06e. Modelo_Gobierno_Datos.md:37:componentes
+content/06e. Modelo_Gobierno_Datos.md:37:Componentes
+content/06e. Modelo_Gobierno_Datos.md:39:modelo
+content/06e. Modelo_Gobierno_Datos.md:39:modelo
+content/06e. Modelo_Gobierno_Datos.md:39:Modelo
+content/06e. Modelo_Gobierno_Datos.md:39:operativo
+content/06e. Modelo_Gobierno_Datos.md:39:operativo
+content/06e. Modelo_Gobierno_Datos.md:39:Operativo
+content/06e. Modelo_Gobierno_Datos.md:41:Comité
+content/06e. Modelo_Gobierno_Datos.md:41:datos
+content/06e. Modelo_Gobierno_Datos.md:41:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:42:comité
+content/06e. Modelo_Gobierno_Datos.md:42:comité
+content/06e. Modelo_Gobierno_Datos.md:42:datos
+content/06e. Modelo_Gobierno_Datos.md:42:datos
+content/06e. Modelo_Gobierno_Datos.md:42:gobierno
+content/06e. Modelo_Gobierno_Datos.md:42:gobierno
+content/06e. Modelo_Gobierno_Datos.md:44:funciones
+content/06e. Modelo_Gobierno_Datos.md:44:funciones
+content/06e. Modelo_Gobierno_Datos.md:44:Funciones
+content/06e. Modelo_Gobierno_Datos.md:46:Referencias
+content/06e. Modelo_Gobierno_Datos.md:48:Ilustraciones
+content/06e. Modelo_Gobierno_Datos.md:50:Ilustración
+content/06e. Modelo_Gobierno_Datos.md:50:Normativa
+content/06e. Modelo_Gobierno_Datos.md:50:Política
+content/06e. Modelo_Gobierno_Datos.md:50:Pública
+content/06e. Modelo_Gobierno_Datos.md:53:Beneficios
+content/06e. Modelo_Gobierno_Datos.md:53:Datos
+content/06e. Modelo_Gobierno_Datos.md:53:Definición
+content/06e. Modelo_Gobierno_Datos.md:53:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:53:Ilustración
+content/06e. Modelo_Gobierno_Datos.md:56:Datos
+content/06e. Modelo_Gobierno_Datos.md:56:el
+content/06e. Modelo_Gobierno_Datos.md:56:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:56:Ilustración
+content/06e. Modelo_Gobierno_Datos.md:56:Pilares
+content/06e. Modelo_Gobierno_Datos.md:56:Trabajo
+content/06e. Modelo_Gobierno_Datos.md:59:Datos
+content/06e. Modelo_Gobierno_Datos.md:59:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:59:Ilustración
+content/06e. Modelo_Gobierno_Datos.md:59:Modelo
+content/06e. Modelo_Gobierno_Datos.md:62:Datos
+content/06e. Modelo_Gobierno_Datos.md:62:Estructura
+content/06e. Modelo_Gobierno_Datos.md:62:Federada
+content/06e. Modelo_Gobierno_Datos.md:62:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:62:Ilustración
+content/06e. Modelo_Gobierno_Datos.md:65:Comité
+content/06e. Modelo_Gobierno_Datos.md:65:Datos
+content/06e. Modelo_Gobierno_Datos.md:65:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:65:Ilustración
+content/06e. Modelo_Gobierno_Datos.md:68:datos
+content/06e. Modelo_Gobierno_Datos.md:68:gobierno
+content/06e. Modelo_Gobierno_Datos.md:68:Ilustración
+content/06e. Modelo_Gobierno_Datos.md:71:Introducción
+content/06e. Modelo_Gobierno_Datos.md:73:aprobó
+content/06e. Modelo_Gobierno_Datos.md:73:CONPES
+content/06e. Modelo_Gobierno_Datos.md:73:documento
+content/06e. Modelo_Gobierno_Datos.md:73:el
+content/06e. Modelo_Gobierno_Datos.md:73:El
+content/06e. Modelo_Gobierno_Datos.md:73:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:73:nacional
+content/06e. Modelo_Gobierno_Datos.md:74:datos
+content/06e. Modelo_Gobierno_Datos.md:74:el
+content/06e. Modelo_Gobierno_Datos.md:74:Estado
+content/06e. Modelo_Gobierno_Datos.md:74:explotación
+content/06e. Modelo_Gobierno_Datos.md:74:explotación
+content/06e. Modelo_Gobierno_Datos.md:74:política
+content/06e. Modelo_Gobierno_Datos.md:75:asume
+content/06e. Modelo_Gobierno_Datos.md:75:colombiano
+content/06e. Modelo_Gobierno_Datos.md:75:documento
+content/06e. Modelo_Gobierno_Datos.md:75:el
+content/06e. Modelo_Gobierno_Datos.md:75:el
+content/06e. Modelo_Gobierno_Datos.md:75:este
+content/06e. Modelo_Gobierno_Datos.md:75:liderazgo
+content/06e. Modelo_Gobierno_Datos.md:75:país
+content/06e. Modelo_Gobierno_Datos.md:76:el
+content/06e. Modelo_Gobierno_Datos.md:76:el
+content/06e. Modelo_Gobierno_Datos.md:76:Latinoamérica
+content/06e. Modelo_Gobierno_Datos.md:76:mundo
+content/06e. Modelo_Gobierno_Datos.md:76:política
+content/06e. Modelo_Gobierno_Datos.md:76:primero
+content/06e. Modelo_Gobierno_Datos.md:76:ser
+content/06e. Modelo_Gobierno_Datos.md:76:una
+content/06e. Modelo_Gobierno_Datos.md:77:aprovechamiento
+content/06e. Modelo_Gobierno_Datos.md:77:datos
+content/06e. Modelo_Gobierno_Datos.md:77:el
+content/06e. Modelo_Gobierno_Datos.md:77:habilita
+content/06e. Modelo_Gobierno_Datos.md:77:pública
+content/06e. Modelo_Gobierno_Datos.md:78:desarrollo
+content/06e. Modelo_Gobierno_Datos.md:78:económico
+content/06e. Modelo_Gobierno_Datos.md:78:generar
+content/06e. Modelo_Gobierno_Datos.md:80:datos
+content/06e. Modelo_Gobierno_Datos.md:80:datos
+content/06e. Modelo_Gobierno_Datos.md:80:El
+content/06e. Modelo_Gobierno_Datos.md:80:explotación
+content/06e. Modelo_Gobierno_Datos.md:80:explotación
+content/06e. Modelo_Gobierno_Datos.md:80:gobierno
+content/06e. Modelo_Gobierno_Datos.md:80:necesario
+content/06e. Modelo_Gobierno_Datos.md:80:teniendo
+content/06e. Modelo_Gobierno_Datos.md:81:arquitectura
+content/06e. Modelo_Gobierno_Datos.md:81:cuenta
+content/06e. Modelo_Gobierno_Datos.md:81:datos
+content/06e. Modelo_Gobierno_Datos.md:81:este
+content/06e. Modelo_Gobierno_Datos.md:81:explotación
+content/06e. Modelo_Gobierno_Datos.md:81:explotación
+content/06e. Modelo_Gobierno_Datos.md:81:modelo
+content/06e. Modelo_Gobierno_Datos.md:82:capacidades
+content/06e. Modelo_Gobierno_Datos.md:82:entidades
+content/06e. Modelo_Gobierno_Datos.md:82:identificar
+content/06e. Modelo_Gobierno_Datos.md:82:instrumento
+content/06e. Modelo_Gobierno_Datos.md:82:permite
+content/06e. Modelo_Gobierno_Datos.md:83:financiero
+content/06e. Modelo_Gobierno_Datos.md:83:humano
+content/06e. Modelo_Gobierno_Datos.md:83:organizacionales
+content/06e. Modelo_Gobierno_Datos.md:83:recurso
+content/06e. Modelo_Gobierno_Datos.md:83:tecnológico
+content/06e. Modelo_Gobierno_Datos.md:84:aprovechamiento
+content/06e. Modelo_Gobierno_Datos.md:84:datos
+content/06e. Modelo_Gobierno_Datos.md:84:deben
+content/06e. Modelo_Gobierno_Datos.md:84:desarrollar
+content/06e. Modelo_Gobierno_Datos.md:84:el
+content/06e. Modelo_Gobierno_Datos.md:84:mejorar
+content/06e. Modelo_Gobierno_Datos.md:84:su
+content/06e. Modelo_Gobierno_Datos.md:84:vez
+content/06e. Modelo_Gobierno_Datos.md:85:analítica
+content/06e. Modelo_Gobierno_Datos.md:85:datos
+content/06e. Modelo_Gobierno_Datos.md:85:efecto
+content/06e. Modelo_Gobierno_Datos.md:85:el
+content/06e. Modelo_Gobierno_Datos.md:85:explotación
+content/06e. Modelo_Gobierno_Datos.md:85:explotación
+content/06e. Modelo_Gobierno_Datos.md:85:tiene
+content/06e. Modelo_Gobierno_Datos.md:85:visibilizar
+content/06e. Modelo_Gobierno_Datos.md:86:generar
+content/06e. Modelo_Gobierno_Datos.md:86:optimización
+content/06e. Modelo_Gobierno_Datos.md:86:partir
+content/06e. Modelo_Gobierno_Datos.md:86:prestación
+content/06e. Modelo_Gobierno_Datos.md:86:público
+content/06e. Modelo_Gobierno_Datos.md:87:bienes
+content/06e. Modelo_Gobierno_Datos.md:87:ciudadanos
+content/06e. Modelo_Gobierno_Datos.md:87:eficiencia
+content/06e. Modelo_Gobierno_Datos.md:87:mejorar
+content/06e. Modelo_Gobierno_Datos.md:87:servicios
+content/06e. Modelo_Gobierno_Datos.md:88:basadas
+content/06e. Modelo_Gobierno_Datos.md:88:diseñar
+content/06e. Modelo_Gobierno_Datos.md:88:evidencia
+content/06e. Modelo_Gobierno_Datos.md:88:gestión
+content/06e. Modelo_Gobierno_Datos.md:88:políticas
+content/06e. Modelo_Gobierno_Datos.md:88:pública
+content/06e. Modelo_Gobierno_Datos.md:88:públicas
+content/06e. Modelo_Gobierno_Datos.md:88:públicas
+content/06e. Modelo_Gobierno_Datos.md:91:análisis
+content/06e. Modelo_Gobierno_Datos.md:91:documento
+content/06e. Modelo_Gobierno_Datos.md:91:el
+content/06e. Modelo_Gobierno_Datos.md:91:elaboración
+content/06e. Modelo_Gobierno_Datos.md:91:este
+content/06e. Modelo_Gobierno_Datos.md:91:mediante
+content/06e. Modelo_Gobierno_Datos.md:91:realizó
+content/06e. Modelo_Gobierno_Datos.md:92:DAMA
+content/06e. Modelo_Gobierno_Datos.md:92:datos
+content/06e. Modelo_Gobierno_Datos.md:92:gestión
+content/06e. Modelo_Gobierno_Datos.md:92:MINTIC
+content/06e. Modelo_Gobierno_Datos.md:92:principales
+content/06e. Modelo_Gobierno_Datos.md:92:trabajo
+content/06e. Modelo_Gobierno_Datos.md:93:actualidad
+content/06e. Modelo_Gobierno_Datos.md:93:existen
+content/06e. Modelo_Gobierno_Datos.md:93:integrantes
+content/06e. Modelo_Gobierno_Datos.md:93:parte
+content/06e. Modelo_Gobierno_Datos.md:93:por
+content/06e. Modelo_Gobierno_Datos.md:94:Ahorro
+content/06e. Modelo_Gobierno_Datos.md:94:cuenta
+content/06e. Modelo_Gobierno_Datos.md:94:equipo
+content/06e. Modelo_Gobierno_Datos.md:94:Fondo
+content/06e. Modelo_Gobierno_Datos.md:94:Nacional
+content/06e. Modelo_Gobierno_Datos.md:94:tuvieron
+content/06e. Modelo_Gobierno_Datos.md:95:entidad
+content/06e. Modelo_Gobierno_Datos.md:95:estructura
+content/06e. Modelo_Gobierno_Datos.md:95:factores
+content/06e. Modelo_Gobierno_Datos.md:95:representativos
+content/06e. Modelo_Gobierno_Datos.md:95:siguientes
+content/06e. Modelo_Gobierno_Datos.md:95:su
+content/06e. Modelo_Gobierno_Datos.md:96:apoyo
+content/06e. Modelo_Gobierno_Datos.md:96:cultura
+content/06e. Modelo_Gobierno_Datos.md:96:datos
+content/06e. Modelo_Gobierno_Datos.md:96:el
+content/06e. Modelo_Gobierno_Datos.md:96:gobierno
+content/06e. Modelo_Gobierno_Datos.md:96:madurez
+content/06e. Modelo_Gobierno_Datos.md:96:nivel
+content/06e. Modelo_Gobierno_Datos.md:96:organizativa
+content/06e. Modelo_Gobierno_Datos.md:97:directivo
+content/06e. Modelo_Gobierno_Datos.md:97:entre
+content/06e. Modelo_Gobierno_Datos.md:97:nivel
+content/06e. Modelo_Gobierno_Datos.md:97:otros
+content/06e. Modelo_Gobierno_Datos.md:99:basan
+content/06e. Modelo_Gobierno_Datos.md:99:definiciones
+content/06e. Modelo_Gobierno_Datos.md:99:documento
+content/06e. Modelo_Gobierno_Datos.md:99:este
+content/06e. Modelo_Gobierno_Datos.md:99:lineamientos
+content/06e. Modelo_Gobierno_Datos.md:99:propuestos
+content/06e. Modelo_Gobierno_Datos.md:100:expedido
+content/06e. Modelo_Gobierno_Datos.md:100:fecha
+content/06e. Modelo_Gobierno_Datos.md:100:hasta
+content/06e. Modelo_Gobierno_Datos.md:100:normativa
+content/06e. Modelo_Gobierno_Datos.md:100:política
+content/06e. Modelo_Gobierno_Datos.md:100:pública
+content/06e. Modelo_Gobierno_Datos.md:101:Comunicaciones
+content/06e. Modelo_Gobierno_Datos.md:101:guía
+content/06e. Modelo_Gobierno_Datos.md:101:Información
+content/06e. Modelo_Gobierno_Datos.md:101:Ministerio
+content/06e. Modelo_Gobierno_Datos.md:101:Tecnología
+content/06e. Modelo_Gobierno_Datos.md:102:adelante
+content/06e. Modelo_Gobierno_Datos.md:102:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:102:Guía
+content/06e. Modelo_Gobierno_Datos.md:102:Información
+content/06e. Modelo_Gobierno_Datos.md:102:MINTIC
+content/06e. Modelo_Gobierno_Datos.md:102:Técnica
+content/06e. Modelo_Gobierno_Datos.md:103:contempla
+content/06e. Modelo_Gobierno_Datos.md:103:cual
+content/06e. Modelo_Gobierno_Datos.md:103:dato
+content/06e. Modelo_Gobierno_Datos.md:103:datos
+content/06e. Modelo_Gobierno_Datos.md:103:desde
+content/06e. Modelo_Gobierno_Datos.md:103:perspectiva
+content/06e. Modelo_Gobierno_Datos.md:104:componentes
+content/06e. Modelo_Gobierno_Datos.md:104:información
+content/06e. Modelo_Gobierno_Datos.md:106:Alcance
+content/06e. Modelo_Gobierno_Datos.md:108:datos
+content/06e. Modelo_Gobierno_Datos.md:108:Definir
+content/06e. Modelo_Gobierno_Datos.md:108:gobierno
+content/06e. Modelo_Gobierno_Datos.md:108:guía
+content/06e. Modelo_Gobierno_Datos.md:108:modelo
+content/06e. Modelo_Gobierno_Datos.md:108:nivel
+content/06e. Modelo_Gobierno_Datos.md:108:sirva
+content/06e. Modelo_Gobierno_Datos.md:109:datos
+content/06e. Modelo_Gobierno_Datos.md:109:demás
+content/06e. Modelo_Gobierno_Datos.md:109:funciones
+content/06e. Modelo_Gobierno_Datos.md:109:gestión
+content/06e. Modelo_Gobierno_Datos.md:109:mejorar
+content/06e. Modelo_Gobierno_Datos.md:109:procesos
+content/06e. Modelo_Gobierno_Datos.md:110:asignar
+content/06e. Modelo_Gobierno_Datos.md:110:decisiones
+content/06e. Modelo_Gobierno_Datos.md:110:inversiones
+content/06e. Modelo_Gobierno_Datos.md:110:momento
+content/06e. Modelo_Gobierno_Datos.md:110:priorizar
+content/06e. Modelo_Gobierno_Datos.md:110:toma
+content/06e. Modelo_Gobierno_Datos.md:111:cómo
+content/06e. Modelo_Gobierno_Datos.md:111:conocer
+content/06e. Modelo_Gobierno_Datos.md:111:datos
+content/06e. Modelo_Gobierno_Datos.md:111:gestionan
+content/06e. Modelo_Gobierno_Datos.md:111:medir
+content/06e. Modelo_Gobierno_Datos.md:111:recursos
+content/06e. Modelo_Gobierno_Datos.md:111:resultados
+content/06e. Modelo_Gobierno_Datos.md:112:adecuada
+content/06e. Modelo_Gobierno_Datos.md:112:apoyo
+content/06e. Modelo_Gobierno_Datos.md:112:continúo
+content/06e. Modelo_Gobierno_Datos.md:112:despliegan
+content/06e. Modelo_Gobierno_Datos.md:112:el
+content/06e. Modelo_Gobierno_Datos.md:112:forma
+content/06e. Modelo_Gobierno_Datos.md:112:necesidades
+content/06e. Modelo_Gobierno_Datos.md:113:aportar
+content/06e. Modelo_Gobierno_Datos.md:113:cada
+content/06e. Modelo_Gobierno_Datos.md:113:ciudadanía
+content/06e. Modelo_Gobierno_Datos.md:113:cumplimiento
+content/06e. Modelo_Gobierno_Datos.md:113:objetivos
+content/06e. Modelo_Gobierno_Datos.md:114:departamentos
+content/06e. Modelo_Gobierno_Datos.md:114:dependencias
+content/06e. Modelo_Gobierno_Datos.md:114:Fondo
+content/06e. Modelo_Gobierno_Datos.md:114:gerencias
+content/06e. Modelo_Gobierno_Datos.md:114:Nacional
+content/06e. Modelo_Gobierno_Datos.md:114:una
+content/06e. Modelo_Gobierno_Datos.md:115:Ahorro
+content/06e. Modelo_Gobierno_Datos.md:117:Antecedentes
+content/06e. Modelo_Gobierno_Datos.md:117:Normativa
+content/06e. Modelo_Gobierno_Datos.md:117:Política
+content/06e. Modelo_Gobierno_Datos.md:117:Pública
+content/06e. Modelo_Gobierno_Datos.md:122:Ilustración
+content/06e. Modelo_Gobierno_Datos.md:122:Normativa
+content/06e. Modelo_Gobierno_Datos.md:122:Política
+content/06e. Modelo_Gobierno_Datos.md:122:Pública
+content/06e. Modelo_Gobierno_Datos.md:124:CONPES
+content/06e. Modelo_Gobierno_Datos.md:124:documento
+content/06e. Modelo_Gobierno_Datos.md:124:El
+content/06e. Modelo_Gobierno_Datos.md:124:Explotación
+content/06e. Modelo_Gobierno_Datos.md:124:Explotación
+content/06e. Modelo_Gobierno_Datos.md:124:Nacional
+content/06e. Modelo_Gobierno_Datos.md:124:Política
+content/06e. Modelo_Gobierno_Datos.md:125:Datos
+content/06e. Modelo_Gobierno_Datos.md:125:diseñar
+content/06e. Modelo_Gobierno_Datos.md:125:estableció
+content/06e. Modelo_Gobierno_Datos.md:125:implementar
+content/06e. Modelo_Gobierno_Datos.md:125:necesidad
+content/06e. Modelo_Gobierno_Datos.md:126:activos
+content/06e. Modelo_Gobierno_Datos.md:126:datos
+content/06e. Modelo_Gobierno_Datos.md:126:datos
+content/06e. Modelo_Gobierno_Datos.md:126:generan
+content/06e. Modelo_Gobierno_Datos.md:126:infraestructura
+content/06e. Modelo_Gobierno_Datos.md:126:ser
+content/06e. Modelo_Gobierno_Datos.md:127:definición
+content/06e. Modelo_Gobierno_Datos.md:127:económico
+content/06e. Modelo_Gobierno_Datos.md:127:implementación
+content/06e. Modelo_Gobierno_Datos.md:127:requieren
+content/06e. Modelo_Gobierno_Datos.md:127:su
+content/06e. Modelo_Gobierno_Datos.md:128:datos
+content/06e. Modelo_Gobierno_Datos.md:128:explotación
+content/06e. Modelo_Gobierno_Datos.md:128:explotación
+content/06e. Modelo_Gobierno_Datos.md:128:infraestructura
+content/06e. Modelo_Gobierno_Datos.md:128:mantenimiento
+content/06e. Modelo_Gobierno_Datos.md:128:partir
+content/06e. Modelo_Gobierno_Datos.md:130:CONPES
+content/06e. Modelo_Gobierno_Datos.md:130:Documento
+content/06e. Modelo_Gobierno_Datos.md:130:El
+content/06e. Modelo_Gobierno_Datos.md:130:Nacional
+content/06e. Modelo_Gobierno_Datos.md:130:Política
+content/06e. Modelo_Gobierno_Datos.md:131:establece
+content/06e. Modelo_Gobierno_Datos.md:131:Inteligencia
+content/06e. Modelo_Gobierno_Datos.md:131:Transformación
+content/06e. Modelo_Gobierno_Datos.md:132:completa
+content/06e. Modelo_Gobierno_Datos.md:132:datos
+content/06e. Modelo_Gobierno_Datos.md:132:debe
+content/06e. Modelo_Gobierno_Datos.md:132:desarrollando
+content/06e. Modelo_Gobierno_Datos.md:132:infraestructura
+content/06e. Modelo_Gobierno_Datos.md:132:seguir
+content/06e. Modelo_Gobierno_Datos.md:132:una
+content/06e. Modelo_Gobierno_Datos.md:133:diseño
+content/06e. Modelo_Gobierno_Datos.md:133:el
+content/06e. Modelo_Gobierno_Datos.md:133:el
+content/06e. Modelo_Gobierno_Datos.md:133:implementación
+content/06e. Modelo_Gobierno_Datos.md:133:país
+content/06e. Modelo_Gobierno_Datos.md:133:permita
+content/06e. Modelo_Gobierno_Datos.md:133:sistemas
+content/06e. Modelo_Gobierno_Datos.md:134:creación
+content/06e. Modelo_Gobierno_Datos.md:134:datos
+content/06e. Modelo_Gobierno_Datos.md:134:identificación
+content/06e. Modelo_Gobierno_Datos.md:134:masivos
+content/06e. Modelo_Gobierno_Datos.md:134:priorizando
+content/06e. Modelo_Gobierno_Datos.md:135:así
+content/06e. Modelo_Gobierno_Datos.md:135:contengan
+content/06e. Modelo_Gobierno_Datos.md:135:estructurada
+content/06e. Modelo_Gobierno_Datos.md:135:información
+content/06e. Modelo_Gobierno_Datos.md:135:interoperables
+content/06e. Modelo_Gobierno_Datos.md:136:acceso
+content/06e. Modelo_Gobierno_Datos.md:136:barreras
+content/06e. Modelo_Gobierno_Datos.md:136:datos
+content/06e. Modelo_Gobierno_Datos.md:136:disminuyendo
+content/06e. Modelo_Gobierno_Datos.md:136:injustificadas
+content/06e. Modelo_Gobierno_Datos.md:136:innecesarias
+content/06e. Modelo_Gobierno_Datos.md:137:desarrolladores
+content/06e. Modelo_Gobierno_Datos.md:137:esta
+content/06e. Modelo_Gobierno_Datos.md:137:tecnología
+content/06e. Modelo_Gobierno_Datos.md:139:Confianza
+content/06e. Modelo_Gobierno_Datos.md:139:CONPES
+content/06e. Modelo_Gobierno_Datos.md:139:Documento
+content/06e. Modelo_Gobierno_Datos.md:139:El
+content/06e. Modelo_Gobierno_Datos.md:139:Nacional
+content/06e. Modelo_Gobierno_Datos.md:139:Política
+content/06e. Modelo_Gobierno_Datos.md:140:establecer
+content/06e. Modelo_Gobierno_Datos.md:140:medidas
+content/06e. Modelo_Gobierno_Datos.md:140:objetivo
+content/06e. Modelo_Gobierno_Datos.md:140:Seguridad
+content/06e. Modelo_Gobierno_Datos.md:140:señala
+content/06e. Modelo_Gobierno_Datos.md:141:confianza
+content/06e. Modelo_Gobierno_Datos.md:141:desarrollar
+content/06e. Modelo_Gobierno_Datos.md:141:mejora
+content/06e. Modelo_Gobierno_Datos.md:141:seguridad
+content/06e. Modelo_Gobierno_Datos.md:141:través
+content/06e. Modelo_Gobierno_Datos.md:142:competitiva
+content/06e. Modelo_Gobierno_Datos.md:142:incluyente
+content/06e. Modelo_Gobierno_Datos.md:142:manera
+content/06e. Modelo_Gobierno_Datos.md:142:sociedad
+content/06e. Modelo_Gobierno_Datos.md:142:una
+content/06e. Modelo_Gobierno_Datos.md:143:capacidades
+content/06e. Modelo_Gobierno_Datos.md:143:el
+content/06e. Modelo_Gobierno_Datos.md:143:el
+content/06e. Modelo_Gobierno_Datos.md:143:fortalecimiento
+content/06e. Modelo_Gobierno_Datos.md:143:futuro
+content/06e. Modelo_Gobierno_Datos.md:143:mediante
+content/06e. Modelo_Gobierno_Datos.md:144:actualización
+content/06e. Modelo_Gobierno_Datos.md:144:así
+content/06e. Modelo_Gobierno_Datos.md:144:gobernanza
+content/06e. Modelo_Gobierno_Datos.md:144:seguridad
+content/06e. Modelo_Gobierno_Datos.md:145:adopción
+content/06e. Modelo_Gobierno_Datos.md:145:énfasis
+content/06e. Modelo_Gobierno_Datos.md:145:modelos
+content/06e. Modelo_Gobierno_Datos.md:145:nuevas
+content/06e. Modelo_Gobierno_Datos.md:145:tecnologías
+content/06e. Modelo_Gobierno_Datos.md:147:CONPES
+content/06e. Modelo_Gobierno_Datos.md:147:Finalmente
+content/06e. Modelo_Gobierno_Datos.md:147:incorpora
+content/06e. Modelo_Gobierno_Datos.md:147:respuesta
+content/06e. Modelo_Gobierno_Datos.md:148:componentes
+content/06e. Modelo_Gobierno_Datos.md:148:esenciales
+content/06e. Modelo_Gobierno_Datos.md:148:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:148:Política
+content/06e. Modelo_Gobierno_Datos.md:148:uno
+content/06e. Modelo_Gobierno_Datos.md:149:asegurar
+content/06e. Modelo_Gobierno_Datos.md:149:denominado
+content/06e. Modelo_Gobierno_Datos.md:149:el
+content/06e. Modelo_Gobierno_Datos.md:149:Estado
+content/06e. Modelo_Gobierno_Datos.md:149:Modelo
+content/06e. Modelo_Gobierno_Datos.md:149:transformación
+content/06e. Modelo_Gobierno_Datos.md:150:Datos
+content/06e. Modelo_Gobierno_Datos.md:150:entidades
+content/06e. Modelo_Gobierno_Datos.md:150:Explotación
+content/06e. Modelo_Gobierno_Datos.md:150:Explotación
+content/06e. Modelo_Gobierno_Datos.md:150:implementación
+content/06e. Modelo_Gobierno_Datos.md:150:permite
+content/06e. Modelo_Gobierno_Datos.md:151:capacidades
+content/06e. Modelo_Gobierno_Datos.md:151:evalúen
+content/06e. Modelo_Gobierno_Datos.md:151:humano
+content/06e. Modelo_Gobierno_Datos.md:151:organizacionales
+content/06e. Modelo_Gobierno_Datos.md:151:recurso
+content/06e. Modelo_Gobierno_Datos.md:151:sus
+content/06e. Modelo_Gobierno_Datos.md:152:datos
+content/06e. Modelo_Gobierno_Datos.md:152:explotación
+content/06e. Modelo_Gobierno_Datos.md:152:explotación
+content/06e. Modelo_Gobierno_Datos.md:152:financiero
+content/06e. Modelo_Gobierno_Datos.md:152:tecnológico
+content/06e. Modelo_Gobierno_Datos.md:152:vez
+content/06e. Modelo_Gobierno_Datos.md:153:construir
+content/06e. Modelo_Gobierno_Datos.md:153:hoja
+content/06e. Modelo_Gobierno_Datos.md:153:insumos
+content/06e. Modelo_Gobierno_Datos.md:153:mejorar
+content/06e. Modelo_Gobierno_Datos.md:153:proporciona
+content/06e. Modelo_Gobierno_Datos.md:153:ruta
+content/06e. Modelo_Gobierno_Datos.md:153:una
+content/06e. Modelo_Gobierno_Datos.md:154:capacidades
+content/06e. Modelo_Gobierno_Datos.md:154:estas
+content/06e. Modelo_Gobierno_Datos.md:156:capacidades
+content/06e. Modelo_Gobierno_Datos.md:156:datos
+content/06e. Modelo_Gobierno_Datos.md:156:explotación
+content/06e. Modelo_Gobierno_Datos.md:156:explotación
+content/06e. Modelo_Gobierno_Datos.md:156:madurez
+content/06e. Modelo_Gobierno_Datos.md:156:Una
+content/06e. Modelo_Gobierno_Datos.md:157:analítica
+content/06e. Modelo_Gobierno_Datos.md:157:datos
+content/06e. Modelo_Gobierno_Datos.md:157:entidad
+content/06e. Modelo_Gobierno_Datos.md:157:implementen
+content/06e. Modelo_Gobierno_Datos.md:157:permitirá
+content/06e. Modelo_Gobierno_Datos.md:157:procesos
+content/06e. Modelo_Gobierno_Datos.md:158:basadas
+content/06e. Modelo_Gobierno_Datos.md:158:bigdata
+content/06e. Modelo_Gobierno_Datos.md:158:implementación
+content/06e. Modelo_Gobierno_Datos.md:158:iniciativas
+content/06e. Modelo_Gobierno_Datos.md:159:emergentes
+content/06e. Modelo_Gobierno_Datos.md:159:tecnologías
+content/06e. Modelo_Gobierno_Datos.md:161:CONPES
+content/06e. Modelo_Gobierno_Datos.md:161:documento
+content/06e. Modelo_Gobierno_Datos.md:161:El
+content/06e. Modelo_Gobierno_Datos.md:161:Política
+content/06e. Modelo_Gobierno_Datos.md:161:Reactivación
+content/06e. Modelo_Gobierno_Datos.md:162:Crecimiento
+content/06e. Modelo_Gobierno_Datos.md:162:el
+content/06e. Modelo_Gobierno_Datos.md:162:Incluyente
+content/06e. Modelo_Gobierno_Datos.md:162:Nuevo
+content/06e. Modelo_Gobierno_Datos.md:162:Repotenciación
+content/06e. Modelo_Gobierno_Datos.md:162:Sostenible
+content/06e. Modelo_Gobierno_Datos.md:163:Compromiso
+content/06e. Modelo_Gobierno_Datos.md:163:consolidación
+content/06e. Modelo_Gobierno_Datos.md:163:el
+content/06e. Modelo_Gobierno_Datos.md:163:establece
+content/06e. Modelo_Gobierno_Datos.md:163:Futuro
+content/06e. Modelo_Gobierno_Datos.md:163:por
+content/06e. Modelo_Gobierno_Datos.md:164:carece
+content/06e. Modelo_Gobierno_Datos.md:164:datos
+content/06e. Modelo_Gobierno_Datos.md:164:el
+content/06e. Modelo_Gobierno_Datos.md:164:gobernanza
+content/06e. Modelo_Gobierno_Datos.md:164:infraestructura
+content/06e. Modelo_Gobierno_Datos.md:164:país
+content/06e. Modelo_Gobierno_Datos.md:165:articule
+content/06e. Modelo_Gobierno_Datos.md:165:lineamientos
+content/06e. Modelo_Gobierno_Datos.md:165:normativas
+content/06e. Modelo_Gobierno_Datos.md:165:políticas
+content/06e. Modelo_Gobierno_Datos.md:166:datos
+content/06e. Modelo_Gobierno_Datos.md:166:disponibilidad
+content/06e. Modelo_Gobierno_Datos.md:166:intercambio
+content/06e. Modelo_Gobierno_Datos.md:166:permita
+content/06e. Modelo_Gobierno_Datos.md:166:reutilización
+content/06e. Modelo_Gobierno_Datos.md:166:su
+content/06e. Modelo_Gobierno_Datos.md:167:el
+content/06e. Modelo_Gobierno_Datos.md:167:plazo
+content/06e. Modelo_Gobierno_Datos.md:167:sostenibilidad
+content/06e. Modelo_Gobierno_Datos.md:171:Comunicaciones
+content/06e. Modelo_Gobierno_Datos.md:171:El
+content/06e. Modelo_Gobierno_Datos.md:171:Información
+content/06e. Modelo_Gobierno_Datos.md:171:Ministerio
+content/06e. Modelo_Gobierno_Datos.md:171:Tecnologías
+content/06e. Modelo_Gobierno_Datos.md:172:año
+content/06e. Modelo_Gobierno_Datos.md:172:el
+content/06e. Modelo_Gobierno_Datos.md:172:expedido
+content/06e. Modelo_Gobierno_Datos.md:172:MinTIC
+content/06e. Modelo_Gobierno_Datos.md:172:normativa
+content/06e. Modelo_Gobierno_Datos.md:172:presente
+content/06e. Modelo_Gobierno_Datos.md:174:Datos
+content/06e. Modelo_Gobierno_Datos.md:174:Infraestructura
+content/06e. Modelo_Gobierno_Datos.md:174:Nacional
+content/06e. Modelo_Gobierno_Datos.md:174:Resolución
+content/06e. Modelo_Gobierno_Datos.md:175:el
+content/06e. Modelo_Gobierno_Datos.md:175:Hoja
+content/06e. Modelo_Gobierno_Datos.md:175:impulsar
+content/06e. Modelo_Gobierno_Datos.md:175:PNID
+content/06e. Modelo_Gobierno_Datos.md:175:Ruta
+content/06e. Modelo_Gobierno_Datos.md:175:su
+content/06e. Modelo_Gobierno_Datos.md:175:transformación
+content/06e. Modelo_Gobierno_Datos.md:176:basada
+content/06e. Modelo_Gobierno_Datos.md:176:datos
+content/06e. Modelo_Gobierno_Datos.md:176:desarrollo
+content/06e. Modelo_Gobierno_Datos.md:176:economía
+content/06e. Modelo_Gobierno_Datos.md:176:el
+content/06e. Modelo_Gobierno_Datos.md:176:Estado
+content/06e. Modelo_Gobierno_Datos.md:176:una
+content/06e. Modelo_Gobierno_Datos.md:178:artículo
+content/06e. Modelo_Gobierno_Datos.md:178:Decreto
+content/06e. Modelo_Gobierno_Datos.md:178:Decreto
+content/06e. Modelo_Gobierno_Datos.md:178:El
+content/06e. Modelo_Gobierno_Datos.md:178:El
+content/06e. Modelo_Gobierno_Datos.md:179:Decreto
+content/06e. Modelo_Gobierno_Datos.md:179:Reglamentario
+content/06e. Modelo_Gobierno_Datos.md:179:Tecnologías
+content/06e. Modelo_Gobierno_Datos.md:179:Único
+content/06e. Modelo_Gobierno_Datos.md:179:Único
+content/06e. Modelo_Gobierno_Datos.md:180:Comunicaciones
+content/06e. Modelo_Gobierno_Datos.md:180:establece
+content/06e. Modelo_Gobierno_Datos.md:180:Información
+content/06e. Modelo_Gobierno_Datos.md:180:uno
+content/06e. Modelo_Gobierno_Datos.md:181:componen
+content/06e. Modelo_Gobierno_Datos.md:181:elementos
+content/06e. Modelo_Gobierno_Datos.md:181:estructura
+content/06e. Modelo_Gobierno_Datos.md:181:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:181:Política
+content/06e. Modelo_Gobierno_Datos.md:182:acción
+content/06e. Modelo_Gobierno_Datos.md:182:basadas
+content/06e. Modelo_Gobierno_Datos.md:182:datos
+content/06e. Modelo_Gobierno_Datos.md:182:Decisiones
+content/06e. Modelo_Gobierno_Datos.md:182:denominada
+content/06e. Modelo_Gobierno_Datos.md:182:línea
+content/06e. Modelo_Gobierno_Datos.md:183:busca
+content/06e. Modelo_Gobierno_Datos.md:183:cual
+content/06e. Modelo_Gobierno_Datos.md:183:desarrollo
+content/06e. Modelo_Gobierno_Datos.md:183:económico
+content/06e. Modelo_Gobierno_Datos.md:183:el
+content/06e. Modelo_Gobierno_Datos.md:183:impulsado
+content/06e. Modelo_Gobierno_Datos.md:183:país
+content/06e. Modelo_Gobierno_Datos.md:183:promover
+content/06e. Modelo_Gobierno_Datos.md:184:activos
+content/06e. Modelo_Gobierno_Datos.md:184:datos
+content/06e. Modelo_Gobierno_Datos.md:184:entendiéndolos
+content/06e. Modelo_Gobierno_Datos.md:184:estratégicos
+content/06e. Modelo_Gobierno_Datos.md:184:infraestructura
+content/06e. Modelo_Gobierno_Datos.md:184:por
+content/06e. Modelo_Gobierno_Datos.md:185:acceso
+content/06e. Modelo_Gobierno_Datos.md:185:el
+content/06e. Modelo_Gobierno_Datos.md:185:gobernanza
+content/06e. Modelo_Gobierno_Datos.md:185:intercambio
+content/06e. Modelo_Gobierno_Datos.md:185:mecanismos
+content/06e. Modelo_Gobierno_Datos.md:185:través
+content/06e. Modelo_Gobierno_Datos.md:186:cumplimiento
+content/06e. Modelo_Gobierno_Datos.md:186:datos
+content/06e. Modelo_Gobierno_Datos.md:186:explotación
+content/06e. Modelo_Gobierno_Datos.md:186:explotación
+content/06e. Modelo_Gobierno_Datos.md:186:reutilización
+content/06e. Modelo_Gobierno_Datos.md:187:datos
+content/06e. Modelo_Gobierno_Datos.md:187:normas
+content/06e. Modelo_Gobierno_Datos.md:187:permitan
+content/06e. Modelo_Gobierno_Datos.md:187:personales
+content/06e. Modelo_Gobierno_Datos.md:187:protección
+content/06e. Modelo_Gobierno_Datos.md:187:tratamiento
+content/06e. Modelo_Gobierno_Datos.md:188:decisiones
+content/06e. Modelo_Gobierno_Datos.md:188:mejorar
+content/06e. Modelo_Gobierno_Datos.md:188:prestación
+content/06e. Modelo_Gobierno_Datos.md:188:servicios
+content/06e. Modelo_Gobierno_Datos.md:188:toma
+content/06e. Modelo_Gobierno_Datos.md:189:obligados
+content/06e. Modelo_Gobierno_Datos.md:189:sujetos
+content/06e. Modelo_Gobierno_Datos.md:191:actuar
+content/06e. Modelo_Gobierno_Datos.md:191:datos
+content/06e. Modelo_Gobierno_Datos.md:191:el
+content/06e. Modelo_Gobierno_Datos.md:191:el
+content/06e. Modelo_Gobierno_Datos.md:191:explotar
+content/06e. Modelo_Gobierno_Datos.md:191:potencial
+content/06e. Modelo_Gobierno_Datos.md:191:tienen
+content/06e. Modelo_Gobierno_Datos.md:191:transformar
+content/06e. Modelo_Gobierno_Datos.md:192:establecer
+content/06e. Modelo_Gobierno_Datos.md:192:principios
+content/06e. Modelo_Gobierno_Datos.md:192:público
+content/06e. Modelo_Gobierno_Datos.md:192:reglas
+content/06e. Modelo_Gobierno_Datos.md:192:resulta
+content/06e. Modelo_Gobierno_Datos.md:193:actores
+content/06e. Modelo_Gobierno_Datos.md:193:claros
+content/06e. Modelo_Gobierno_Datos.md:193:comunes
+content/06e. Modelo_Gobierno_Datos.md:193:etapas
+content/06e. Modelo_Gobierno_Datos.md:193:intervienen
+content/06e. Modelo_Gobierno_Datos.md:193:todos
+content/06e. Modelo_Gobierno_Datos.md:194:ciclo
+content/06e. Modelo_Gobierno_Datos.md:194:datos
+content/06e. Modelo_Gobierno_Datos.md:194:desde
+content/06e. Modelo_Gobierno_Datos.md:194:entidades
+content/06e. Modelo_Gobierno_Datos.md:194:públicas
+content/06e. Modelo_Gobierno_Datos.md:194:públicas
+content/06e. Modelo_Gobierno_Datos.md:194:relevantes
+content/06e. Modelo_Gobierno_Datos.md:194:vida
+content/06e. Modelo_Gobierno_Datos.md:195:demás
+content/06e. Modelo_Gobierno_Datos.md:195:funcionarios
+content/06e. Modelo_Gobierno_Datos.md:195:privado
+content/06e. Modelo_Gobierno_Datos.md:195:públicos
+content/06e. Modelo_Gobierno_Datos.md:195:usuarios
+content/06e. Modelo_Gobierno_Datos.md:196:actores
+content/06e. Modelo_Gobierno_Datos.md:198:Decreto
+content/06e. Modelo_Gobierno_Datos.md:198:El
+content/06e. Modelo_Gobierno_Datos.md:198:establece
+content/06e. Modelo_Gobierno_Datos.md:198:generales
+content/06e. Modelo_Gobierno_Datos.md:198:lineamientos
+content/06e. Modelo_Gobierno_Datos.md:199:crea
+content/06e. Modelo_Gobierno_Datos.md:199:datos
+content/06e. Modelo_Gobierno_Datos.md:199:el
+content/06e. Modelo_Gobierno_Datos.md:199:gobernanza
+content/06e. Modelo_Gobierno_Datos.md:199:infraestructura
+content/06e. Modelo_Gobierno_Datos.md:199:Modelo
+content/06e. Modelo_Gobierno_Datos.md:200:Componentes
+content/06e. Modelo_Gobierno_Datos.md:200:datos
+content/06e. Modelo_Gobierno_Datos.md:200:gobernanza
+content/06e. Modelo_Gobierno_Datos.md:200:infraestructura
+content/06e. Modelo_Gobierno_Datos.md:200:niveles
+content/06e. Modelo_Gobierno_Datos.md:201:articula
+content/06e. Modelo_Gobierno_Datos.md:201:decreto
+content/06e. Modelo_Gobierno_Datos.md:201:disposiciones
+content/06e. Modelo_Gobierno_Datos.md:201:Este
+content/06e. Modelo_Gobierno_Datos.md:201:instancias
+content/06e. Modelo_Gobierno_Datos.md:201:otras
+content/06e. Modelo_Gobierno_Datos.md:202:el
+content/06e. Modelo_Gobierno_Datos.md:202:Infraestructura
+content/06e. Modelo_Gobierno_Datos.md:202:Nacional
+content/06e. Modelo_Gobierno_Datos.md:203:Datos
+content/06e. Modelo_Gobierno_Datos.md:203:Datos
+content/06e. Modelo_Gobierno_Datos.md:203:el
+content/06e. Modelo_Gobierno_Datos.md:203:Estado
+content/06e. Modelo_Gobierno_Datos.md:203:Infraestructura
+content/06e. Modelo_Gobierno_Datos.md:203:mintic
+content/06e. Modelo_Gobierno_Datos.md:203:MinTIC
+content/06e. Modelo_Gobierno_Datos.md:203:Nacional
+content/06e. Modelo_Gobierno_Datos.md:203:Sala
+content/06e. Modelo_Gobierno_Datos.md:204:establecido
+content/06e. Modelo_Gobierno_Datos.md:204:Política
+content/06e. Modelo_Gobierno_Datos.md:204:Resolución
+content/06e. Modelo_Gobierno_Datos.md:204:través
+content/06e. Modelo_Gobierno_Datos.md:205:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:206:actualizada
+content/06e. Modelo_Gobierno_Datos.md:206:Decreto
+content/06e. Modelo_Gobierno_Datos.md:206:el
+content/06e. Modelo_Gobierno_Datos.md:206:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:206:Ministerio
+content/06e. Modelo_Gobierno_Datos.md:206:mintic
+content/06e. Modelo_Gobierno_Datos.md:206:Politica
+content/06e. Modelo_Gobierno_Datos.md:206:Sala
+content/06e. Modelo_Gobierno_Datos.md:207:Decreto
+content/06e. Modelo_Gobierno_Datos.md:207:desde
+content/06e. Modelo_Gobierno_Datos.md:207:el
+content/06e. Modelo_Gobierno_Datos.md:207:el
+content/06e. Modelo_Gobierno_Datos.md:207:pasado
+content/06e. Modelo_Gobierno_Datos.md:211:teórico
+content/06e. Modelo_Gobierno_Datos.md:213:Datos
+content/06e. Modelo_Gobierno_Datos.md:213:Definición
+content/06e. Modelo_Gobierno_Datos.md:213:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:215:corporativa
+content/06e. Modelo_Gobierno_Datos.md:215:datos
+content/06e. Modelo_Gobierno_Datos.md:215:El
+content/06e. Modelo_Gobierno_Datos.md:215:estrategia
+content/06e. Modelo_Gobierno_Datos.md:215:gobierno
+content/06e. Modelo_Gobierno_Datos.md:216:normas
+content/06e. Modelo_Gobierno_Datos.md:216:política
+content/06e. Modelo_Gobierno_Datos.md:216:procedimientos
+content/06e. Modelo_Gobierno_Datos.md:216:procesos
+content/06e. Modelo_Gobierno_Datos.md:217:gobernar
+content/06e. Modelo_Gobierno_Datos.md:217:regir
+content/06e. Modelo_Gobierno_Datos.md:217:responsables
+content/06e. Modelo_Gobierno_Datos.md:217:tecnología
+content/06e. Modelo_Gobierno_Datos.md:218:corporativos
+content/06e. Modelo_Gobierno_Datos.md:218:datos
+content/06e. Modelo_Gobierno_Datos.md:218:eficaz
+content/06e. Modelo_Gobierno_Datos.md:218:gestión
+content/06e. Modelo_Gobierno_Datos.md:218:una
+content/06e. Modelo_Gobierno_Datos.md:218:utilización
+content/06e. Modelo_Gobierno_Datos.md:219:empresa
+content/06e. Modelo_Gobierno_Datos.md:219:información
+content/06e. Modelo_Gobierno_Datos.md:219:organización
+content/06e. Modelo_Gobierno_Datos.md:219:una
+content/06e. Modelo_Gobierno_Datos.md:221:ayudar
+content/06e. Modelo_Gobierno_Datos.md:221:datos
+content/06e. Modelo_Gobierno_Datos.md:221:el
+content/06e. Modelo_Gobierno_Datos.md:221:el
+content/06e. Modelo_Gobierno_Datos.md:221:El
+content/06e. Modelo_Gobierno_Datos.md:221:gobierno
+content/06e. Modelo_Gobierno_Datos.md:221:maximizar
+content/06e. Modelo_Gobierno_Datos.md:221:objetivo
+content/06e. Modelo_Gobierno_Datos.md:222:datos
+content/06e. Modelo_Gobierno_Datos.md:222:decir
+content/06e. Modelo_Gobierno_Datos.md:222:dentro
+content/06e. Modelo_Gobierno_Datos.md:222:el
+content/06e. Modelo_Gobierno_Datos.md:222:obtener
+content/06e. Modelo_Gobierno_Datos.md:222:organización
+content/06e. Modelo_Gobierno_Datos.md:222:una
+content/06e. Modelo_Gobierno_Datos.md:223:activo
+content/06e. Modelo_Gobierno_Datos.md:223:datos
+content/06e. Modelo_Gobierno_Datos.md:223:empresa
+content/06e. Modelo_Gobierno_Datos.md:223:máximo
+content/06e. Modelo_Gobierno_Datos.md:223:rendimiento
+content/06e. Modelo_Gobierno_Datos.md:224:definiciones
+content/06e. Modelo_Gobierno_Datos.md:224:día
+content/06e. Modelo_Gobierno_Datos.md:224:existen
+content/06e. Modelo_Gobierno_Datos.md:224:Hoy
+content/06e. Modelo_Gobierno_Datos.md:224:numerosas
+content/06e. Modelo_Gobierno_Datos.md:225:algunas
+content/06e. Modelo_Gobierno_Datos.md:225:continuación
+content/06e. Modelo_Gobierno_Datos.md:225:ellas
+content/06e. Modelo_Gobierno_Datos.md:225:exponen
+content/06e. Modelo_Gobierno_Datos.md:227:DAMA
+content/06e. Modelo_Gobierno_Datos.md:227:datos
+content/06e. Modelo_Gobierno_Datos.md:227:el
+content/06e. Modelo_Gobierno_Datos.md:227:gobierno
+content/06e. Modelo_Gobierno_Datos.md:227:propone
+content/06e. Modelo_Gobierno_Datos.md:228:autoridad
+content/06e. Modelo_Gobierno_Datos.md:228:ejercicio
+content/06e. Modelo_Gobierno_Datos.md:228:el
+content/06e. Modelo_Gobierno_Datos.md:228:el
+content/06e. Modelo_Gobierno_Datos.md:228:el
+content/06e. Modelo_Gobierno_Datos.md:228:planificación
+content/06e. Modelo_Gobierno_Datos.md:229:activos
+content/06e. Modelo_Gobierno_Datos.md:229:aplicación
+content/06e. Modelo_Gobierno_Datos.md:229:gestión
+content/06e. Modelo_Gobierno_Datos.md:229:seguimiento
+content/06e. Modelo_Gobierno_Datos.md:229:través
+content/06e. Modelo_Gobierno_Datos.md:230:datos
+content/06e. Modelo_Gobierno_Datos.md:232:afirma
+content/06e. Modelo_Gobierno_Datos.md:232:datos
+content/06e. Modelo_Gobierno_Datos.md:232:DGI
+content/06e. Modelo_Gobierno_Datos.md:232:el
+content/06e. Modelo_Gobierno_Datos.md:232:El
+content/06e. Modelo_Gobierno_Datos.md:232:gobierno
+content/06e. Modelo_Gobierno_Datos.md:232:Instituto
+content/06e. Modelo_Gobierno_Datos.md:233:cuentas
+content/06e. Modelo_Gobierno_Datos.md:233:decisión
+content/06e. Modelo_Gobierno_Datos.md:233:derechos
+content/06e. Modelo_Gobierno_Datos.md:233:rendición
+content/06e. Modelo_Gobierno_Datos.md:233:sistema
+content/06e. Modelo_Gobierno_Datos.md:234:ejecutado
+content/06e. Modelo_Gobierno_Datos.md:234:información
+content/06e. Modelo_Gobierno_Datos.md:234:procesos
+content/06e. Modelo_Gobierno_Datos.md:234:relacionados
+content/06e. Modelo_Gobierno_Datos.md:234:según
+content/06e. Modelo_Gobierno_Datos.md:235:acciones
+content/06e. Modelo_Gobierno_Datos.md:235:acuerdos
+content/06e. Modelo_Gobierno_Datos.md:235:describen
+content/06e. Modelo_Gobierno_Datos.md:235:modelos
+content/06e. Modelo_Gobierno_Datos.md:235:puede
+content/06e. Modelo_Gobierno_Datos.md:235:quién
+content/06e. Modelo_Gobierno_Datos.md:235:tomar
+content/06e. Modelo_Gobierno_Datos.md:236:circunstancias
+content/06e. Modelo_Gobierno_Datos.md:236:cuándo
+content/06e. Modelo_Gobierno_Datos.md:236:información
+content/06e. Modelo_Gobierno_Datos.md:236:métodos
+content/06e. Modelo_Gobierno_Datos.md:236:qué
+content/06e. Modelo_Gobierno_Datos.md:236:qué
+content/06e. Modelo_Gobierno_Datos.md:239:cómo
+content/06e. Modelo_Gobierno_Datos.md:239:organización
+content/06e. Modelo_Gobierno_Datos.md:239:refiere
+content/06e. Modelo_Gobierno_Datos.md:239:señala
+content/06e. Modelo_Gobierno_Datos.md:239:una
+content/06e. Modelo_Gobierno_Datos.md:240:beneficiar
+content/06e. Modelo_Gobierno_Datos.md:240:datos
+content/06e. Modelo_Gobierno_Datos.md:240:mismo
+content/06e. Modelo_Gobierno_Datos.md:240:proteger
+content/06e. Modelo_Gobierno_Datos.md:240:sí
+content/06e. Modelo_Gobierno_Datos.md:240:utiliza
+content/06e. Modelo_Gobierno_Datos.md:242:Ahorro
+content/06e. Modelo_Gobierno_Datos.md:242:DAMA
+content/06e. Modelo_Gobierno_Datos.md:242:definición
+content/06e. Modelo_Gobierno_Datos.md:242:el
+content/06e. Modelo_Gobierno_Datos.md:242:el
+content/06e. Modelo_Gobierno_Datos.md:242:entregada
+content/06e. Modelo_Gobierno_Datos.md:242:Fondo
+content/06e. Modelo_Gobierno_Datos.md:242:Nacional
+content/06e. Modelo_Gobierno_Datos.md:242:por
+content/06e. Modelo_Gobierno_Datos.md:243:ajusta
+content/06e. Modelo_Gobierno_Datos.md:243:estrategia
+content/06e. Modelo_Gobierno_Datos.md:243:institucional
+content/06e. Modelo_Gobierno_Datos.md:243:más
+content/06e. Modelo_Gobierno_Datos.md:243:realidad
+content/06e. Modelo_Gobierno_Datos.md:243:supone
+content/06e. Modelo_Gobierno_Datos.md:244:abordara
+content/06e. Modelo_Gobierno_Datos.md:244:concepto
+content/06e. Modelo_Gobierno_Datos.md:244:el
+content/06e. Modelo_Gobierno_Datos.md:244:esta
+content/06e. Modelo_Gobierno_Datos.md:244:forma
+content/06e. Modelo_Gobierno_Datos.md:244:por
+content/06e. Modelo_Gobierno_Datos.md:244:siempre
+content/06e. Modelo_Gobierno_Datos.md:244:tanto
+content/06e. Modelo_Gobierno_Datos.md:245:Datos
+content/06e. Modelo_Gobierno_Datos.md:245:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:249:Datos
+content/06e. Modelo_Gobierno_Datos.md:249:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:249:Trabajo
+content/06e. Modelo_Gobierno_Datos.md:251:conjunto
+content/06e. Modelo_Gobierno_Datos.md:251:datos
+content/06e. Modelo_Gobierno_Datos.md:251:estandarizado
+content/06e. Modelo_Gobierno_Datos.md:251:gobierno
+content/06e. Modelo_Gobierno_Datos.md:251:trabajo
+content/06e. Modelo_Gobierno_Datos.md:252:conceptos
+content/06e. Modelo_Gobierno_Datos.md:252:criterios
+content/06e. Modelo_Gobierno_Datos.md:252:organizaciones
+content/06e. Modelo_Gobierno_Datos.md:252:permite
+content/06e. Modelo_Gobierno_Datos.md:252:prácticas
+content/06e. Modelo_Gobierno_Datos.md:253:administrar
+content/06e. Modelo_Gobierno_Datos.md:253:ayuda
+content/06e. Modelo_Gobierno_Datos.md:253:datos
+content/06e. Modelo_Gobierno_Datos.md:253:eficiente
+content/06e. Modelo_Gobierno_Datos.md:253:esta
+content/06e. Modelo_Gobierno_Datos.md:253:manera
+content/06e. Modelo_Gobierno_Datos.md:253:organizada
+content/06e. Modelo_Gobierno_Datos.md:254:actores
+content/06e. Modelo_Gobierno_Datos.md:254:entre
+content/06e. Modelo_Gobierno_Datos.md:254:facilitar
+content/06e. Modelo_Gobierno_Datos.md:254:otras
+content/06e. Modelo_Gobierno_Datos.md:254:todos
+content/06e. Modelo_Gobierno_Datos.md:255:acerca
+content/06e. Modelo_Gobierno_Datos.md:255:compartan
+content/06e. Modelo_Gobierno_Datos.md:255:comunicarse
+content/06e. Modelo_Gobierno_Datos.md:255:forma
+content/06e. Modelo_Gobierno_Datos.md:255:organización
+content/06e. Modelo_Gobierno_Datos.md:255:pensar
+content/06e. Modelo_Gobierno_Datos.md:256:ambiguos
+content/06e. Modelo_Gobierno_Datos.md:256:Askham
+content/06e. Modelo_Gobierno_Datos.md:256:complicados
+content/06e. Modelo_Gobierno_Datos.md:256:conceptos
+content/06e. Modelo_Gobierno_Datos.md:256:refiere
+content/06e. Modelo_Gobierno_Datos.md:257:enfoque
+content/06e. Modelo_Gobierno_Datos.md:257:funcione
+content/06e. Modelo_Gobierno_Datos.md:257:todos
+content/06e. Modelo_Gobierno_Datos.md:257:trabajo
+content/06e. Modelo_Gobierno_Datos.md:257:único
+content/06e. Modelo_Gobierno_Datos.md:257:único
+content/06e. Modelo_Gobierno_Datos.md:258:ajustarse
+content/06e. Modelo_Gobierno_Datos.md:258:cultura
+content/06e. Modelo_Gobierno_Datos.md:258:debe
+content/06e. Modelo_Gobierno_Datos.md:258:estructura
+content/06e. Modelo_Gobierno_Datos.md:258:organización
+content/06e. Modelo_Gobierno_Datos.md:258:prácticas
+content/06e. Modelo_Gobierno_Datos.md:259:básicos
+content/06e. Modelo_Gobierno_Datos.md:259:componentes
+content/06e. Modelo_Gobierno_Datos.md:259:dicho
+content/06e. Modelo_Gobierno_Datos.md:259:esto
+content/06e. Modelo_Gobierno_Datos.md:259:políticas
+content/06e. Modelo_Gobierno_Datos.md:259:procesos
+content/06e. Modelo_Gobierno_Datos.md:259:Una
+content/06e. Modelo_Gobierno_Datos.md:259:vez
+content/06e. Modelo_Gobierno_Datos.md:260:encontrarán
+content/06e. Modelo_Gobierno_Datos.md:260:responsabilidades
+content/06e. Modelo_Gobierno_Datos.md:260:todos
+content/06e. Modelo_Gobierno_Datos.md:262:comprensión
+content/06e. Modelo_Gobierno_Datos.md:262:datos
+content/06e. Modelo_Gobierno_Datos.md:262:destaca
+content/06e. Modelo_Gobierno_Datos.md:262:gobierno
+content/06e. Modelo_Gobierno_Datos.md:262:trabajo
+content/06e. Modelo_Gobierno_Datos.md:263:elementos
+content/06e. Modelo_Gobierno_Datos.md:263:fundamentales
+content/06e. Modelo_Gobierno_Datos.md:265:establezca
+content/06e. Modelo_Gobierno_Datos.md:265:institución
+content/06e. Modelo_Gobierno_Datos.md:265:política
+content/06e. Modelo_Gobierno_Datos.md:265:Política
+content/06e. Modelo_Gobierno_Datos.md:265:Tener
+content/06e. Modelo_Gobierno_Datos.md:265:una
+content/06e. Modelo_Gobierno_Datos.md:266:clave
+content/06e. Modelo_Gobierno_Datos.md:266:datos
+content/06e. Modelo_Gobierno_Datos.md:266:gestión
+content/06e. Modelo_Gobierno_Datos.md:266:hará
+content/06e. Modelo_Gobierno_Datos.md:266:parte
+content/06e. Modelo_Gobierno_Datos.md:266:una
+content/06e. Modelo_Gobierno_Datos.md:267:autoridad
+content/06e. Modelo_Gobierno_Datos.md:267:cambiar
+content/06e. Modelo_Gobierno_Datos.md:267:este
+content/06e. Modelo_Gobierno_Datos.md:267:forma
+content/06e. Modelo_Gobierno_Datos.md:267:habrá
+content/06e. Modelo_Gobierno_Datos.md:268:algunas
+content/06e. Modelo_Gobierno_Datos.md:268:datos
+content/06e. Modelo_Gobierno_Datos.md:268:instancias
+content/06e. Modelo_Gobierno_Datos.md:268:maneja
+content/06e. Modelo_Gobierno_Datos.md:268:organización
+content/06e. Modelo_Gobierno_Datos.md:268:piensa
+content/06e. Modelo_Gobierno_Datos.md:269:avanzar
+content/06e. Modelo_Gobierno_Datos.md:269:cuando
+content/06e. Modelo_Gobierno_Datos.md:269:datos
+content/06e. Modelo_Gobierno_Datos.md:269:gobernanza
+content/06e. Modelo_Gobierno_Datos.md:269:política
+content/06e. Modelo_Gobierno_Datos.md:269:puede
+content/06e. Modelo_Gobierno_Datos.md:269:una
+content/06e. Modelo_Gobierno_Datos.md:270:clave
+content/06e. Modelo_Gobierno_Datos.md:270:comerciales
+content/06e. Modelo_Gobierno_Datos.md:270:enfoque
+content/06e. Modelo_Gobierno_Datos.md:270:futuras
+content/06e. Modelo_Gobierno_Datos.md:270:prioridades
+content/06e. Modelo_Gobierno_Datos.md:271:cambian
+content/06e. Modelo_Gobierno_Datos.md:271:disminuya
+content/06e. Modelo_Gobierno_Datos.md:271:el
+content/06e. Modelo_Gobierno_Datos.md:271:iniciativa
+content/06e. Modelo_Gobierno_Datos.md:271:peor
+content/06e. Modelo_Gobierno_Datos.md:272:abandone
+content/06e. Modelo_Gobierno_Datos.md:272:casos
+content/06e. Modelo_Gobierno_Datos.md:272:enfoque
+content/06e. Modelo_Gobierno_Datos.md:272:parte
+content/06e. Modelo_Gobierno_Datos.md:272:política
+content/06e. Modelo_Gobierno_Datos.md:272:Tener
+content/06e. Modelo_Gobierno_Datos.md:272:una
+content/06e. Modelo_Gobierno_Datos.md:273:autoridad
+content/06e. Modelo_Gobierno_Datos.md:273:datos
+content/06e. Modelo_Gobierno_Datos.md:273:gestión
+content/06e. Modelo_Gobierno_Datos.md:273:interesadas
+content/06e. Modelo_Gobierno_Datos.md:273:otorga
+content/06e. Modelo_Gobierno_Datos.md:273:partes
+content/06e. Modelo_Gobierno_Datos.md:275:ámbito
+content/06e. Modelo_Gobierno_Datos.md:275:Concentrar
+content/06e. Modelo_Gobierno_Datos.md:275:Ejes
+content/06e. Modelo_Gobierno_Datos.md:275:esfuerzos
+content/06e. Modelo_Gobierno_Datos.md:275:específico
+content/06e. Modelo_Gobierno_Datos.md:276:crear
+content/06e. Modelo_Gobierno_Datos.md:276:directrices
+content/06e. Modelo_Gobierno_Datos.md:276:guías
+content/06e. Modelo_Gobierno_Datos.md:276:lineamientos
+content/06e. Modelo_Gobierno_Datos.md:276:procedimientos
+content/06e. Modelo_Gobierno_Datos.md:276:seguir
+content/06e. Modelo_Gobierno_Datos.md:277:consistente
+content/06e. Modelo_Gobierno_Datos.md:277:definidos
+content/06e. Modelo_Gobierno_Datos.md:277:documentados
+content/06e. Modelo_Gobierno_Datos.md:277:enfoque
+content/06e. Modelo_Gobierno_Datos.md:277:permitiendo
+content/06e. Modelo_Gobierno_Datos.md:277:tener
+content/06e. Modelo_Gobierno_Datos.md:278:datos
+content/06e. Modelo_Gobierno_Datos.md:278:gestionar
+content/06e. Modelo_Gobierno_Datos.md:278:organización
+content/06e. Modelo_Gobierno_Datos.md:278:repetible
+content/06e. Modelo_Gobierno_Datos.md:278:toda
+content/06e. Modelo_Gobierno_Datos.md:280:Conjunto
+content/06e. Modelo_Gobierno_Datos.md:280:elementos
+content/06e. Modelo_Gobierno_Datos.md:280:hace
+content/06e. Modelo_Gobierno_Datos.md:280:Modelo
+content/06e. Modelo_Gobierno_Datos.md:280:Operativo
+content/06e. Modelo_Gobierno_Datos.md:280:posible
+content/06e. Modelo_Gobierno_Datos.md:281:el
+content/06e. Modelo_Gobierno_Datos.md:281:entidad
+content/06e. Modelo_Gobierno_Datos.md:281:materializar
+content/06e. Modelo_Gobierno_Datos.md:281:modelo
+content/06e. Modelo_Gobierno_Datos.md:283:componente
+content/06e. Modelo_Gobierno_Datos.md:283:definir
+content/06e. Modelo_Gobierno_Datos.md:283:El
+content/06e. Modelo_Gobierno_Datos.md:283:responsabilidades
+content/06e. Modelo_Gobierno_Datos.md:283:tercer
+content/06e. Modelo_Gobierno_Datos.md:284:alcance
+content/06e. Modelo_Gobierno_Datos.md:284:datos
+content/06e. Modelo_Gobierno_Datos.md:284:el
+content/06e. Modelo_Gobierno_Datos.md:284:quiénes
+content/06e. Modelo_Gobierno_Datos.md:284:responsables
+content/06e. Modelo_Gobierno_Datos.md:285:responsabilidades
+content/06e. Modelo_Gobierno_Datos.md:287:destacar
+content/06e. Modelo_Gobierno_Datos.md:287:este
+content/06e. Modelo_Gobierno_Datos.md:287:gestión
+content/06e. Modelo_Gobierno_Datos.md:287:importante
+content/06e. Modelo_Gobierno_Datos.md:287:ítem
+content/06e. Modelo_Gobierno_Datos.md:287:Sobre
+content/06e. Modelo_Gobierno_Datos.md:287:último
+content/06e. Modelo_Gobierno_Datos.md:287:último
+content/06e. Modelo_Gobierno_Datos.md:288:compartida
+content/06e. Modelo_Gobierno_Datos.md:288:datos
+content/06e. Modelo_Gobierno_Datos.md:288:entre
+content/06e. Modelo_Gobierno_Datos.md:288:profesionales
+content/06e. Modelo_Gobierno_Datos.md:288:responsabilidad
+content/06e. Modelo_Gobierno_Datos.md:288:una
+content/06e. Modelo_Gobierno_Datos.md:289:administradores
+content/06e. Modelo_Gobierno_Datos.md:289:custodios
+content/06e. Modelo_Gobierno_Datos.md:289:datos
+content/06e. Modelo_Gobierno_Datos.md:289:dentro
+content/06e. Modelo_Gobierno_Datos.md:289:gestión
+content/06e. Modelo_Gobierno_Datos.md:290:datos
+content/06e. Modelo_Gobierno_Datos.md:290:negocio
+content/06e. Modelo_Gobierno_Datos.md:290:organizaciones
+content/06e. Modelo_Gobierno_Datos.md:290:propietarios
+content/06e. Modelo_Gobierno_Datos.md:291:colectivos
+content/06e. Modelo_Gobierno_Datos.md:291:intereses
+content/06e. Modelo_Gobierno_Datos.md:291:representan
+content/06e. Modelo_Gobierno_Datos.md:291:responsables
+content/06e. Modelo_Gobierno_Datos.md:292:consumidores
+content/06e. Modelo_Gobierno_Datos.md:292:datos
+content/06e. Modelo_Gobierno_Datos.md:292:información
+content/06e. Modelo_Gobierno_Datos.md:292:productores
+content/06e. Modelo_Gobierno_Datos.md:297:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:297:Modelo
+content/06e. Modelo_Gobierno_Datos.md:297:Propuesto
+content/06e. Modelo_Gobierno_Datos.md:299:Ahorro
+content/06e. Modelo_Gobierno_Datos.md:299:comprometida
+content/06e. Modelo_Gobierno_Datos.md:299:el
+content/06e. Modelo_Gobierno_Datos.md:299:El
+content/06e. Modelo_Gobierno_Datos.md:299:entidad
+content/06e. Modelo_Gobierno_Datos.md:299:Fondo
+content/06e. Modelo_Gobierno_Datos.md:299:nacional
+content/06e. Modelo_Gobierno_Datos.md:299:una
+content/06e. Modelo_Gobierno_Datos.md:300:atención
+content/06e. Modelo_Gobierno_Datos.md:300:ciudadano
+content/06e. Modelo_Gobierno_Datos.md:300:cual
+content/06e. Modelo_Gobierno_Datos.md:300:desempeño
+content/06e. Modelo_Gobierno_Datos.md:300:mejoramiento
+content/06e. Modelo_Gobierno_Datos.md:300:su
+content/06e. Modelo_Gobierno_Datos.md:301:ciudadanía
+content/06e. Modelo_Gobierno_Datos.md:301:decisiones
+content/06e. Modelo_Gobierno_Datos.md:301:empoderar
+content/06e. Modelo_Gobierno_Datos.md:301:requiere
+content/06e. Modelo_Gobierno_Datos.md:301:sus
+content/06e. Modelo_Gobierno_Datos.md:301:tomar
+content/06e. Modelo_Gobierno_Datos.md:301:través
+content/06e. Modelo_Gobierno_Datos.md:302:datos
+content/06e. Modelo_Gobierno_Datos.md:302:información
+content/06e. Modelo_Gobierno_Datos.md:302:lograr
+content/06e. Modelo_Gobierno_Datos.md:302:prioriza
+content/06e. Modelo_Gobierno_Datos.md:303:administración
+content/06e. Modelo_Gobierno_Datos.md:303:aprovechamiento
+content/06e. Modelo_Gobierno_Datos.md:303:datos
+content/06e. Modelo_Gobierno_Datos.md:303:encuentran
+content/06e. Modelo_Gobierno_Datos.md:303:mejora
+content/06e. Modelo_Gobierno_Datos.md:304:apoyan
+content/06e. Modelo_Gobierno_Datos.md:304:diferentes
+content/06e. Modelo_Gobierno_Datos.md:304:información
+content/06e. Modelo_Gobierno_Datos.md:304:procesos
+content/06e. Modelo_Gobierno_Datos.md:304:sistemas
+content/06e. Modelo_Gobierno_Datos.md:305:apoyo
+content/06e. Modelo_Gobierno_Datos.md:305:dependencias
+content/06e. Modelo_Gobierno_Datos.md:305:direccionamiento
+content/06e. Modelo_Gobierno_Datos.md:305:estratégico
+content/06e. Modelo_Gobierno_Datos.md:305:evaluación
+content/06e. Modelo_Gobierno_Datos.md:305:misionales
+content/06e. Modelo_Gobierno_Datos.md:306:articulado
+content/06e. Modelo_Gobierno_Datos.md:306:definición
+content/06e. Modelo_Gobierno_Datos.md:306:medio
+content/06e. Modelo_Gobierno_Datos.md:306:mejora
+content/06e. Modelo_Gobierno_Datos.md:306:por
+content/06e. Modelo_Gobierno_Datos.md:306:Sistema
+content/06e. Modelo_Gobierno_Datos.md:306:todo
+content/06e. Modelo_Gobierno_Datos.md:307:apoyo
+content/06e. Modelo_Gobierno_Datos.md:307:direccionamiento
+content/06e. Modelo_Gobierno_Datos.md:307:Gestión
+content/06e. Modelo_Gobierno_Datos.md:307:Integrado
+content/06e. Modelo_Gobierno_Datos.md:307:MIPG
+content/06e. Modelo_Gobierno_Datos.md:307:Planeación
+content/06e. Modelo_Gobierno_Datos.md:308:acceso
+content/06e. Modelo_Gobierno_Datos.md:308:estratégico
+content/06e. Modelo_Gobierno_Datos.md:308:información
+content/06e. Modelo_Gobierno_Datos.md:308:políticas
+content/06e. Modelo_Gobierno_Datos.md:308:transparencia
+content/06e. Modelo_Gobierno_Datos.md:309:documental
+content/06e. Modelo_Gobierno_Datos.md:309:el
+content/06e. Modelo_Gobierno_Datos.md:309:fraude
+content/06e. Modelo_Gobierno_Datos.md:309:gestión
+content/06e. Modelo_Gobierno_Datos.md:309:lucha
+content/06e. Modelo_Gobierno_Datos.md:309:pública
+content/06e. Modelo_Gobierno_Datos.md:314:Datos
+content/06e. Modelo_Gobierno_Datos.md:314:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:314:Ilustración
+content/06e. Modelo_Gobierno_Datos.md:314:Modelo
+content/06e. Modelo_Gobierno_Datos.md:316:Articulación
+content/06e. Modelo_Gobierno_Datos.md:320:dimensión
+content/06e. Modelo_Gobierno_Datos.md:320:El
+content/06e. Modelo_Gobierno_Datos.md:320:entidad
+content/06e. Modelo_Gobierno_Datos.md:320:esta
+content/06e. Modelo_Gobierno_Datos.md:320:permitirle
+content/06e. Modelo_Gobierno_Datos.md:320:propósito
+content/06e. Modelo_Gobierno_Datos.md:320:realizar
+content/06e. Modelo_Gobierno_Datos.md:321:actividades
+content/06e. Modelo_Gobierno_Datos.md:321:conduzcan
+content/06e. Modelo_Gobierno_Datos.md:321:lograr
+content/06e. Modelo_Gobierno_Datos.md:321:propuestos
+content/06e. Modelo_Gobierno_Datos.md:321:resultados
+content/06e. Modelo_Gobierno_Datos.md:322:decisiones
+content/06e. Modelo_Gobierno_Datos.md:322:institucional
+content/06e. Modelo_Gobierno_Datos.md:322:materializar
+content/06e. Modelo_Gobierno_Datos.md:322:planeación
+content/06e. Modelo_Gobierno_Datos.md:322:plasmadas
+content/06e. Modelo_Gobierno_Datos.md:322:su
+content/06e. Modelo_Gobierno_Datos.md:323:el
+content/06e. Modelo_Gobierno_Datos.md:323:público
+content/06e. Modelo_Gobierno_Datos.md:323:servicio
+content/06e. Modelo_Gobierno_Datos.md:323:valores
+content/06e. Modelo_Gobierno_Datos.md:325:articula
+content/06e. Modelo_Gobierno_Datos.md:325:definido
+content/06e. Modelo_Gobierno_Datos.md:325:El
+content/06e. Modelo_Gobierno_Datos.md:325:estratégico
+content/06e. Modelo_Gobierno_Datos.md:325:modelo
+content/06e. Modelo_Gobierno_Datos.md:325:niveles
+content/06e. Modelo_Gobierno_Datos.md:325:también
+content/06e. Modelo_Gobierno_Datos.md:326:apoyo
+content/06e. Modelo_Gobierno_Datos.md:326:evaluación
+content/06e. Modelo_Gobierno_Datos.md:326:mejora
+content/06e. Modelo_Gobierno_Datos.md:326:misional
+content/06e. Modelo_Gobierno_Datos.md:326:modelo
+content/06e. Modelo_Gobierno_Datos.md:327:aprovechar
+content/06e. Modelo_Gobierno_Datos.md:327:el
+content/06e. Modelo_Gobierno_Datos.md:327:existentes
+content/06e. Modelo_Gobierno_Datos.md:327:operación
+content/06e. Modelo_Gobierno_Datos.md:327:por
+content/06e. Modelo_Gobierno_Datos.md:327:procesos
+content/06e. Modelo_Gobierno_Datos.md:327:procesos
+content/06e. Modelo_Gobierno_Datos.md:328:entidad
+content/06e. Modelo_Gobierno_Datos.md:328:facilitar
+content/06e. Modelo_Gobierno_Datos.md:328:implementación
+content/06e. Modelo_Gobierno_Datos.md:328:mapeado
+content/06e. Modelo_Gobierno_Datos.md:328:previamente
+content/06e. Modelo_Gobierno_Datos.md:328:tener
+content/06e. Modelo_Gobierno_Datos.md:329:actividades
+content/06e. Modelo_Gobierno_Datos.md:329:entradas
+content/06e. Modelo_Gobierno_Datos.md:329:herramientas
+content/06e. Modelo_Gobierno_Datos.md:329:otros
+content/06e. Modelo_Gobierno_Datos.md:329:responsables
+content/06e. Modelo_Gobierno_Datos.md:329:salidas
+content/06e. Modelo_Gobierno_Datos.md:330:gobierno
+content/06e. Modelo_Gobierno_Datos.md:330:implementación
+content/06e. Modelo_Gobierno_Datos.md:330:insumos
+content/06e. Modelo_Gobierno_Datos.md:330:modelo
+content/06e. Modelo_Gobierno_Datos.md:330:necesarios
+content/06e. Modelo_Gobierno_Datos.md:332:Centrado
+content/06e. Modelo_Gobierno_Datos.md:334:el
+content/06e. Modelo_Gobierno_Datos.md:334:horizonte
+content/06e. Modelo_Gobierno_Datos.md:334:Integrar
+content/06e. Modelo_Gobierno_Datos.md:334:permanezca
+content/06e. Modelo_Gobierno_Datos.md:334:tiempo
+content/06e. Modelo_Gobierno_Datos.md:335:buscando
+content/06e. Modelo_Gobierno_Datos.md:335:cultura
+content/06e. Modelo_Gobierno_Datos.md:335:dato
+content/06e. Modelo_Gobierno_Datos.md:335:el
+content/06e. Modelo_Gobierno_Datos.md:335:entidad
+content/06e. Modelo_Gobierno_Datos.md:335:manera
+content/06e. Modelo_Gobierno_Datos.md:336:competencias
+content/06e. Modelo_Gobierno_Datos.md:336:diferentes
+content/06e. Modelo_Gobierno_Datos.md:336:dimensiones
+content/06e. Modelo_Gobierno_Datos.md:336:fortaleciendo
+content/06e. Modelo_Gobierno_Datos.md:337:formación
+content/06e. Modelo_Gobierno_Datos.md:337:hacer
+content/06e. Modelo_Gobierno_Datos.md:337:mediante
+content/06e. Modelo_Gobierno_Datos.md:337:oferta
+content/06e. Modelo_Gobierno_Datos.md:337:saberes
+content/06e. Modelo_Gobierno_Datos.md:337:ser
+content/06e. Modelo_Gobierno_Datos.md:338:acuerdo
+content/06e. Modelo_Gobierno_Datos.md:338:capacitación
+content/06e. Modelo_Gobierno_Datos.md:338:definidas
+content/06e. Modelo_Gobierno_Datos.md:338:el
+content/06e. Modelo_Gobierno_Datos.md:338:nacional
+content/06e. Modelo_Gobierno_Datos.md:338:por
+content/06e. Modelo_Gobierno_Datos.md:338:temáticas
+content/06e. Modelo_Gobierno_Datos.md:339:adoptado
+content/06e. Modelo_Gobierno_Datos.md:339:capacitación
+content/06e. Modelo_Gobierno_Datos.md:339:el
+content/06e. Modelo_Gobierno_Datos.md:339:formación
+content/06e. Modelo_Gobierno_Datos.md:339:por
+content/06e. Modelo_Gobierno_Datos.md:339:priorizando
+content/06e. Modelo_Gobierno_Datos.md:340:CONPES
+content/06e. Modelo_Gobierno_Datos.md:340:ejes
+content/06e. Modelo_Gobierno_Datos.md:340:el
+content/06e. Modelo_Gobierno_Datos.md:340:enmarcado
+content/06e. Modelo_Gobierno_Datos.md:340:Transformación
+content/06e. Modelo_Gobierno_Datos.md:341:Departamento
+content/06e. Modelo_Gobierno_Datos.md:341:gestión
+content/06e. Modelo_Gobierno_Datos.md:341:Nacional
+content/06e. Modelo_Gobierno_Datos.md:341:Planeación
+content/06e. Modelo_Gobierno_Datos.md:342:conocimiento
+content/06e. Modelo_Gobierno_Datos.md:342:ejes
+content/06e. Modelo_Gobierno_Datos.md:342:innovación
+content/06e. Modelo_Gobierno_Datos.md:342:sus
+content/06e. Modelo_Gobierno_Datos.md:342:todos
+content/06e. Modelo_Gobierno_Datos.md:344:conocimiento
+content/06e. Modelo_Gobierno_Datos.md:344:Generación
+content/06e. Modelo_Gobierno_Datos.md:344:producción
+content/06e. Modelo_Gobierno_Datos.md:346:apropiación
+content/06e. Modelo_Gobierno_Datos.md:346:Herramientas
+content/06e. Modelo_Gobierno_Datos.md:348:compartir
+content/06e. Modelo_Gobierno_Datos.md:348:Cultura
+content/06e. Modelo_Gobierno_Datos.md:348:difundir
+content/06e. Modelo_Gobierno_Datos.md:350:Analítica
+content/06e. Modelo_Gobierno_Datos.md:350:decisiones
+content/06e. Modelo_Gobierno_Datos.md:350:institucional
+content/06e. Modelo_Gobierno_Datos.md:350:toma
+content/06e. Modelo_Gobierno_Datos.md:352:Analítica
+content/06e. Modelo_Gobierno_Datos.md:352:decisiones
+content/06e. Modelo_Gobierno_Datos.md:352:institucional
+content/06e. Modelo_Gobierno_Datos.md:352:tiene
+content/06e. Modelo_Gobierno_Datos.md:352:toma
+content/06e. Modelo_Gobierno_Datos.md:353:análisis
+content/06e. Modelo_Gobierno_Datos.md:353:el
+content/06e. Modelo_Gobierno_Datos.md:353:enfoca
+content/06e. Modelo_Gobierno_Datos.md:353:indicadores
+content/06e. Modelo_Gobierno_Datos.md:353:información
+content/06e. Modelo_Gobierno_Datos.md:353:relevancia
+content/06e. Modelo_Gobierno_Datos.md:354:basadas
+content/06e. Modelo_Gobierno_Datos.md:354:datos
+content/06e. Modelo_Gobierno_Datos.md:354:decisiones
+content/06e. Modelo_Gobierno_Datos.md:354:evidencia
+content/06e. Modelo_Gobierno_Datos.md:354:tomar
+content/06e. Modelo_Gobierno_Datos.md:354:visualización
+content/06e. Modelo_Gobierno_Datos.md:355:aporta
+content/06e. Modelo_Gobierno_Datos.md:355:basadas
+content/06e. Modelo_Gobierno_Datos.md:355:datos
+content/06e. Modelo_Gobierno_Datos.md:355:decisiones
+content/06e. Modelo_Gobierno_Datos.md:355:entidad
+content/06e. Modelo_Gobierno_Datos.md:356:afiance
+content/06e. Modelo_Gobierno_Datos.md:356:cultura
+content/06e. Modelo_Gobierno_Datos.md:356:dato
+content/06e. Modelo_Gobierno_Datos.md:356:esta
+content/06e. Modelo_Gobierno_Datos.md:356:implementada
+content/06e. Modelo_Gobierno_Datos.md:356:permitiendo
+content/06e. Modelo_Gobierno_Datos.md:356:una
+content/06e. Modelo_Gobierno_Datos.md:356:vez
+content/06e. Modelo_Gobierno_Datos.md:357:perdure
+content/06e. Modelo_Gobierno_Datos.md:357:tiempo
+content/06e. Modelo_Gobierno_Datos.md:357:través
+content/06e. Modelo_Gobierno_Datos.md:361:compromiso
+content/06e. Modelo_Gobierno_Datos.md:361:coordinación
+content/06e. Modelo_Gobierno_Datos.md:361:entidad
+content/06e. Modelo_Gobierno_Datos.md:361:Lograr
+content/06e. Modelo_Gobierno_Datos.md:361:niveles
+content/06e. Modelo_Gobierno_Datos.md:361:todos
+content/06e. Modelo_Gobierno_Datos.md:362:cabeza
+content/06e. Modelo_Gobierno_Datos.md:362:desde
+content/06e. Modelo_Gobierno_Datos.md:362:directivos
+content/06e. Modelo_Gobierno_Datos.md:362:funcionarios
+content/06e. Modelo_Gobierno_Datos.md:362:hasta
+content/06e. Modelo_Gobierno_Datos.md:363:desempeñan
+content/06e. Modelo_Gobierno_Datos.md:363:equipos
+content/06e. Modelo_Gobierno_Datos.md:363:específicas
+content/06e. Modelo_Gobierno_Datos.md:363:labores
+content/06e. Modelo_Gobierno_Datos.md:363:operativas
+content/06e. Modelo_Gobierno_Datos.md:363:pasando
+content/06e. Modelo_Gobierno_Datos.md:363:por
+content/06e. Modelo_Gobierno_Datos.md:363:tácticos
+content/06e. Modelo_Gobierno_Datos.md:364:contratistas
+content/06e. Modelo_Gobierno_Datos.md:366:definidos
+content/06e. Modelo_Gobierno_Datos.md:366:niveles
+content/06e. Modelo_Gobierno_Datos.md:371:Entidad
+content/06e. Modelo_Gobierno_Datos.md:371:Ilustración
+content/06e. Modelo_Gobierno_Datos.md:371:Niveles
+content/06e. Modelo_Gobierno_Datos.md:373:Política
+content/06e. Modelo_Gobierno_Datos.md:375:activo
+content/06e. Modelo_Gobierno_Datos.md:375:Ahorro
+content/06e. Modelo_Gobierno_Datos.md:375:datos
+content/06e. Modelo_Gobierno_Datos.md:375:El
+content/06e. Modelo_Gobierno_Datos.md:375:establece
+content/06e. Modelo_Gobierno_Datos.md:375:Fondo
+content/06e. Modelo_Gobierno_Datos.md:375:Nacional
+content/06e. Modelo_Gobierno_Datos.md:376:conocimiento
+content/06e. Modelo_Gobierno_Datos.md:376:decisiones
+content/06e. Modelo_Gobierno_Datos.md:376:el
+content/06e. Modelo_Gobierno_Datos.md:376:el
+content/06e. Modelo_Gobierno_Datos.md:376:información
+content/06e. Modelo_Gobierno_Datos.md:376:logro
+content/06e. Modelo_Gobierno_Datos.md:376:toma
+content/06e. Modelo_Gobierno_Datos.md:377:confianza
+content/06e. Modelo_Gobierno_Datos.md:377:entidad
+content/06e. Modelo_Gobierno_Datos.md:377:estratégica
+content/06e. Modelo_Gobierno_Datos.md:377:incrementando
+content/06e. Modelo_Gobierno_Datos.md:377:misión
+content/06e. Modelo_Gobierno_Datos.md:378:contribuyendo
+content/06e. Modelo_Gobierno_Datos.md:378:grupos
+content/06e. Modelo_Gobierno_Datos.md:378:grupos
+content/06e. Modelo_Gobierno_Datos.md:378:innovación
+content/06e. Modelo_Gobierno_Datos.md:378:interés
+content/06e. Modelo_Gobierno_Datos.md:379:pública
+content/06e. Modelo_Gobierno_Datos.md:381:Ejes
+content/06e. Modelo_Gobierno_Datos.md:383:concentran
+content/06e. Modelo_Gobierno_Datos.md:383:donde
+content/06e. Modelo_Gobierno_Datos.md:383:ejes
+content/06e. Modelo_Gobierno_Datos.md:383:esfuerzos
+content/06e. Modelo_Gobierno_Datos.md:383:Estrategia
+content/06e. Modelo_Gobierno_Datos.md:383:integran
+content/06e. Modelo_Gobierno_Datos.md:384:cumplimiento
+content/06e. Modelo_Gobierno_Datos.md:384:dato
+content/06e. Modelo_Gobierno_Datos.md:384:negocio
+content/06e. Modelo_Gobierno_Datos.md:384:normativo
+content/06e. Modelo_Gobierno_Datos.md:384:privacidad
+content/06e. Modelo_Gobierno_Datos.md:384:seguridad
+content/06e. Modelo_Gobierno_Datos.md:385:acoplan
+content/06e. Modelo_Gobierno_Datos.md:385:cuales
+content/06e. Modelo_Gobierno_Datos.md:385:DAMA
+content/06e. Modelo_Gobierno_Datos.md:385:definiciones
+content/06e. Modelo_Gobierno_Datos.md:385:toman
+content/06e. Modelo_Gobierno_Datos.md:386:además
+content/06e. Modelo_Gobierno_Datos.md:386:condiciones
+content/06e. Modelo_Gobierno_Datos.md:386:entidad
+content/06e. Modelo_Gobierno_Datos.md:386:funcionalmente
+content/06e. Modelo_Gobierno_Datos.md:386:propias
+content/06e. Modelo_Gobierno_Datos.md:387:adiciona
+content/06e. Modelo_Gobierno_Datos.md:387:ciclo
+content/06e. Modelo_Gobierno_Datos.md:387:dato
+content/06e. Modelo_Gobierno_Datos.md:387:el
+content/06e. Modelo_Gobierno_Datos.md:387:gestión
+content/06e. Modelo_Gobierno_Datos.md:387:vida
+content/06e. Modelo_Gobierno_Datos.md:388:dato
+content/06e. Modelo_Gobierno_Datos.md:388:el
+content/06e. Modelo_Gobierno_Datos.md:388:evaluar
+content/06e. Modelo_Gobierno_Datos.md:388:holística
+content/06e. Modelo_Gobierno_Datos.md:388:posibilita
+content/06e. Modelo_Gobierno_Datos.md:388:tener
+content/06e. Modelo_Gobierno_Datos.md:388:una
+content/06e. Modelo_Gobierno_Datos.md:388:visión
+content/06e. Modelo_Gobierno_Datos.md:389:ampliaciones
+content/06e. Modelo_Gobierno_Datos.md:389:aplicación
+content/06e. Modelo_Gobierno_Datos.md:389:instancias
+content/06e. Modelo_Gobierno_Datos.md:389:modelo
+content/06e. Modelo_Gobierno_Datos.md:389:posibles
+content/06e. Modelo_Gobierno_Datos.md:389:través
+content/06e. Modelo_Gobierno_Datos.md:390:ello
+content/06e. Modelo_Gobierno_Datos.md:390:previstas
+content/06e. Modelo_Gobierno_Datos.md:392:apoyo
+content/06e. Modelo_Gobierno_Datos.md:392:áreas
+content/06e. Modelo_Gobierno_Datos.md:392:conforman
+content/06e. Modelo_Gobierno_Datos.md:392:el
+content/06e. Modelo_Gobierno_Datos.md:392:el
+content/06e. Modelo_Gobierno_Datos.md:392:Estrategia
+content/06e. Modelo_Gobierno_Datos.md:392:negocio
+content/06e. Modelo_Gobierno_Datos.md:393:direccionamiento
+content/06e. Modelo_Gobierno_Datos.md:393:entidad
+content/06e. Modelo_Gobierno_Datos.md:393:estratégico
+content/06e. Modelo_Gobierno_Datos.md:393:mecanismo
+content/06e. Modelo_Gobierno_Datos.md:394:cadena
+content/06e. Modelo_Gobierno_Datos.md:394:identificación
+content/06e. Modelo_Gobierno_Datos.md:394:permita
+content/06e. Modelo_Gobierno_Datos.md:394:permite
+content/06e. Modelo_Gobierno_Datos.md:394:tomar
+content/06e. Modelo_Gobierno_Datos.md:395:buenas
+content/06e. Modelo_Gobierno_Datos.md:395:casos
+content/06e. Modelo_Gobierno_Datos.md:395:decisiones
+content/06e. Modelo_Gobierno_Datos.md:395:forma
+content/06e. Modelo_Gobierno_Datos.md:395:óptima
+content/06e. Modelo_Gobierno_Datos.md:396:cada
+content/06e. Modelo_Gobierno_Datos.md:396:el
+content/06e. Modelo_Gobierno_Datos.md:396:interesados
+content/06e. Modelo_Gobierno_Datos.md:396:negocio
+content/06e. Modelo_Gobierno_Datos.md:396:tener
+content/06e. Modelo_Gobierno_Datos.md:396:una
+content/06e. Modelo_Gobierno_Datos.md:396:uno
+content/06e. Modelo_Gobierno_Datos.md:397:asegure
+content/06e. Modelo_Gobierno_Datos.md:397:entre
+content/06e. Modelo_Gobierno_Datos.md:397:sinergias
+content/06e. Modelo_Gobierno_Datos.md:397:todas
+content/06e. Modelo_Gobierno_Datos.md:397:visión
+content/06e. Modelo_Gobierno_Datos.md:398:información
+content/06e. Modelo_Gobierno_Datos.md:400:apoyo
+content/06e. Modelo_Gobierno_Datos.md:400:área
+content/06e. Modelo_Gobierno_Datos.md:400:área
+content/06e. Modelo_Gobierno_Datos.md:400:Cumplimiento
+content/06e. Modelo_Gobierno_Datos.md:400:definir
+content/06e. Modelo_Gobierno_Datos.md:400:el
+content/06e. Modelo_Gobierno_Datos.md:400:jurídica
+content/06e. Modelo_Gobierno_Datos.md:400:normativo
+content/06e. Modelo_Gobierno_Datos.md:401:el
+content/06e. Modelo_Gobierno_Datos.md:401:hacer
+content/06e. Modelo_Gobierno_Datos.md:401:manera
+content/06e. Modelo_Gobierno_Datos.md:401:mecanismos
+content/06e. Modelo_Gobierno_Datos.md:401:permitan
+content/06e. Modelo_Gobierno_Datos.md:401:proactiva
+content/06e. Modelo_Gobierno_Datos.md:401:seguimiento
+content/06e. Modelo_Gobierno_Datos.md:402:acatamiento
+content/06e. Modelo_Gobierno_Datos.md:402:dato
+content/06e. Modelo_Gobierno_Datos.md:402:el
+content/06e. Modelo_Gobierno_Datos.md:402:entidad
+content/06e. Modelo_Gobierno_Datos.md:402:normativa
+content/06e. Modelo_Gobierno_Datos.md:402:por
+content/06e. Modelo_Gobierno_Datos.md:402:reglas
+content/06e. Modelo_Gobierno_Datos.md:403:garantizar
+content/06e. Modelo_Gobierno_Datos.md:403:medio
+content/06e. Modelo_Gobierno_Datos.md:403:permitan
+content/06e. Modelo_Gobierno_Datos.md:403:políticas
+content/06e. Modelo_Gobierno_Datos.md:403:responsables
+content/06e. Modelo_Gobierno_Datos.md:404:acuerdo
+content/06e. Modelo_Gobierno_Datos.md:404:datos
+content/06e. Modelo_Gobierno_Datos.md:404:normas
+content/06e. Modelo_Gobierno_Datos.md:404:regulaciones
+content/06e. Modelo_Gobierno_Datos.md:404:usados
+content/06e. Modelo_Gobierno_Datos.md:405:vigentes
+content/06e. Modelo_Gobierno_Datos.md:407:Coordinar
+content/06e. Modelo_Gobierno_Datos.md:407:dato
+content/06e. Modelo_Gobierno_Datos.md:407:el
+content/06e. Modelo_Gobierno_Datos.md:407:Privacidad
+content/06e. Modelo_Gobierno_Datos.md:407:responsable
+content/06e. Modelo_Gobierno_Datos.md:407:Seguridad
+content/06e. Modelo_Gobierno_Datos.md:408:datos
+content/06e. Modelo_Gobierno_Datos.md:408:permite
+content/06e. Modelo_Gobierno_Datos.md:408:política
+content/06e. Modelo_Gobierno_Datos.md:408:por
+content/06e. Modelo_Gobierno_Datos.md:408:protección
+content/06e. Modelo_Gobierno_Datos.md:409:almacenados
+content/06e. Modelo_Gobierno_Datos.md:409:decir
+content/06e. Modelo_Gobierno_Datos.md:409:fueron
+content/06e. Modelo_Gobierno_Datos.md:409:procesados
+content/06e. Modelo_Gobierno_Datos.md:409:ser
+content/06e. Modelo_Gobierno_Datos.md:409:trasmitidos
+content/06e. Modelo_Gobierno_Datos.md:410:ciclo
+content/06e. Modelo_Gobierno_Datos.md:410:su
+content/06e. Modelo_Gobierno_Datos.md:410:todo
+content/06e. Modelo_Gobierno_Datos.md:410:vida
+content/06e. Modelo_Gobierno_Datos.md:412:ámbito
+content/06e. Modelo_Gobierno_Datos.md:412:Ciclo
+content/06e. Modelo_Gobierno_Datos.md:412:dato
+content/06e. Modelo_Gobierno_Datos.md:412:dato
+content/06e. Modelo_Gobierno_Datos.md:412:el
+content/06e. Modelo_Gobierno_Datos.md:412:Vida
+content/06e. Modelo_Gobierno_Datos.md:412:Visión
+content/06e. Modelo_Gobierno_Datos.md:413:asegurar
+content/06e. Modelo_Gobierno_Datos.md:413:cubrimiento
+content/06e. Modelo_Gobierno_Datos.md:413:el
+content/06e. Modelo_Gobierno_Datos.md:413:enfocado
+content/06e. Modelo_Gobierno_Datos.md:413:enmascaramiento
+content/06e. Modelo_Gobierno_Datos.md:413:reducción
+content/06e. Modelo_Gobierno_Datos.md:414:archivado
+content/06e. Modelo_Gobierno_Datos.md:414:datos
+content/06e. Modelo_Gobierno_Datos.md:414:el
+content/06e. Modelo_Gobierno_Datos.md:414:institución
+content/06e. Modelo_Gobierno_Datos.md:414:nivel
+content/06e. Modelo_Gobierno_Datos.md:414:soportando
+content/06e. Modelo_Gobierno_Datos.md:415:autoservicio
+content/06e. Modelo_Gobierno_Datos.md:415:comprometido
+content/06e. Modelo_Gobierno_Datos.md:417:aplicación
+content/06e. Modelo_Gobierno_Datos.md:417:el
+content/06e. Modelo_Gobierno_Datos.md:417:Evaluar
+content/06e. Modelo_Gobierno_Datos.md:417:Gestión
+content/06e. Modelo_Gobierno_Datos.md:417:mejoras
+content/06e. Modelo_Gobierno_Datos.md:417:posibles
+content/06e. Modelo_Gobierno_Datos.md:418:el
+content/06e. Modelo_Gobierno_Datos.md:418:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:418:procedimientos
+content/06e. Modelo_Gobierno_Datos.md:418:procesos
+content/06e. Modelo_Gobierno_Datos.md:418:relacionados
+content/06e. Modelo_Gobierno_Datos.md:419:actualización
+content/06e. Modelo_Gobierno_Datos.md:419:así
+content/06e. Modelo_Gobierno_Datos.md:419:Dato
+content/06e. Modelo_Gobierno_Datos.md:419:modelo
+content/06e. Modelo_Gobierno_Datos.md:419:presente
+content/06e. Modelo_Gobierno_Datos.md:420:definidas
+content/06e. Modelo_Gobierno_Datos.md:420:instancias
+content/06e. Modelo_Gobierno_Datos.md:422:Componentes
+content/06e. Modelo_Gobierno_Datos.md:424:centra
+content/06e. Modelo_Gobierno_Datos.md:424:elementos
+content/06e. Modelo_Gobierno_Datos.md:424:tres
+content/06e. Modelo_Gobierno_Datos.md:426:datos
+content/06e. Modelo_Gobierno_Datos.md:426:el
+content/06e. Modelo_Gobierno_Datos.md:426:El
+content/06e. Modelo_Gobierno_Datos.md:426:hace
+content/06e. Modelo_Gobierno_Datos.md:426:líder
+content/06e. Modelo_Gobierno_Datos.md:426:materializa
+content/06e. Modelo_Gobierno_Datos.md:426:patrocinio
+content/06e. Modelo_Gobierno_Datos.md:427:estratégico
+content/06e. Modelo_Gobierno_Datos.md:427:nivel
+content/06e. Modelo_Gobierno_Datos.md:427:parte
+content/06e. Modelo_Gobierno_Datos.md:429:área
+content/06e. Modelo_Gobierno_Datos.md:429:área
+content/06e. Modelo_Gobierno_Datos.md:429:cada
+content/06e. Modelo_Gobierno_Datos.md:429:funcional
+content/06e. Modelo_Gobierno_Datos.md:429:propiedad
+content/06e. Modelo_Gobierno_Datos.md:429:responsabilidad
+content/06e. Modelo_Gobierno_Datos.md:430:administrador
+content/06e. Modelo_Gobierno_Datos.md:430:custodio
+content/06e. Modelo_Gobierno_Datos.md:432:administración
+content/06e. Modelo_Gobierno_Datos.md:432:construcción
+content/06e. Modelo_Gobierno_Datos.md:432:facilita
+content/06e. Modelo_Gobierno_Datos.md:432:servicios
+content/06e. Modelo_Gobierno_Datos.md:433:actividades
+content/06e. Modelo_Gobierno_Datos.md:433:datos
+content/06e. Modelo_Gobierno_Datos.md:433:específicas
+content/06e. Modelo_Gobierno_Datos.md:433:gestión
+content/06e. Modelo_Gobierno_Datos.md:433:realizar
+content/06e. Modelo_Gobierno_Datos.md:434:enfoques
+content/06e. Modelo_Gobierno_Datos.md:434:siguientes
+content/06e. Modelo_Gobierno_Datos.md:439:Arquitectura
+content/06e. Modelo_Gobierno_Datos.md:439:componente
+content/06e. Modelo_Gobierno_Datos.md:439:dato
+content/06e. Modelo_Gobierno_Datos.md:439:dominio
+content/06e. Modelo_Gobierno_Datos.md:439:el
+content/06e. Modelo_Gobierno_Datos.md:440:asociado
+content/06e. Modelo_Gobierno_Datos.md:440:coordinación
+content/06e. Modelo_Gobierno_Datos.md:440:estructura
+content/06e. Modelo_Gobierno_Datos.md:440:información
+content/06e. Modelo_Gobierno_Datos.md:441:así
+content/06e. Modelo_Gobierno_Datos.md:441:calidad
+content/06e. Modelo_Gobierno_Datos.md:441:dato
+content/06e. Modelo_Gobierno_Datos.md:441:desde
+content/06e. Modelo_Gobierno_Datos.md:441:el
+content/06e. Modelo_Gobierno_Datos.md:441:mismo
+content/06e. Modelo_Gobierno_Datos.md:441:origen
+content/06e. Modelo_Gobierno_Datos.md:441:semántica
+content/06e. Modelo_Gobierno_Datos.md:442:datos
+content/06e. Modelo_Gobierno_Datos.md:442:diseño
+content/06e. Modelo_Gobierno_Datos.md:442:el
+content/06e. Modelo_Gobierno_Datos.md:442:flujos
+content/06e. Modelo_Gobierno_Datos.md:442:modelos
+content/06e. Modelo_Gobierno_Datos.md:442:participando
+content/06e. Modelo_Gobierno_Datos.md:443:aplicaciones
+content/06e. Modelo_Gobierno_Datos.md:445:Administración
+content/06e. Modelo_Gobierno_Datos.md:445:combinación
+content/06e. Modelo_Gobierno_Datos.md:445:datos
+content/06e. Modelo_Gobierno_Datos.md:446:estándares
+content/06e. Modelo_Gobierno_Datos.md:446:gobernabilidad
+content/06e. Modelo_Gobierno_Datos.md:446:herramientas
+content/06e. Modelo_Gobierno_Datos.md:446:políticas
+content/06e. Modelo_Gobierno_Datos.md:446:procesos
+content/06e. Modelo_Gobierno_Datos.md:447:Este
+content/06e. Modelo_Gobierno_Datos.md:447:integran
+content/06e. Modelo_Gobierno_Datos.md:447:ofrecer
+content/06e. Modelo_Gobierno_Datos.md:447:punto
+content/06e. Modelo_Gobierno_Datos.md:447:referencia
+content/06e. Modelo_Gobierno_Datos.md:447:único
+content/06e. Modelo_Gobierno_Datos.md:447:único
+content/06e. Modelo_Gobierno_Datos.md:448:derivar
+content/06e. Modelo_Gobierno_Datos.md:448:enfoca
+content/06e. Modelo_Gobierno_Datos.md:448:entender
+content/06e. Modelo_Gobierno_Datos.md:448:interna
+content/06e. Modelo_Gobierno_Datos.md:448:necesidad
+content/06e. Modelo_Gobierno_Datos.md:448:una
+content/06e. Modelo_Gobierno_Datos.md:448:visión
+content/06e. Modelo_Gobierno_Datos.md:449:eficiencia
+content/06e. Modelo_Gobierno_Datos.md:449:función
+content/06e. Modelo_Gobierno_Datos.md:449:operacional
+content/06e. Modelo_Gobierno_Datos.md:449:pública
+content/06e. Modelo_Gobierno_Datos.md:449:través
+content/06e. Modelo_Gobierno_Datos.md:449:una
+content/06e. Modelo_Gobierno_Datos.md:450:activos
+content/06e. Modelo_Gobierno_Datos.md:450:clientes
+content/06e. Modelo_Gobierno_Datos.md:450:integración
+content/06e. Modelo_Gobierno_Datos.md:450:productos
+content/06e. Modelo_Gobierno_Datos.md:450:proveedores
+content/06e. Modelo_Gobierno_Datos.md:451:dentro
+content/06e. Modelo_Gobierno_Datos.md:451:elementos
+content/06e. Modelo_Gobierno_Datos.md:451:existen
+content/06e. Modelo_Gobierno_Datos.md:451:institución
+content/06e. Modelo_Gobierno_Datos.md:451:otros
+content/06e. Modelo_Gobierno_Datos.md:451:ubicaciones
+content/06e. Modelo_Gobierno_Datos.md:452:administración
+content/06e. Modelo_Gobierno_Datos.md:452:asocia
+content/06e. Modelo_Gobierno_Datos.md:452:datos
+content/06e. Modelo_Gobierno_Datos.md:452:diversas
+content/06e. Modelo_Gobierno_Datos.md:452:Esta
+content/06e. Modelo_Gobierno_Datos.md:452:unidades
+content/06e. Modelo_Gobierno_Datos.md:453:áreas
+content/06e. Modelo_Gobierno_Datos.md:453:función
+content/06e. Modelo_Gobierno_Datos.md:453:mantenidos
+content/06e. Modelo_Gobierno_Datos.md:453:por
+content/06e. Modelo_Gobierno_Datos.md:453:pública
+content/06e. Modelo_Gobierno_Datos.md:453:usuarios
+content/06e. Modelo_Gobierno_Datos.md:454:expertos
+content/06e. Modelo_Gobierno_Datos.md:454:expertos
+content/06e. Modelo_Gobierno_Datos.md:454:materia
+content/06e. Modelo_Gobierno_Datos.md:454:por
+content/06e. Modelo_Gobierno_Datos.md:454:sistemas
+content/06e. Modelo_Gobierno_Datos.md:456:Calidad
+content/06e. Modelo_Gobierno_Datos.md:456:componente
+content/06e. Modelo_Gobierno_Datos.md:456:dato
+content/06e. Modelo_Gobierno_Datos.md:456:dominio
+content/06e. Modelo_Gobierno_Datos.md:456:el
+content/06e. Modelo_Gobierno_Datos.md:457:ajuste
+content/06e. Modelo_Gobierno_Datos.md:457:asociado
+content/06e. Modelo_Gobierno_Datos.md:457:datos
+content/06e. Modelo_Gobierno_Datos.md:457:depuración
+content/06e. Modelo_Gobierno_Datos.md:457:información
+content/06e. Modelo_Gobierno_Datos.md:457:procesos
+content/06e. Modelo_Gobierno_Datos.md:458:definición
+content/06e. Modelo_Gobierno_Datos.md:458:indicadores
+content/06e. Modelo_Gobierno_Datos.md:458:masivos
+content/06e. Modelo_Gobierno_Datos.md:458:medición
+content/06e. Modelo_Gobierno_Datos.md:458:mejora
+content/06e. Modelo_Gobierno_Datos.md:459:calidad
+content/06e. Modelo_Gobierno_Datos.md:459:dato
+content/06e. Modelo_Gobierno_Datos.md:461:Aprovisionamiento
+content/06e. Modelo_Gobierno_Datos.md:461:componente
+content/06e. Modelo_Gobierno_Datos.md:461:dominio
+content/06e. Modelo_Gobierno_Datos.md:461:el
+content/06e. Modelo_Gobierno_Datos.md:462:asociado
+content/06e. Modelo_Gobierno_Datos.md:462:datos
+content/06e. Modelo_Gobierno_Datos.md:462:el
+content/06e. Modelo_Gobierno_Datos.md:462:información
+content/06e. Modelo_Gobierno_Datos.md:462:línea
+content/06e. Modelo_Gobierno_Datos.md:462:movimiento
+content/06e. Modelo_Gobierno_Datos.md:462:tanto
+content/06e. Modelo_Gobierno_Datos.md:463:aplicativos
+content/06e. Modelo_Gobierno_Datos.md:463:diferido
+content/06e. Modelo_Gobierno_Datos.md:463:entre
+content/06e. Modelo_Gobierno_Datos.md:463:informacionales
+content/06e. Modelo_Gobierno_Datos.md:463:operacionales
+content/06e. Modelo_Gobierno_Datos.md:464:competencia
+content/06e. Modelo_Gobierno_Datos.md:464:componentes
+content/06e. Modelo_Gobierno_Datos.md:464:incrementando
+content/06e. Modelo_Gobierno_Datos.md:464:niveles
+content/06e. Modelo_Gobierno_Datos.md:464:reutilizando
+content/06e. Modelo_Gobierno_Datos.md:466:componente
+content/06e. Modelo_Gobierno_Datos.md:466:demanda
+content/06e. Modelo_Gobierno_Datos.md:466:dominio
+content/06e. Modelo_Gobierno_Datos.md:466:el
+content/06e. Modelo_Gobierno_Datos.md:466:Gestión
+content/06e. Modelo_Gobierno_Datos.md:467:administración
+content/06e. Modelo_Gobierno_Datos.md:467:asociado
+content/06e. Modelo_Gobierno_Datos.md:467:centralizada
+content/06e. Modelo_Gobierno_Datos.md:467:información
+content/06e. Modelo_Gobierno_Datos.md:468:áreas
+content/06e. Modelo_Gobierno_Datos.md:468:datos
+content/06e. Modelo_Gobierno_Datos.md:468:demanda
+content/06e. Modelo_Gobierno_Datos.md:468:funcionales
+content/06e. Modelo_Gobierno_Datos.md:468:público
+content/06e. Modelo_Gobierno_Datos.md:470:componente
+content/06e. Modelo_Gobierno_Datos.md:470:Custodia
+content/06e. Modelo_Gobierno_Datos.md:470:dato
+content/06e. Modelo_Gobierno_Datos.md:470:dominio
+content/06e. Modelo_Gobierno_Datos.md:470:el
+content/06e. Modelo_Gobierno_Datos.md:471:asociado
+content/06e. Modelo_Gobierno_Datos.md:471:definición
+content/06e. Modelo_Gobierno_Datos.md:471:identificación
+content/06e. Modelo_Gobierno_Datos.md:471:información
+content/06e. Modelo_Gobierno_Datos.md:472:consumidor
+content/06e. Modelo_Gobierno_Datos.md:472:custodio
+content/06e. Modelo_Gobierno_Datos.md:472:dato
+content/06e. Modelo_Gobierno_Datos.md:474:Modelo
+content/06e. Modelo_Gobierno_Datos.md:474:Operativo
+content/06e. Modelo_Gobierno_Datos.md:476:adopten
+content/06e. Modelo_Gobierno_Datos.md:476:dato
+content/06e. Modelo_Gobierno_Datos.md:476:el
+content/06e. Modelo_Gobierno_Datos.md:476:entidades
+content/06e. Modelo_Gobierno_Datos.md:476:gobierno
+content/06e. Modelo_Gobierno_Datos.md:476:MINTIC
+content/06e. Modelo_Gobierno_Datos.md:476:propone
+content/06e. Modelo_Gobierno_Datos.md:476:públicas
+content/06e. Modelo_Gobierno_Datos.md:476:públicas
+content/06e. Modelo_Gobierno_Datos.md:477:cual
+content/06e. Modelo_Gobierno_Datos.md:477:desde
+content/06e. Modelo_Gobierno_Datos.md:477:detallado
+content/06e. Modelo_Gobierno_Datos.md:477:el
+content/06e. Modelo_Gobierno_Datos.md:477:Federado
+content/06e. Modelo_Gobierno_Datos.md:477:Modelo
+content/06e. Modelo_Gobierno_Datos.md:477:perspectiva
+content/06e. Modelo_Gobierno_Datos.md:478:dato
+content/06e. Modelo_Gobierno_Datos.md:478:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:478:guía
+content/06e. Modelo_Gobierno_Datos.md:478:Guía
+content/06e. Modelo_Gobierno_Datos.md:478:Información
+content/06e. Modelo_Gobierno_Datos.md:478:según
+content/06e. Modelo_Gobierno_Datos.md:478:Técnica
+content/06e. Modelo_Gobierno_Datos.md:479:cada
+content/06e. Modelo_Gobierno_Datos.md:479:datos
+content/06e. Modelo_Gobierno_Datos.md:479:delega
+content/06e. Modelo_Gobierno_Datos.md:479:este
+content/06e. Modelo_Gobierno_Datos.md:479:modelo
+content/06e. Modelo_Gobierno_Datos.md:479:operativo
+content/06e. Modelo_Gobierno_Datos.md:479:responsabilidad
+content/06e. Modelo_Gobierno_Datos.md:480:área
+content/06e. Modelo_Gobierno_Datos.md:480:área
+content/06e. Modelo_Gobierno_Datos.md:480:áreas
+content/06e. Modelo_Gobierno_Datos.md:480:coordina
+content/06e. Modelo_Gobierno_Datos.md:480:funcional
+content/06e. Modelo_Gobierno_Datos.md:480:relevancia
+content/06e. Modelo_Gobierno_Datos.md:481:áreas
+content/06e. Modelo_Gobierno_Datos.md:481:cada
+content/06e. Modelo_Gobierno_Datos.md:481:estas
+content/06e. Modelo_Gobierno_Datos.md:481:exista
+content/06e. Modelo_Gobierno_Datos.md:481:funcionales
+content/06e. Modelo_Gobierno_Datos.md:481:gestor
+content/06e. Modelo_Gobierno_Datos.md:481:una
+content/06e. Modelo_Gobierno_Datos.md:482:administrador
+content/06e. Modelo_Gobierno_Datos.md:482:dato
+content/06e. Modelo_Gobierno_Datos.md:482:implementación
+content/06e. Modelo_Gobierno_Datos.md:482:momento
+content/06e. Modelo_Gobierno_Datos.md:482:realizar
+content/06e. Modelo_Gobierno_Datos.md:483:actividades
+content/06e. Modelo_Gobierno_Datos.md:483:Administración
+content/06e. Modelo_Gobierno_Datos.md:483:Arquitectura
+content/06e. Modelo_Gobierno_Datos.md:483:dato
+content/06e. Modelo_Gobierno_Datos.md:483:enfocan
+content/06e. Modelo_Gobierno_Datos.md:484:Calidad
+content/06e. Modelo_Gobierno_Datos.md:484:Custodia
+content/06e. Modelo_Gobierno_Datos.md:484:dato
+content/06e. Modelo_Gobierno_Datos.md:484:dato
+content/06e. Modelo_Gobierno_Datos.md:484:dato
+content/06e. Modelo_Gobierno_Datos.md:484:demanda
+content/06e. Modelo_Gobierno_Datos.md:484:Gestión
+content/06e. Modelo_Gobierno_Datos.md:485:Aprovisionamiento
+content/06e. Modelo_Gobierno_Datos.md:485:bidireccional
+content/06e. Modelo_Gobierno_Datos.md:485:el
+content/06e. Modelo_Gobierno_Datos.md:485:flujo
+content/06e. Modelo_Gobierno_Datos.md:485:paralelo
+content/06e. Modelo_Gobierno_Datos.md:486:administración
+content/06e. Modelo_Gobierno_Datos.md:486:datos
+content/06e. Modelo_Gobierno_Datos.md:486:datos
+content/06e. Modelo_Gobierno_Datos.md:486:el
+content/06e. Modelo_Gobierno_Datos.md:486:gestión
+content/06e. Modelo_Gobierno_Datos.md:486:servicio
+content/06e. Modelo_Gobierno_Datos.md:487:diferentes
+content/06e. Modelo_Gobierno_Datos.md:487:establecidos
+content/06e. Modelo_Gobierno_Datos.md:487:interactuara
+content/06e. Modelo_Gobierno_Datos.md:487:niveles
+content/06e. Modelo_Gobierno_Datos.md:487:responsables
+content/06e. Modelo_Gobierno_Datos.md:489:el
+content/06e. Modelo_Gobierno_Datos.md:489:Federado
+content/06e. Modelo_Gobierno_Datos.md:489:Ilustración
+content/06e. Modelo_Gobierno_Datos.md:489:Modelo
+content/06e. Modelo_Gobierno_Datos.md:489:muestra
+content/06e. Modelo_Gobierno_Datos.md:489:partir
+content/06e. Modelo_Gobierno_Datos.md:489:siguiente
+content/06e. Modelo_Gobierno_Datos.md:490:características
+content/06e. Modelo_Gobierno_Datos.md:490:Dato
+content/06e. Modelo_Gobierno_Datos.md:490:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:490:Orquestado
+content/06e. Modelo_Gobierno_Datos.md:490:principales
+content/06e. Modelo_Gobierno_Datos.md:490:sus
+content/06e. Modelo_Gobierno_Datos.md:492:área
+content/06e. Modelo_Gobierno_Datos.md:492:área
+content/06e. Modelo_Gobierno_Datos.md:492:cada
+content/06e. Modelo_Gobierno_Datos.md:492:Delega
+content/06e. Modelo_Gobierno_Datos.md:492:el
+content/06e. Modelo_Gobierno_Datos.md:492:funcional
+content/06e. Modelo_Gobierno_Datos.md:492:involucrada
+content/06e. Modelo_Gobierno_Datos.md:492:público
+content/06e. Modelo_Gobierno_Datos.md:493:datos
+content/06e. Modelo_Gobierno_Datos.md:493:dominios
+content/06e. Modelo_Gobierno_Datos.md:493:responsabilidad
+content/06e. Modelo_Gobierno_Datos.md:493:sus
+content/06e. Modelo_Gobierno_Datos.md:495:áreas
+content/06e. Modelo_Gobierno_Datos.md:495:Coordina
+content/06e. Modelo_Gobierno_Datos.md:495:diferentes
+content/06e. Modelo_Gobierno_Datos.md:495:existentes
+content/06e. Modelo_Gobierno_Datos.md:495:mecanismos
+content/06e. Modelo_Gobierno_Datos.md:496:buen
+content/06e. Modelo_Gobierno_Datos.md:496:Datos
+content/06e. Modelo_Gobierno_Datos.md:496:el
+content/06e. Modelo_Gobierno_Datos.md:496:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:496:implicados
+content/06e. Modelo_Gobierno_Datos.md:498:área
+content/06e. Modelo_Gobierno_Datos.md:498:área
+content/06e. Modelo_Gobierno_Datos.md:498:Cada
+content/06e. Modelo_Gobierno_Datos.md:498:debe
+content/06e. Modelo_Gobierno_Datos.md:498:existir
+content/06e. Modelo_Gobierno_Datos.md:498:funcional
+content/06e. Modelo_Gobierno_Datos.md:498:gestores
+content/06e. Modelo_Gobierno_Datos.md:498:institución
+content/06e. Modelo_Gobierno_Datos.md:499:administradores
+content/06e. Modelo_Gobierno_Datos.md:499:buen
+content/06e. Modelo_Gobierno_Datos.md:499:dato
+content/06e. Modelo_Gobierno_Datos.md:499:gobierno
+content/06e. Modelo_Gobierno_Datos.md:499:responsables
+content/06e. Modelo_Gobierno_Datos.md:500:datos
+content/06e. Modelo_Gobierno_Datos.md:505:Comité
+content/06e. Modelo_Gobierno_Datos.md:505:datos
+content/06e. Modelo_Gobierno_Datos.md:505:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:507:acoja
+content/06e. Modelo_Gobierno_Datos.md:507:datos
+content/06e. Modelo_Gobierno_Datos.md:507:gestión
+content/06e. Modelo_Gobierno_Datos.md:507:gobierno
+content/06e. Modelo_Gobierno_Datos.md:507:óptima
+content/06e. Modelo_Gobierno_Datos.md:507:requiere
+content/06e. Modelo_Gobierno_Datos.md:508:controlar
+content/06e. Modelo_Gobierno_Datos.md:508:datos
+content/06e. Modelo_Gobierno_Datos.md:508:diseñar
+content/06e. Modelo_Gobierno_Datos.md:508:ejercicio
+content/06e. Modelo_Gobierno_Datos.md:508:el
+content/06e. Modelo_Gobierno_Datos.md:508:entendido
+content/06e. Modelo_Gobierno_Datos.md:508:monitorizar
+content/06e. Modelo_Gobierno_Datos.md:509:datos
+content/06e. Modelo_Gobierno_Datos.md:509:desde
+content/06e. Modelo_Gobierno_Datos.md:509:el
+content/06e. Modelo_Gobierno_Datos.md:509:enfoque
+content/06e. Modelo_Gobierno_Datos.md:509:holístico
+content/06e. Modelo_Gobierno_Datos.md:509:relativo
+content/06e. Modelo_Gobierno_Datos.md:509:todo
+content/06e. Modelo_Gobierno_Datos.md:510:departamento
+content/06e. Modelo_Gobierno_Datos.md:510:desde
+content/06e. Modelo_Gobierno_Datos.md:510:el
+content/06e. Modelo_Gobierno_Datos.md:510:el
+content/06e. Modelo_Gobierno_Datos.md:510:gobierno
+content/06e. Modelo_Gobierno_Datos.md:510:implicados
+content/06e. Modelo_Gobierno_Datos.md:510:participen
+content/06e. Modelo_Gobierno_Datos.md:511:consejo
+content/06e. Modelo_Gobierno_Datos.md:511:datos
+content/06e. Modelo_Gobierno_Datos.md:511:gestión
+content/06e. Modelo_Gobierno_Datos.md:511:hasta
+content/06e. Modelo_Gobierno_Datos.md:511:partes
+content/06e. Modelo_Gobierno_Datos.md:511:representa
+content/06e. Modelo_Gobierno_Datos.md:512:interesadas
+content/06e. Modelo_Gobierno_Datos.md:514:coordinación
+content/06e. Modelo_Gobierno_Datos.md:514:crear
+content/06e. Modelo_Gobierno_Datos.md:514:entonces
+content/06e. Modelo_Gobierno_Datos.md:514:hace
+content/06e. Modelo_Gobierno_Datos.md:514:instancia
+content/06e. Modelo_Gobierno_Datos.md:514:máxima
+content/06e. Modelo_Gobierno_Datos.md:514:necesario
+content/06e. Modelo_Gobierno_Datos.md:514:una
+content/06e. Modelo_Gobierno_Datos.md:515:el
+content/06e. Modelo_Gobierno_Datos.md:515:Impulsar
+content/06e. Modelo_Gobierno_Datos.md:515:institucional
+content/06e. Modelo_Gobierno_Datos.md:515:política
+content/06e. Modelo_Gobierno_Datos.md:515:propósito
+content/06e. Modelo_Gobierno_Datos.md:516:acciones
+content/06e. Modelo_Gobierno_Datos.md:516:aprovechamiento
+content/06e. Modelo_Gobierno_Datos.md:516:datos
+content/06e. Modelo_Gobierno_Datos.md:516:entidad
+content/06e. Modelo_Gobierno_Datos.md:516:orientación
+content/06e. Modelo_Gobierno_Datos.md:517:circulación
+content/06e. Modelo_Gobierno_Datos.md:517:fortalecer
+content/06e. Modelo_Gobierno_Datos.md:517:gobernanza
+content/06e. Modelo_Gobierno_Datos.md:517:reutilización
+content/06e. Modelo_Gobierno_Datos.md:517:tendientes
+content/06e. Modelo_Gobierno_Datos.md:518:datos
+content/06e. Modelo_Gobierno_Datos.md:523:Comité
+content/06e. Modelo_Gobierno_Datos.md:523:Datos
+content/06e. Modelo_Gobierno_Datos.md:523:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:523:Ilustración
+content/06e. Modelo_Gobierno_Datos.md:525:Administrativa
+content/06e. Modelo_Gobierno_Datos.md:527:decisiones
+content/06e. Modelo_Gobierno_Datos.md:527:donde
+content/06e. Modelo_Gobierno_Datos.md:527:encargados
+content/06e. Modelo_Gobierno_Datos.md:527:Espacio
+content/06e. Modelo_Gobierno_Datos.md:527:participan
+content/06e. Modelo_Gobierno_Datos.md:527:toma
+content/06e. Modelo_Gobierno_Datos.md:528:acuerdo
+content/06e. Modelo_Gobierno_Datos.md:528:datos
+content/06e. Modelo_Gobierno_Datos.md:528:estratégicos
+content/06e. Modelo_Gobierno_Datos.md:528:identificar
+content/06e. Modelo_Gobierno_Datos.md:528:objetivos
+content/06e. Modelo_Gobierno_Datos.md:529:actualización
+content/06e. Modelo_Gobierno_Datos.md:529:así
+content/06e. Modelo_Gobierno_Datos.md:529:dependencia
+content/06e. Modelo_Gobierno_Datos.md:529:funciones
+content/06e. Modelo_Gobierno_Datos.md:529:por
+content/06e. Modelo_Gobierno_Datos.md:529:su
+content/06e. Modelo_Gobierno_Datos.md:531:Asistentes
+content/06e. Modelo_Gobierno_Datos.md:531:designados
+content/06e. Modelo_Gobierno_Datos.md:531:Enlaces
+content/06e. Modelo_Gobierno_Datos.md:531:Funcionales
+content/06e. Modelo_Gobierno_Datos.md:531:por
+content/06e. Modelo_Gobierno_Datos.md:532:dependencias
+content/06e. Modelo_Gobierno_Datos.md:534:Frecuencia
+content/06e. Modelo_Gobierno_Datos.md:534:Trimestral
+content/06e. Modelo_Gobierno_Datos.md:536:Operativa
+content/06e. Modelo_Gobierno_Datos.md:538:alternativas
+content/06e. Modelo_Gobierno_Datos.md:538:coordinar
+content/06e. Modelo_Gobierno_Datos.md:538:donde
+content/06e. Modelo_Gobierno_Datos.md:538:ejecución
+content/06e. Modelo_Gobierno_Datos.md:538:Espacio
+content/06e. Modelo_Gobierno_Datos.md:538:plantear
+content/06e. Modelo_Gobierno_Datos.md:539:acciones
+content/06e. Modelo_Gobierno_Datos.md:539:encargados
+content/06e. Modelo_Gobierno_Datos.md:539:necesidades
+content/06e. Modelo_Gobierno_Datos.md:539:orquestar
+content/06e. Modelo_Gobierno_Datos.md:539:participan
+content/06e. Modelo_Gobierno_Datos.md:540:técnicas
+content/06e. Modelo_Gobierno_Datos.md:542:Asistentes
+content/06e. Modelo_Gobierno_Datos.md:542:designados
+content/06e. Modelo_Gobierno_Datos.md:542:Enlaces
+content/06e. Modelo_Gobierno_Datos.md:542:por
+content/06e. Modelo_Gobierno_Datos.md:542:Técnicos
+content/06e. Modelo_Gobierno_Datos.md:543:dependencias
+content/06e. Modelo_Gobierno_Datos.md:545:administrativa
+content/06e. Modelo_Gobierno_Datos.md:545:Frecuencia
+content/06e. Modelo_Gobierno_Datos.md:545:previa
+content/06e. Modelo_Gobierno_Datos.md:545:Veces
+content/06e. Modelo_Gobierno_Datos.md:546:Por
+content/06e. Modelo_Gobierno_Datos.md:546:sectores
+content/06e. Modelo_Gobierno_Datos.md:546:sesión
+content/06e. Modelo_Gobierno_Datos.md:546:sesión
+content/06e. Modelo_Gobierno_Datos.md:548:Grupo
+content/06e. Modelo_Gobierno_Datos.md:548:Trabajo
+content/06e. Modelo_Gobierno_Datos.md:550:obtener
+content/06e. Modelo_Gobierno_Datos.md:550:realizarán
+content/06e. Modelo_Gobierno_Datos.md:550:requiera
+content/06e. Modelo_Gobierno_Datos.md:550:Según
+content/06e. Modelo_Gobierno_Datos.md:550:tema
+content/06e. Modelo_Gobierno_Datos.md:550:tratar
+content/06e. Modelo_Gobierno_Datos.md:551:dichos
+content/06e. Modelo_Gobierno_Datos.md:551:entregable
+content/06e. Modelo_Gobierno_Datos.md:551:especifico
+content/06e. Modelo_Gobierno_Datos.md:551:resultados
+content/06e. Modelo_Gobierno_Datos.md:551:trasladan
+content/06e. Modelo_Gobierno_Datos.md:552:operativa
+content/06e. Modelo_Gobierno_Datos.md:554:Funciones
+content/06e. Modelo_Gobierno_Datos.md:556:definen
+content/06e. Modelo_Gobierno_Datos.md:556:implementación
+content/06e. Modelo_Gobierno_Datos.md:556:MINTIC
+content/06e. Modelo_Gobierno_Datos.md:556:necesarios
+content/06e. Modelo_Gobierno_Datos.md:556:parte
+content/06e. Modelo_Gobierno_Datos.md:556:Por
+content/06e. Modelo_Gobierno_Datos.md:557:Ahorro
+content/06e. Modelo_Gobierno_Datos.md:557:el
+content/06e. Modelo_Gobierno_Datos.md:557:Fondo
+content/06e. Modelo_Gobierno_Datos.md:557:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:557:modelo
+content/06e. Modelo_Gobierno_Datos.md:557:Nacional
+content/06e. Modelo_Gobierno_Datos.md:557:operación
+content/06e. Modelo_Gobierno_Datos.md:558:siguientes
+content/06e. Modelo_Gobierno_Datos.md:560:dato
+content/06e. Modelo_Gobierno_Datos.md:560:direccionamiento
+content/06e. Modelo_Gobierno_Datos.md:560:el
+content/06e. Modelo_Gobierno_Datos.md:560:encargado
+content/06e. Modelo_Gobierno_Datos.md:560:Gestor
+content/06e. Modelo_Gobierno_Datos.md:561:dato
+content/06e. Modelo_Gobierno_Datos.md:561:definir
+content/06e. Modelo_Gobierno_Datos.md:561:el
+content/06e. Modelo_Gobierno_Datos.md:561:estratégico
+content/06e. Modelo_Gobierno_Datos.md:561:gobernar
+content/06e. Modelo_Gobierno_Datos.md:562:administradores
+content/06e. Modelo_Gobierno_Datos.md:562:consolidación
+content/06e. Modelo_Gobierno_Datos.md:562:coordinación
+content/06e. Modelo_Gobierno_Datos.md:562:reglas
+content/06e. Modelo_Gobierno_Datos.md:563:datos
+content/06e. Modelo_Gobierno_Datos.md:563:dominios
+content/06e. Modelo_Gobierno_Datos.md:563:encarga
+content/06e. Modelo_Gobierno_Datos.md:563:respectivos
+content/06e. Modelo_Gobierno_Datos.md:563:sus
+content/06e. Modelo_Gobierno_Datos.md:563:unos
+content/06e. Modelo_Gobierno_Datos.md:563:veces
+content/06e. Modelo_Gobierno_Datos.md:564:caso
+content/06e. Modelo_Gobierno_Datos.md:564:corrección
+content/06e. Modelo_Gobierno_Datos.md:564:información
+content/06e. Modelo_Gobierno_Datos.md:564:reglas
+content/06e. Modelo_Gobierno_Datos.md:565:algún
+content/06e. Modelo_Gobierno_Datos.md:565:caso
+content/06e. Modelo_Gobierno_Datos.md:565:concreto
+content/06e. Modelo_Gobierno_Datos.md:565:generales
+content/06e. Modelo_Gobierno_Datos.md:565:válidas
+content/06e. Modelo_Gobierno_Datos.md:567:Custodio
+content/06e. Modelo_Gobierno_Datos.md:567:dato
+content/06e. Modelo_Gobierno_Datos.md:567:el
+content/06e. Modelo_Gobierno_Datos.md:567:existencia
+content/06e. Modelo_Gobierno_Datos.md:567:por
+content/06e. Modelo_Gobierno_Datos.md:567:responsable
+content/06e. Modelo_Gobierno_Datos.md:567:unos
+content/06e. Modelo_Gobierno_Datos.md:568:acción
+content/06e. Modelo_Gobierno_Datos.md:568:cualquier
+content/06e. Modelo_Gobierno_Datos.md:568:datos
+content/06e. Modelo_Gobierno_Datos.md:568:función
+content/06e. Modelo_Gobierno_Datos.md:568:por
+content/06e. Modelo_Gobierno_Datos.md:568:público
+content/06e. Modelo_Gobierno_Datos.md:569:correctiva
+content/06e. Modelo_Gobierno_Datos.md:569:debe
+content/06e. Modelo_Gobierno_Datos.md:569:información
+content/06e. Modelo_Gobierno_Datos.md:569:nuevo
+content/06e. Modelo_Gobierno_Datos.md:569:requisito
+content/06e. Modelo_Gobierno_Datos.md:569:ser
+content/06e. Modelo_Gobierno_Datos.md:569:su
+content/06e. Modelo_Gobierno_Datos.md:570:consensuado
+content/06e. Modelo_Gobierno_Datos.md:570:dato
+content/06e. Modelo_Gobierno_Datos.md:570:el
+content/06e. Modelo_Gobierno_Datos.md:570:el
+content/06e. Modelo_Gobierno_Datos.md:570:él
+content/06e. Modelo_Gobierno_Datos.md:570:esté
+content/06e. Modelo_Gobierno_Datos.md:570:Igualmente
+content/06e. Modelo_Gobierno_Datos.md:570:responsable
+content/06e. Modelo_Gobierno_Datos.md:571:actúa
+content/06e. Modelo_Gobierno_Datos.md:571:Adicionalmente
+content/06e. Modelo_Gobierno_Datos.md:571:atributos
+content/06e. Modelo_Gobierno_Datos.md:571:calidad
+content/06e. Modelo_Gobierno_Datos.md:571:disponible
+content/06e. Modelo_Gobierno_Datos.md:571:este
+content/06e. Modelo_Gobierno_Datos.md:572:calidad
+content/06e. Modelo_Gobierno_Datos.md:572:datos
+content/06e. Modelo_Gobierno_Datos.md:572:estos
+content/06e. Modelo_Gobierno_Datos.md:572:patrocinador
+content/06e. Modelo_Gobierno_Datos.md:572:sobre
+content/06e. Modelo_Gobierno_Datos.md:573:conocimiento
+content/06e. Modelo_Gobierno_Datos.md:573:considerado
+content/06e. Modelo_Gobierno_Datos.md:573:custodio
+content/06e. Modelo_Gobierno_Datos.md:573:dato
+content/06e. Modelo_Gobierno_Datos.md:573:el
+content/06e. Modelo_Gobierno_Datos.md:573:experto
+content/06e. Modelo_Gobierno_Datos.md:573:sobre
+content/06e. Modelo_Gobierno_Datos.md:575:Administrador
+content/06e. Modelo_Gobierno_Datos.md:575:dato
+content/06e. Modelo_Gobierno_Datos.md:575:el
+content/06e. Modelo_Gobierno_Datos.md:575:encargado
+content/06e. Modelo_Gobierno_Datos.md:575:orquestar
+content/06e. Modelo_Gobierno_Datos.md:576:acciones
+content/06e. Modelo_Gobierno_Datos.md:576:así
+content/06e. Modelo_Gobierno_Datos.md:576:mediar
+content/06e. Modelo_Gobierno_Datos.md:576:necesidades
+content/06e. Modelo_Gobierno_Datos.md:576:posibles
+content/06e. Modelo_Gobierno_Datos.md:576:técnicas
+content/06e. Modelo_Gobierno_Datos.md:577:conflictos
+content/06e. Modelo_Gobierno_Datos.md:577:consumidores
+content/06e. Modelo_Gobierno_Datos.md:577:entre
+content/06e. Modelo_Gobierno_Datos.md:577:productores
+content/06e. Modelo_Gobierno_Datos.md:577:puedan
+content/06e. Modelo_Gobierno_Datos.md:577:surgir
+content/06e. Modelo_Gobierno_Datos.md:578:buenas
+content/06e. Modelo_Gobierno_Datos.md:578:crea
+content/06e. Modelo_Gobierno_Datos.md:578:estándares
+content/06e. Modelo_Gobierno_Datos.md:578:esto
+content/06e. Modelo_Gobierno_Datos.md:578:habilita
+content/06e. Modelo_Gobierno_Datos.md:578:metadatos
+content/06e. Modelo_Gobierno_Datos.md:578:prácticas
+content/06e. Modelo_Gobierno_Datos.md:579:audita
+content/06e. Modelo_Gobierno_Datos.md:579:calidad
+content/06e. Modelo_Gobierno_Datos.md:579:funcionales
+content/06e. Modelo_Gobierno_Datos.md:579:operacionales
+content/06e. Modelo_Gobierno_Datos.md:579:técnicos
+content/06e. Modelo_Gobierno_Datos.md:580:datos
+content/06e. Modelo_Gobierno_Datos.md:580:gobernanza
+content/06e. Modelo_Gobierno_Datos.md:580:medidas
+content/06e. Modelo_Gobierno_Datos.md:580:políticas
+content/06e. Modelo_Gobierno_Datos.md:580:respaldo
+content/06e. Modelo_Gobierno_Datos.md:581:datos
+content/06e. Modelo_Gobierno_Datos.md:581:flujos
+content/06e. Modelo_Gobierno_Datos.md:581:información
+content/06e. Modelo_Gobierno_Datos.md:581:seguridad
+content/06e. Modelo_Gobierno_Datos.md:583:analizadas
+content/06e. Modelo_Gobierno_Datos.md:583:condiciones
+content/06e. Modelo_Gobierno_Datos.md:583:cultura
+content/06e. Modelo_Gobierno_Datos.md:583:estructura
+content/06e. Modelo_Gobierno_Datos.md:583:organizacional
+content/06e. Modelo_Gobierno_Datos.md:583:Una
+content/06e. Modelo_Gobierno_Datos.md:583:vez
+content/06e. Modelo_Gobierno_Datos.md:584:Ahorro
+content/06e. Modelo_Gobierno_Datos.md:584:Fondo
+content/06e. Modelo_Gobierno_Datos.md:584:Nacional
+content/06e. Modelo_Gobierno_Datos.md:584:necesidades
+content/06e. Modelo_Gobierno_Datos.md:584:opta
+content/06e. Modelo_Gobierno_Datos.md:584:por
+content/06e. Modelo_Gobierno_Datos.md:584:propias
+content/06e. Modelo_Gobierno_Datos.md:585:correcta
+content/06e. Modelo_Gobierno_Datos.md:585:establecer
+content/06e. Modelo_Gobierno_Datos.md:585:necesarios
+content/06e. Modelo_Gobierno_Datos.md:585:siguientes
+content/06e. Modelo_Gobierno_Datos.md:586:Datos
+content/06e. Modelo_Gobierno_Datos.md:586:definido
+content/06e. Modelo_Gobierno_Datos.md:586:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:586:implementación
+content/06e. Modelo_Gobierno_Datos.md:586:modelo
+content/06e. Modelo_Gobierno_Datos.md:589:datos
+content/06e. Modelo_Gobierno_Datos.md:589:ejecutivo
+content/06e. Modelo_Gobierno_Datos.md:589:gobierno
+content/06e. Modelo_Gobierno_Datos.md:589:Líder
+content/06e. Modelo_Gobierno_Datos.md:589:Patrocinador
+content/06e. Modelo_Gobierno_Datos.md:590:asegure
+content/06e. Modelo_Gobierno_Datos.md:590:datos
+content/06e. Modelo_Gobierno_Datos.md:590:datos
+content/06e. Modelo_Gobierno_Datos.md:590:iniciativas
+content/06e. Modelo_Gobierno_Datos.md:590:proyectos
+content/06e. Modelo_Gobierno_Datos.md:591:entienda
+content/06e. Modelo_Gobierno_Datos.md:591:recursos
+content/06e. Modelo_Gobierno_Datos.md:591:suficientes
+content/06e. Modelo_Gobierno_Datos.md:591:tengan
+content/06e. Modelo_Gobierno_Datos.md:591:visión
+content/06e. Modelo_Gobierno_Datos.md:592:entidad
+content/06e. Modelo_Gobierno_Datos.md:592:estratégicos
+content/06e. Modelo_Gobierno_Datos.md:592:objetivos
+content/06e. Modelo_Gobierno_Datos.md:594:datos
+content/06e. Modelo_Gobierno_Datos.md:594:Definir
+content/06e. Modelo_Gobierno_Datos.md:594:estrategia
+content/06e. Modelo_Gobierno_Datos.md:596:aplicar
+content/06e. Modelo_Gobierno_Datos.md:596:datos
+content/06e. Modelo_Gobierno_Datos.md:596:ética
+content/06e. Modelo_Gobierno_Datos.md:596:Vigilar
+content/06e. Modelo_Gobierno_Datos.md:598:creación
+content/06e. Modelo_Gobierno_Datos.md:598:Direccionar
+content/06e. Modelo_Gobierno_Datos.md:598:estándares
+content/06e. Modelo_Gobierno_Datos.md:598:políticas
+content/06e. Modelo_Gobierno_Datos.md:599:desarrollo
+content/06e. Modelo_Gobierno_Datos.md:599:determinen
+content/06e. Modelo_Gobierno_Datos.md:599:el
+content/06e. Modelo_Gobierno_Datos.md:599:procesos
+content/06e. Modelo_Gobierno_Datos.md:600:datos
+content/06e. Modelo_Gobierno_Datos.md:600:entidad
+content/06e. Modelo_Gobierno_Datos.md:600:gestión
+content/06e. Modelo_Gobierno_Datos.md:600:nivel
+content/06e. Modelo_Gobierno_Datos.md:602:Comité
+content/06e. Modelo_Gobierno_Datos.md:602:dato
+content/06e. Modelo_Gobierno_Datos.md:602:Gestor
+content/06e. Modelo_Gobierno_Datos.md:602:hacer
+content/06e. Modelo_Gobierno_Datos.md:602:supervisar
+content/06e. Modelo_Gobierno_Datos.md:602:Trabaja
+content/06e. Modelo_Gobierno_Datos.md:603:cumplir
+content/06e. Modelo_Gobierno_Datos.md:603:estándares
+content/06e. Modelo_Gobierno_Datos.md:603:Gobierno
+content/06e. Modelo_Gobierno_Datos.md:603:políticas
+content/06e. Modelo_Gobierno_Datos.md:603:procedimientos
+content/06e. Modelo_Gobierno_Datos.md:604:datos
+content/06e. Modelo_Gobierno_Datos.md:604:Datos
+content/06e. Modelo_Gobierno_Datos.md:604:dependencias
+content/06e. Modelo_Gobierno_Datos.md:604:Designados
+content/06e. Modelo_Gobierno_Datos.md:604:gobierno
+content/06e. Modelo_Gobierno_Datos.md:604:sobre
+content/06e. Modelo_Gobierno_Datos.md:605:Innovación
+content/06e. Modelo_Gobierno_Datos.md:607:encargados
+content/06e. Modelo_Gobierno_Datos.md:607:necesidades
+content/06e. Modelo_Gobierno_Datos.md:607:orquestar
+content/06e. Modelo_Gobierno_Datos.md:608:acciones
+content/06e. Modelo_Gobierno_Datos.md:608:así
+content/06e. Modelo_Gobierno_Datos.md:608:mediar
+content/06e. Modelo_Gobierno_Datos.md:608:ministrador
+content/06e. Modelo_Gobierno_Datos.md:608:posibles
+content/06e. Modelo_Gobierno_Datos.md:608:técnicas
+content/06e. Modelo_Gobierno_Datos.md:609:conflictos
+content/06e. Modelo_Gobierno_Datos.md:609:consumidores
+content/06e. Modelo_Gobierno_Datos.md:609:entre
+content/06e. Modelo_Gobierno_Datos.md:609:puedan
+content/06e. Modelo_Gobierno_Datos.md:609:surgir
+content/06e. Modelo_Gobierno_Datos.md:610:buenas
+content/06e. Modelo_Gobierno_Datos.md:610:crea
+content/06e. Modelo_Gobierno_Datos.md:610:estándares
+content/06e. Modelo_Gobierno_Datos.md:610:esto
+content/06e. Modelo_Gobierno_Datos.md:610:productores
+content/06e. Modelo_Gobierno_Datos.md:611:habilita
+content/06e. Modelo_Gobierno_Datos.md:611:metadatos
+content/06e. Modelo_Gobierno_Datos.md:611:operacionales
+content/06e. Modelo_Gobierno_Datos.md:611:prácticas
+content/06e. Modelo_Gobierno_Datos.md:611:técnicos
+content/06e. Modelo_Gobierno_Datos.md:612:audita
+content/06e. Modelo_Gobierno_Datos.md:612:calidad
+content/06e. Modelo_Gobierno_Datos.md:612:datos
+content/06e. Modelo_Gobierno_Datos.md:612:funcionales
+content/06e. Modelo_Gobierno_Datos.md:613:gobernanza
+content/06e. Modelo_Gobierno_Datos.md:613:medidas
+content/06e. Modelo_Gobierno_Datos.md:613:políticas
+content/06e. Modelo_Gobierno_Datos.md:613:respaldo
+content/06e. Modelo_Gobierno_Datos.md:614:flujos
+content/06e. Modelo_Gobierno_Datos.md:614:información
+content/06e. Modelo_Gobierno_Datos.md:614:seguridad
+content/06e. Modelo_Gobierno_Datos.md:615:adscritos
+content/06e. Modelo_Gobierno_Datos.md:615:datos
+content/06e. Modelo_Gobierno_Datos.md:615:servidores
+content/06e. Modelo_Gobierno_Datos.md:616:encargados
+content/06e. Modelo_Gobierno_Datos.md:616:Innovación
+content/06e. Modelo_Gobierno_Datos.md:616:Secretaría
+content/06e. Modelo_Gobierno_Datos.md:617:custodios
+content/06e. Modelo_Gobierno_Datos.md:617:datos
+content/06e. Modelo_Gobierno_Datos.md:617:entregados
+content/06e. Modelo_Gobierno_Datos.md:617:por
+content/06e. Modelo_Gobierno_Datos.md:617:proteger
+content/06e. Modelo_Gobierno_Datos.md:618:cada
+content/06e. Modelo_Gobierno_Datos.md:618:disposición
+content/06e. Modelo_Gobierno_Datos.md:618:repositorios
+content/06e. Modelo_Gobierno_Datos.md:618:su
+content/06e. Modelo_Gobierno_Datos.md:618:uno
+content/06e. Modelo_Gobierno_Datos.md:619:datos
+content/06e. Modelo_Gobierno_Datos.md:619:disponibles
+content/06e. Modelo_Gobierno_Datos.md:619:lago
+content/06e. Modelo_Gobierno_Datos.md:619:oficiales
+content/06e. Modelo_Gobierno_Datos.md:620:entre
+content/06e. Modelo_Gobierno_Datos.md:620:NAS
+content/06e. Modelo_Gobierno_Datos.md:620:otros
+content/06e. Modelo_Gobierno_Datos.md:622:Apoyar
+content/06e. Modelo_Gobierno_Datos.md:622:arquitectura
+content/06e. Modelo_Gobierno_Datos.md:622:revisión
+content/06e. Modelo_Gobierno_Datos.md:624:Apoyar
+content/06e. Modelo_Gobierno_Datos.md:624:el
+content/06e. Modelo_Gobierno_Datos.md:624:entrenamiento
+content/06e. Modelo_Gobierno_Datos.md:624:trasmisión
+content/06e. Modelo_Gobierno_Datos.md:625:conocimiento
+content/06e. Modelo_Gobierno_Datos.md:627:Apoyar
+content/06e. Modelo_Gobierno_Datos.md:627:células
+content/06e. Modelo_Gobierno_Datos.md:627:requeridas
+content/06e. Modelo_Gobierno_Datos.md:627:temáticas
+content/06e. Modelo_Gobierno_Datos.md:629:cumplimiento
+content/06e. Modelo_Gobierno_Datos.md:629:el
+content/06e. Modelo_Gobierno_Datos.md:629:Monitorear
+content/06e. Modelo_Gobierno_Datos.md:629:políticas
+content/06e. Modelo_Gobierno_Datos.md:631:calidad
+content/06e. Modelo_Gobierno_Datos.md:631:datos
+content/06e. Modelo_Gobierno_Datos.md:631:Monitorear
+content/06e. Modelo_Gobierno_Datos.md:633:iniciativas
+content/06e. Modelo_Gobierno_Datos.md:633:Monitorear
+content/06e. Modelo_Gobierno_Datos.md:635:buenas
+content/06e. Modelo_Gobierno_Datos.md:635:Generar
+content/06e. Modelo_Gobierno_Datos.md:635:Prácticas
+content/06e. Modelo_Gobierno_Datos.md:637:datos
+content/06e. Modelo_Gobierno_Datos.md:637:Identificar
+content/06e. Modelo_Gobierno_Datos.md:637:Metadatos
+content/06e. Modelo_Gobierno_Datos.md:639:datos
+content/06e. Modelo_Gobierno_Datos.md:639:Establecer
+content/06e. Modelo_Gobierno_Datos.md:639:flujos
+content/06e. Modelo_Gobierno_Datos.md:641:Custodio
+content/06e. Modelo_Gobierno_Datos.md:641:datos
+content/06e. Modelo_Gobierno_Datos.md:641:Encargados
+content/06e. Modelo_Gobierno_Datos.md:641:generar
+content/06e. Modelo_Gobierno_Datos.md:641:pueden
+content/06e. Modelo_Gobierno_Datos.md:641:también
+content/06e. Modelo_Gobierno_Datos.md:642:datos
+content/06e. Modelo_Gobierno_Datos.md:642:denominarse
+content/06e. Modelo_Gobierno_Datos.md:642:dueños
+content/06e. Modelo_Gobierno_Datos.md:642:el
+content/06e. Modelo_Gobierno_Datos.md:642:más
+content/06e. Modelo_Gobierno_Datos.md:643:importante
+content/06e. Modelo_Gobierno_Datos.md:643:responsabilidad
+content/06e. Modelo_Gobierno_Datos.md:643:tiene
+content/06e. Modelo_Gobierno_Datos.md:644:actualizados
+content/06e. Modelo_Gobierno_Datos.md:644:datos
+content/06e. Modelo_Gobierno_Datos.md:644:mantener
+content/06e. Modelo_Gobierno_Datos.md:644:proponer
+content/06e. Modelo_Gobierno_Datos.md:645:acuerdo
+content/06e. Modelo_Gobierno_Datos.md:645:estos
+content/06e. Modelo_Gobierno_Datos.md:645:identificación
+content/06e. Modelo_Gobierno_Datos.md:645:misión
+content/06e. Modelo_Gobierno_Datos.md:646:Dependencias
+content/06e. Modelo_Gobierno_Datos.md:646:funciones
+content/06e. Modelo_Gobierno_Datos.md:646:nivel
+content/06e. Modelo_Gobierno_Datos.md:646:prestan
+content/06e. Modelo_Gobierno_Datos.md:646:visión
+content/06e. Modelo_Gobierno_Datos.md:647:conglomerado
+content/06e. Modelo_Gobierno_Datos.md:649:Crear
+content/06e. Modelo_Gobierno_Datos.md:649:datos
+content/06e. Modelo_Gobierno_Datos.md:649:gobierno
+content/06e. Modelo_Gobierno_Datos.md:649:visión
+content/06e. Modelo_Gobierno_Datos.md:651:Definir
+content/06e. Modelo_Gobierno_Datos.md:651:principios
+content/06e. Modelo_Gobierno_Datos.md:653:Asignar
+content/06e. Modelo_Gobierno_Datos.md:653:responsabilidades
+content/06e. Modelo_Gobierno_Datos.md:655:Actualizar
+content/06e. Modelo_Gobierno_Datos.md:655:hacer
+content/06e. Modelo_Gobierno_Datos.md:655:política
+content/06e. Modelo_Gobierno_Datos.md:655:seguimiento
+content/06e. Modelo_Gobierno_Datos.md:657:el
+content/06e. Modelo_Gobierno_Datos.md:657:Establecer
+content/06e. Modelo_Gobierno_Datos.md:657:externo
+content/06e. Modelo_Gobierno_Datos.md:657:gobierno
+content/06e. Modelo_Gobierno_Datos.md:657:reglas
+content/06e. Modelo_Gobierno_Datos.md:658:datos
+content/06e. Modelo_Gobierno_Datos.md:660:Buscar
+content/06e. Modelo_Gobierno_Datos.md:660:datos
+content/06e. Modelo_Gobierno_Datos.md:660:oportunidades
+content/06e. Modelo_Gobierno_Datos.md:662:Comunicación
+content/06e. Modelo_Gobierno_Datos.md:662:Fomentar
+content/06e. Modelo_Gobierno_Datos.md:662:Institucional
+content/06e. Modelo_Gobierno_Datos.md:667:datos
+content/06e. Modelo_Gobierno_Datos.md:667:gobierno
+content/06e. Modelo_Gobierno_Datos.md:667:Ilustración
+content/06e. Modelo_Gobierno_Datos.md:669:Referencias
+content/06e. Modelo_Gobierno_Datos.md:672:dnp
+content/06e. Modelo_Gobierno_Datos.md:672:DNP
+content/06e. Modelo_Gobierno_Datos.md:672:línea
+content/06e. Modelo_Gobierno_Datos.md:673:datos
+content/06e. Modelo_Gobierno_Datos.md:673:dnp
+content/06e. Modelo_Gobierno_Datos.md:673:una
+content/06e. Modelo_Gobierno_Datos.md:675:DATOS
+content/06e. Modelo_Gobierno_Datos.md:675:DNP
+content/06e. Modelo_Gobierno_Datos.md:675:ENTIDADES
+content/06e. Modelo_Gobierno_Datos.md:675:EXPLOTACIÓN
+content/06e. Modelo_Gobierno_Datos.md:675:EXPLOTACIÓN
+content/06e. Modelo_Gobierno_Datos.md:675:MODELO
+content/06e. Modelo_Gobierno_Datos.md:675:PÚBLICAS
+content/06e. Modelo_Gobierno_Datos.md:675:PÚBLICAS
+content/06e. Modelo_Gobierno_Datos.md:677:febrero
+content/06e. Modelo_Gobierno_Datos.md:677:línea
+content/06e. Modelo_Gobierno_Datos.md:677:Logicalis
+content/06e. Modelo_Gobierno_Datos.md:677:Logicalis
+content/06e. Modelo_Gobierno_Datos.md:678:datos
+content/06e. Modelo_Gobierno_Datos.md:678:definir
+content/06e. Modelo_Gobierno_Datos.md:678:gobierno
+content/06e. Modelo_Gobierno_Datos.md:678:logicalis
+content/06e. Modelo_Gobierno_Datos.md:680:DMBOK
+content/06e. Modelo_Gobierno_Datos.md:680:LLC
+content/06e. Modelo_Gobierno_Datos.md:680:Technics
+content/06e. Modelo_Gobierno_Datos.md:682:DGI
+content/06e. Modelo_Gobierno_Datos.md:682:Freamework
+content/06e. Modelo_Gobierno_Datos.md:682:Goverment
+content/06e. Modelo_Gobierno_Datos.md:682:línea
+content/06e. Modelo_Gobierno_Datos.md:682:Último
+content/06e. Modelo_Gobierno_Datos.md:682:Último
+content/06e. Modelo_Gobierno_Datos.md:683:acceso
+content/06e. Modelo_Gobierno_Datos.md:685:Sunil
+content/06e. Modelo_Gobierno_Datos.md:687:Askham
+content/06e. Modelo_Gobierno_Datos.md:687:Experian
+content/06e. Modelo_Gobierno_Datos.md:687:Whitepaper
+content/06e. Modelo_Gobierno_Datos.md:689:DAPRE
+content/06e. Modelo_Gobierno_Datos.md:689:DECRETO
+content/06e. Modelo_Gobierno_Datos.md:689:línea
+content/06e. Modelo_Gobierno_Datos.md:690:dapre
+content/06e. Modelo_Gobierno_Datos.md:690:DECRETO
+content/06e. Modelo_Gobierno_Datos.md:690:normativa
+content/06e. Modelo_Gobierno_Datos.md:690:normativa
+content/06e. Modelo_Gobierno_Datos.md:692:acceso
+content/06e. Modelo_Gobierno_Datos.md:692:línea
+content/06e. Modelo_Gobierno_Datos.md:692:mintic
+content/06e. Modelo_Gobierno_Datos.md:692:mintic
+content/06e. Modelo_Gobierno_Datos.md:692:MINTIC
+content/06e. Modelo_Gobierno_Datos.md:692:Octubre
+content/06e. Modelo_Gobierno_Datos.md:692:Último
+content/06e. Modelo_Gobierno_Datos.md:692:Último
+content/06e. Modelo_Gobierno_Datos.md:695:Documento
+content/06e. Modelo_Gobierno_Datos.md:695:hoja
+content/06e. Modelo_Gobierno_Datos.md:695:línea
+content/06e. Modelo_Gobierno_Datos.md:695:mintic
+content/06e. Modelo_Gobierno_Datos.md:695:MINTIC
+content/06e. Modelo_Gobierno_Datos.md:695:PNID
+content/06e. Modelo_Gobierno_Datos.md:695:ruta
+content/06e. Modelo_Gobierno_Datos.md:695:técnico
 content/06. Fase 2 PR6 Gobierno SOA.md:1:Fase
 content/06. Fase 2 PR6 Gobierno SOA.md:1:FNA
 content/06. Fase 2 PR6 Gobierno SOA.md:1:Objetivo
@@ -2342,6 +4684,7 @@ content/06. Fase 2 PR6 Gobierno SOA.md:12:también
 content/06. Fase 2 PR6 Gobierno SOA.md:12:tanto
 content/06. Fase 2 PR6 Gobierno SOA.md:12:tecnología
 content/06. Fase 2 PR6 Gobierno SOA.md:12:todo
+content/06. Fase 2 PR6 Gobierno SOA.md:12:último
 content/06. Fase 2 PR6 Gobierno SOA.md:12:último
 content/06. Fase 2 PR6 Gobierno SOA.md:12:una
 content/06. Fase 2 PR6 Gobierno SOA.md:12:una
@@ -2580,6 +4923,7 @@ content/06f. Consideraciones para la puesta en marcha.md:37:SOA
 content/06f. Consideraciones para la puesta en marcha.md:37:sus
 content/06f. Consideraciones para la puesta en marcha.md:37:trabajo
 content/06f. Consideraciones para la puesta en marcha.md:37:trabajo
+content/06f. Consideraciones para la puesta en marcha.md:37:último
 content/06f. Consideraciones para la puesta en marcha.md:37:último
 content/06f. Consideraciones para la puesta en marcha.md:37:ver
 content/06f. Consideraciones para la puesta en marcha.md:39:proceso
@@ -3688,6 +6032,7 @@ content/07a. Vigilancia avances de la industria-1.md:254:Buscan
 content/07a. Vigilancia avances de la industria-1.md:254:clientes
 content/07a. Vigilancia avances de la industria-1.md:254:potenciales
 content/07a. Vigilancia avances de la industria-1.md:254:procesos
+content/07a. Vigilancia avances de la industria-1.md:254:Públicas
 content/07a. Vigilancia avances de la industria-1.md:254:Públicas
 content/07a. Vigilancia avances de la industria-1.md:255:clientes
 content/07a. Vigilancia avances de la industria-1.md:255:experiencia
@@ -5202,11 +7547,12 @@ content/08a. Dominio de datos resumen ejecutivo.md:1:Candidata
 content/08a. Dominio de datos resumen ejecutivo.md:1:Datos
 content/08a. Dominio de datos resumen ejecutivo.md:1:FNA
 content/08a. Dominio de datos resumen ejecutivo.md:3:arquitectura
-content/08a. Dominio de datos resumen ejecutivo.md:3:bese
 content/08a. Dominio de datos resumen ejecutivo.md:3:conocido
 content/08a. Dominio de datos resumen ejecutivo.md:3:enfoque
 content/08a. Dominio de datos resumen ejecutivo.md:3:malla
+content/08a. Dominio de datos resumen ejecutivo.md:3:objetivo
 content/08a. Dominio de datos resumen ejecutivo.md:3:propone
+content/08a. Dominio de datos resumen ejecutivo.md:3:SOA
 content/08a. Dominio de datos resumen ejecutivo.md:4:cambio
 content/08a. Dominio de datos resumen ejecutivo.md:4:datos
 content/08a. Dominio de datos resumen ejecutivo.md:4:datos
