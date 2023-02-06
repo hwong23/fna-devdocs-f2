@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-06" />
   <meta name="citation_publication_date" content="2023-02-06" />
   <meta property="article:published_time" content="2023-02-06" />
-  <meta name="dc.modified" content="2023-02-06T02:04:08+00:00" />
-  <meta property="article:modified_time" content="2023-02-06T02:04:08+00:00" />
+  <meta name="dc.modified" content="2023-02-06T02:20:06+00:00" />
+  <meta property="article:modified_time" content="2023-02-06T02:20:06+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/60452ec6f2c6c9189a5741e2fd20f2d62f18c803/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/60452ec6f2c6c9189a5741e2fd20f2d62f18c803/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/60452ec6f2c6c9189a5741e2fd20f2d62f18c803/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/225a5e2efdcc1653eef709f5601754f60df13151/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/225a5e2efdcc1653eef709f5601754f60df13151/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/225a5e2efdcc1653eef709f5601754f60df13151/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdocs-f2/v/60452ec6f2c6c9189a5741e2fd20f2d62f18c803/))
+([permalink](https://hwong23.github.io/fna-devdocs-f2/v/225a5e2efdcc1653eef709f5601754f60df13151/))
 versión indicada a continuación, se encuentra en 
-[60452ec](https://github.com/hwong23/fna-devdocs-f2/tree/60452ec6f2c6c9189a5741e2fd20f2d62f18c803)
+[225a5e2](https://github.com/hwong23/fna-devdocs-f2/tree/225a5e2efdcc1653eef709f5601754f60df13151)
 on February 6, 2023.
 
 
@@ -160,7 +160,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa|
 |Autor||
 |Fuente||
-|Version|60452ec del 06 Feb 2023|
+|Version|225a5e2 del 06 Feb 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -365,7 +365,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|60452ec del 06 Feb 2023|
+|Version|225a5e2 del 06 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -417,7 +417,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|60452ec del 06 Feb 2023|
+|Version|225a5e2 del 06 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -476,7 +476,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|60452ec del 06 Feb 2023|
+|Version|225a5e2 del 06 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1220,7 +1220,7 @@ Ilustración 8: Roles de gobierno de datos
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor||
 |Fuente||
-|Version|60452ec del 06 Feb 2023|
+|Version|225a5e2 del 06 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1290,7 +1290,7 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor||
 |Fuente||
-|Version|60452ec del 06 Feb 2023|
+|Version|225a5e2 del 06 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1373,7 +1373,7 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|60452ec del 06 Feb 2023|
+|Version|225a5e2 del 06 Feb 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2158,12 +2158,12 @@ La arquitectura SOA candidata del FNA sirve de base para la planeación de cambi
 *** 
 
 
-| Tema           | Gobierno SOA: **Consideraciones para la puesta en marcha del gobierno SOA en el FNA** |
+| Tema           | Arquitectura SOA Candidata para FNA: **Arquitectura de Referencia. Versión 2.0** |
 |----------------|---------------------------------------------------|
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | 60452ec del 06 Feb 2023                    |
+| Version        | **225a5e2** del 06 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2212,7 +2212,7 @@ height="7in"}
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | 60452ec del 06 Feb 2023                    |
+| Version        | **225a5e2** del 06 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
