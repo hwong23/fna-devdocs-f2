@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-01-31'
+date-meta: '2023-02-06'
 author-meta:
 - Harry Wong, ing.
 - Eddie Hernandez, ing.
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-01-31" />
-  <meta name="citation_publication_date" content="2023-01-31" />
-  <meta property="article:published_time" content="2023-01-31" />
-  <meta name="dc.modified" content="2023-01-31T12:49:30+00:00" />
-  <meta property="article:modified_time" content="2023-01-31T12:49:30+00:00" />
+  <meta name="dc.date" content="2023-02-06" />
+  <meta name="citation_publication_date" content="2023-02-06" />
+  <meta property="article:published_time" content="2023-02-06" />
+  <meta name="dc.modified" content="2023-02-06T01:27:40+00:00" />
+  <meta property="article:modified_time" content="2023-02-06T01:27:40+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/812f5dd5475d84c022a21b13bab85815b55ee90b/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/812f5dd5475d84c022a21b13bab85815b55ee90b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/812f5dd5475d84c022a21b13bab85815b55ee90b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/96ddfea253cce70e5f8b4416bd4fd5f425490418/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/96ddfea253cce70e5f8b4416bd4fd5f425490418/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/96ddfea253cce70e5f8b4416bd4fd5f425490418/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdocs-f2/v/812f5dd5475d84c022a21b13bab85815b55ee90b/))
+([permalink](https://hwong23.github.io/fna-devdocs-f2/v/96ddfea253cce70e5f8b4416bd4fd5f425490418/))
 versión indicada a continuación, se encuentra en 
-[812f5dd](https://github.com/hwong23/fna-devdocs-f2/tree/812f5dd5475d84c022a21b13bab85815b55ee90b)
-on January 31, 2023.
+[96ddfea](https://github.com/hwong23/fna-devdocs-f2/tree/96ddfea253cce70e5f8b4416bd4fd5f425490418)
+on February 6, 2023.
 
 
 
@@ -160,7 +160,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa|
 |Autor||
 |Fuente||
-|Version|812f5dd del 31 Jan 2023|
+|Version|96ddfea del 06 Feb 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -365,7 +365,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|812f5dd del 31 Jan 2023|
+|Version|96ddfea del 06 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -417,7 +417,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|812f5dd del 31 Jan 2023|
+|Version|96ddfea del 06 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -476,7 +476,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|812f5dd del 31 Jan 2023|
+|Version|96ddfea del 06 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1220,7 +1220,7 @@ Ilustración 8: Roles de gobierno de datos
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor||
 |Fuente||
-|Version|812f5dd del 31 Jan 2023|
+|Version|96ddfea del 06 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1290,7 +1290,7 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor||
 |Fuente||
-|Version|812f5dd del 31 Jan 2023|
+|Version|96ddfea del 06 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1373,7 +1373,7 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|812f5dd del 31 Jan 2023|
+|Version|96ddfea del 06 Feb 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2156,6 +2156,46 @@ La arquitectura SOA candidata del FNA sirve de base para la planeación de cambi
 * Articulación con gobierno SOA del FNA
 
 *** 
+
+
+Fondo Nacional del Ahorro - Arquitectura de Referencia
+
+Arquitectura de Referencia
+Versión 2
+
+Este documento presenta la visión general de la arquitectura de
+referencia del FNA. Contiene propuestas a futuro sobre los cambios y
+adiciones sugeridas con respecto a la arquitectura de referencia actual.
+
+<br>
+
+## Vista Funcional
+
+### Blueprint General - ASIS
+A continuación se presenta la arquitectura de referencia ASIS. El
+propósito es recordar el esquema actual para poderlo comparar con la
+arquitectura propuesta.
+
+![](images/arq/media/image1.png){width="13.146666666666667in"
+height="7.32in"}
+
+Fondo Nacional del Ahorro - Arquitectura de Referencia
+
+<br>
+
+
+
+### Blueprint General - TOBE
+A continuación se presenta la arquitectura de referencia propuesta
+
+**Nivel de detalle 1**
+![](images/arq/media/image1.1.png){width="13.210001093613299in"
+height="7.323334426946632in"}
+
+**Nivel de detalle 2**
+
+![](images/arq/media/image2.png){width="13.210001093613299in"
+height="7.323334426946632in"}
 
 
 ## Arquitectura de Datos Candidata FNA

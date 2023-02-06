@@ -7542,206 +7542,262 @@ content/07. Fase2 PR7 Vigilancia Tecnológica SOA.md:24:Presentación
 content/07. Fase2 PR7 Vigilancia Tecnológica SOA.md:24:SOA
 content/07. Fase2 PR7 Vigilancia Tecnológica SOA.md:24:una
 content/07. Fase2 PR7 Vigilancia Tecnológica SOA.md:24:versión
-content/08a. Dominio de datos resumen ejecutivo.md:1:Arquitectura
-content/08a. Dominio de datos resumen ejecutivo.md:1:Candidata
-content/08a. Dominio de datos resumen ejecutivo.md:1:Datos
-content/08a. Dominio de datos resumen ejecutivo.md:1:FNA
-content/08a. Dominio de datos resumen ejecutivo.md:3:arquitectura
-content/08a. Dominio de datos resumen ejecutivo.md:3:conocido
-content/08a. Dominio de datos resumen ejecutivo.md:3:enfoque
-content/08a. Dominio de datos resumen ejecutivo.md:3:malla
-content/08a. Dominio de datos resumen ejecutivo.md:3:objetivo
-content/08a. Dominio de datos resumen ejecutivo.md:3:propone
-content/08a. Dominio de datos resumen ejecutivo.md:3:SOA
-content/08a. Dominio de datos resumen ejecutivo.md:4:cambio
-content/08a. Dominio de datos resumen ejecutivo.md:4:datos
-content/08a. Dominio de datos resumen ejecutivo.md:4:datos
-content/08a. Dominio de datos resumen ejecutivo.md:4:este
-content/08a. Dominio de datos resumen ejecutivo.md:4:paradigma
-content/08a. Dominio de datos resumen ejecutivo.md:4:pensar
-content/08a. Dominio de datos resumen ejecutivo.md:4:permite
-content/08a. Dominio de datos resumen ejecutivo.md:5:cambios
-content/08a. Dominio de datos resumen ejecutivo.md:5:datos
-content/08a. Dominio de datos resumen ejecutivo.md:5:malla
-content/08a. Dominio de datos resumen ejecutivo.md:5:organizativos
-content/08a. Dominio de datos resumen ejecutivo.md:5:producto
-content/08a. Dominio de datos resumen ejecutivo.md:6:datos
-content/08a. Dominio de datos resumen ejecutivo.md:6:empresas
-content/08a. Dominio de datos resumen ejecutivo.md:6:gestionar
-content/08a. Dominio de datos resumen ejecutivo.md:6:necesitarán
-content/08a. Dominio de datos resumen ejecutivo.md:6:procesos
-content/08a. Dominio de datos resumen ejecutivo.md:7:activo
-content/08a. Dominio de datos resumen ejecutivo.md:7:negocio
-content/08a. Dominio de datos resumen ejecutivo.md:9:accesibles
-content/08a. Dominio de datos resumen ejecutivo.md:9:datos
-content/08a. Dominio de datos resumen ejecutivo.md:9:datos
-content/08a. Dominio de datos resumen ejecutivo.md:9:malla
-content/08a. Dominio de datos resumen ejecutivo.md:9:más
-content/08a. Dominio de datos resumen ejecutivo.md:9:objetivo
-content/08a. Dominio de datos resumen ejecutivo.md:9:tiene
-content/08a. Dominio de datos resumen ejecutivo.md:9:Una
-content/08a. Dominio de datos resumen ejecutivo.md:10:conectando
-content/08a. Dominio de datos resumen ejecutivo.md:10:directamente
-content/08a. Dominio de datos resumen ejecutivo.md:10:disponibles
-content/08a. Dominio de datos resumen ejecutivo.md:10:estén
-content/08a. Dominio de datos resumen ejecutivo.md:10:usuarios
-content/08a. Dominio de datos resumen ejecutivo.md:11:consumidores
-content/08a. Dominio de datos resumen ejecutivo.md:11:datos
-content/08a. Dominio de datos resumen ejecutivo.md:11:malla
-content/08a. Dominio de datos resumen ejecutivo.md:11:productores
-content/08a. Dominio de datos resumen ejecutivo.md:11:propietarios
-content/08a. Dominio de datos resumen ejecutivo.md:12:datos
-content/08a. Dominio de datos resumen ejecutivo.md:12:empresariales
-content/08a. Dominio de datos resumen ejecutivo.md:12:mejorar
-content/08a. Dominio de datos resumen ejecutivo.md:12:objetivo
-content/08a. Dominio de datos resumen ejecutivo.md:12:resultados
-content/08a. Dominio de datos resumen ejecutivo.md:12:tiene
-content/08a. Dominio de datos resumen ejecutivo.md:13:adopción
-content/08a. Dominio de datos resumen ejecutivo.md:13:así
-content/08a. Dominio de datos resumen ejecutivo.md:13:centradas
-content/08a. Dominio de datos resumen ejecutivo.md:13:datos
-content/08a. Dominio de datos resumen ejecutivo.md:13:impulsar
-content/08a. Dominio de datos resumen ejecutivo.md:13:soluciones
-content/08a. Dominio de datos resumen ejecutivo.md:14:arquitecturas
-content/08a. Dominio de datos resumen ejecutivo.md:14:datos
-content/08a. Dominio de datos resumen ejecutivo.md:14:modernas
-content/08a. Dominio de datos resumen ejecutivo.md:16:datos
-content/08a. Dominio de datos resumen ejecutivo.md:16:malla
-content/08a. Dominio de datos resumen ejecutivo.md:16:Pilares
-content/08a. Dominio de datos resumen ejecutivo.md:21:Arquitectura
-content/08a. Dominio de datos resumen ejecutivo.md:26:Características
-content/08a. Dominio de datos resumen ejecutivo.md:26:Principales
-content/08a. Dominio de datos resumen ejecutivo.md:28:dominio
-content/08a. Dominio de datos resumen ejecutivo.md:28:el
-content/08a. Dominio de datos resumen ejecutivo.md:28:el
-content/08a. Dominio de datos resumen ejecutivo.md:28:impulsada
-content/08a. Dominio de datos resumen ejecutivo.md:28:por
-content/08a. Dominio de datos resumen ejecutivo.md:28:principio
-content/08a. Dominio de datos resumen ejecutivo.md:28:Propiedad
-content/08a. Dominio de datos resumen ejecutivo.md:29:datos
-content/08a. Dominio de datos resumen ejecutivo.md:29:el
-content/08a. Dominio de datos resumen ejecutivo.md:29:manos
-content/08a. Dominio de datos resumen ejecutivo.md:29:poder
-content/08a. Dominio de datos resumen ejecutivo.md:29:propiedad
-content/08a. Dominio de datos resumen ejecutivo.md:29:transferir
-content/08a. Dominio de datos resumen ejecutivo.md:30:decir
-content/08a. Dominio de datos resumen ejecutivo.md:30:departamentos
-content/08a. Dominio de datos resumen ejecutivo.md:30:dominio
-content/08a. Dominio de datos resumen ejecutivo.md:30:equipos
-content/08a. Dominio de datos resumen ejecutivo.md:30:negocio
-content/08a. Dominio de datos resumen ejecutivo.md:30:unidades
-content/08a. Dominio de datos resumen ejecutivo.md:31:datos
-content/08a. Dominio de datos resumen ejecutivo.md:31:dueños
-content/08a. Dominio de datos resumen ejecutivo.md:31:Ellos
-content/08a. Dominio de datos resumen ejecutivo.md:31:extremo
-content/08a. Dominio de datos resumen ejecutivo.md:31:otro
-content/08a. Dominio de datos resumen ejecutivo.md:31:serán
-content/08a. Dominio de datos resumen ejecutivo.md:32:asegurarse
-content/08a. Dominio de datos resumen ejecutivo.md:32:correctas
-content/08a. Dominio de datos resumen ejecutivo.md:32:desde
-content/08a. Dominio de datos resumen ejecutivo.md:32:hasta
-content/08a. Dominio de datos resumen ejecutivo.md:32:podrán
-content/08a. Dominio de datos resumen ejecutivo.md:32:tener
-content/08a. Dominio de datos resumen ejecutivo.md:33:datos
-content/08a. Dominio de datos resumen ejecutivo.md:33:entrega
-content/08a. Dominio de datos resumen ejecutivo.md:33:necesarios
-content/08a. Dominio de datos resumen ejecutivo.md:33:otros
-content/08a. Dominio de datos resumen ejecutivo.md:33:procesamientos
-content/08a. Dominio de datos resumen ejecutivo.md:34:aprovechen
-content/08a. Dominio de datos resumen ejecutivo.md:34:dominio
-content/08a. Dominio de datos resumen ejecutivo.md:34:equipos
-content/08a. Dominio de datos resumen ejecutivo.md:34:productos
-content/08a. Dominio de datos resumen ejecutivo.md:36:Datos
-content/08a. Dominio de datos resumen ejecutivo.md:36:dominio
-content/08a. Dominio de datos resumen ejecutivo.md:36:equipos
-content/08a. Dominio de datos resumen ejecutivo.md:36:producto
-content/08a. Dominio de datos resumen ejecutivo.md:36:responsables
-content/08a. Dominio de datos resumen ejecutivo.md:37:datos
-content/08a. Dominio de datos resumen ejecutivo.md:37:datos
-content/08a. Dominio de datos resumen ejecutivo.md:37:El
-content/08a. Dominio de datos resumen ejecutivo.md:37:objetivo
-content/08a. Dominio de datos resumen ejecutivo.md:37:productos
-content/08a. Dominio de datos resumen ejecutivo.md:37:resultantes
-content/08a. Dominio de datos resumen ejecutivo.md:37:también
-content/08a. Dominio de datos resumen ejecutivo.md:38:cada
-content/08a. Dominio de datos resumen ejecutivo.md:38:datos
-content/08a. Dominio de datos resumen ejecutivo.md:38:descubierto
-content/08a. Dominio de datos resumen ejecutivo.md:38:lograr
-content/08a. Dominio de datos resumen ejecutivo.md:38:por
-content/08a. Dominio de datos resumen ejecutivo.md:38:producto
-content/08a. Dominio de datos resumen ejecutivo.md:39:consumidores
-content/08a. Dominio de datos resumen ejecutivo.md:39:dominio
-content/08a. Dominio de datos resumen ejecutivo.md:39:dominio
-content/08a. Dominio de datos resumen ejecutivo.md:39:el
-content/08a. Dominio de datos resumen ejecutivo.md:39:equipos
-content/08a. Dominio de datos resumen ejecutivo.md:39:otros
-content/08a. Dominio de datos resumen ejecutivo.md:39:propietario
-content/08a. Dominio de datos resumen ejecutivo.md:40:actualizar
-content/08a. Dominio de datos resumen ejecutivo.md:40:desaprobar
-content/08a. Dominio de datos resumen ejecutivo.md:40:estos
-content/08a. Dominio de datos resumen ejecutivo.md:40:mantener
-content/08a. Dominio de datos resumen ejecutivo.md:40:productos
-content/08a. Dominio de datos resumen ejecutivo.md:40:responsable
-content/08a. Dominio de datos resumen ejecutivo.md:41:calidad
-content/08a. Dominio de datos resumen ejecutivo.md:41:garantizar
-content/08a. Dominio de datos resumen ejecutivo.md:41:precisión
-content/08a. Dominio de datos resumen ejecutivo.md:43:autoservicio
-content/08a. Dominio de datos resumen ejecutivo.md:43:autoservicio
-content/08a. Dominio de datos resumen ejecutivo.md:43:hace
-content/08a. Dominio de datos resumen ejecutivo.md:43:Infraestructura
-content/08a. Dominio de datos resumen ejecutivo.md:43:todo
-content/08a. Dominio de datos resumen ejecutivo.md:44:complejas
-content/08a. Dominio de datos resumen ejecutivo.md:44:olvidemos
-content/08a. Dominio de datos resumen ejecutivo.md:44:siempre
-content/08a. Dominio de datos resumen ejecutivo.md:44:tecnologías
-content/08a. Dominio de datos resumen ejecutivo.md:45:basa
-content/08a. Dominio de datos resumen ejecutivo.md:45:El
-content/08a. Dominio de datos resumen ejecutivo.md:45:habilidades
-content/08a. Dominio de datos resumen ejecutivo.md:45:nicho
-content/08a. Dominio de datos resumen ejecutivo.md:45:por
-content/08a. Dominio de datos resumen ejecutivo.md:45:principio
-content/08a. Dominio de datos resumen ejecutivo.md:45:una
-content/08a. Dominio de datos resumen ejecutivo.md:46:común
-content/08a. Dominio de datos resumen ejecutivo.md:46:conjunto
-content/08a. Dominio de datos resumen ejecutivo.md:46:datos
-content/08a. Dominio de datos resumen ejecutivo.md:46:gestión
-content/08a. Dominio de datos resumen ejecutivo.md:46:mediante
-content/08a. Dominio de datos resumen ejecutivo.md:46:plataforma
-content/08a. Dominio de datos resumen ejecutivo.md:46:una
-content/08a. Dominio de datos resumen ejecutivo.md:47:aprovechar
-content/08a. Dominio de datos resumen ejecutivo.md:47:cualquier
-content/08a. Dominio de datos resumen ejecutivo.md:47:dominio
-content/08a. Dominio de datos resumen ejecutivo.md:47:equipo
-content/08a. Dominio de datos resumen ejecutivo.md:47:herramientas
-content/08a. Dominio de datos resumen ejecutivo.md:47:pueda
-content/08a. Dominio de datos resumen ejecutivo.md:49:controles
-content/08a. Dominio de datos resumen ejecutivo.md:49:eliminar
-content/08a. Dominio de datos resumen ejecutivo.md:49:federada
-content/08a. Dominio de datos resumen ejecutivo.md:49:Gobernanza
-content/08a. Dominio de datos resumen ejecutivo.md:49:queremos
-content/08a. Dominio de datos resumen ejecutivo.md:49:verdad
-content/08a. Dominio de datos resumen ejecutivo.md:50:acceso
-content/08a. Dominio de datos resumen ejecutivo.md:50:controles
-content/08a. Dominio de datos resumen ejecutivo.md:50:entre
-content/08a. Dominio de datos resumen ejecutivo.md:50:equilibrio
-content/08a. Dominio de datos resumen ejecutivo.md:50:necesitamos
-content/08a. Dominio de datos resumen ejecutivo.md:50:políticas
-content/08a. Dominio de datos resumen ejecutivo.md:51:creación
-content/08a. Dominio de datos resumen ejecutivo.md:51:dominio
-content/08a. Dominio de datos resumen ejecutivo.md:51:gobernanza
-content/08a. Dominio de datos resumen ejecutivo.md:51:posibilidad
-content/08a. Dominio de datos resumen ejecutivo.md:51:productos
-content/08a. Dominio de datos resumen ejecutivo.md:52:Esto
-content/08a. Dominio de datos resumen ejecutivo.md:52:federada
-content/08a. Dominio de datos resumen ejecutivo.md:52:gobernanza
-content/08a. Dominio de datos resumen ejecutivo.md:52:llamamos
-content/08a. Dominio de datos resumen ejecutivo.md:52:práctica
-content/08a. Dominio de datos resumen ejecutivo.md:53:cumplimiento
-content/08a. Dominio de datos resumen ejecutivo.md:53:el
-content/08a. Dominio de datos resumen ejecutivo.md:53:garantizar
-content/08a. Dominio de datos resumen ejecutivo.md:53:privacidad
-content/08a. Dominio de datos resumen ejecutivo.md:54:escalar
-content/08a. Dominio de datos resumen ejecutivo.md:54:posibilidad
+content/08a. Arquitectura-referencia-v2.md:1:Ahorro
+content/08a. Arquitectura-referencia-v2.md:1:Arquitectura
+content/08a. Arquitectura-referencia-v2.md:1:Fondo
+content/08a. Arquitectura-referencia-v2.md:1:Nacional
+content/08a. Arquitectura-referencia-v2.md:1:Referencia
+content/08a. Arquitectura-referencia-v2.md:3:Arquitectura
+content/08a. Arquitectura-referencia-v2.md:3:Referencia
+content/08a. Arquitectura-referencia-v2.md:4:Versión
+content/08a. Arquitectura-referencia-v2.md:6:arquitectura
+content/08a. Arquitectura-referencia-v2.md:6:documento
+content/08a. Arquitectura-referencia-v2.md:6:Este
+content/08a. Arquitectura-referencia-v2.md:6:presenta
+content/08a. Arquitectura-referencia-v2.md:6:visión
+content/08a. Arquitectura-referencia-v2.md:7:cambios
+content/08a. Arquitectura-referencia-v2.md:7:Contiene
+content/08a. Arquitectura-referencia-v2.md:7:FNA
+content/08a. Arquitectura-referencia-v2.md:7:futuro
+content/08a. Arquitectura-referencia-v2.md:7:propuestas
+content/08a. Arquitectura-referencia-v2.md:7:referencia
+content/08a. Arquitectura-referencia-v2.md:7:sobre
+content/08a. Arquitectura-referencia-v2.md:8:adiciones
+content/08a. Arquitectura-referencia-v2.md:8:arquitectura
+content/08a. Arquitectura-referencia-v2.md:8:referencia
+content/08a. Arquitectura-referencia-v2.md:8:respecto
+content/08a. Arquitectura-referencia-v2.md:8:sugeridas
+content/08a. Arquitectura-referencia-v2.md:12:Funcional
+content/08a. Arquitectura-referencia-v2.md:14:ASIS
+content/08a. Arquitectura-referencia-v2.md:15:arquitectura
+content/08a. Arquitectura-referencia-v2.md:15:ASIS
+content/08a. Arquitectura-referencia-v2.md:15:continuación
+content/08a. Arquitectura-referencia-v2.md:15:El
+content/08a. Arquitectura-referencia-v2.md:15:presenta
+content/08a. Arquitectura-referencia-v2.md:15:referencia
+content/08a. Arquitectura-referencia-v2.md:16:comparar
+content/08a. Arquitectura-referencia-v2.md:16:el
+content/08a. Arquitectura-referencia-v2.md:16:esquema
+content/08a. Arquitectura-referencia-v2.md:16:poderlo
+content/08a. Arquitectura-referencia-v2.md:16:propósito
+content/08a. Arquitectura-referencia-v2.md:16:recordar
+content/08a. Arquitectura-referencia-v2.md:17:arquitectura
+content/08a. Arquitectura-referencia-v2.md:17:propuesta
+content/08a. Arquitectura-referencia-v2.md:22:Ahorro
+content/08a. Arquitectura-referencia-v2.md:22:Arquitectura
+content/08a. Arquitectura-referencia-v2.md:22:Fondo
+content/08a. Arquitectura-referencia-v2.md:22:Nacional
+content/08a. Arquitectura-referencia-v2.md:22:Referencia
+content/08a. Arquitectura-referencia-v2.md:28:TOBE
+content/08a. Arquitectura-referencia-v2.md:29:arquitectura
+content/08a. Arquitectura-referencia-v2.md:29:continuación
+content/08a. Arquitectura-referencia-v2.md:29:presenta
+content/08a. Arquitectura-referencia-v2.md:29:propuesta
+content/08a. Arquitectura-referencia-v2.md:29:referencia
+content/08a. Arquitectura-referencia-v2.md:31:detalle
+content/08a. Arquitectura-referencia-v2.md:31:Nivel
+content/08a. Arquitectura-referencia-v2.md:35:detalle
+content/08a. Arquitectura-referencia-v2.md:35:Nivel
+content/08b. Dominio de datos.md:1:Arquitectura
+content/08b. Dominio de datos.md:1:Candidata
+content/08b. Dominio de datos.md:1:Datos
+content/08b. Dominio de datos.md:1:FNA
+content/08b. Dominio de datos.md:3:arquitectura
+content/08b. Dominio de datos.md:3:conocido
+content/08b. Dominio de datos.md:3:enfoque
+content/08b. Dominio de datos.md:3:malla
+content/08b. Dominio de datos.md:3:objetivo
+content/08b. Dominio de datos.md:3:propone
+content/08b. Dominio de datos.md:3:SOA
+content/08b. Dominio de datos.md:4:cambio
+content/08b. Dominio de datos.md:4:datos
+content/08b. Dominio de datos.md:4:datos
+content/08b. Dominio de datos.md:4:este
+content/08b. Dominio de datos.md:4:paradigma
+content/08b. Dominio de datos.md:4:pensar
+content/08b. Dominio de datos.md:4:permite
+content/08b. Dominio de datos.md:5:cambios
+content/08b. Dominio de datos.md:5:datos
+content/08b. Dominio de datos.md:5:malla
+content/08b. Dominio de datos.md:5:organizativos
+content/08b. Dominio de datos.md:5:producto
+content/08b. Dominio de datos.md:6:datos
+content/08b. Dominio de datos.md:6:empresas
+content/08b. Dominio de datos.md:6:gestionar
+content/08b. Dominio de datos.md:6:necesitarán
+content/08b. Dominio de datos.md:6:procesos
+content/08b. Dominio de datos.md:7:activo
+content/08b. Dominio de datos.md:7:negocio
+content/08b. Dominio de datos.md:9:accesibles
+content/08b. Dominio de datos.md:9:datos
+content/08b. Dominio de datos.md:9:datos
+content/08b. Dominio de datos.md:9:malla
+content/08b. Dominio de datos.md:9:más
+content/08b. Dominio de datos.md:9:objetivo
+content/08b. Dominio de datos.md:9:tiene
+content/08b. Dominio de datos.md:9:Una
+content/08b. Dominio de datos.md:10:conectando
+content/08b. Dominio de datos.md:10:directamente
+content/08b. Dominio de datos.md:10:disponibles
+content/08b. Dominio de datos.md:10:estén
+content/08b. Dominio de datos.md:10:usuarios
+content/08b. Dominio de datos.md:11:consumidores
+content/08b. Dominio de datos.md:11:datos
+content/08b. Dominio de datos.md:11:malla
+content/08b. Dominio de datos.md:11:productores
+content/08b. Dominio de datos.md:11:propietarios
+content/08b. Dominio de datos.md:12:datos
+content/08b. Dominio de datos.md:12:empresariales
+content/08b. Dominio de datos.md:12:mejorar
+content/08b. Dominio de datos.md:12:objetivo
+content/08b. Dominio de datos.md:12:resultados
+content/08b. Dominio de datos.md:12:tiene
+content/08b. Dominio de datos.md:13:adopción
+content/08b. Dominio de datos.md:13:así
+content/08b. Dominio de datos.md:13:centradas
+content/08b. Dominio de datos.md:13:datos
+content/08b. Dominio de datos.md:13:impulsar
+content/08b. Dominio de datos.md:13:soluciones
+content/08b. Dominio de datos.md:14:arquitecturas
+content/08b. Dominio de datos.md:14:datos
+content/08b. Dominio de datos.md:14:modernas
+content/08b. Dominio de datos.md:16:datos
+content/08b. Dominio de datos.md:16:malla
+content/08b. Dominio de datos.md:16:Pilares
+content/08b. Dominio de datos.md:21:Arquitectura
+content/08b. Dominio de datos.md:26:Características
+content/08b. Dominio de datos.md:26:Principales
+content/08b. Dominio de datos.md:28:dominio
+content/08b. Dominio de datos.md:28:el
+content/08b. Dominio de datos.md:28:el
+content/08b. Dominio de datos.md:28:impulsada
+content/08b. Dominio de datos.md:28:por
+content/08b. Dominio de datos.md:28:principio
+content/08b. Dominio de datos.md:28:Propiedad
+content/08b. Dominio de datos.md:29:datos
+content/08b. Dominio de datos.md:29:el
+content/08b. Dominio de datos.md:29:manos
+content/08b. Dominio de datos.md:29:poder
+content/08b. Dominio de datos.md:29:propiedad
+content/08b. Dominio de datos.md:29:transferir
+content/08b. Dominio de datos.md:30:decir
+content/08b. Dominio de datos.md:30:departamentos
+content/08b. Dominio de datos.md:30:dominio
+content/08b. Dominio de datos.md:30:equipos
+content/08b. Dominio de datos.md:30:negocio
+content/08b. Dominio de datos.md:30:unidades
+content/08b. Dominio de datos.md:31:datos
+content/08b. Dominio de datos.md:31:dueños
+content/08b. Dominio de datos.md:31:Ellos
+content/08b. Dominio de datos.md:31:extremo
+content/08b. Dominio de datos.md:31:otro
+content/08b. Dominio de datos.md:31:serán
+content/08b. Dominio de datos.md:32:asegurarse
+content/08b. Dominio de datos.md:32:correctas
+content/08b. Dominio de datos.md:32:desde
+content/08b. Dominio de datos.md:32:hasta
+content/08b. Dominio de datos.md:32:podrán
+content/08b. Dominio de datos.md:32:tener
+content/08b. Dominio de datos.md:33:datos
+content/08b. Dominio de datos.md:33:entrega
+content/08b. Dominio de datos.md:33:necesarios
+content/08b. Dominio de datos.md:33:otros
+content/08b. Dominio de datos.md:33:procesamientos
+content/08b. Dominio de datos.md:34:aprovechen
+content/08b. Dominio de datos.md:34:dominio
+content/08b. Dominio de datos.md:34:equipos
+content/08b. Dominio de datos.md:34:productos
+content/08b. Dominio de datos.md:36:Datos
+content/08b. Dominio de datos.md:36:dominio
+content/08b. Dominio de datos.md:36:equipos
+content/08b. Dominio de datos.md:36:producto
+content/08b. Dominio de datos.md:36:responsables
+content/08b. Dominio de datos.md:37:datos
+content/08b. Dominio de datos.md:37:datos
+content/08b. Dominio de datos.md:37:El
+content/08b. Dominio de datos.md:37:objetivo
+content/08b. Dominio de datos.md:37:productos
+content/08b. Dominio de datos.md:37:resultantes
+content/08b. Dominio de datos.md:37:también
+content/08b. Dominio de datos.md:38:cada
+content/08b. Dominio de datos.md:38:datos
+content/08b. Dominio de datos.md:38:descubierto
+content/08b. Dominio de datos.md:38:lograr
+content/08b. Dominio de datos.md:38:por
+content/08b. Dominio de datos.md:38:producto
+content/08b. Dominio de datos.md:39:consumidores
+content/08b. Dominio de datos.md:39:dominio
+content/08b. Dominio de datos.md:39:dominio
+content/08b. Dominio de datos.md:39:el
+content/08b. Dominio de datos.md:39:equipos
+content/08b. Dominio de datos.md:39:otros
+content/08b. Dominio de datos.md:39:propietario
+content/08b. Dominio de datos.md:40:actualizar
+content/08b. Dominio de datos.md:40:desaprobar
+content/08b. Dominio de datos.md:40:estos
+content/08b. Dominio de datos.md:40:mantener
+content/08b. Dominio de datos.md:40:productos
+content/08b. Dominio de datos.md:40:responsable
+content/08b. Dominio de datos.md:41:calidad
+content/08b. Dominio de datos.md:41:garantizar
+content/08b. Dominio de datos.md:41:precisión
+content/08b. Dominio de datos.md:43:autoservicio
+content/08b. Dominio de datos.md:43:autoservicio
+content/08b. Dominio de datos.md:43:hace
+content/08b. Dominio de datos.md:43:Infraestructura
+content/08b. Dominio de datos.md:43:todo
+content/08b. Dominio de datos.md:44:complejas
+content/08b. Dominio de datos.md:44:olvidemos
+content/08b. Dominio de datos.md:44:siempre
+content/08b. Dominio de datos.md:44:tecnologías
+content/08b. Dominio de datos.md:45:basa
+content/08b. Dominio de datos.md:45:El
+content/08b. Dominio de datos.md:45:habilidades
+content/08b. Dominio de datos.md:45:nicho
+content/08b. Dominio de datos.md:45:por
+content/08b. Dominio de datos.md:45:principio
+content/08b. Dominio de datos.md:45:una
+content/08b. Dominio de datos.md:46:común
+content/08b. Dominio de datos.md:46:conjunto
+content/08b. Dominio de datos.md:46:datos
+content/08b. Dominio de datos.md:46:gestión
+content/08b. Dominio de datos.md:46:mediante
+content/08b. Dominio de datos.md:46:plataforma
+content/08b. Dominio de datos.md:46:una
+content/08b. Dominio de datos.md:47:aprovechar
+content/08b. Dominio de datos.md:47:cualquier
+content/08b. Dominio de datos.md:47:dominio
+content/08b. Dominio de datos.md:47:equipo
+content/08b. Dominio de datos.md:47:herramientas
+content/08b. Dominio de datos.md:47:pueda
+content/08b. Dominio de datos.md:49:controles
+content/08b. Dominio de datos.md:49:eliminar
+content/08b. Dominio de datos.md:49:federada
+content/08b. Dominio de datos.md:49:Gobernanza
+content/08b. Dominio de datos.md:49:queremos
+content/08b. Dominio de datos.md:49:verdad
+content/08b. Dominio de datos.md:50:acceso
+content/08b. Dominio de datos.md:50:controles
+content/08b. Dominio de datos.md:50:entre
+content/08b. Dominio de datos.md:50:equilibrio
+content/08b. Dominio de datos.md:50:necesitamos
+content/08b. Dominio de datos.md:50:políticas
+content/08b. Dominio de datos.md:51:creación
+content/08b. Dominio de datos.md:51:dominio
+content/08b. Dominio de datos.md:51:gobernanza
+content/08b. Dominio de datos.md:51:posibilidad
+content/08b. Dominio de datos.md:51:productos
+content/08b. Dominio de datos.md:52:Esto
+content/08b. Dominio de datos.md:52:federada
+content/08b. Dominio de datos.md:52:gobernanza
+content/08b. Dominio de datos.md:52:llamamos
+content/08b. Dominio de datos.md:52:práctica
+content/08b. Dominio de datos.md:53:cumplimiento
+content/08b. Dominio de datos.md:53:el
+content/08b. Dominio de datos.md:53:garantizar
+content/08b. Dominio de datos.md:53:privacidad
+content/08b. Dominio de datos.md:54:escalar
+content/08b. Dominio de datos.md:54:posibilidad
 content/08.Fase 2 PR8 Arquitectura de Referencia.md:1:Fase
 content/08.Fase 2 PR8 Arquitectura de Referencia.md:1:Objetivo
 content/08.Fase 2 PR8 Arquitectura de Referencia.md:1:SOA
