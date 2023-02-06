@@ -7542,9 +7542,14 @@ content/07. Fase2 PR7 Vigilancia Tecnológica SOA.md:24:Presentación
 content/07. Fase2 PR7 Vigilancia Tecnológica SOA.md:24:SOA
 content/07. Fase2 PR7 Vigilancia Tecnológica SOA.md:24:una
 content/07. Fase2 PR7 Vigilancia Tecnológica SOA.md:24:versión
-content/08a. Arquitectura-referencia-v2.md:1:Arquitectura
-content/08a. Arquitectura-referencia-v2.md:1:Candidata
+content/08a. Arquitectura-referencia-v2.md:1:Consideraciones
+content/08a. Arquitectura-referencia-v2.md:1:el
 content/08a. Arquitectura-referencia-v2.md:1:FNA
+content/08a. Arquitectura-referencia-v2.md:1:gobierno
+content/08a. Arquitectura-referencia-v2.md:1:Gobierno
+content/08a. Arquitectura-referencia-v2.md:1:marcha
+content/08a. Arquitectura-referencia-v2.md:1:puesta
+content/08a. Arquitectura-referencia-v2.md:1:SOA
 content/08a. Arquitectura-referencia-v2.md:1:SOA
 content/08a. Arquitectura-referencia-v2.md:1:Tema
 content/08a. Arquitectura-referencia-v2.md:3:Arquitectura
