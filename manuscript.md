@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-06" />
   <meta name="citation_publication_date" content="2023-02-06" />
   <meta property="article:published_time" content="2023-02-06" />
-  <meta name="dc.modified" content="2023-02-06T16:55:24+00:00" />
-  <meta property="article:modified_time" content="2023-02-06T16:55:24+00:00" />
+  <meta name="dc.modified" content="2023-02-06T17:14:28+00:00" />
+  <meta property="article:modified_time" content="2023-02-06T17:14:28+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/5fbda04cb488cbe0af792cb4d2ec2fbbb2561316/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/5fbda04cb488cbe0af792cb4d2ec2fbbb2561316/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/5fbda04cb488cbe0af792cb4d2ec2fbbb2561316/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/9b3a97c48493c199d06aec4a0753e3efa5cab65e/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/9b3a97c48493c199d06aec4a0753e3efa5cab65e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/9b3a97c48493c199d06aec4a0753e3efa5cab65e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdocs-f2/v/5fbda04cb488cbe0af792cb4d2ec2fbbb2561316/))
+([permalink](https://hwong23.github.io/fna-devdocs-f2/v/9b3a97c48493c199d06aec4a0753e3efa5cab65e/))
 versión indicada a continuación, se encuentra en 
-[5fbda04](https://github.com/hwong23/fna-devdocs-f2/tree/5fbda04cb488cbe0af792cb4d2ec2fbbb2561316)
+[9b3a97c](https://github.com/hwong23/fna-devdocs-f2/tree/9b3a97c48493c199d06aec4a0753e3efa5cab65e)
 on February 6, 2023.
 
 
@@ -160,7 +160,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa, Industria financiera |
 |Autor           |                                                       |
 |Fuente          |                                                       |
-|Version|5fbda04 del 06 Feb 2023                                  |
+|Version|9b3a97c del 06 Feb 2023                                  |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -368,7 +368,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|**5fbda04** del 06 Feb 2023|
+|Version|**9b3a97c** del 06 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>| Tema           | Arquitectura SOA Candidata para FNA: **Arquitectura de Referencia. Versión 2.0** |
@@ -422,7 +422,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**5fbda04** del 06 Feb 2023|
+|Version|**9b3a97c** del 06 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -481,7 +481,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|**5fbda04** del 06 Feb 2023|
+|Version|**9b3a97c** del 06 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1225,7 +1225,7 @@ Ilustración 8: Roles de gobierno de datos
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor||
 |Fuente||
-|Version|**5fbda04** del 06 Feb 2023|
+|Version|**9b3a97c** del 06 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1290,13 +1290,13 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 
 
 
-|Tema|Gobierno SOA: **Consideraciones para la puesta en marcha del gobierno SOA en el FNA**
-|----|-------------------------------------------------|
+|Tema            |Gobierno SOA: **Consideraciones para la puesta en marcha del gobierno SOA en el FNA** |
+|----------------|---------------------------------------------------|
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
-|Autor||
-|Fuente||
-|Version|5fbda04 del 06 Feb 2023|
-|Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
+|Autor          ||
+|Fuente         ||
+|Version        |**9b3a97c** del 06 Feb 2023|
+|Vínculos       |[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
 
@@ -1341,7 +1341,28 @@ El proceso de gobierno SOA está en línea y apoya a las capacidades SOA que el 
 
 ## Anexos 
 
-### Procedimiento del Área TI del FNA
+## 1. Procedimiento del Área TI del FNA
+Anexo en línea. 
+[Procedimientos TI del Fondo](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos/181-2020.%20E-SERV.%20Fase%202.%20docx/Procedimientos%20TI?csf=1&web=1&e=JtH2vm).
+
+Fuente: _Fondo Nacional del Ahorro_.
+
+<br>
+
+## 2. Niveles de Inversión TI del FNA
+
+| Rubro                                            | Nivel / Procentaje | Destino                                                                                                                                                                                                                                                                                              |
+|--------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Equipos / Infraestructura técnica/arrendamientos | 30%                | Hardware IBM, hosting/nube sap, equipos ofimaticos, impresoras, facilites, red wan, red lan, cintas medios magneticos, grabacion de llamadas, kioskos, planta electricas, bolsa monitores, canales y buckup, inversiones (balanceadores, swithes)                                                    |
+| Servicios externos                               | 26%                | Fábricas,  boton de pagos, biometria, mesa de servicios, certificados digitales, admon bda, admon soa, admon itom, 2FA, Cape, Soc, platafomas a las ventas, custodia de medios, validacion de identidad, factura electronica                                                                         |
+| Productos                                        | 23%                | CRM, Adminfo, Cobis, SAP -ERP, Workmanger, RPA, Credito constuctor                                                                                                                                                                                                                                   |
+| Mantenimiento Licencias/suscripcion              | 19%                | Software IBM, Oracle, Cisco, itom, elearning, kactus, isolucion, microsoft, motores bases de datos, megahopex, adobe cloud, Vmware, red hat, sistema de turnos, bizagi, DLP, logica, ciberseguridad, herramientas ciberdefensa, qualitty, pam, antimalware, goanywere, Microfocus fortify - idm, dam |
+| Soporte/admon de softw.                          | 2%                 | DLP, herramientas ciberdefensa, qualitty, pam, antimalware, goanywere, Microofus fortify - idms, dam, elearning, kactus, isolucion, servicios cartelera digital                                                                                                                                      |
+
+Fuente: _Fondo Nacional del Ahorro_.
+
+
+***
 
 
 # Fase 2: SOA Objetivo FNA
@@ -1378,7 +1399,7 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|5fbda04 del 06 Feb 2023|
+|Version|9b3a97c del 06 Feb 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2168,7 +2189,7 @@ La arquitectura SOA candidata del FNA sirve de base para la planeación de cambi
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **5fbda04** del 06 Feb 2023                    |
+| Version        | **9b3a97c** del 06 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2217,7 +2238,7 @@ height="7in"}
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **5fbda04** del 06 Feb 2023                    |
+| Version        | **9b3a97c** del 06 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
