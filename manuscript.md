@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-06" />
   <meta name="citation_publication_date" content="2023-02-06" />
   <meta property="article:published_time" content="2023-02-06" />
-  <meta name="dc.modified" content="2023-02-06T17:14:28+00:00" />
-  <meta property="article:modified_time" content="2023-02-06T17:14:28+00:00" />
+  <meta name="dc.modified" content="2023-02-06T17:31:48+00:00" />
+  <meta property="article:modified_time" content="2023-02-06T17:31:48+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/9b3a97c48493c199d06aec4a0753e3efa5cab65e/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/9b3a97c48493c199d06aec4a0753e3efa5cab65e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/9b3a97c48493c199d06aec4a0753e3efa5cab65e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/0f0c64f1ae78c9e5a1e86d8be45807e4d3014a0a/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/0f0c64f1ae78c9e5a1e86d8be45807e4d3014a0a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/0f0c64f1ae78c9e5a1e86d8be45807e4d3014a0a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdocs-f2/v/9b3a97c48493c199d06aec4a0753e3efa5cab65e/))
+([permalink](https://hwong23.github.io/fna-devdocs-f2/v/0f0c64f1ae78c9e5a1e86d8be45807e4d3014a0a/))
 versión indicada a continuación, se encuentra en 
-[9b3a97c](https://github.com/hwong23/fna-devdocs-f2/tree/9b3a97c48493c199d06aec4a0753e3efa5cab65e)
+[0f0c64f](https://github.com/hwong23/fna-devdocs-f2/tree/0f0c64f1ae78c9e5a1e86d8be45807e4d3014a0a)
 on February 6, 2023.
 
 
@@ -160,7 +160,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa, Industria financiera |
 |Autor           |                                                       |
 |Fuente          |                                                       |
-|Version|9b3a97c del 06 Feb 2023                                  |
+|Version|0f0c64f del 06 Feb 2023                                  |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -368,7 +368,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|**9b3a97c** del 06 Feb 2023|
+|Version|**0f0c64f** del 06 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>| Tema           | Arquitectura SOA Candidata para FNA: **Arquitectura de Referencia. Versión 2.0** |
@@ -422,7 +422,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**9b3a97c** del 06 Feb 2023|
+|Version|**0f0c64f** del 06 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -481,7 +481,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|**9b3a97c** del 06 Feb 2023|
+|Version|**0f0c64f** del 06 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1225,7 +1225,7 @@ Ilustración 8: Roles de gobierno de datos
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor||
 |Fuente||
-|Version|**9b3a97c** del 06 Feb 2023|
+|Version|**0f0c64f** del 06 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1295,7 +1295,7 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor          ||
 |Fuente         ||
-|Version        |**9b3a97c** del 06 Feb 2023|
+|Version        |**0f0c64f** del 06 Feb 2023|
 |Vínculos       |[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1352,7 +1352,7 @@ Fuente: _Fondo Nacional del Ahorro_.
 ## 2. Niveles de Inversión TI del FNA
 
 | Rubro                                            | Nivel / Procentaje | Destino                                                                                                                                                                                                                                                                                              |
-|--------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|--------------------------------------------------|:------------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Equipos / Infraestructura técnica/arrendamientos | 30%                | Hardware IBM, hosting/nube sap, equipos ofimaticos, impresoras, facilites, red wan, red lan, cintas medios magneticos, grabacion de llamadas, kioskos, planta electricas, bolsa monitores, canales y buckup, inversiones (balanceadores, swithes)                                                    |
 | Servicios externos                               | 26%                | Fábricas,  boton de pagos, biometria, mesa de servicios, certificados digitales, admon bda, admon soa, admon itom, 2FA, Cape, Soc, platafomas a las ventas, custodia de medios, validacion de identidad, factura electronica                                                                         |
 | Productos                                        | 23%                | CRM, Adminfo, Cobis, SAP -ERP, Workmanger, RPA, Credito constuctor                                                                                                                                                                                                                                   |
@@ -1394,17 +1394,18 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 *** 
 
 
-|Tema|Vigilancia Avances de Industria: **Estrategia de modelado e identificación de servicios**
+|Tema|Vigilancia Avances de Industria: **Lista tecnologías SOA afines al Fondo**
 |------------|----------------------------------------------|
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|9b3a97c del 06 Feb 2023|
+|Version|0f0c64f del 06 Feb 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
 
-## Arquitecturas Orientadas a Servicios (SOA)
+## Tecnologías SOA Afines al FNA
+### Arquitecturas Orientadas a Servicios (SOA)
 
 SOA como estilo de arquitectura, representó un cambio fundamental en los
 procesos de desarrollo de soluciones informáticas, así como de procesos
@@ -1579,11 +1580,8 @@ específico. Se espera que su diseño e implementación sirvan a múltiples
 consumidores, al menos parcialmente.
 
 -   Reuso de algunas características de las APIs
-
 -   Reuso de APIs completas
-
 -   Reuso de APIs propias
-
 -   Reuso de APIs de terceros
 
 Personalizable: Si bien las APIs no deberían ser diseñadas para un
@@ -1620,15 +1618,10 @@ actividades como análisis, desarrollo, operación y retiro.
 La fase de análisis debe buscar responder preguntas como:
 
 -   ¿La organización requiere una API?
-
 -   ¿Cuáles funciones cumpliría?
-
 -   ¿Cuál es la propuesta de valor de esta API?
-
 -   ¿La propuesta será algo fundamental para el negocio?
-
 -   ¿Qué requiere el negocio para operar esta API?
-
 -   ¿Cuáles métricas se deben cumplir?
 
 El objetivo fundamental de la fase de análisis deberá ser la alineación
@@ -1667,15 +1660,10 @@ GraphQL.
 En este punto la organización debe tomar decisiones relacionadas con:
 
 -   Librerías de bloques construcción reutilizables
-
 -   Lenguajes de implementación de APIs
-
 -   IDEs y depuradores
-
 -   Lenguajes de diseño para APIs
-
 -   Herramientas para diseño de interfaces para APIs
-
 -   Herramientas para la generación de código y documentación
 
 ##### Operación / Plataforma de ejecución
@@ -1704,16 +1692,12 @@ Dentro de las decisiones a tomar con la plataforma de ejecución, se
 encuentra la configuración de múltiples ambientes de ejecución:
 
 -   Desarrollo
-
 -   Sandbox o simulación
-
 -   Testing
-
 -   Preproducción
-
 -   Producción
 
-##### 
+<br>
 
 ##### Gestión
 
@@ -1726,12 +1710,9 @@ La plataforma de gestión debe ofrecer:
 
 -   Manejo de API: Configuración y reconfiguración de APIs existentes
     sin necesidad de redespliegues
-
 -   Descubrimiento de APIs: Mecanismos para que los clientes obtengan
     información de las APIs
-
 -   Identificación de clientes (Manejo de llaves)
-
 -   Información para la comunidad (foros, blogs, redes sociales, bases
     de conocimiento, etc.)
 
@@ -1747,13 +1728,9 @@ de pago.
 La plataforma de gestión deber centrarse en ofrecer servicios de:
 
 -   Documentación del portafolio de APIs
-
 -   Soluciones basadas en el portafolio de APIs
-
 -   Posibilidad de usar el API interactivamente
-
 -   Ejemplos de soluciones / código
-
 -   Herramientas de apoyo a los usuarios de las APIs
 
 ### Microservicios
@@ -1870,27 +1847,10 @@ monolíticas y más basadas en tecnologías Web y microservicios.
 ![](./images/media/image7.png){width="4.817361111111111in"
 height="3.4625in"}
 
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
+<br>
 
 ### Tomado de: https://www.crosser.io/blog/posts/why-the-next-generation-enterprise-service-bus-esb-needs-to-be-intelligent/
 
-### 
 
 En la anterior figura, se muestra la evolución que han tenido los ESBs.
 La primera generación, caracterizada por ser infraestructura instalada
@@ -1898,7 +1858,7 @@ normalmente en el datacenter de las organizaciones. En esta generación
 el apoyo a procesos ágiles de desarrollo y prácticas de DevOps era
 prácticamente impensable.
 
-### 
+<br>
 
 La segunda generación se basa en infraestructura como servicio, buses
 desplegados tanto en los datacenters locales como en la nube, con
@@ -1960,7 +1920,7 @@ efecto de borde.
 ![](./images/media/image9.png){width="3.738888888888889in"
 height="3.0625in"}
 
-### 
+<br>
 
 Los comandos, representan una intención de cambio en el estado de la
 solución. Los comandos son solicitudes que pueden o no ejecutarse, no se
@@ -1969,30 +1929,6 @@ ejecución de un comando, puede tener como resultado un evento
 notificando a los interesados el resultado obtenido.
 
 ### ![](./images/media/image10.png){width="4.132638888888889in" height="3.0131944444444443in"}
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
 
 ![](./images/media/image11.png){width="2.9868055555555557in"
 height="2.558333333333333in"}A partir de estos tres conceptos, se
@@ -2004,25 +1940,7 @@ Los servicios proveedores reciben las peticiones, ejecutan los comandos
 o consultas y emiten eventos como resultado. No se tiene ninguna
 orquestación de servicios, solo coreografía de servicios desacoplado
 
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
+<br>
 
 La figura anterior, muestra el esquema de comunicación fundamental en
 las arquitecturas orientadas a eventos. Para mejorar los tiempos de
@@ -2031,7 +1949,7 @@ sistemas. Estos datos son utilizados solo para lectura. Debido al
 retardo en la actualización de los datos, se habla de que existe
 consistencia eventual entre los sistemas de información.
 
-### 
+<br>
 
 ### Service Mesh
 
@@ -2079,7 +1997,7 @@ height="1.748759842519685in"}
 Tomado de:
 https://www.techtarget.com/searchitoperations/definition/service-mesh
 
-### 
+<br>
 
 ### Plataforma de Integración Híbrida (HIP)
 
@@ -2107,9 +2025,7 @@ eventual)
 ![](./images/media/image15.png){width="4.3313156167979in"
 height="3.0198906386701663in"}
 
-### 
-
-### 
+<br>
 
 ### Hub de Integración Digital (DIH)
 
@@ -2189,7 +2105,7 @@ La arquitectura SOA candidata del FNA sirve de base para la planeación de cambi
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **9b3a97c** del 06 Feb 2023                    |
+| Version        | **0f0c64f** del 06 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2238,7 +2154,7 @@ height="7in"}
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **9b3a97c** del 06 Feb 2023                    |
+| Version        | **0f0c64f** del 06 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
