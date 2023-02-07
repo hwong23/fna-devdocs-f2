@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-02-06'
+date-meta: '2023-02-07'
 author-meta:
 - Harry Wong, ing.
 - Eddie Hernandez, ing.
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-02-06" />
-  <meta name="citation_publication_date" content="2023-02-06" />
-  <meta property="article:published_time" content="2023-02-06" />
-  <meta name="dc.modified" content="2023-02-06T17:48:25+00:00" />
-  <meta property="article:modified_time" content="2023-02-06T17:48:25+00:00" />
+  <meta name="dc.date" content="2023-02-07" />
+  <meta name="citation_publication_date" content="2023-02-07" />
+  <meta property="article:published_time" content="2023-02-07" />
+  <meta name="dc.modified" content="2023-02-07T13:43:03+00:00" />
+  <meta property="article:modified_time" content="2023-02-07T13:43:03+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/b5a623c1c822aa827f1dda7fcc611ca438c774a5/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/b5a623c1c822aa827f1dda7fcc611ca438c774a5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/b5a623c1c822aa827f1dda7fcc611ca438c774a5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/9652d0b9bbd535da61db6c325f52756cd1483866/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/9652d0b9bbd535da61db6c325f52756cd1483866/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/9652d0b9bbd535da61db6c325f52756cd1483866/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,11 +69,11 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdocs-f2/v/b5a623c1c822aa827f1dda7fcc611ca438c774a5/))
+([permalink](https://hwong23.github.io/fna-devdocs-f2/v/9652d0b9bbd535da61db6c325f52756cd1483866/))
 versión indicada a continuación, se encuentra en 
 ****
-[b5a623c](https://github.com/hwong23/fna-devdocs-f2/tree/b5a623c1c822aa827f1dda7fcc611ca438c774a5)
-de February 6, 2023.
+[9652d0b](https://github.com/hwong23/fna-devdocs-f2/tree/9652d0b9bbd535da61db6c325f52756cd1483866)
+de February 7, 2023.
 
 
 
@@ -161,7 +161,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa, Industria financiera |
 |Autor           |                                                       |
 |Fuente          |                                                       |
-|Version|b5a623c del 06 Feb 2023                                  |
+|Version|9652d0b del 07 Feb 2023                                  |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -369,7 +369,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|**b5a623c** del 06 Feb 2023|
+|Version|**9652d0b** del 07 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>| Tema           | Arquitectura SOA Candidata para FNA: **Arquitectura de Referencia. Versión 2.0** |
@@ -423,7 +423,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**b5a623c** del 06 Feb 2023|
+|Version|**9652d0b** del 07 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -482,7 +482,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|**b5a623c** del 06 Feb 2023|
+|Version|**9652d0b** del 07 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1226,7 +1226,7 @@ Ilustración 8: Roles de gobierno de datos
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor||
 |Fuente||
-|Version|**b5a623c** del 06 Feb 2023|
+|Version|**9652d0b** del 07 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1296,7 +1296,7 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor          ||
 |Fuente         ||
-|Version        |**b5a623c** del 06 Feb 2023|
+|Version        |**9652d0b** del 07 Feb 2023|
 |Vínculos       |[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1400,7 +1400,7 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|b5a623c del 06 Feb 2023|
+|Version|9652d0b del 07 Feb 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2106,7 +2106,7 @@ La arquitectura SOA candidata del FNA sirve de base para la planeación de cambi
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **b5a623c** del 06 Feb 2023                    |
+| Version        | **9652d0b** del 07 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2155,7 +2155,7 @@ height="7in"}
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **b5a623c** del 06 Feb 2023                    |
+| Version        | **9652d0b** del 07 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2214,6 +2214,47 @@ gobernanza global y la posibilidad de dominio y creación de productos.
 Esto es lo que llamamos gobernanza federada y en la práctica es
 fundamental para garantizar la privacidad, el cumplimiento y la
 posibilidad de escalar.
+
+
+| Tema           | Arquitectura SOA Candidata para FNA: **Arquitectura de Infraestructura Candidata FNA** |
+|----------------|---------------------------------------------------|
+| Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
+| Autor          |                                                   |
+| Fuente         |                                                   |
+| Version        | **9652d0b** del 07 Feb 2023                    |
+| Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
+
+<br>
+
+## Arquitectura de Infraestructura Candidata FNA
+
+Para la arquitectura SOA objetivo se propone un enfoque de computación en la nube donde se hace uso de componentes IaaS y PaaS. Dentro de la oferta actual de componentes se pueden encontrar soluciones que permiten garantizar escalabilidad, disponibilidad, cumplimiento regulatorio y menores tiempos de salida al mercado.
+
+
+### Arquitectura To Be
+
+![](./images/infra1/media/image1.png){width="6.1375in"
+height="3.5520833333333335in"}
+
+### Principales Características
+
+
+**Arquitectura sin servidor para la interfaz web**: Distribución de contenidos con baja latencia y altas velocidades de transferencia usando CDN hospedando el contenido estático de la aplicación en un servicio de almacenamiento de objetos, eliminando la necesidad de utilizar servidores en esta capa.
+**Enfoque de microservicios**: Permite obetener capacidad de cómputo particular según sea requerido para soportar la carga. 
+**Exposición de la funcionalidad de negocio a través de API Gateway**: Entrega las solicitudes a los microservicios, habilitando la gestión de API para establecer modelos de Calidad en el Servicio (QoS) y controlando la autenticación y autorización.
+**Orquestación de contenedores**: Los administradores de Kubernetes permiten automatizar tareas clave como los parches, el aprovisionamiento de nodos y las actualizaciones. El gestior de Kubernetes por lo general permite  gestionar dinámicamente la creación o terminación de nodos y contenedores en base a la demanda.
+
+**Service mesh**: Permite distribuir la carga proveniente de API Gateway, obteniendo mayor visibilidad y controles uniformes del tráfico de red.
+
+**Servicios administrados**: Se aprovechan para elementos tales como la gestión de cache y bases de datos (relaciones y no relacionales). Con esto se evitan  tareas administrativas, como el aprovisionamiento de hardware, parches de software, configuración, ajustes,recuperación de fallos y backups.
+
+**Integración de sistemas**: A través de un enlace Virtual Private Network (VPN) La funcionalidad se expone a través de el Bus de Servicios, habilitando un modelo híbrido de aplicaciones nativas de nube y al mismo tiempo de arquitectura orientada a servicios (SOA).
+
+
+
+
+
+
 
 
 # Fase 2: SOA Objetivo
