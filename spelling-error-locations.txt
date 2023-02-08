@@ -7753,6 +7753,2429 @@ content/08a. Arquitectura-referencia-v2.md:38:detalle
 content/08a. Arquitectura-referencia-v2.md:38:Nivel
 content/08a. Arquitectura-referencia-v2.md:44:detalle
 content/08a. Arquitectura-referencia-v2.md:44:Nivel
+content/08b1. Dominio de datos.md:1:Arquitectura
+content/08b1. Dominio de datos.md:1:Arquitectura
+content/08b1. Dominio de datos.md:1:Candidata
+content/08b1. Dominio de datos.md:1:Candidata
+content/08b1. Dominio de datos.md:1:Datos
+content/08b1. Dominio de datos.md:1:FNA
+content/08b1. Dominio de datos.md:1:FNA
+content/08b1. Dominio de datos.md:1:SOA
+content/08b1. Dominio de datos.md:1:Tema
+content/08b1. Dominio de datos.md:3:Arquitectura
+content/08b1. Dominio de datos.md:3:Candidata
+content/08b1. Dominio de datos.md:3:clave
+content/08b1. Dominio de datos.md:3:Hoja
+content/08b1. Dominio de datos.md:3:Palabras
+content/08b1. Dominio de datos.md:3:referencia
+content/08b1. Dominio de datos.md:3:ruta
+content/08b1. Dominio de datos.md:3:SOA
+content/08b1. Dominio de datos.md:3:Tecnologías
+content/08b1. Dominio de datos.md:4:Autor
+content/08b1. Dominio de datos.md:5:Fuente
+content/08b1. Dominio de datos.md:7:FNA
+content/08b1. Dominio de datos.md:7:Segmento
+content/08b1. Dominio de datos.md:7:SOA
+content/08b1. Dominio de datos.md:7:Vínculos
+content/08b1. Dominio de datos.md:11:Arquitectura
+content/08b1. Dominio de datos.md:11:Candidata
+content/08b1. Dominio de datos.md:11:datos
+content/08b1. Dominio de datos.md:11:Dominio
+content/08b1. Dominio de datos.md:13:arquitectura
+content/08b1. Dominio de datos.md:13:candidata
+content/08b1. Dominio de datos.md:13:desarrollo
+content/08b1. Dominio de datos.md:13:El
+content/08b1. Dominio de datos.md:13:información
+content/08b1. Dominio de datos.md:13:integrará
+content/08b1. Dominio de datos.md:14:DAMA
+content/08b1. Dominio de datos.md:14:el
+content/08b1. Dominio de datos.md:14:referencia
+content/08b1. Dominio de datos.md:14:referencia
+content/08b1. Dominio de datos.md:14:TOGAF
+content/08b1. Dominio de datos.md:15:disposiciones
+content/08b1. Dominio de datos.md:15:gobierno
+content/08b1. Dominio de datos.md:15:política
+content/08b1. Dominio de datos.md:16:Arquitectura
+content/08b1. Dominio de datos.md:16:el
+content/08b1. Dominio de datos.md:16:Empresarial
+content/08b1. Dominio de datos.md:16:especificadas
+content/08b1. Dominio de datos.md:16:por
+content/08b1. Dominio de datos.md:16:Referencia
+content/08b1. Dominio de datos.md:17:Colombiano
+content/08b1. Dominio de datos.md:17:entidades
+content/08b1. Dominio de datos.md:17:Estado
+content/08b1. Dominio de datos.md:17:evaluación
+content/08b1. Dominio de datos.md:17:MRAE
+content/08b1. Dominio de datos.md:17:orientar
+content/08b1. Dominio de datos.md:18:definición
+content/08b1. Dominio de datos.md:18:deseado
+content/08b1. Dominio de datos.md:18:estado
+content/08b1. Dominio de datos.md:18:estado
+content/08b1. Dominio de datos.md:18:integrando
+content/08b1. Dominio de datos.md:19:arquitectura
+content/08b1. Dominio de datos.md:19:capacidades
+content/08b1. Dominio de datos.md:19:datos
+content/08b1. Dominio de datos.md:19:datos
+content/08b1. Dominio de datos.md:19:diseño
+content/08b1. Dominio de datos.md:19:el
+content/08b1. Dominio de datos.md:19:gobierno
+content/08b1. Dominio de datos.md:20:almacenamiento
+content/08b1. Dominio de datos.md:20:datos
+content/08b1. Dominio de datos.md:20:datos
+content/08b1. Dominio de datos.md:20:modelamiento
+content/08b1. Dominio de datos.md:20:operaciones
+content/08b1. Dominio de datos.md:20:seguridad
+content/08b1. Dominio de datos.md:21:datos
+content/08b1. Dominio de datos.md:21:datos
+content/08b1. Dominio de datos.md:21:documental
+content/08b1. Dominio de datos.md:21:gestión
+content/08b1. Dominio de datos.md:21:integración
+content/08b1. Dominio de datos.md:21:interoperabilidad
+content/08b1. Dominio de datos.md:22:contenido
+content/08b1. Dominio de datos.md:22:datos
+content/08b1. Dominio de datos.md:22:inteligencia
+content/08b1. Dominio de datos.md:22:negocios
+content/08b1. Dominio de datos.md:22:referencia
+content/08b1. Dominio de datos.md:23:analítica
+content/08b1. Dominio de datos.md:23:calidad
+content/08b1. Dominio de datos.md:23:datos
+content/08b1. Dominio de datos.md:23:metadatos
+content/08b1. Dominio de datos.md:25:continuación
+content/08b1. Dominio de datos.md:25:Ilustración
+content/08b1. Dominio de datos.md:25:muestra
+content/08b1. Dominio de datos.md:25:referencia
+content/08b1. Dominio de datos.md:26:aplicables
+content/08b1. Dominio de datos.md:26:dominio
+content/08b1. Dominio de datos.md:26:Información
+content/08b1. Dominio de datos.md:31:aplicables
+content/08b1. Dominio de datos.md:31:arquitectura
+content/08b1. Dominio de datos.md:31:Ilustración
+content/08b1. Dominio de datos.md:31:referencia
+content/08b1. Dominio de datos.md:32:información
+content/08b1. Dominio de datos.md:34:arquitectura
+content/08b1. Dominio de datos.md:34:candidata
+content/08b1. Dominio de datos.md:34:construir
+content/08b1. Dominio de datos.md:34:Pasos
+content/08b1. Dominio de datos.md:36:arquitectura
+content/08b1. Dominio de datos.md:36:candidata
+content/08b1. Dominio de datos.md:36:generación
+content/08b1. Dominio de datos.md:36:información
+content/08b1. Dominio de datos.md:37:consolida
+content/08b1. Dominio de datos.md:37:datos
+content/08b1. Dominio de datos.md:37:Fondo
+content/08b1. Dominio de datos.md:37:Nacional
+content/08b1. Dominio de datos.md:37:necesidades
+content/08b1. Dominio de datos.md:37:términos
+content/08b1. Dominio de datos.md:38:Ahorro
+content/08b1. Dominio de datos.md:38:consecuencia
+content/08b1. Dominio de datos.md:38:ello
+content/08b1. Dominio de datos.md:38:referencia
+content/08b1. Dominio de datos.md:38:siguiendo
+content/08b1. Dominio de datos.md:39:análisis
+content/08b1. Dominio de datos.md:39:anteriormente
+content/08b1. Dominio de datos.md:39:estado
+content/08b1. Dominio de datos.md:39:mencionados
+content/08b1. Dominio de datos.md:39:parte
+content/08b1. Dominio de datos.md:40:Arquitectura
+content/08b1. Dominio de datos.md:40:concluye
+content/08b1. Dominio de datos.md:40:denominado
+content/08b1. Dominio de datos.md:40:técnicos
+content/08b1. Dominio de datos.md:40:términos
+content/08b1. Dominio de datos.md:41:Arquitectura
+content/08b1. Dominio de datos.md:41:candidata
+content/08b1. Dominio de datos.md:41:estado
+content/08b1. Dominio de datos.md:41:futuro
+content/08b1. Dominio de datos.md:41:llamado
+content/08b1. Dominio de datos.md:41:proyección
+content/08b1. Dominio de datos.md:41:una
+content/08b1. Dominio de datos.md:42:clave
+content/08b1. Dominio de datos.md:42:elementos
+content/08b1. Dominio de datos.md:42:Información
+content/08b1. Dominio de datos.md:42:visión
+content/08b1. Dominio de datos.md:43:arquitectura
+content/08b1. Dominio de datos.md:43:arquitectura
+content/08b1. Dominio de datos.md:43:empresarial
+content/08b1. Dominio de datos.md:43:enfoque
+content/08b1. Dominio de datos.md:43:información
+content/08b1. Dominio de datos.md:44:construye
+content/08b1. Dominio de datos.md:44:el
+content/08b1. Dominio de datos.md:44:hoy
+content/08b1. Dominio de datos.md:44:información
+content/08b1. Dominio de datos.md:44:modelar
+content/08b1. Dominio de datos.md:44:partir
+content/08b1. Dominio de datos.md:44:soluciones
+content/08b1. Dominio de datos.md:45:Ahorro
+content/08b1. Dominio de datos.md:45:estado
+content/08b1. Dominio de datos.md:45:Fondo
+content/08b1. Dominio de datos.md:45:Nacional
+content/08b1. Dominio de datos.md:45:soportan
+content/08b1. Dominio de datos.md:45:su
+content/08b1. Dominio de datos.md:45:tecnología
+content/08b1. Dominio de datos.md:46:arquitectura
+content/08b1. Dominio de datos.md:46:caracterizando
+content/08b1. Dominio de datos.md:46:elementos
+content/08b1. Dominio de datos.md:46:nivel
+content/08b1. Dominio de datos.md:46:objetivo
+content/08b1. Dominio de datos.md:47:arquitecturas
+content/08b1. Dominio de datos.md:47:cada
+content/08b1. Dominio de datos.md:47:clave
+content/08b1. Dominio de datos.md:47:construir
+content/08b1. Dominio de datos.md:47:pasos
+content/08b1. Dominio de datos.md:48:considerar
+content/08b1. Dominio de datos.md:48:deben
+content/08b1. Dominio de datos.md:48:dominios
+content/08b1. Dominio de datos.md:48:uno
+content/08b1. Dominio de datos.md:50:Arquitectura
+content/08b1. Dominio de datos.md:50:Identificación
+content/08b1. Dominio de datos.md:51:arquitectura
+content/08b1. Dominio de datos.md:51:dominio
+content/08b1. Dominio de datos.md:51:elementos
+content/08b1. Dominio de datos.md:51:términos
+content/08b1. Dominio de datos.md:52:alineamientos
+content/08b1. Dominio de datos.md:52:arquitectura
+content/08b1. Dominio de datos.md:52:definidos
+content/08b1. Dominio de datos.md:52:referencia
+content/08b1. Dominio de datos.md:52:sus
+content/08b1. Dominio de datos.md:54:Arquitectura
+content/08b1. Dominio de datos.md:54:Definición
+content/08b1. Dominio de datos.md:54:objetivo
+content/08b1. Dominio de datos.md:55:arquitectura
+content/08b1. Dominio de datos.md:55:dominio
+content/08b1. Dominio de datos.md:55:elementos
+content/08b1. Dominio de datos.md:55:objetivo
+content/08b1. Dominio de datos.md:55:términos
+content/08b1. Dominio de datos.md:56:alineamientos
+content/08b1. Dominio de datos.md:56:arquitectura
+content/08b1. Dominio de datos.md:56:definidos
+content/08b1. Dominio de datos.md:56:referencia
+content/08b1. Dominio de datos.md:56:sus
+content/08b1. Dominio de datos.md:58:Diseño
+content/08b1. Dominio de datos.md:58:nivel
+content/08b1. Dominio de datos.md:58:reportes
+content/08b1. Dominio de datos.md:59:arquitectura
+content/08b1. Dominio de datos.md:59:clave
+content/08b1. Dominio de datos.md:59:describir
+content/08b1. Dominio de datos.md:59:requeridos
+content/08b1. Dominio de datos.md:61:Análisis
+content/08b1. Dominio de datos.md:61:asociadas
+content/08b1. Dominio de datos.md:61:brechas
+content/08b1. Dominio de datos.md:61:Brechas
+content/08b1. Dominio de datos.md:61:consolida
+content/08b1. Dominio de datos.md:61:principales
+content/08b1. Dominio de datos.md:62:alineamiento
+content/08b1. Dominio de datos.md:62:brechas
+content/08b1. Dominio de datos.md:62:dominio
+content/08b1. Dominio de datos.md:62:estado
+content/08b1. Dominio de datos.md:62:frente
+content/08b1. Dominio de datos.md:62:pueden
+content/08b1. Dominio de datos.md:62:ser
+content/08b1. Dominio de datos.md:68:Arquitectura
+content/08b1. Dominio de datos.md:68:Componentes
+content/08b1. Dominio de datos.md:68:Ilustración
+content/08b1. Dominio de datos.md:68:Información
+content/08b1. Dominio de datos.md:72:Datos
+content/08b1. Dominio de datos.md:72:Desafíos
+content/08b1. Dominio de datos.md:72:Dominio
+content/08b1. Dominio de datos.md:74:cuenta
+content/08b1. Dominio de datos.md:74:información
+content/08b1. Dominio de datos.md:74:necesidades
+content/08b1. Dominio de datos.md:74:resultantes
+content/08b1. Dominio de datos.md:74:Teniendo
+content/08b1. Dominio de datos.md:75:análisis
+content/08b1. Dominio de datos.md:75:donde
+content/08b1. Dominio de datos.md:75:estado
+content/08b1. Dominio de datos.md:75:evidencio
+content/08b1. Dominio de datos.md:77:bien
+content/08b1. Dominio de datos.md:77:datos
+content/08b1. Dominio de datos.md:77:datos
+content/08b1. Dominio de datos.md:77:diccionarios
+content/08b1. Dominio de datos.md:77:existen
+content/08b1. Dominio de datos.md:77:modelos
+content/08b1. Dominio de datos.md:78:COBIS
+content/08b1. Dominio de datos.md:78:ejemplo
+content/08b1. Dominio de datos.md:78:encontró
+content/08b1. Dominio de datos.md:78:importantes
+content/08b1. Dominio de datos.md:78:más
+content/08b1. Dominio de datos.md:78:modelo
+content/08b1. Dominio de datos.md:78:por
+content/08b1. Dominio de datos.md:79:canónico
+content/08b1. Dominio de datos.md:79:común
+content/08b1. Dominio de datos.md:79:datos
+content/08b1. Dominio de datos.md:79:lenguaje
+content/08b1. Dominio de datos.md:79:modelos
+content/08b1. Dominio de datos.md:79:permita
+content/08b1. Dominio de datos.md:79:todos
+content/08b1. Dominio de datos.md:80:datos
+content/08b1. Dominio de datos.md:80:entendimiento
+content/08b1. Dominio de datos.md:80:funcional
+content/08b1. Dominio de datos.md:80:organización
+content/08b1. Dominio de datos.md:80:técnico
+content/08b1. Dominio de datos.md:80:toda
+content/08b1. Dominio de datos.md:81:datos
+content/08b1. Dominio de datos.md:81:decisiones
+content/08b1. Dominio de datos.md:81:explotación
+content/08b1. Dominio de datos.md:81:explotación
+content/08b1. Dominio de datos.md:81:facilite
+content/08b1. Dominio de datos.md:81:partir
+content/08b1. Dominio de datos.md:81:toma
+content/08b1. Dominio de datos.md:83:artefactos
+content/08b1. Dominio de datos.md:83:cierta
+content/08b1. Dominio de datos.md:83:desactualización
+content/08b1. Dominio de datos.md:83:evidencia
+content/08b1. Dominio de datos.md:83:existe
+content/08b1. Dominio de datos.md:84:arquitectura
+content/08b1. Dominio de datos.md:84:conforman
+content/08b1. Dominio de datos.md:84:datos
+content/08b1. Dominio de datos.md:84:datos
+content/08b1. Dominio de datos.md:84:empresarial
+content/08b1. Dominio de datos.md:84:Modelo
+content/08b1. Dominio de datos.md:85:catálogos
+content/08b1. Dominio de datos.md:85:datos
+content/08b1. Dominio de datos.md:85:diagramas
+content/08b1. Dominio de datos.md:85:diccionario
+content/08b1. Dominio de datos.md:87:algunas
+content/08b1. Dominio de datos.md:87:datos
+content/08b1. Dominio de datos.md:87:diccionarios
+content/08b1. Dominio de datos.md:87:Existen
+content/08b1. Dominio de datos.md:87:particulares
+content/08b1. Dominio de datos.md:88:aunque
+content/08b1. Dominio de datos.md:88:datos
+content/08b1. Dominio de datos.md:88:datos
+content/08b1. Dominio de datos.md:88:diccionario
+content/08b1. Dominio de datos.md:88:forma
+content/08b1. Dominio de datos.md:88:requiere
+content/08b1. Dominio de datos.md:89:el
+content/08b1. Dominio de datos.md:89:entendimiento
+content/08b1. Dominio de datos.md:89:estandarizada
+content/08b1. Dominio de datos.md:89:éstos
+content/08b1. Dominio de datos.md:89:facilitar
+content/08b1. Dominio de datos.md:89:permita
+content/08b1. Dominio de datos.md:89:sus
+content/08b1. Dominio de datos.md:90:Así
+content/08b1. Dominio de datos.md:90:datos
+content/08b1. Dominio de datos.md:90:diccionarios
+content/08b1. Dominio de datos.md:90:otro
+content/08b1. Dominio de datos.md:90:relaciones
+content/08b1. Dominio de datos.md:90:tipo
+content/08b1. Dominio de datos.md:91:analíticos
+content/08b1. Dominio de datos.md:91:metadatos
+content/08b1. Dominio de datos.md:91:referencias
+content/08b1. Dominio de datos.md:91:transaccionales
+content/08b1. Dominio de datos.md:93:actividades
+content/08b1. Dominio de datos.md:93:algunas
+content/08b1. Dominio de datos.md:93:Aunque
+content/08b1. Dominio de datos.md:93:existen
+content/08b1. Dominio de datos.md:93:gobierno
+content/08b1. Dominio de datos.md:93:realizadas
+content/08b1. Dominio de datos.md:93:torno
+content/08b1. Dominio de datos.md:94:datos
+content/08b1. Dominio de datos.md:94:el
+content/08b1. Dominio de datos.md:94:fecha
+content/08b1. Dominio de datos.md:94:fue
+content/08b1. Dominio de datos.md:94:incluso
+content/08b1. Dominio de datos.md:94:iniciativa
+content/08b1. Dominio de datos.md:94:PETI
+content/08b1. Dominio de datos.md:94:propuesto
+content/08b1. Dominio de datos.md:95:este
+content/08b1. Dominio de datos.md:95:FNA
+content/08b1. Dominio de datos.md:95:necesario
+content/08b1. Dominio de datos.md:95:permita
+content/08b1. Dominio de datos.md:95:proyecto
+content/08b1. Dominio de datos.md:95:retomar
+content/08b1. Dominio de datos.md:95:tener
+content/08b1. Dominio de datos.md:95:una
+content/08b1. Dominio de datos.md:96:apropiada
+content/08b1. Dominio de datos.md:96:datos
+content/08b1. Dominio de datos.md:96:gestión
+content/08b1. Dominio de datos.md:96:incorporación
+content/08b1. Dominio de datos.md:96:más
+content/08b1. Dominio de datos.md:96:mediante
+content/08b1. Dominio de datos.md:97:datos
+content/08b1. Dominio de datos.md:97:directrices
+content/08b1. Dominio de datos.md:97:gobierno
+content/08b1. Dominio de datos.md:97:indicadores
+content/08b1. Dominio de datos.md:97:lineamientos
+content/08b1. Dominio de datos.md:97:torno
+content/08b1. Dominio de datos.md:99:aunque
+content/08b1. Dominio de datos.md:99:dominios
+content/08b1. Dominio de datos.md:99:identificados
+content/08b1. Dominio de datos.md:99:información
+content/08b1. Dominio de datos.md:99:tienen
+content/08b1. Dominio de datos.md:100:aterrizar
+content/08b1. Dominio de datos.md:100:cuales
+content/08b1. Dominio de datos.md:100:datos
+content/08b1. Dominio de datos.md:100:estos
+content/08b1. Dominio de datos.md:100:importante
+content/08b1. Dominio de datos.md:100:referencias
+content/08b1. Dominio de datos.md:101:estos
+content/08b1. Dominio de datos.md:101:funcional
+content/08b1. Dominio de datos.md:101:levantamiento
+content/08b1. Dominio de datos.md:101:mediante
+content/08b1. Dominio de datos.md:101:tanto
+content/08b1. Dominio de datos.md:101:técnico
+content/08b1. Dominio de datos.md:102:estrategia
+content/08b1. Dominio de datos.md:102:permitan
+content/08b1. Dominio de datos.md:102:tener
+content/08b1. Dominio de datos.md:102:través
+content/08b1. Dominio de datos.md:102:una
+content/08b1. Dominio de datos.md:102:una
+content/08b1. Dominio de datos.md:102:unificada
+content/08b1. Dominio de datos.md:103:conlleven
+content/08b1. Dominio de datos.md:103:correcto
+content/08b1. Dominio de datos.md:103:datos
+content/08b1. Dominio de datos.md:103:democratización
+content/08b1. Dominio de datos.md:103:estos
+content/08b1. Dominio de datos.md:105:Aunque
+content/08b1. Dominio de datos.md:105:desarrollos
+content/08b1. Dominio de datos.md:105:dueño
+content/08b1. Dominio de datos.md:105:el
+content/08b1. Dominio de datos.md:105:estos
+content/08b1. Dominio de datos.md:105:FNA
+content/08b1. Dominio de datos.md:105:tienen
+content/08b1. Dominio de datos.md:106:algunas
+content/08b1. Dominio de datos.md:106:ciclo
+content/08b1. Dominio de datos.md:106:necesidades
+content/08b1. Dominio de datos.md:106:presentan
+content/08b1. Dominio de datos.md:106:procesos
+content/08b1. Dominio de datos.md:106:torno
+content/08b1. Dominio de datos.md:106:vida
+content/08b1. Dominio de datos.md:107:datos
+content/08b1. Dominio de datos.md:107:donde
+content/08b1. Dominio de datos.md:107:obligación
+content/08b1. Dominio de datos.md:107:proveedores
+content/08b1. Dominio de datos.md:107:recurrir
+content/08b1. Dominio de datos.md:107:ve
+content/08b1. Dominio de datos.md:108:actividades
+content/08b1. Dominio de datos.md:108:dependencia
+content/08b1. Dominio de datos.md:108:desarrollo
+content/08b1. Dominio de datos.md:108:el
+content/08b1. Dominio de datos.md:108:una
+content/08b1. Dominio de datos.md:109:generación
+content/08b1. Dominio de datos.md:109:inclusión
+content/08b1. Dominio de datos.md:109:negocio
+content/08b1. Dominio de datos.md:109:operativas
+content/08b1. Dominio de datos.md:109:reglas
+content/08b1. Dominio de datos.md:110:entre
+content/08b1. Dominio de datos.md:110:indicadores
+content/08b1. Dominio de datos.md:110:otras
+content/08b1. Dominio de datos.md:112:Agrupando
+content/08b1. Dominio de datos.md:112:diversidad
+content/08b1. Dominio de datos.md:112:estas
+content/08b1. Dominio de datos.md:112:evidencia
+content/08b1. Dominio de datos.md:112:necesidades
+content/08b1. Dominio de datos.md:113:datos
+content/08b1. Dominio de datos.md:113:dentro
+content/08b1. Dominio de datos.md:113:están
+content/08b1. Dominio de datos.md:113:FNA
+content/08b1. Dominio de datos.md:113:formatos
+content/08b1. Dominio de datos.md:113:repositorios
+content/08b1. Dominio de datos.md:114:administración
+content/08b1. Dominio de datos.md:114:esta
+content/08b1. Dominio de datos.md:114:gestión
+content/08b1. Dominio de datos.md:114:información
+content/08b1. Dominio de datos.md:114:presenta
+content/08b1. Dominio de datos.md:115:algunas
+content/08b1. Dominio de datos.md:115:complicaciones
+content/08b1. Dominio de datos.md:115:cuando
+content/08b1. Dominio de datos.md:115:énfasis
+content/08b1. Dominio de datos.md:115:especialmente
+content/08b1. Dominio de datos.md:116:calidad
+content/08b1. Dominio de datos.md:116:datos
+content/08b1. Dominio de datos.md:116:disponibilidad
+content/08b1. Dominio de datos.md:118:Acceso
+content/08b1. Dominio de datos.md:118:cantidad
+content/08b1. Dominio de datos.md:118:datos
+content/08b1. Dominio de datos.md:118:debido
+content/08b1. Dominio de datos.md:118:deficiente
+content/08b1. Dominio de datos.md:118:masiva
+content/08b1. Dominio de datos.md:119:almacenan
+content/08b1. Dominio de datos.md:119:consumo
+content/08b1. Dominio de datos.md:119:datos
+content/08b1. Dominio de datos.md:119:historicamente
+content/08b1. Dominio de datos.md:119:plataformas
+content/08b1. Dominio de datos.md:120:deben
+content/08b1. Dominio de datos.md:120:disminuyen
+content/08b1. Dominio de datos.md:120:información
+content/08b1. Dominio de datos.md:120:manejar
+content/08b1. Dominio de datos.md:120:rendimiento
+content/08b1. Dominio de datos.md:120:toda
+content/08b1. Dominio de datos.md:121:disposición
+content/08b1. Dominio de datos.md:121:forma
+content/08b1. Dominio de datos.md:121:ponerla
+content/08b1. Dominio de datos.md:121:pueden
+content/08b1. Dominio de datos.md:121:sencilla
+content/08b1. Dominio de datos.md:123:confiables
+content/08b1. Dominio de datos.md:123:Datos
+content/08b1. Dominio de datos.md:123:debido
+content/08b1. Dominio de datos.md:123:disminucún
+content/08b1. Dominio de datos.md:123:rendimiento
+content/08b1. Dominio de datos.md:124:actualizado
+content/08b1. Dominio de datos.md:124:equipos
+content/08b1. Dominio de datos.md:124:está
+content/08b1. Dominio de datos.md:124:hacer
+content/08b1. Dominio de datos.md:124:pueden
+content/08b1. Dominio de datos.md:124:seguimiento
+content/08b1. Dominio de datos.md:125:conjuntos
+content/08b1. Dominio de datos.md:125:datos
+content/08b1. Dominio de datos.md:125:desviarse
+content/08b1. Dominio de datos.md:125:el
+content/08b1. Dominio de datos.md:125:estáticos
+content/08b1. Dominio de datos.md:125:pueden
+content/08b1. Dominio de datos.md:126:inutilizables
+content/08b1. Dominio de datos.md:126:tiempo
+content/08b1. Dominio de datos.md:126:volverse
+content/08b1. Dominio de datos.md:128:analíticos
+content/08b1. Dominio de datos.md:128:centran
+content/08b1. Dominio de datos.md:128:datos
+content/08b1. Dominio de datos.md:128:datos
+content/08b1. Dominio de datos.md:128:técnicos
+content/08b1. Dominio de datos.md:129:datos
+content/08b1. Dominio de datos.md:129:función
+content/08b1. Dominio de datos.md:129:organizan
+content/08b1. Dominio de datos.md:129:técnicos
+content/08b1. Dominio de datos.md:129:usuarios
+content/08b1. Dominio de datos.md:130:equipos
+content/08b1. Dominio de datos.md:130:estrategicos
+content/08b1. Dominio de datos.md:130:negocio
+content/08b1. Dominio de datos.md:130:organización
+content/08b1. Dominio de datos.md:131:dificulta
+content/08b1. Dominio de datos.md:131:encontrar
+content/08b1. Dominio de datos.md:131:estos
+content/08b1. Dominio de datos.md:131:muchísimo
+content/08b1. Dominio de datos.md:131:preestablecida
+content/08b1. Dominio de datos.md:131:últimos
+content/08b1. Dominio de datos.md:132:datos
+content/08b1. Dominio de datos.md:132:necesitan
+content/08b1. Dominio de datos.md:132:utilizar
+content/08b1. Dominio de datos.md:134:consecuencia
+content/08b1. Dominio de datos.md:134:generado
+content/08b1. Dominio de datos.md:134:siguientes
+content/08b1. Dominio de datos.md:135:problematicas
+content/08b1. Dominio de datos.md:137:Arquitectura
+content/08b1. Dominio de datos.md:137:Monolitica
+content/08b1. Dominio de datos.md:139:arquitecturas
+content/08b1. Dominio de datos.md:139:empresariales
+content/08b1. Dominio de datos.md:139:plataformas
+content/08b1. Dominio de datos.md:139:ser
+content/08b1. Dominio de datos.md:139:tienden
+content/08b1. Dominio de datos.md:140:altamente
+content/08b1. Dominio de datos.md:140:dependencias
+content/08b1. Dominio de datos.md:140:están
+content/08b1. Dominio de datos.md:140:monolíticas
+content/08b1. Dominio de datos.md:140:muchas
+content/08b1. Dominio de datos.md:140:vinculadas
+content/08b1. Dominio de datos.md:141:tecnología
+content/08b1. Dominio de datos.md:141:términos
+content/08b1. Dominio de datos.md:143:ciertos
+content/08b1. Dominio de datos.md:143:crea
+content/08b1. Dominio de datos.md:143:Esta
+content/08b1. Dominio de datos.md:143:problemas
+content/08b1. Dominio de datos.md:143:realidad
+content/08b1. Dominio de datos.md:145:convierte
+content/08b1. Dominio de datos.md:145:datos
+content/08b1. Dominio de datos.md:145:el
+content/08b1. Dominio de datos.md:145:equipo
+content/08b1. Dominio de datos.md:145:espera
+content/08b1. Dominio de datos.md:146:botella
+content/08b1. Dominio de datos.md:146:cuello
+content/08b1. Dominio de datos.md:146:deben
+content/08b1. Dominio de datos.md:146:equipos
+content/08b1. Dominio de datos.md:146:esperar
+content/08b1. Dominio de datos.md:146:negocio
+content/08b1. Dominio de datos.md:146:por
+content/08b1. Dominio de datos.md:147:necesitan
+content/08b1. Dominio de datos.md:147:respuestas
+content/08b1. Dominio de datos.md:149:Interrupciones
+content/08b1. Dominio de datos.md:149:negocio
+content/08b1. Dominio de datos.md:149:planificadas
+content/08b1. Dominio de datos.md:149:usuarios
+content/08b1. Dominio de datos.md:150:acceder
+content/08b1. Dominio de datos.md:150:mismos
+content/08b1. Dominio de datos.md:150:por
+content/08b1. Dominio de datos.md:150:pueden
+content/08b1. Dominio de datos.md:150:sí
+content/08b1. Dominio de datos.md:150:su
+content/08b1. Dominio de datos.md:150:verificar
+content/08b1. Dominio de datos.md:151:apoyo
+content/08b1. Dominio de datos.md:151:confiabilidad
+content/08b1. Dominio de datos.md:151:constantemente
+content/08b1. Dominio de datos.md:151:demandan
+content/08b1. Dominio de datos.md:151:el
+content/08b1. Dominio de datos.md:151:equipo
+content/08b1. Dominio de datos.md:152:básicas
+content/08b1. Dominio de datos.md:152:cual
+content/08b1. Dominio de datos.md:152:datos
+content/08b1. Dominio de datos.md:152:el
+content/08b1. Dominio de datos.md:152:podrá
+content/08b1. Dominio de datos.md:152:relegado
+content/08b1. Dominio de datos.md:152:tareas
+content/08b1. Dominio de datos.md:152:verá
+content/08b1. Dominio de datos.md:153:ningún
+content/08b1. Dominio de datos.md:153:profundo
+content/08b1. Dominio de datos.md:153:realizar
+content/08b1. Dominio de datos.md:153:trabajo
+content/08b1. Dominio de datos.md:155:debido
+content/08b1. Dominio de datos.md:155:escalabilidad
+content/08b1. Dominio de datos.md:155:está
+content/08b1. Dominio de datos.md:155:Falta
+content/08b1. Dominio de datos.md:155:plataforma
+content/08b1. Dominio de datos.md:156:acoplada
+content/08b1. Dominio de datos.md:156:cambiar
+content/08b1. Dominio de datos.md:156:escalar
+content/08b1. Dominio de datos.md:156:estrechamente
+content/08b1. Dominio de datos.md:156:puede
+content/08b1. Dominio de datos.md:156:ritmo
+content/08b1. Dominio de datos.md:157:análisis
+content/08b1. Dominio de datos.md:157:avanzado
+content/08b1. Dominio de datos.md:157:datos
+content/08b1. Dominio de datos.md:157:el
+content/08b1. Dominio de datos.md:157:requerido
+content/08b1. Dominio de datos.md:159:Desconectada
+content/08b1. Dominio de datos.md:159:Negocio
+content/08b1. Dominio de datos.md:159:Tecnología
+content/08b1. Dominio de datos.md:161:Desafortunadamente
+content/08b1. Dominio de datos.md:161:directo
+content/08b1. Dominio de datos.md:161:entre
+content/08b1. Dominio de datos.md:161:puente
+content/08b1. Dominio de datos.md:161:videncia
+content/08b1. Dominio de datos.md:162:datos
+content/08b1. Dominio de datos.md:162:gestionan
+content/08b1. Dominio de datos.md:162:utilizan
+content/08b1. Dominio de datos.md:164:inconvenientes
+content/08b1. Dominio de datos.md:164:siguientes
+content/08b1. Dominio de datos.md:166:Datos
+content/08b1. Dominio de datos.md:166:desarrollar
+content/08b1. Dominio de datos.md:166:empresas
+content/08b1. Dominio de datos.md:166:fragmentados
+content/08b1. Dominio de datos.md:166:suelen
+content/08b1. Dominio de datos.md:167:aislados
+content/08b1. Dominio de datos.md:167:datos
+content/08b1. Dominio de datos.md:167:encuentran
+content/08b1. Dominio de datos.md:167:estos
+content/08b1. Dominio de datos.md:167:partir
+content/08b1. Dominio de datos.md:167:proyectos
+content/08b1. Dominio de datos.md:168:amplia
+content/08b1. Dominio de datos.md:168:consumidos
+content/08b1. Dominio de datos.md:168:por
+content/08b1. Dominio de datos.md:168:pueden
+content/08b1. Dominio de datos.md:168:segmentados
+content/08b1. Dominio de datos.md:168:ser
+content/08b1. Dominio de datos.md:168:tanto
+content/08b1. Dominio de datos.md:169:transversalmente
+content/08b1. Dominio de datos.md:171:datos
+content/08b1. Dominio de datos.md:171:datos
+content/08b1. Dominio de datos.md:171:El
+content/08b1. Dominio de datos.md:171:limitado
+content/08b1. Dominio de datos.md:171:procesamiento
+content/08b1. Dominio de datos.md:171:Procesamiento
+content/08b1. Dominio de datos.md:172:casos
+content/08b1. Dominio de datos.md:172:este
+content/08b1. Dominio de datos.md:172:limitada
+content/08b1. Dominio de datos.md:172:pensó
+content/08b1. Dominio de datos.md:172:tradicional
+content/08b1. Dominio de datos.md:172:una
+content/08b1. Dominio de datos.md:173:acceso
+content/08b1. Dominio de datos.md:173:Actualmente
+content/08b1. Dominio de datos.md:173:atributo
+content/08b1. Dominio de datos.md:173:datos
+content/08b1. Dominio de datos.md:173:el
+content/08b1. Dominio de datos.md:173:masivo
+content/08b1. Dominio de datos.md:173:restringe
+content/08b1. Dominio de datos.md:174:capacidades
+content/08b1. Dominio de datos.md:174:casos
+content/08b1. Dominio de datos.md:174:están
+content/08b1. Dominio de datos.md:174:modernos
+content/08b1. Dominio de datos.md:174:nuevas
+content/08b1. Dominio de datos.md:174:por
+content/08b1. Dominio de datos.md:174:requiriendo
+content/08b1. Dominio de datos.md:175:datos
+content/08b1. Dominio de datos.md:175:ejemplo
+content/08b1. Dominio de datos.md:175:tiempo
+content/08b1. Dominio de datos.md:175:transmisión
+content/08b1. Dominio de datos.md:177:comerciales
+content/08b1. Dominio de datos.md:177:misionales
+content/08b1. Dominio de datos.md:177:objetivos
+content/08b1. Dominio de datos.md:177:Separación
+content/08b1. Dominio de datos.md:178:áreas
+content/08b1. Dominio de datos.md:178:áreas
+content/08b1. Dominio de datos.md:178:datos
+content/08b1. Dominio de datos.md:178:negocio
+content/08b1. Dominio de datos.md:178:por
+content/08b1. Dominio de datos.md:178:técnicos
+content/08b1. Dominio de datos.md:178:vinculan
+content/08b1. Dominio de datos.md:179:iniciativas
+content/08b1. Dominio de datos.md:179:preguntas
+content/08b1. Dominio de datos.md:179:responder
+content/08b1. Dominio de datos.md:179:suelen
+content/08b1. Dominio de datos.md:179:sus
+content/08b1. Dominio de datos.md:179:tanto
+content/08b1. Dominio de datos.md:180:comerciales
+content/08b1. Dominio de datos.md:180:empresa
+content/08b1. Dominio de datos.md:182:analíticos
+content/08b1. Dominio de datos.md:182:debe
+content/08b1. Dominio de datos.md:182:el
+content/08b1. Dominio de datos.md:182:fracaso
+content/08b1. Dominio de datos.md:182:pequeños
+content/08b1. Dominio de datos.md:182:proyectos
+content/08b1. Dominio de datos.md:182:resumen
+content/08b1. Dominio de datos.md:183:botella
+content/08b1. Dominio de datos.md:183:cuellos
+content/08b1. Dominio de datos.md:183:demoras
+content/08b1. Dominio de datos.md:183:desconexiones
+content/08b1. Dominio de datos.md:183:grandes
+content/08b1. Dominio de datos.md:183:problemas
+content/08b1. Dominio de datos.md:184:alineación
+content/08b1. Dominio de datos.md:184:capacidad
+content/08b1. Dominio de datos.md:184:el
+content/08b1. Dominio de datos.md:184:escasa
+content/08b1. Dominio de datos.md:184:malentendidos
+content/08b1. Dominio de datos.md:184:negocio
+content/08b1. Dominio de datos.md:184:poca
+content/08b1. Dominio de datos.md:185:entre
+content/08b1. Dominio de datos.md:185:otros
+content/08b1. Dominio de datos.md:185:respuesta
+content/08b1. Dominio de datos.md:187:anteriores
+content/08b1. Dominio de datos.md:187:desafios
+content/08b1. Dominio de datos.md:187:gestión
+content/08b1. Dominio de datos.md:187:gobierno
+content/08b1. Dominio de datos.md:187:torno
+content/08b1. Dominio de datos.md:188:aruitecturas
+content/08b1. Dominio de datos.md:188:datos
+content/08b1. Dominio de datos.md:188:nuevo
+content/08b1. Dominio de datos.md:188:orientad
+content/08b1. Dominio de datos.md:188:paradigma
+content/08b1. Dominio de datos.md:188:plantea
+content/08b1. Dominio de datos.md:189:clave
+content/08b1. Dominio de datos.md:189:conocido
+content/08b1. Dominio de datos.md:189:modernas
+content/08b1. Dominio de datos.md:190:buscan
+content/08b1. Dominio de datos.md:190:darle
+content/08b1. Dominio de datos.md:190:negativas
+content/08b1. Dominio de datos.md:190:proyectosque
+content/08b1. Dominio de datos.md:190:tendencias
+content/08b1. Dominio de datos.md:190:vuelta
+content/08b1. Dominio de datos.md:191:basadas
+content/08b1. Dominio de datos.md:191:datos
+content/08b1. Dominio de datos.md:191:democratización
+content/08b1. Dominio de datos.md:191:descgiones
+content/08b1. Dominio de datos.md:191:toma
+content/08b1. Dominio de datos.md:193:Datos
+content/08b1. Dominio de datos.md:193:Malla
+content/08b1. Dominio de datos.md:195:alrededor
+content/08b1. Dominio de datos.md:195:concepto
+content/08b1. Dominio de datos.md:195:El
+content/08b1. Dominio de datos.md:195:mano
+content/08b1. Dominio de datos.md:195:surgió
+content/08b1. Dominio de datos.md:195:Zhamak
+content/08b1. Dominio de datos.md:196:Dehghani
+content/08b1. Dominio de datos.md:196:fundadora
+content/08b1. Dominio de datos.md:196:identificar
+content/08b1. Dominio de datos.md:196:puede
+content/08b1. Dominio de datos.md:196:quien
+content/08b1. Dominio de datos.md:198:alguna
+content/08b1. Dominio de datos.md:198:concepto
+content/08b1. Dominio de datos.md:198:eliminar
+content/08b1. Dominio de datos.md:198:este
+content/08b1. Dominio de datos.md:198:manera
+content/08b1. Dominio de datos.md:198:menos
+content/08b1. Dominio de datos.md:199:centralizados
+content/08b1. Dominio de datos.md:199:enfoques
+content/08b1. Dominio de datos.md:199:limitaciones
+content/08b1. Dominio de datos.md:199:minimizar
+content/08b1. Dominio de datos.md:199:monolíticos
+content/08b1. Dominio de datos.md:200:Arquitecturas
+content/08b1. Dominio de datos.md:200:Datos
+content/08b1. Dominio de datos.md:200:Plataformas
+content/08b1. Dominio de datos.md:200:utilizado
+content/08b1. Dominio de datos.md:201:datos
+content/08b1. Dominio de datos.md:201:Datos
+content/08b1. Dominio de datos.md:201:decir
+content/08b1. Dominio de datos.md:201:equipos
+content/08b1. Dominio de datos.md:201:Gestión
+content/08b1. Dominio de datos.md:202:equipo
+content/08b1. Dominio de datos.md:202:gestionados
+content/08b1. Dominio de datos.md:202:por
+content/08b1. Dominio de datos.md:203:adopción
+content/08b1. Dominio de datos.md:203:basado
+content/08b1. Dominio de datos.md:203:descentralizado
+content/08b1. Dominio de datos.md:203:modelo
+content/08b1. Dominio de datos.md:203:propone
+content/08b1. Dominio de datos.md:203:una
+content/08b1. Dominio de datos.md:204:áreas
+content/08b1. Dominio de datos.md:204:áreas
+content/08b1. Dominio de datos.md:204:arquitectura
+content/08b1. Dominio de datos.md:204:distribuida
+content/08b1. Dominio de datos.md:204:negocio
+content/08b1. Dominio de datos.md:204:responsabilidad
+content/08b1. Dominio de datos.md:205:datos
+content/08b1. Dominio de datos.md:205:descentralización
+content/08b1. Dominio de datos.md:205:dominios
+content/08b1. Dominio de datos.md:205:gobierno
+content/08b1. Dominio de datos.md:205:sobre
+content/08b1. Dominio de datos.md:205:sus
+content/08b1. Dominio de datos.md:206:concepto
+content/08b1. Dominio de datos.md:206:descomponer
+content/08b1. Dominio de datos.md:206:Esencialmente
+content/08b1. Dominio de datos.md:206:refiere
+content/08b1. Dominio de datos.md:207:almacenes
+content/08b1. Dominio de datos.md:207:datos
+content/08b1. Dominio de datos.md:207:descentralizadas
+content/08b1. Dominio de datos.md:207:más
+content/08b1. Dominio de datos.md:207:partes
+content/08b1. Dominio de datos.md:207:pequeñas
+content/08b1. Dominio de datos.md:209:deberíamos
+content/08b1. Dominio de datos.md:209:decir
+content/08b1. Dominio de datos.md:209:definir
+content/08b1. Dominio de datos.md:209:forma
+content/08b1. Dominio de datos.md:209:tenemos
+content/08b1. Dominio de datos.md:210:autoservicio
+content/08b1. Dominio de datos.md:210:construcción
+content/08b1. Dominio de datos.md:210:infraestructura
+content/08b1. Dominio de datos.md:210:permite
+content/08b1. Dominio de datos.md:210:una
+content/08b1. Dominio de datos.md:211:acceder
+content/08b1. Dominio de datos.md:211:bajo
+content/08b1. Dominio de datos.md:211:demanda
+content/08b1. Dominio de datos.md:211:equipos
+content/08b1. Dominio de datos.md:211:herramientas
+content/08b1. Dominio de datos.md:211:recursos
+content/08b1. Dominio de datos.md:211:utilizar
+content/08b1. Dominio de datos.md:212:analizarlos
+content/08b1. Dominio de datos.md:212:correctos
+content/08b1. Dominio de datos.md:212:datos
+content/08b1. Dominio de datos.md:212:prepararlos
+content/08b1. Dominio de datos.md:212:procesarlos
+content/08b1. Dominio de datos.md:214:definir
+content/08b1. Dominio de datos.md:214:el
+content/08b1. Dominio de datos.md:214:enfoque
+content/08b1. Dominio de datos.md:214:generales
+content/08b1. Dominio de datos.md:214:podemos
+content/08b1. Dominio de datos.md:214:términos
+content/08b1. Dominio de datos.md:215:acceso
+content/08b1. Dominio de datos.md:215:admite
+content/08b1. Dominio de datos.md:215:autoservicio
+content/08b1. Dominio de datos.md:215:democratizado
+content/08b1. Dominio de datos.md:215:descentralizado
+content/08b1. Dominio de datos.md:215:el
+content/08b1. Dominio de datos.md:216:datos
+content/08b1. Dominio de datos.md:216:dominio
+content/08b1. Dominio de datos.md:216:estos
+content/08b1. Dominio de datos.md:216:ordenados
+content/08b1. Dominio de datos.md:216:organización
+content/08b1. Dominio de datos.md:216:permanecen
+content/08b1. Dominio de datos.md:216:por
+content/08b1. Dominio de datos.md:216:una
+content/08b1. Dominio de datos.md:217:canalización
+content/08b1. Dominio de datos.md:217:comercial
+content/08b1. Dominio de datos.md:217:etapa
+content/08b1. Dominio de datos.md:217:por
+content/08b1. Dominio de datos.md:219:ayudan
+content/08b1. Dominio de datos.md:219:modelos
+content/08b1. Dominio de datos.md:219:obtener
+content/08b1. Dominio de datos.md:219:organizaciones
+content/08b1. Dominio de datos.md:220:cuando
+content/08b1. Dominio de datos.md:220:positivos
+content/08b1. Dominio de datos.md:220:resultados
+content/08b1. Dominio de datos.md:220:trata
+content/08b1. Dominio de datos.md:222:administrados
+content/08b1. Dominio de datos.md:222:datos
+content/08b1. Dominio de datos.md:222:dejar
+content/08b1. Dominio de datos.md:222:Garantizar
+content/08b1. Dominio de datos.md:222:propiedad
+content/08b1. Dominio de datos.md:223:entienden
+content/08b1. Dominio de datos.md:223:por
+content/08b1. Dominio de datos.md:223:usuarios
+content/08b1. Dominio de datos.md:225:correctos
+content/08b1. Dominio de datos.md:225:datos
+content/08b1. Dominio de datos.md:225:manos
+content/08b1. Dominio de datos.md:225:Poner
+content/08b1. Dominio de datos.md:225:usuarios
+content/08b1. Dominio de datos.md:226:necesitan
+content/08b1. Dominio de datos.md:228:agilidad
+content/08b1. Dominio de datos.md:228:organización
+content/08b1. Dominio de datos.md:228:Proveer
+content/08b1. Dominio de datos.md:228:toda
+content/08b1. Dominio de datos.md:228:una
+content/08b1. Dominio de datos.md:228:virtud
+content/08b1. Dominio de datos.md:229:autonomía
+content/08b1. Dominio de datos.md:229:cada
+content/08b1. Dominio de datos.md:229:datos
+content/08b1. Dominio de datos.md:229:equipo
+content/08b1. Dominio de datos.md:229:gana
+content/08b1. Dominio de datos.md:229:gobierno
+content/08b1. Dominio de datos.md:229:modelo
+content/08b1. Dominio de datos.md:230:autoservicio
+content/08b1. Dominio de datos.md:232:abiertas
+content/08b1. Dominio de datos.md:232:deben
+content/08b1. Dominio de datos.md:232:Dehgani
+content/08b1. Dominio de datos.md:232:empresas
+content/08b1. Dominio de datos.md:232:estar
+content/08b1. Dominio de datos.md:232:explica
+content/08b1. Dominio de datos.md:232:Zhamak
+content/08b1. Dominio de datos.md:233:allá
+content/08b1. Dominio de datos.md:233:datos
+content/08b1. Dominio de datos.md:233:más
+content/08b1. Dominio de datos.md:233:monolíticos
+content/08b1. Dominio de datos.md:233:posibilidad
+content/08b1. Dominio de datos.md:234:arquitectura
+content/08b1. Dominio de datos.md:234:buscar
+content/08b1. Dominio de datos.md:234:centralizados
+content/08b1. Dominio de datos.md:234:construcción
+content/08b1. Dominio de datos.md:234:decir
+content/08b1. Dominio de datos.md:234:una
+content/08b1. Dominio de datos.md:235:adopte
+content/08b1. Dominio de datos.md:235:datos
+content/08b1. Dominio de datos.md:235:espera
+content/08b1. Dominio de datos.md:235:realidad
+content/08b1. Dominio de datos.md:236:buena
+content/08b1. Dominio de datos.md:236:disponibilidad
+content/08b1. Dominio de datos.md:236:distribución
+content/08b1. Dominio de datos.md:236:ellos
+content/08b1. Dominio de datos.md:236:máxima
+content/08b1. Dominio de datos.md:238:características
+content/08b1. Dominio de datos.md:238:Características
+content/08b1. Dominio de datos.md:240:centralizado
+content/08b1. Dominio de datos.md:240:el
+content/08b1. Dominio de datos.md:240:patrón
+content/08b1. Dominio de datos.md:240:Tradicionalmente
+content/08b1. Dominio de datos.md:240:usado
+content/08b1. Dominio de datos.md:241:activos
+content/08b1. Dominio de datos.md:241:agregan
+content/08b1. Dominio de datos.md:241:crean
+content/08b1. Dominio de datos.md:241:datos
+content/08b1. Dominio de datos.md:241:datos
+content/08b1. Dominio de datos.md:241:ingenieros
+content/08b1. Dominio de datos.md:241:producto
+content/08b1. Dominio de datos.md:242:consumidores
+content/08b1. Dominio de datos.md:242:por
+content/08b1. Dominio de datos.md:242:pueda
+content/08b1. Dominio de datos.md:242:ser
+content/08b1. Dominio de datos.md:242:usado
+content/08b1. Dominio de datos.md:242:varios
+content/08b1. Dominio de datos.md:243:conocer
+content/08b1. Dominio de datos.md:243:contexto
+content/08b1. Dominio de datos.md:243:datos
+content/08b1. Dominio de datos.md:243:el
+content/08b1. Dominio de datos.md:243:tiempo
+content/08b1. Dominio de datos.md:244:enfoque
+content/08b1. Dominio de datos.md:244:este
+content/08b1. Dominio de datos.md:244:existiendo
+content/08b1. Dominio de datos.md:244:seguir
+content/08b1. Dominio de datos.md:246:anteriormente
+content/08b1. Dominio de datos.md:246:Aunque
+content/08b1. Dominio de datos.md:246:conlleva
+content/08b1. Dominio de datos.md:246:desafíos
+content/08b1. Dominio de datos.md:246:eso
+content/08b1. Dominio de datos.md:246:expuestos
+content/08b1. Dominio de datos.md:246:Por
+content/08b1. Dominio de datos.md:247:basada
+content/08b1. Dominio de datos.md:247:el
+content/08b1. Dominio de datos.md:247:el
+content/08b1. Dominio de datos.md:247:estrategia
+content/08b1. Dominio de datos.md:247:facilita
+content/08b1. Dominio de datos.md:247:propone
+content/08b1. Dominio de datos.md:247:tanto
+content/08b1. Dominio de datos.md:247:una
+content/08b1. Dominio de datos.md:248:acceso
+content/08b1. Dominio de datos.md:248:dato
+content/08b1. Dominio de datos.md:248:datos
+content/08b1. Dominio de datos.md:248:departamentos
+content/08b1. Dominio de datos.md:248:el
+content/08b1. Dominio de datos.md:248:entre
+content/08b1. Dominio de datos.md:248:organizaciones
+content/08b1. Dominio de datos.md:249:aproximación
+content/08b1. Dominio de datos.md:249:más
+content/08b1. Dominio de datos.md:249:mucho
+content/08b1. Dominio de datos.md:249:producto
+content/08b1. Dominio de datos.md:249:publica
+content/08b1. Dominio de datos.md:249:trata
+content/08b1. Dominio de datos.md:249:una
+content/08b1. Dominio de datos.md:250:acceder
+content/08b1. Dominio de datos.md:250:alguien
+content/08b1. Dominio de datos.md:250:cuando
+content/08b1. Dominio de datos.md:250:quiere
+content/08b1. Dominio de datos.md:250:sencilla
+content/08b1. Dominio de datos.md:250:tradicional
+content/08b1. Dominio de datos.md:251:datos
+content/08b1. Dominio de datos.md:251:debe
+content/08b1. Dominio de datos.md:251:dominio
+content/08b1. Dominio de datos.md:251:iniciar
+content/08b1. Dominio de datos.md:251:otra
+content/08b1. Dominio de datos.md:251:otro
+content/08b1. Dominio de datos.md:251:proceso
+content/08b1. Dominio de datos.md:251:unidad
+content/08b1. Dominio de datos.md:252:debe
+content/08b1. Dominio de datos.md:252:descubrimiento
+content/08b1. Dominio de datos.md:252:determinar
+content/08b1. Dominio de datos.md:252:hablar
+content/08b1. Dominio de datos.md:252:quién
+content/08b1. Dominio de datos.md:252:solicitar
+content/08b1. Dominio de datos.md:253:acceso
+content/08b1. Dominio de datos.md:253:permisos
+content/08b1. Dominio de datos.md:255:Además
+content/08b1. Dominio de datos.md:255:cambia
+content/08b1. Dominio de datos.md:255:creación
+content/08b1. Dominio de datos.md:255:producto
+content/08b1. Dominio de datos.md:255:también
+content/08b1. Dominio de datos.md:256:consumidores
+content/08b1. Dominio de datos.md:256:datos
+content/08b1. Dominio de datos.md:256:involucrados
+content/08b1. Dominio de datos.md:256:torno
+content/08b1. Dominio de datos.md:257:datos
+content/08b1. Dominio de datos.md:257:datos
+content/08b1. Dominio de datos.md:257:dominio
+content/08b1. Dominio de datos.md:257:productos
+content/08b1. Dominio de datos.md:257:propietario
+content/08b1. Dominio de datos.md:257:también
+content/08b1. Dominio de datos.md:258:definen
+content/08b1. Dominio de datos.md:258:el
+content/08b1. Dominio de datos.md:258:gobierno
+content/08b1. Dominio de datos.md:258:producto
+content/08b1. Dominio de datos.md:263:Componentes
+content/08b1. Dominio de datos.md:263:Ilustración
+content/08b1. Dominio de datos.md:265:características
+content/08b1. Dominio de datos.md:265:cuenta
+content/08b1. Dominio de datos.md:265:detallan
+content/08b1. Dominio de datos.md:265:Teniendo
+content/08b1. Dominio de datos.md:266:principales
+content/08b1. Dominio de datos.md:268:Áreas
+content/08b1. Dominio de datos.md:268:Áreas
+content/08b1. Dominio de datos.md:268:Dominios
+content/08b1. Dominio de datos.md:268:temáticas
+content/08b1. Dominio de datos.md:270:descomposición
+content/08b1. Dominio de datos.md:270:generales
+content/08b1. Dominio de datos.md:270:más
+content/08b1. Dominio de datos.md:270:modelos
+content/08b1. Dominio de datos.md:270:pequeños
+content/08b1. Dominio de datos.md:270:problemas
+content/08b1. Dominio de datos.md:271:datos
+content/08b1. Dominio de datos.md:271:ingeniería
+content/08b1. Dominio de datos.md:271:nueva
+content/08b1. Dominio de datos.md:271:una
+content/08b1. Dominio de datos.md:273:datos
+content/08b1. Dominio de datos.md:273:descomposición
+content/08b1. Dominio de datos.md:273:empresas
+content/08b1. Dominio de datos.md:273:frecuente
+content/08b1. Dominio de datos.md:273:opten
+content/08b1. Dominio de datos.md:273:por
+content/08b1. Dominio de datos.md:274:acuerdo
+content/08b1. Dominio de datos.md:274:área
+content/08b1. Dominio de datos.md:274:área
+content/08b1. Dominio de datos.md:274:complejos
+content/08b1. Dominio de datos.md:274:ejemplo
+content/08b1. Dominio de datos.md:274:evento
+content/08b1. Dominio de datos.md:274:por
+content/08b1. Dominio de datos.md:274:por
+content/08b1. Dominio de datos.md:274:temática
+content/08b1. Dominio de datos.md:275:bien
+content/08b1. Dominio de datos.md:275:enfoque
+content/08b1. Dominio de datos.md:275:este
+content/08b1. Dominio de datos.md:275:producto
+content/08b1. Dominio de datos.md:275:puede
+content/08b1. Dominio de datos.md:275:reutilización
+content/08b1. Dominio de datos.md:275:simplificar
+content/08b1. Dominio de datos.md:276:casos
+content/08b1. Dominio de datos.md:276:datos
+content/08b1. Dominio de datos.md:276:discusiones
+content/08b1. Dominio de datos.md:276:largas
+content/08b1. Dominio de datos.md:276:mayoría
+content/08b1. Dominio de datos.md:276:origina
+content/08b1. Dominio de datos.md:277:comunes
+content/08b1. Dominio de datos.md:277:datos
+content/08b1. Dominio de datos.md:277:determinar
+content/08b1. Dominio de datos.md:277:elementos
+content/08b1. Dominio de datos.md:277:engloben
+content/08b1. Dominio de datos.md:278:compartir
+content/08b1. Dominio de datos.md:278:usar
+content/08b1. Dominio de datos.md:280:datos
+content/08b1. Dominio de datos.md:280:descomponer
+content/08b1. Dominio de datos.md:280:dominios
+content/08b1. Dominio de datos.md:280:efectivo
+content/08b1. Dominio de datos.md:280:más
+content/08b1. Dominio de datos.md:280:Por
+content/08b1. Dominio de datos.md:280:puede
+content/08b1. Dominio de datos.md:280:ser
+content/08b1. Dominio de datos.md:280:tanto
+content/08b1. Dominio de datos.md:281:alineados
+content/08b1. Dominio de datos.md:281:comerciales
+content/08b1. Dominio de datos.md:281:estén
+content/08b1. Dominio de datos.md:281:misionales
+content/08b1. Dominio de datos.md:281:procesos
+content/08b1. Dominio de datos.md:282:áreas
+content/08b1. Dominio de datos.md:282:áreas
+content/08b1. Dominio de datos.md:282:cada
+content/08b1. Dominio de datos.md:282:dominio
+content/08b1. Dominio de datos.md:282:empresa
+content/08b1. Dominio de datos.md:282:esta
+content/08b1. Dominio de datos.md:282:implementar
+content/08b1. Dominio de datos.md:282:manera
+content/08b1. Dominio de datos.md:282:podría
+content/08b1. Dominio de datos.md:283:actividades
+content/08b1. Dominio de datos.md:283:aplicables
+content/08b1. Dominio de datos.md:283:propias
+content/08b1. Dominio de datos.md:283:sus
+content/08b1. Dominio de datos.md:283:temáticas
+content/08b1. Dominio de datos.md:285:agilidad
+content/08b1. Dominio de datos.md:285:dominio
+content/08b1. Dominio de datos.md:285:esquemas
+content/08b1. Dominio de datos.md:285:por
+content/08b1. Dominio de datos.md:285:proporcionar
+content/08b1. Dominio de datos.md:285:Separar
+content/08b1. Dominio de datos.md:287:adoptar
+content/08b1. Dominio de datos.md:287:diseño
+content/08b1. Dominio de datos.md:287:el
+content/08b1. Dominio de datos.md:287:principales
+content/08b1. Dominio de datos.md:287:Una
+content/08b1. Dominio de datos.md:287:ventajas
+content/08b1. Dominio de datos.md:288:agilidad
+content/08b1. Dominio de datos.md:290:arquitecturas
+content/08b1. Dominio de datos.md:290:basadas
+content/08b1. Dominio de datos.md:290:implementación
+content/08b1. Dominio de datos.md:291:cada
+content/08b1. Dominio de datos.md:291:crear
+content/08b1. Dominio de datos.md:291:dominio
+content/08b1. Dominio de datos.md:291:especialistas
+content/08b1. Dominio de datos.md:291:esquemas
+content/08b1. Dominio de datos.md:291:recomiendan
+content/08b1. Dominio de datos.md:291:separados
+content/08b1. Dominio de datos.md:292:administración
+content/08b1. Dominio de datos.md:292:datos
+content/08b1. Dominio de datos.md:292:modelado
+content/08b1. Dominio de datos.md:292:recae
+content/08b1. Dominio de datos.md:292:responsabilidad
+content/08b1. Dominio de datos.md:292:su
+content/08b1. Dominio de datos.md:293:cada
+content/08b1. Dominio de datos.md:293:dominio
+content/08b1. Dominio de datos.md:293:ellos
+content/08b1. Dominio de datos.md:293:encargarán
+content/08b1. Dominio de datos.md:293:específico
+content/08b1. Dominio de datos.md:293:negocio
+content/08b1. Dominio de datos.md:293:usuarios
+content/08b1. Dominio de datos.md:294:construcción
+content/08b1. Dominio de datos.md:296:colección
+content/08b1. Dominio de datos.md:296:esquemas
+content/08b1. Dominio de datos.md:296:parte
+content/08b1. Dominio de datos.md:296:por
+content/08b1. Dominio de datos.md:296:proporcionan
+content/08b1. Dominio de datos.md:296:su
+content/08b1. Dominio de datos.md:296:una
+content/08b1. Dominio de datos.md:297:alineados
+content/08b1. Dominio de datos.md:297:áreas
+content/08b1. Dominio de datos.md:297:áreas
+content/08b1. Dominio de datos.md:297:datos
+content/08b1. Dominio de datos.md:297:negocio
+content/08b1. Dominio de datos.md:297:productos
+content/08b1. Dominio de datos.md:299:dominios
+content/08b1. Dominio de datos.md:299:entre
+content/08b1. Dominio de datos.md:299:Integración
+content/08b1. Dominio de datos.md:301:contexto
+content/08b1. Dominio de datos.md:301:datos
+content/08b1. Dominio de datos.md:301:el
+content/08b1. Dominio de datos.md:301:negocio
+content/08b1. Dominio de datos.md:301:optimizar
+content/08b1. Dominio de datos.md:301:pueden
+content/08b1. Dominio de datos.md:302:dominio
+content/08b1. Dominio de datos.md:302:muchas
+content/08b1. Dominio de datos.md:302:oportunidades
+content/08b1. Dominio de datos.md:302:optimización
+content/08b1. Dominio de datos.md:302:procesos
+content/08b1. Dominio de datos.md:303:combinen
+content/08b1. Dominio de datos.md:303:comerciales
+content/08b1. Dominio de datos.md:303:datos
+content/08b1. Dominio de datos.md:303:límites
+content/08b1. Dominio de datos.md:303:requieren
+content/08b1. Dominio de datos.md:303:través
+content/08b1. Dominio de datos.md:304:estos
+content/08b1. Dominio de datos.md:304:funcionales
+content/08b1. Dominio de datos.md:304:geográficos
+content/08b1. Dominio de datos.md:304:hagan
+content/08b1. Dominio de datos.md:304:obstante
+content/08b1. Dominio de datos.md:304:procesos
+content/08b1. Dominio de datos.md:305:deben
+content/08b1. Dominio de datos.md:305:estrategia
+content/08b1. Dominio de datos.md:305:explícita
+content/08b1. Dominio de datos.md:305:organizaciones
+content/08b1. Dominio de datos.md:305:realidad
+content/08b1. Dominio de datos.md:305:tener
+content/08b1. Dominio de datos.md:305:una
+content/08b1. Dominio de datos.md:306:canalice
+content/08b1. Dominio de datos.md:306:dominios
+content/08b1. Dominio de datos.md:306:el
+content/08b1. Dominio de datos.md:306:entre
+content/08b1. Dominio de datos.md:306:intercambio
+content/08b1. Dominio de datos.md:308:datos
+content/08b1. Dominio de datos.md:308:empresariales
+content/08b1. Dominio de datos.md:308:productos
+content/08b1. Dominio de datos.md:308:Soporte
+content/08b1. Dominio de datos.md:310:datos
+content/08b1. Dominio de datos.md:310:empresariales
+content/08b1. Dominio de datos.md:310:multidominio
+content/08b1. Dominio de datos.md:310:presentan
+content/08b1. Dominio de datos.md:310:productos
+content/08b1. Dominio de datos.md:310:una
+content/08b1. Dominio de datos.md:311:atributo
+content/08b1. Dominio de datos.md:311:contribuye
+content/08b1. Dominio de datos.md:311:Este
+content/08b1. Dominio de datos.md:311:misionales
+content/08b1. Dominio de datos.md:311:optimización
+content/08b1. Dominio de datos.md:311:procesos
+content/08b1. Dominio de datos.md:312:datos
+content/08b1. Dominio de datos.md:312:Estos
+content/08b1. Dominio de datos.md:312:extremo
+content/08b1. Dominio de datos.md:312:extremo
+content/08b1. Dominio de datos.md:312:productos
+content/08b1. Dominio de datos.md:312:ser
+content/08b1. Dominio de datos.md:312:suelen
+content/08b1. Dominio de datos.md:313:adición
+content/08b1. Dominio de datos.md:313:datos
+content/08b1. Dominio de datos.md:313:multifuncionales
+content/08b1. Dominio de datos.md:313:múltiples
+content/08b1. Dominio de datos.md:313:requieren
+content/08b1. Dominio de datos.md:314:aplicaciones
+content/08b1. Dominio de datos.md:314:casos
+content/08b1. Dominio de datos.md:314:menudo
+content/08b1. Dominio de datos.md:314:múltiples
+content/08b1. Dominio de datos.md:314:tienen
+content/08b1. Dominio de datos.md:316:frecuencia
+content/08b1. Dominio de datos.md:316:Por
+content/08b1. Dominio de datos.md:316:propicios
+content/08b1. Dominio de datos.md:316:reutilizados
+content/08b1. Dominio de datos.md:316:ser
+content/08b1. Dominio de datos.md:316:tanto
+content/08b1. Dominio de datos.md:317:dominios
+content/08b1. Dominio de datos.md:317:varios
+content/08b1. Dominio de datos.md:319:subtipos
+content/08b1. Dominio de datos.md:319:Supertipos
+content/08b1. Dominio de datos.md:321:datos
+content/08b1. Dominio de datos.md:321:empresariales
+content/08b1. Dominio de datos.md:321:entregar
+content/08b1. Dominio de datos.md:321:exitosos
+content/08b1. Dominio de datos.md:321:necesario
+content/08b1. Dominio de datos.md:321:productos
+content/08b1. Dominio de datos.md:322:agregar
+content/08b1. Dominio de datos.md:322:combinar
+content/08b1. Dominio de datos.md:322:datos
+content/08b1. Dominio de datos.md:322:dominio
+content/08b1. Dominio de datos.md:322:equipos
+content/08b1. Dominio de datos.md:322:involucrados
+content/08b1. Dominio de datos.md:322:puedan
+content/08b1. Dominio de datos.md:323:confiable
+content/08b1. Dominio de datos.md:323:dominios
+content/08b1. Dominio de datos.md:323:enfoque
+content/08b1. Dominio de datos.md:323:esto
+content/08b1. Dominio de datos.md:323:lograr
+content/08b1. Dominio de datos.md:323:manera
+content/08b1. Dominio de datos.md:323:múltiples
+content/08b1. Dominio de datos.md:324:crear
+content/08b1. Dominio de datos.md:324:cuenta
+content/08b1. Dominio de datos.md:324:datos
+content/08b1. Dominio de datos.md:324:empresariales
+content/08b1. Dominio de datos.md:324:producto
+content/08b1. Dominio de datos.md:324:sería
+content/08b1. Dominio de datos.md:324:Supertype
+content/08b1. Dominio de datos.md:325:datos
+content/08b1. Dominio de datos.md:325:dominios
+content/08b1. Dominio de datos.md:325:Este
+content/08b1. Dominio de datos.md:325:producto
+content/08b1. Dominio de datos.md:325:todos
+content/08b1. Dominio de datos.md:325:través
+content/08b1. Dominio de datos.md:326:atributos
+content/08b1. Dominio de datos.md:326:cada
+content/08b1. Dominio de datos.md:326:comunes
+content/08b1. Dominio de datos.md:326:contendría
+content/08b1. Dominio de datos.md:326:dominio
+content/08b1. Dominio de datos.md:326:dominios
+content/08b1. Dominio de datos.md:326:Luego
+content/08b1. Dominio de datos.md:326:todos
+content/08b1. Dominio de datos.md:327:administraría
+content/08b1. Dominio de datos.md:327:cuenta
+content/08b1. Dominio de datos.md:327:datos
+content/08b1. Dominio de datos.md:327:producto
+content/08b1. Dominio de datos.md:327:propio
+content/08b1. Dominio de datos.md:327:su
+content/08b1. Dominio de datos.md:327:subtipo
+content/08b1. Dominio de datos.md:328:adicionales
+content/08b1. Dominio de datos.md:328:atributos
+content/08b1. Dominio de datos.md:328:específicos
+content/08b1. Dominio de datos.md:330:consistencia
+content/08b1. Dominio de datos.md:330:enfoque
+content/08b1. Dominio de datos.md:330:entre
+content/08b1. Dominio de datos.md:330:Este
+content/08b1. Dominio de datos.md:330:grado
+content/08b1. Dominio de datos.md:330:importante
+content/08b1. Dominio de datos.md:330:impulsa
+content/08b1. Dominio de datos.md:331:aplican
+content/08b1. Dominio de datos.md:331:claves
+content/08b1. Dominio de datos.md:331:dominios
+content/08b1. Dominio de datos.md:331:respalden
+content/08b1. Dominio de datos.md:331:unión
+content/08b1. Dominio de datos.md:332:asegura
+content/08b1. Dominio de datos.md:332:asimismo
+content/08b1. Dominio de datos.md:332:ser
+content/08b1. Dominio de datos.md:332:suficientemente
+content/08b1. Dominio de datos.md:332:supertipos
+content/08b1. Dominio de datos.md:333:amplíen
+content/08b1. Dominio de datos.md:333:áreas
+content/08b1. Dominio de datos.md:333:áreas
+content/08b1. Dominio de datos.md:333:comerciales
+content/08b1. Dominio de datos.md:333:datos
+content/08b1. Dominio de datos.md:333:dominios
+content/08b1. Dominio de datos.md:333:productos
+content/08b1. Dominio de datos.md:333:sus
+content/08b1. Dominio de datos.md:334:necesario
+content/08b1. Dominio de datos.md:334:según
+content/08b1. Dominio de datos.md:334:subtipos
+content/08b1. Dominio de datos.md:336:Buen
+content/08b1. Dominio de datos.md:336:correctos
+content/08b1. Dominio de datos.md:336:estándares
+content/08b1. Dominio de datos.md:336:gobierno
+content/08b1. Dominio de datos.md:338:datos
+content/08b1. Dominio de datos.md:338:estraegías
+content/08b1. Dominio de datos.md:338:iniciativas
+content/08b1. Dominio de datos.md:338:transformación
+content/08b1. Dominio de datos.md:339:entre
+content/08b1. Dominio de datos.md:339:están
+content/08b1. Dominio de datos.md:339:incrementando
+content/08b1. Dominio de datos.md:339:integraciones
+content/08b1. Dominio de datos.md:339:más
+content/08b1. Dominio de datos.md:339:modernas
+content/08b1. Dominio de datos.md:339:necesidad
+content/08b1. Dominio de datos.md:340:dominios
+content/08b1. Dominio de datos.md:342:coherente
+content/08b1. Dominio de datos.md:342:Desarrollar
+content/08b1. Dominio de datos.md:342:interfuncional
+content/08b1. Dominio de datos.md:342:operaciones
+content/08b1. Dominio de datos.md:342:una
+content/08b1. Dominio de datos.md:342:visión
+content/08b1. Dominio de datos.md:343:conectados
+content/08b1. Dominio de datos.md:343:datos
+content/08b1. Dominio de datos.md:343:estén
+content/08b1. Dominio de datos.md:343:requiere
+content/08b1. Dominio de datos.md:343:tanto
+content/08b1. Dominio de datos.md:343:técnica
+content/08b1. Dominio de datos.md:344:consistencia
+content/08b1. Dominio de datos.md:344:implementación
+content/08b1. Dominio de datos.md:344:semánticamente
+content/08b1. Dominio de datos.md:344:través
+content/08b1. Dominio de datos.md:345:coordinado
+content/08b1. Dominio de datos.md:345:dominios
+content/08b1. Dominio de datos.md:345:enfoque
+content/08b1. Dominio de datos.md:345:espontáneamente
+content/08b1. Dominio de datos.md:345:requiere
+content/08b1. Dominio de datos.md:346:datos
+content/08b1. Dominio de datos.md:346:el
+content/08b1. Dominio de datos.md:346:gobierno
+content/08b1. Dominio de datos.md:346:negocio
+content/08b1. Dominio de datos.md:346:por
+content/08b1. Dominio de datos.md:348:aprovechar
+content/08b1. Dominio de datos.md:348:Asimismo
+content/08b1. Dominio de datos.md:348:éxito
+content/08b1. Dominio de datos.md:348:experiencia
+content/08b1. Dominio de datos.md:348:requiere
+content/08b1. Dominio de datos.md:348:técnica
+content/08b1. Dominio de datos.md:349:datos
+content/08b1. Dominio de datos.md:349:efectiva
+content/08b1. Dominio de datos.md:349:gestión
+content/08b1. Dominio de datos.md:349:herramientas
+content/08b1. Dominio de datos.md:349:implementar
+content/08b1. Dominio de datos.md:349:manera
+content/08b1. Dominio de datos.md:350:datos
+content/08b1. Dominio de datos.md:350:dominios
+content/08b1. Dominio de datos.md:350:entre
+content/08b1. Dominio de datos.md:350:gobernanza
+content/08b1. Dominio de datos.md:352:Cada
+content/08b1. Dominio de datos.md:352:calidad
+content/08b1. Dominio de datos.md:352:desarrollar
+content/08b1. Dominio de datos.md:352:dominio
+content/08b1. Dominio de datos.md:352:necesitará
+content/08b1. Dominio de datos.md:352:procesos
+content/08b1. Dominio de datos.md:352:soporte
+content/08b1. Dominio de datos.md:353:datos
+content/08b1. Dominio de datos.md:353:diseño
+content/08b1. Dominio de datos.md:353:estructuras
+content/08b1. Dominio de datos.md:353:otros
+content/08b1. Dominio de datos.md:353:reconciliación
+content/08b1. Dominio de datos.md:353:sumados
+content/08b1. Dominio de datos.md:354:arquitectura
+content/08b1. Dominio de datos.md:354:elementos
+content/08b1. Dominio de datos.md:356:pilares
+content/08b1. Dominio de datos.md:356:Pilares
+content/08b1. Dominio de datos.md:358:centra
+content/08b1. Dominio de datos.md:358:cuales
+content/08b1. Dominio de datos.md:358:estrategia
+content/08b1. Dominio de datos.md:358:pilares
+content/08b1. Dominio de datos.md:359:continuación
+content/08b1. Dominio de datos.md:359:describen
+content/08b1. Dominio de datos.md:361:dominio
+content/08b1. Dominio de datos.md:361:el
+content/08b1. Dominio de datos.md:361:el
+content/08b1. Dominio de datos.md:361:impulsada
+content/08b1. Dominio de datos.md:361:por
+content/08b1. Dominio de datos.md:361:principio
+content/08b1. Dominio de datos.md:361:Propiedad
+content/08b1. Dominio de datos.md:362:datos
+content/08b1. Dominio de datos.md:362:el
+content/08b1. Dominio de datos.md:362:poder
+content/08b1. Dominio de datos.md:362:propiedad
+content/08b1. Dominio de datos.md:362:transferir
+content/08b1. Dominio de datos.md:363:decir
+content/08b1. Dominio de datos.md:363:departamentos
+content/08b1. Dominio de datos.md:363:dominio
+content/08b1. Dominio de datos.md:363:equipos
+content/08b1. Dominio de datos.md:363:manos
+content/08b1. Dominio de datos.md:363:unidades
+content/08b1. Dominio de datos.md:364:datos
+content/08b1. Dominio de datos.md:364:dueños
+content/08b1. Dominio de datos.md:364:Ellos
+content/08b1. Dominio de datos.md:364:extremo
+content/08b1. Dominio de datos.md:364:negocio
+content/08b1. Dominio de datos.md:364:serán
+content/08b1. Dominio de datos.md:365:asegurarse
+content/08b1. Dominio de datos.md:365:correctas
+content/08b1. Dominio de datos.md:365:desde
+content/08b1. Dominio de datos.md:365:hasta
+content/08b1. Dominio de datos.md:365:otro
+content/08b1. Dominio de datos.md:365:podrán
+content/08b1. Dominio de datos.md:365:tener
+content/08b1. Dominio de datos.md:366:datos
+content/08b1. Dominio de datos.md:366:entrega
+content/08b1. Dominio de datos.md:366:necesarios
+content/08b1. Dominio de datos.md:366:procesamientos
+content/08b1. Dominio de datos.md:367:aprovechen
+content/08b1. Dominio de datos.md:367:dominio
+content/08b1. Dominio de datos.md:367:equipos
+content/08b1. Dominio de datos.md:367:otros
+content/08b1. Dominio de datos.md:367:productos
+content/08b1. Dominio de datos.md:369:Datos
+content/08b1. Dominio de datos.md:369:dominio
+content/08b1. Dominio de datos.md:369:equipos
+content/08b1. Dominio de datos.md:369:producto
+content/08b1. Dominio de datos.md:369:responsables
+content/08b1. Dominio de datos.md:370:datos
+content/08b1. Dominio de datos.md:370:datos
+content/08b1. Dominio de datos.md:370:El
+content/08b1. Dominio de datos.md:370:productos
+content/08b1. Dominio de datos.md:370:resultantes
+content/08b1. Dominio de datos.md:370:también
+content/08b1. Dominio de datos.md:371:cada
+content/08b1. Dominio de datos.md:371:datos
+content/08b1. Dominio de datos.md:371:descubierto
+content/08b1. Dominio de datos.md:371:lograr
+content/08b1. Dominio de datos.md:371:objetivo
+content/08b1. Dominio de datos.md:371:producto
+content/08b1. Dominio de datos.md:372:consumidores
+content/08b1. Dominio de datos.md:372:dominio
+content/08b1. Dominio de datos.md:372:el
+content/08b1. Dominio de datos.md:372:equipos
+content/08b1. Dominio de datos.md:372:otros
+content/08b1. Dominio de datos.md:372:por
+content/08b1. Dominio de datos.md:373:actualizar
+content/08b1. Dominio de datos.md:373:dominio
+content/08b1. Dominio de datos.md:373:mantener
+content/08b1. Dominio de datos.md:373:propietario
+content/08b1. Dominio de datos.md:373:responsable
+content/08b1. Dominio de datos.md:374:calidad
+content/08b1. Dominio de datos.md:374:desaprobar
+content/08b1. Dominio de datos.md:374:estos
+content/08b1. Dominio de datos.md:374:garantizar
+content/08b1. Dominio de datos.md:374:productos
+content/08b1. Dominio de datos.md:375:precisión
+content/08b1. Dominio de datos.md:377:autoservicio
+content/08b1. Dominio de datos.md:377:autoservicio
+content/08b1. Dominio de datos.md:377:Infraestructura
+content/08b1. Dominio de datos.md:377:todo
+content/08b1. Dominio de datos.md:378:complejas
+content/08b1. Dominio de datos.md:378:hace
+content/08b1. Dominio de datos.md:378:olvidemos
+content/08b1. Dominio de datos.md:378:siempre
+content/08b1. Dominio de datos.md:378:tecnologías
+content/08b1. Dominio de datos.md:379:basa
+content/08b1. Dominio de datos.md:379:El
+content/08b1. Dominio de datos.md:379:habilidades
+content/08b1. Dominio de datos.md:379:nicho
+content/08b1. Dominio de datos.md:379:por
+content/08b1. Dominio de datos.md:379:principio
+content/08b1. Dominio de datos.md:380:común
+content/08b1. Dominio de datos.md:380:conjunto
+content/08b1. Dominio de datos.md:380:datos
+content/08b1. Dominio de datos.md:380:gestión
+content/08b1. Dominio de datos.md:380:mediante
+content/08b1. Dominio de datos.md:380:plataforma
+content/08b1. Dominio de datos.md:380:una
+content/08b1. Dominio de datos.md:380:una
+content/08b1. Dominio de datos.md:381:aprovechar
+content/08b1. Dominio de datos.md:381:cualquier
+content/08b1. Dominio de datos.md:381:dominio
+content/08b1. Dominio de datos.md:381:equipo
+content/08b1. Dominio de datos.md:381:herramientas
+content/08b1. Dominio de datos.md:381:pueda
+content/08b1. Dominio de datos.md:383:controles
+content/08b1. Dominio de datos.md:383:eliminar
+content/08b1. Dominio de datos.md:383:federada
+content/08b1. Dominio de datos.md:383:Gobernanza
+content/08b1. Dominio de datos.md:383:queremos
+content/08b1. Dominio de datos.md:383:verdad
+content/08b1. Dominio de datos.md:384:acceso
+content/08b1. Dominio de datos.md:384:controles
+content/08b1. Dominio de datos.md:384:entre
+content/08b1. Dominio de datos.md:384:equilibrio
+content/08b1. Dominio de datos.md:384:necesitamos
+content/08b1. Dominio de datos.md:384:políticas
+content/08b1. Dominio de datos.md:385:creación
+content/08b1. Dominio de datos.md:385:dominio
+content/08b1. Dominio de datos.md:385:gobernanza
+content/08b1. Dominio de datos.md:385:posibilidad
+content/08b1. Dominio de datos.md:386:Esto
+content/08b1. Dominio de datos.md:386:federada
+content/08b1. Dominio de datos.md:386:gobernanza
+content/08b1. Dominio de datos.md:386:llamamos
+content/08b1. Dominio de datos.md:386:productos
+content/08b1. Dominio de datos.md:387:el
+content/08b1. Dominio de datos.md:387:garantizar
+content/08b1. Dominio de datos.md:387:práctica
+content/08b1. Dominio de datos.md:387:privacidad
+content/08b1. Dominio de datos.md:388:cumplimiento
+content/08b1. Dominio de datos.md:388:escalar
+content/08b1. Dominio de datos.md:388:posibilidad
+content/08b1. Dominio de datos.md:393:Ilustración
+content/08b1. Dominio de datos.md:393:Pilares
+content/08b1. Dominio de datos.md:395:arquitectura
+content/08b1. Dominio de datos.md:395:Arquitectura
+content/08b1. Dominio de datos.md:395:basada
+content/08b1. Dominio de datos.md:395:basada
+content/08b1. Dominio de datos.md:395:candidata
+content/08b1. Dominio de datos.md:395:Candidata
+content/08b1. Dominio de datos.md:397:arquitectura
+content/08b1. Dominio de datos.md:397:basada
+content/08b1. Dominio de datos.md:397:el
+content/08b1. Dominio de datos.md:397:FNA
+content/08b1. Dominio de datos.md:397:propuesta
+content/08b1. Dominio de datos.md:398:componentes
+content/08b1. Dominio de datos.md:398:ilustra
+content/08b1. Dominio de datos.md:398:siguientes
+content/08b1. Dominio de datos.md:400:basada
+content/08b1. Dominio de datos.md:400:Dominios
+content/08b1. Dominio de datos.md:400:negocio
+content/08b1. Dominio de datos.md:400:Negocios
+content/08b1. Dominio de datos.md:400:unidades
+content/08b1. Dominio de datos.md:401:Ahorro
+content/08b1. Dominio de datos.md:401:datos
+content/08b1. Dominio de datos.md:401:definición
+content/08b1. Dominio de datos.md:401:Fondo
+content/08b1. Dominio de datos.md:401:Nacional
+content/08b1. Dominio de datos.md:401:Teniendo
+content/08b1. Dominio de datos.md:402:arquitectura
+content/08b1. Dominio de datos.md:402:cuenta
+content/08b1. Dominio de datos.md:402:definida
+content/08b1. Dominio de datos.md:402:el
+content/08b1. Dominio de datos.md:402:negocio
+content/08b1. Dominio de datos.md:402:presente
+content/08b1. Dominio de datos.md:403:cesantías
+content/08b1. Dominio de datos.md:403:Crédito
+content/08b1. Dominio de datos.md:403:documento
+content/08b1. Dominio de datos.md:403:dominios
+content/08b1. Dominio de datos.md:403:plantean
+content/08b1. Dominio de datos.md:403:siguientes
+content/08b1. Dominio de datos.md:404:ahorro
+content/08b1. Dominio de datos.md:404:cliente
+content/08b1. Dominio de datos.md:404:comercial
+content/08b1. Dominio de datos.md:404:financiera
+content/08b1. Dominio de datos.md:404:operación
+content/08b1. Dominio de datos.md:406:Consumidores
+content/08b1. Dominio de datos.md:406:Datos
+content/08b1. Dominio de datos.md:406:Definidos
+content/08b1. Dominio de datos.md:406:necesitan
+content/08b1. Dominio de datos.md:407:consumidores
+content/08b1. Dominio de datos.md:407:datos
+content/08b1. Dominio de datos.md:407:decisiones
+content/08b1. Dominio de datos.md:407:sobre
+content/08b1. Dominio de datos.md:407:tomar
+content/08b1. Dominio de datos.md:408:datos
+content/08b1. Dominio de datos.md:408:delos
+content/08b1. Dominio de datos.md:408:estratégicos
+content/08b1. Dominio de datos.md:408:hacer
+content/08b1. Dominio de datos.md:408:necesitar
+content/08b1. Dominio de datos.md:408:productos
+content/08b1. Dominio de datos.md:409:el
+content/08b1. Dominio de datos.md:409:generados
+content/08b1. Dominio de datos.md:409:por
+content/08b1. Dominio de datos.md:411:Capacidad
+content/08b1. Dominio de datos.md:411:Ciencia
+content/08b1. Dominio de datos.md:411:datos
+content/08b1. Dominio de datos.md:411:Inteligencia
+content/08b1. Dominio de datos.md:411:Negocios
+content/08b1. Dominio de datos.md:412:encuentra
+content/08b1. Dominio de datos.md:412:Estrategia
+content/08b1. Dominio de datos.md:412:implementada
+content/08b1. Dominio de datos.md:412:inteligencia
+content/08b1. Dominio de datos.md:412:negocios
+content/08b1. Dominio de datos.md:413:alertas
+content/08b1. Dominio de datos.md:413:donde
+content/08b1. Dominio de datos.md:413:generar
+content/08b1. Dominio de datos.md:413:permitiendo
+content/08b1. Dominio de datos.md:413:reportes
+content/08b1. Dominio de datos.md:413:tableros
+content/08b1. Dominio de datos.md:414:apreciar
+content/08b1. Dominio de datos.md:414:diferentes
+content/08b1. Dominio de datos.md:414:gestión
+content/08b1. Dominio de datos.md:414:indicadores
+content/08b1. Dominio de datos.md:414:medir
+content/08b1. Dominio de datos.md:414:permiten
+content/08b1. Dominio de datos.md:414:puedan
+content/08b1. Dominio de datos.md:415:ciencia
+content/08b1. Dominio de datos.md:415:datos
+content/08b1. Dominio de datos.md:415:estrategia
+content/08b1. Dominio de datos.md:415:lado
+content/08b1. Dominio de datos.md:415:otro
+content/08b1. Dominio de datos.md:415:Por
+content/08b1. Dominio de datos.md:415:provee
+content/08b1. Dominio de datos.md:416:desarrollo
+content/08b1. Dominio de datos.md:416:diseño
+content/08b1. Dominio de datos.md:416:el
+content/08b1. Dominio de datos.md:416:implementación
+content/08b1. Dominio de datos.md:416:metodología
+content/08b1. Dominio de datos.md:417:cognitivos
+content/08b1. Dominio de datos.md:417:descriptivos
+content/08b1. Dominio de datos.md:417:mantenimiento
+content/08b1. Dominio de datos.md:417:modelos
+content/08b1. Dominio de datos.md:417:predictivos
+content/08b1. Dominio de datos.md:418:analítica
+content/08b1. Dominio de datos.md:418:avanzada
+content/08b1. Dominio de datos.md:420:Arquitectura
+content/08b1. Dominio de datos.md:420:capas
+content/08b1. Dominio de datos.md:420:compuesta
+content/08b1. Dominio de datos.md:420:Está
+content/08b1. Dominio de datos.md:420:por
+content/08b1. Dominio de datos.md:420:tres
+content/08b1. Dominio de datos.md:421:almacenes
+content/08b1. Dominio de datos.md:421:datos
+content/08b1. Dominio de datos.md:421:datos
+content/08b1. Dominio de datos.md:421:integración
+content/08b1. Dominio de datos.md:421:productos
+content/08b1. Dominio de datos.md:422:datos
+content/08b1. Dominio de datos.md:422:datos
+content/08b1. Dominio de datos.md:422:interoperabilidad
+content/08b1. Dominio de datos.md:424:Almacenes
+content/08b1. Dominio de datos.md:424:datos
+content/08b1. Dominio de datos.md:424:datos
+content/08b1. Dominio de datos.md:424:estructurados
+content/08b1. Dominio de datos.md:424:Repositorios
+content/08b1. Dominio de datos.md:425:donde
+content/08b1. Dominio de datos.md:425:estructurados
+content/08b1. Dominio de datos.md:425:persisten
+content/08b1. Dominio de datos.md:425:semiestructurados
+content/08b1. Dominio de datos.md:426:datos
+content/08b1. Dominio de datos.md:426:diferentes
+content/08b1. Dominio de datos.md:426:Estos
+content/08b1. Dominio de datos.md:426:productos
+content/08b1. Dominio de datos.md:426:productos
+content/08b1. Dominio de datos.md:426:pueden
+content/08b1. Dominio de datos.md:426:ser
+content/08b1. Dominio de datos.md:426:tableros
+content/08b1. Dominio de datos.md:427:analíticos
+content/08b1. Dominio de datos.md:427:dominio
+content/08b1. Dominio de datos.md:427:específico
+content/08b1. Dominio de datos.md:427:modelos
+content/08b1. Dominio de datos.md:428:archivo
+content/08b1. Dominio de datos.md:428:basada
+content/08b1. Dominio de datos.md:428:decisiones
+content/08b1. Dominio de datos.md:428:incluso
+content/08b1. Dominio de datos.md:428:permitan
+content/08b1. Dominio de datos.md:428:reportes
+content/08b1. Dominio de datos.md:428:toma
+content/08b1. Dominio de datos.md:429:datos
+content/08b1. Dominio de datos.md:429:incluso
+content/08b1. Dominio de datos.md:429:mismos
+content/08b1. Dominio de datos.md:429:monetización
+content/08b1. Dominio de datos.md:431:el
+content/08b1. Dominio de datos.md:431:Integración
+content/08b1. Dominio de datos.md:431:interoperabilidad
+content/08b1. Dominio de datos.md:431:Mecanismos
+content/08b1. Dominio de datos.md:431:permiten
+content/08b1. Dominio de datos.md:432:arquitectura
+content/08b1. Dominio de datos.md:432:capas
+content/08b1. Dominio de datos.md:432:datos
+content/08b1. Dominio de datos.md:432:entre
+content/08b1. Dominio de datos.md:432:Estas
+content/08b1. Dominio de datos.md:432:intercambio
+content/08b1. Dominio de datos.md:433:cercanas
+content/08b1. Dominio de datos.md:433:pueden
+content/08b1. Dominio de datos.md:433:ser
+content/08b1. Dominio de datos.md:433:tiempo
+content/08b1. Dominio de datos.md:434:dependiente
+content/08b1. Dominio de datos.md:434:funcionales
+content/08b1. Dominio de datos.md:434:producto
+content/08b1. Dominio de datos.md:434:requerimientos
+content/08b1. Dominio de datos.md:435:Basicamente
+content/08b1. Dominio de datos.md:435:construir
+content/08b1. Dominio de datos.md:435:datos
+content/08b1. Dominio de datos.md:435:datos
+content/08b1. Dominio de datos.md:435:desde
+content/08b1. Dominio de datos.md:435:flujos
+content/08b1. Dominio de datos.md:435:permiten
+content/08b1. Dominio de datos.md:436:almacenes
+content/08b1. Dominio de datos.md:436:datos
+content/08b1. Dominio de datos.md:436:hacia
+content/08b1. Dominio de datos.md:436:repositorios
+content/08b1. Dominio de datos.md:438:Conformado
+content/08b1. Dominio de datos.md:438:Datos
+content/08b1. Dominio de datos.md:438:diferentes
+content/08b1. Dominio de datos.md:438:por
+content/08b1. Dominio de datos.md:439:el
+content/08b1. Dominio de datos.md:439:generación
+content/08b1. Dominio de datos.md:439:información
+content/08b1. Dominio de datos.md:439:insumo
+content/08b1. Dominio de datos.md:440:conformadas
+content/08b1. Dominio de datos.md:440:datos
+content/08b1. Dominio de datos.md:440:ejemplo
+content/08b1. Dominio de datos.md:440:están
+content/08b1. Dominio de datos.md:440:Estas
+content/08b1. Dominio de datos.md:440:por
+content/08b1. Dominio de datos.md:440:por
+content/08b1. Dominio de datos.md:440:productos
+content/08b1. Dominio de datos.md:441:Cobis
+content/08b1. Dominio de datos.md:441:datos
+content/08b1. Dominio de datos.md:441:misionales
+content/08b1. Dominio de datos.md:441:sistemas
+content/08b1. Dominio de datos.md:442:corporativa
+content/08b1. Dominio de datos.md:442:datalake
+content/08b1. Dominio de datos.md:442:el
+content/08b1. Dominio de datos.md:442:esta
+content/08b1. Dominio de datos.md:442:forma
+content/08b1. Dominio de datos.md:442:incluso
+content/08b1. Dominio de datos.md:442:integra
+content/08b1. Dominio de datos.md:443:datos
+content/08b1. Dominio de datos.md:443:estrategia
+content/08b1. Dominio de datos.md:443:FNA
+content/08b1. Dominio de datos.md:443:gestión
+content/08b1. Dominio de datos.md:443:propuesta
+content/08b1. Dominio de datos.md:444:arquitectura
+content/08b1. Dominio de datos.md:444:datos
+content/08b1. Dominio de datos.md:444:Donde
+content/08b1. Dominio de datos.md:445:datos
+content/08b1. Dominio de datos.md:445:fuente
+content/08b1. Dominio de datos.md:445:información
+content/08b1. Dominio de datos.md:445:malla
+content/08b1. Dominio de datos.md:447:correcta
+content/08b1. Dominio de datos.md:447:datos
+content/08b1. Dominio de datos.md:447:ecosistema
+content/08b1. Dominio de datos.md:447:el
+content/08b1. Dominio de datos.md:447:gestión
+content/08b1. Dominio de datos.md:447:medio
+content/08b1. Dominio de datos.md:447:Por
+content/08b1. Dominio de datos.md:447:una
+content/08b1. Dominio de datos.md:448:capacidades
+content/08b1. Dominio de datos.md:448:datos
+content/08b1. Dominio de datos.md:448:FNA
+content/08b1. Dominio de datos.md:448:gestión
+content/08b1. Dominio de datos.md:448:propone
+content/08b1. Dominio de datos.md:448:unas
+content/08b1. Dominio de datos.md:449:cual
+content/08b1. Dominio de datos.md:449:cumplir
+content/08b1. Dominio de datos.md:449:organizacionales
+content/08b1. Dominio de datos.md:449:permitirá
+content/08b1. Dominio de datos.md:449:procesos
+content/08b1. Dominio de datos.md:449:soportar
+content/08b1. Dominio de datos.md:450:datos
+content/08b1. Dominio de datos.md:450:desarrollados
+content/08b1. Dominio de datos.md:450:el
+content/08b1. Dominio de datos.md:450:gobierno
+content/08b1. Dominio de datos.md:450:objetivos
+content/08b1. Dominio de datos.md:451:activos
+content/08b1. Dominio de datos.md:451:controlar
+content/08b1. Dominio de datos.md:451:datos
+content/08b1. Dominio de datos.md:451:el
+content/08b1. Dominio de datos.md:451:optimizar
+content/08b1. Dominio de datos.md:451:proteger
+content/08b1. Dominio de datos.md:452:calidad
+content/08b1. Dominio de datos.md:452:capacidades
+content/08b1. Dominio de datos.md:452:datos
+content/08b1. Dominio de datos.md:452:Dentro
+content/08b1. Dominio de datos.md:452:encuentran
+content/08b1. Dominio de datos.md:452:estas
+content/08b1. Dominio de datos.md:453:continuación
+content/08b1. Dominio de datos.md:453:datos
+content/08b1. Dominio de datos.md:453:gestión
+content/08b1. Dominio de datos.md:453:referencia
+content/08b1. Dominio de datos.md:453:seguridad
+content/08b1. Dominio de datos.md:454:capacidades
+content/08b1. Dominio de datos.md:454:detallan
+content/08b1. Dominio de datos.md:454:propuestas
+content/08b1. Dominio de datos.md:456:calidad
+content/08b1. Dominio de datos.md:456:Calidad
+content/08b1. Dominio de datos.md:456:Datos
+content/08b1. Dominio de datos.md:456:información
+content/08b1. Dominio de datos.md:456:medio
+content/08b1. Dominio de datos.md:456:Por
+content/08b1. Dominio de datos.md:457:cada
+content/08b1. Dominio de datos.md:457:características
+content/08b1. Dominio de datos.md:457:entender
+content/08b1. Dominio de datos.md:457:gestionar
+content/08b1. Dominio de datos.md:457:puede
+content/08b1. Dominio de datos.md:457:una
+content/08b1. Dominio de datos.md:458:correcta
+content/08b1. Dominio de datos.md:458:cumplimiento
+content/08b1. Dominio de datos.md:458:datos
+content/08b1. Dominio de datos.md:458:el
+content/08b1. Dominio de datos.md:458:su
+content/08b1. Dominio de datos.md:458:su
+content/08b1. Dominio de datos.md:458:utilización
+content/08b1. Dominio de datos.md:458:vez
+content/08b1. Dominio de datos.md:459:dato
+content/08b1. Dominio de datos.md:459:frente
+content/08b1. Dominio de datos.md:459:necesidades
+content/08b1. Dominio de datos.md:459:objetivos
+content/08b1. Dominio de datos.md:459:Respecto
+content/08b1. Dominio de datos.md:459:usuario
+content/08b1. Dominio de datos.md:460:datos
+content/08b1. Dominio de datos.md:460:ecosistema
+content/08b1. Dominio de datos.md:460:el
+content/08b1. Dominio de datos.md:460:esta
+content/08b1. Dominio de datos.md:460:FNA
+content/08b1. Dominio de datos.md:460:reutiliza
+content/08b1. Dominio de datos.md:460:reutilización
+content/08b1. Dominio de datos.md:460:sus
+content/08b1. Dominio de datos.md:461:áreas
+content/08b1. Dominio de datos.md:461:áreas
+content/08b1. Dominio de datos.md:461:compartírselos
+content/08b1. Dominio de datos.md:461:datos
+content/08b1. Dominio de datos.md:461:propios
+content/08b1. Dominio de datos.md:461:todas
+content/08b1. Dominio de datos.md:462:requieran
+content/08b1. Dominio de datos.md:464:calidad
+content/08b1. Dominio de datos.md:464:datos
+content/08b1. Dominio de datos.md:464:evitar
+content/08b1. Dominio de datos.md:464:gestionar
+content/08b1. Dominio de datos.md:464:permite
+content/08b1. Dominio de datos.md:464:Por
+content/08b1. Dominio de datos.md:465:brechas
+content/08b1. Dominio de datos.md:465:calidad
+content/08b1. Dominio de datos.md:465:conducen
+content/08b1. Dominio de datos.md:465:estos
+content/08b1. Dominio de datos.md:465:inconsistencias
+content/08b1. Dominio de datos.md:465:problemas
+content/08b1. Dominio de datos.md:466:decisiones
+content/08b1. Dominio de datos.md:466:incluso
+content/08b1. Dominio de datos.md:466:incorrectas
+content/08b1. Dominio de datos.md:466:oportunidades
+content/08b1. Dominio de datos.md:466:perdidas
+content/08b1. Dominio de datos.md:467:impactos
+content/08b1. Dominio de datos.md:467:normativas
+content/08b1. Dominio de datos.md:467:reputacionales
+content/08b1. Dominio de datos.md:467:sanciones
+content/08b1. Dominio de datos.md:469:capacidades
+content/08b1. Dominio de datos.md:469:ciclo
+content/08b1. Dominio de datos.md:469:dato
+content/08b1. Dominio de datos.md:469:propuestas
+content/08b1. Dominio de datos.md:469:Respecto
+content/08b1. Dominio de datos.md:469:vida
+content/08b1. Dominio de datos.md:470:dato
+content/08b1. Dominio de datos.md:470:desde
+content/08b1. Dominio de datos.md:470:permiten
+content/08b1. Dominio de datos.md:470:su
+content/08b1. Dominio de datos.md:470:toda
+content/08b1. Dominio de datos.md:470:transcurso
+content/08b1. Dominio de datos.md:470:trazabilidad
+content/08b1. Dominio de datos.md:470:vida
+content/08b1. Dominio de datos.md:471:adquisición
+content/08b1. Dominio de datos.md:471:almacenamiento
+content/08b1. Dominio de datos.md:471:creación
+content/08b1. Dominio de datos.md:471:gestión
+content/08b1. Dominio de datos.md:471:hasta
+content/08b1. Dominio de datos.md:471:mantenimiento
+content/08b1. Dominio de datos.md:471:su
+content/08b1. Dominio de datos.md:472:borrado
+content/08b1. Dominio de datos.md:472:destrucción
+content/08b1. Dominio de datos.md:472:utilización
+content/08b1. Dominio de datos.md:474:datos
+content/08b1. Dominio de datos.md:474:Estrategia
+content/08b1. Dominio de datos.md:474:implementación
+content/08b1. Dominio de datos.md:474:referencia
+content/08b1. Dominio de datos.md:475:esta
+content/08b1. Dominio de datos.md:475:estrategia
+content/08b1. Dominio de datos.md:475:permitirá
+content/08b1. Dominio de datos.md:477:cual
+content/08b1. Dominio de datos.md:477:Cumplir
+content/08b1. Dominio de datos.md:477:datos
+content/08b1. Dominio de datos.md:477:ecosistema
+content/08b1. Dominio de datos.md:477:el
+content/08b1. Dominio de datos.md:477:facilita
+content/08b1. Dominio de datos.md:477:requisitos
+content/08b1. Dominio de datos.md:478:acceso
+content/08b1. Dominio de datos.md:478:confianza
+content/08b1. Dominio de datos.md:478:conjuntos
+content/08b1. Dominio de datos.md:478:datos
+content/08b1. Dominio de datos.md:478:mismos
+content/08b1. Dominio de datos.md:478:tener
+content/08b1. Dominio de datos.md:479:actuales
+content/08b1. Dominio de datos.md:479:completos
+content/08b1. Dominio de datos.md:479:conjuntos
+content/08b1. Dominio de datos.md:479:consistentes
+content/08b1. Dominio de datos.md:479:datos
+content/08b1. Dominio de datos.md:481:costo
+content/08b1. Dominio de datos.md:481:costos
+content/08b1. Dominio de datos.md:481:datos
+content/08b1. Dominio de datos.md:481:El
+content/08b1. Dominio de datos.md:481:Gestionar
+content/08b1. Dominio de datos.md:481:integración
+content/08b1. Dominio de datos.md:481:integrar
+content/08b1. Dominio de datos.md:482:ausencia
+content/08b1. Dominio de datos.md:482:complejo
+content/08b1. Dominio de datos.md:482:datos
+content/08b1. Dominio de datos.md:482:entorno
+content/08b1. Dominio de datos.md:482:nuevas
+content/08b1. Dominio de datos.md:483:cómo
+content/08b1. Dominio de datos.md:483:Datos
+content/08b1. Dominio de datos.md:483:entidades
+content/08b1. Dominio de datos.md:483:variación
+content/08b1. Dominio de datos.md:484:críticas
+content/08b1. Dominio de datos.md:484:definidas
+content/08b1. Dominio de datos.md:484:identificadas
+content/08b1. Dominio de datos.md:486:Datos
+content/08b1. Dominio de datos.md:486:el
+content/08b1. Dominio de datos.md:486:permitir
+content/08b1. Dominio de datos.md:486:pueden
+content/08b1. Dominio de datos.md:486:Reducir
+content/08b1. Dominio de datos.md:486:riesgo
+content/08b1. Dominio de datos.md:487:arquitectura
+content/08b1. Dominio de datos.md:487:datos
+content/08b1. Dominio de datos.md:487:intercambio
+content/08b1. Dominio de datos.md:487:reducir
+content/08b1. Dominio de datos.md:487:simplificación
+content/08b1. Dominio de datos.md:488:asociados
+content/08b1. Dominio de datos.md:488:complejo
+content/08b1. Dominio de datos.md:488:costos
+content/08b1. Dominio de datos.md:488:entorno
+content/08b1. Dominio de datos.md:488:riesgos
+content/08b1. Dominio de datos.md:490:alineada
+content/08b1. Dominio de datos.md:490:capacidad
+content/08b1. Dominio de datos.md:490:encuentra
+content/08b1. Dominio de datos.md:490:Esta
+content/08b1. Dominio de datos.md:490:Seguridad
+content/08b1. Dominio de datos.md:491:arquitectura
+content/08b1. Dominio de datos.md:491:deben
+content/08b1. Dominio de datos.md:491:empresarial
+content/08b1. Dominio de datos.md:491:esta
+content/08b1. Dominio de datos.md:491:FNA
+content/08b1. Dominio de datos.md:491:seguridad
+content/08b1. Dominio de datos.md:492:abordar
+content/08b1. Dominio de datos.md:492:capacidades
+content/08b1. Dominio de datos.md:492:datos
+content/08b1. Dominio de datos.md:492:enfocados
+content/08b1. Dominio de datos.md:492:protección
+content/08b1. Dominio de datos.md:492:seguridad
+content/08b1. Dominio de datos.md:493:abordan
+content/08b1. Dominio de datos.md:493:dominio
+content/08b1. Dominio de datos.md:493:el
+content/08b1. Dominio de datos.md:493:protección
+content/08b1. Dominio de datos.md:493:respaldo
+content/08b1. Dominio de datos.md:493:seguridad
+content/08b1. Dominio de datos.md:494:anonimización
+content/08b1. Dominio de datos.md:494:cifrado
+content/08b1. Dominio de datos.md:494:datos
+content/08b1. Dominio de datos.md:494:personales
+content/08b1. Dominio de datos.md:494:registros
+content/08b1. Dominio de datos.md:495:auditoría
+content/08b1. Dominio de datos.md:495:capa
+content/08b1. Dominio de datos.md:495:datos
+content/08b1. Dominio de datos.md:497:apreciar
+content/08b1. Dominio de datos.md:497:arquitectura
+content/08b1. Dominio de datos.md:497:continuación
+content/08b1. Dominio de datos.md:497:ilustración
+content/08b1. Dominio de datos.md:497:permite
+content/08b1. Dominio de datos.md:498:ahorro
+content/08b1. Dominio de datos.md:498:candidata
+content/08b1. Dominio de datos.md:498:datos
+content/08b1. Dominio de datos.md:498:el
+content/08b1. Dominio de datos.md:498:enmarcado
+content/08b1. Dominio de datos.md:498:Fondo
+content/08b1. Dominio de datos.md:498:nacional
+content/08b1. Dominio de datos.md:498:propuesta
+content/08b1. Dominio de datos.md:499:Arquitectura
+content/08b1. Dominio de datos.md:499:el
+content/08b1. Dominio de datos.md:499:proyecto
+content/08b1. Dominio de datos.md:499:SOA
+content/08b1. Dominio de datos.md:504:Arquitectura
+content/08b1. Dominio de datos.md:504:Candidata
+content/08b1. Dominio de datos.md:504:Ilustración
+content/08b1. Dominio de datos.md:506:basada
+content/08b1. Dominio de datos.md:506:basada
+content/08b1. Dominio de datos.md:506:datos
+content/08b1. Dominio de datos.md:506:datos
+content/08b1. Dominio de datos.md:506:estrategia
+content/08b1. Dominio de datos.md:506:estrategia
+content/08b1. Dominio de datos.md:506:implementar
+content/08b1. Dominio de datos.md:506:implementar
+content/08b1. Dominio de datos.md:506:pasos
+content/08b1. Dominio de datos.md:506:Pasos
+content/08b1. Dominio de datos.md:506:una
+content/08b1. Dominio de datos.md:506:una
+content/08b1. Dominio de datos.md:508:algunas
+content/08b1. Dominio de datos.md:508:el
+content/08b1. Dominio de datos.md:508:implementaciones
+content/08b1. Dominio de datos.md:508:observamos
+content/08b1. Dominio de datos.md:509:difieren
+content/08b1. Dominio de datos.md:509:Esto
+content/08b1. Dominio de datos.md:509:mucho
+content/08b1. Dominio de datos.md:509:otras
+content/08b1. Dominio de datos.md:509:soluciones
+content/08b1. Dominio de datos.md:509:sus
+content/08b1. Dominio de datos.md:509:unas
+content/08b1. Dominio de datos.md:509:veremos
+content/08b1. Dominio de datos.md:510:debe
+content/08b1. Dominio de datos.md:510:definidos
+content/08b1. Dominio de datos.md:510:partimos
+content/08b1. Dominio de datos.md:510:principios
+content/08b1. Dominio de datos.md:510:únicamente
+content/08b1. Dominio de datos.md:510:unos
+content/08b1. Dominio de datos.md:511:cada
+content/08b1. Dominio de datos.md:511:compañía
+content/08b1. Dominio de datos.md:511:implementa
+content/08b1. Dominio de datos.md:511:interpreta
+content/08b1. Dominio de datos.md:511:nivel
+content/08b1. Dominio de datos.md:511:según
+content/08b1. Dominio de datos.md:511:su
+content/08b1. Dominio de datos.md:512:ello
+content/08b1. Dominio de datos.md:512:existe
+content/08b1. Dominio de datos.md:512:infraestructura
+content/08b1. Dominio de datos.md:512:metodología
+content/08b1. Dominio de datos.md:512:necesidades
+content/08b1. Dominio de datos.md:512:Por
+content/08b1. Dominio de datos.md:512:sus
+content/08b1. Dominio de datos.md:512:una
+content/08b1. Dominio de datos.md:513:aunque
+content/08b1. Dominio de datos.md:513:construir
+content/08b1. Dominio de datos.md:513:específica
+content/08b1. Dominio de datos.md:513:estos
+content/08b1. Dominio de datos.md:513:podemos
+content/08b1. Dominio de datos.md:513:seguir
+content/08b1. Dominio de datos.md:513:sí
+content/08b1. Dominio de datos.md:514:aplicación
+content/08b1. Dominio de datos.md:514:pasos
+content/08b1. Dominio de datos.md:514:principios
+content/08b1. Dominio de datos.md:519:Ilustración
+content/08b1. Dominio de datos.md:519:implementar
+content/08b1. Dominio de datos.md:519:Pasos
+content/08b1. Dominio de datos.md:521:Definir
+content/08b1. Dominio de datos.md:521:el
+content/08b1. Dominio de datos.md:521:el
+content/08b1. Dominio de datos.md:521:estado
+content/08b1. Dominio de datos.md:521:paradigma
+content/08b1. Dominio de datos.md:522:dentro
+content/08b1. Dominio de datos.md:522:forma
+content/08b1. Dominio de datos.md:522:impacta
+content/08b1. Dominio de datos.md:522:organizarse
+content/08b1. Dominio de datos.md:522:principalmente
+content/08b1. Dominio de datos.md:522:una
+content/08b1. Dominio de datos.md:523:datos
+content/08b1. Dominio de datos.md:523:El
+content/08b1. Dominio de datos.md:523:mapear
+content/08b1. Dominio de datos.md:523:paso
+content/08b1. Dominio de datos.md:523:plataforma
+content/08b1. Dominio de datos.md:523:procesos
+content/08b1. Dominio de datos.md:523:será
+content/08b1. Dominio de datos.md:524:ecosistema
+content/08b1. Dominio de datos.md:524:eliminar
+content/08b1. Dominio de datos.md:524:limitaciones
+content/08b1. Dominio de datos.md:524:nuestro
+content/08b1. Dominio de datos.md:524:técnicas
+content/08b1. Dominio de datos.md:525:aplicar
+content/08b1. Dominio de datos.md:525:empezar
+content/08b1. Dominio de datos.md:525:encontrar
+content/08b1. Dominio de datos.md:525:puedan
+content/08b1. Dominio de datos.md:526:capacidades
+content/08b1. Dominio de datos.md:526:contemplar
+content/08b1. Dominio de datos.md:526:deberá
+content/08b1. Dominio de datos.md:526:El
+content/08b1. Dominio de datos.md:526:permitan
+content/08b1. Dominio de datos.md:526:principios
+content/08b1. Dominio de datos.md:527:aplicar
+content/08b1. Dominio de datos.md:527:autoservicio
+content/08b1. Dominio de datos.md:527:el
+content/08b1. Dominio de datos.md:527:estado
+content/08b1. Dominio de datos.md:527:Este
+content/08b1. Dominio de datos.md:527:plataforma
+content/08b1. Dominio de datos.md:527:principio
+content/08b1. Dominio de datos.md:528:cualquier
+content/08b1. Dominio de datos.md:528:iniciar
+content/08b1. Dominio de datos.md:528:permitirá
+content/08b1. Dominio de datos.md:528:proceso
+content/08b1. Dominio de datos.md:528:transición
+content/08b1. Dominio de datos.md:529:cambios
+content/08b1. Dominio de datos.md:529:grandes
+content/08b1. Dominio de datos.md:529:momento
+content/08b1. Dominio de datos.md:529:necesidad
+content/08b1. Dominio de datos.md:531:buena
+content/08b1. Dominio de datos.md:531:comenzar
+content/08b1. Dominio de datos.md:531:Definir
+content/08b1. Dominio de datos.md:531:dominios
+content/08b1. Dominio de datos.md:531:forma
+content/08b1. Dominio de datos.md:531:producto
+content/08b1. Dominio de datos.md:531:Una
+content/08b1. Dominio de datos.md:532:datos
+content/08b1. Dominio de datos.md:532:dominio
+content/08b1. Dominio de datos.md:532:el
+content/08b1. Dominio de datos.md:532:introduciendo
+content/08b1. Dominio de datos.md:532:principio
+content/08b1. Dominio de datos.md:532:seleccionando
+content/08b1. Dominio de datos.md:533:aquellos
+content/08b1. Dominio de datos.md:533:casos
+content/08b1. Dominio de datos.md:533:cercanos
+content/08b1. Dominio de datos.md:533:dominios
+content/08b1. Dominio de datos.md:533:donde
+content/08b1. Dominio de datos.md:533:orígenes
+content/08b1. Dominio de datos.md:533:sus
+content/08b1. Dominio de datos.md:534:ahorro
+content/08b1. Dominio de datos.md:534:cesantías
+content/08b1. Dominio de datos.md:534:clientes
+content/08b1. Dominio de datos.md:534:créditos
+content/08b1. Dominio de datos.md:534:datos
+content/08b1. Dominio de datos.md:534:producidos
+content/08b1. Dominio de datos.md:535:casos
+content/08b1. Dominio de datos.md:535:continuación
+content/08b1. Dominio de datos.md:535:estos
+content/08b1. Dominio de datos.md:535:liberar
+content/08b1. Dominio de datos.md:535:proporcionándoles
+content/08b1. Dominio de datos.md:535:una
+content/08b1. Dominio de datos.md:536:descubrimiento
+content/08b1. Dominio de datos.md:536:dirección
+content/08b1. Dominio de datos.md:536:directorio
+content/08b1. Dominio de datos.md:536:importa
+content/08b1. Dominio de datos.md:536:permita
+content/08b1. Dominio de datos.md:536:su
+content/08b1. Dominio de datos.md:537:datos
+content/08b1. Dominio de datos.md:537:diferentes
+content/08b1. Dominio de datos.md:537:duplicados
+content/08b1. Dominio de datos.md:537:haya
+content/08b1. Dominio de datos.md:537:plataforma
+content/08b1. Dominio de datos.md:537:zonas
+content/08b1. Dominio de datos.md:538:datos
+content/08b1. Dominio de datos.md:538:definición
+content/08b1. Dominio de datos.md:538:dominio
+content/08b1. Dominio de datos.md:538:importante
+content/08b1. Dominio de datos.md:538:su
+content/08b1. Dominio de datos.md:540:definir
+content/08b1. Dominio de datos.md:540:dominios
+content/08b1. Dominio de datos.md:540:Luego
+content/08b1. Dominio de datos.md:540:Migrar
+content/08b1. Dominio de datos.md:540:responsabilidad
+content/08b1. Dominio de datos.md:541:asegurarse
+content/08b1. Dominio de datos.md:541:cuyo
+content/08b1. Dominio de datos.md:541:descentralizar
+content/08b1. Dominio de datos.md:541:empieza
+content/08b1. Dominio de datos.md:541:objetivo
+content/08b1. Dominio de datos.md:541:plataforma
+content/08b1. Dominio de datos.md:542:datos
+content/08b1. Dominio de datos.md:542:dominios
+content/08b1. Dominio de datos.md:542:propiedad
+content/08b1. Dominio de datos.md:542:transferida
+content/08b1. Dominio de datos.md:543:aplicando
+content/08b1. Dominio de datos.md:543:conseguir
+content/08b1. Dominio de datos.md:543:Esto
+content/08b1. Dominio de datos.md:543:metodologías
+content/08b1. Dominio de datos.md:543:puede
+content/08b1. Dominio de datos.md:544:equipos
+content/08b1. Dominio de datos.md:544:infraestructura
+content/08b1. Dominio de datos.md:544:migrando
+content/08b1. Dominio de datos.md:544:parte
+content/08b1. Dominio de datos.md:544:procesos
+content/08b1. Dominio de datos.md:545:datos
+content/08b1. Dominio de datos.md:545:equipo
+content/08b1. Dominio de datos.md:545:nuevo
+content/08b1. Dominio de datos.md:545:servicio
+content/08b1. Dominio de datos.md:546:dominio
+content/08b1. Dominio de datos.md:546:funcional
+content/08b1. Dominio de datos.md:546:responsable
+content/08b1. Dominio de datos.md:548:descentralización
+content/08b1. Dominio de datos.md:548:este
+content/08b1. Dominio de datos.md:548:Gobernar
+content/08b1. Dominio de datos.md:548:importante
+content/08b1. Dominio de datos.md:548:muy
+content/08b1. Dominio de datos.md:548:paso
+content/08b1. Dominio de datos.md:549:asegurar
+content/08b1. Dominio de datos.md:549:calidad
+content/08b1. Dominio de datos.md:549:datos
+content/08b1. Dominio de datos.md:549:dominios
+content/08b1. Dominio de datos.md:549:permitir
+content/08b1. Dominio de datos.md:549:través
+content/08b1. Dominio de datos.md:550:autodescriptivos
+content/08b1. Dominio de datos.md:550:dominios
+content/08b1. Dominio de datos.md:550:interoperables
+content/08b1. Dominio de datos.md:550:propios
+content/08b1. Dominio de datos.md:551:compartirán
+content/08b1. Dominio de datos.md:551:dominios
+content/08b1. Dominio de datos.md:551:esta
+content/08b1. Dominio de datos.md:551:manera
+content/08b1. Dominio de datos.md:551:sintaxis
+content/08b1. Dominio de datos.md:551:una
+content/08b1. Dominio de datos.md:552:acceso
+content/08b1. Dominio de datos.md:552:estándares
+content/08b1. Dominio de datos.md:552:globales
+content/08b1. Dominio de datos.md:552:gobernados
+content/08b1. Dominio de datos.md:552:por
+content/08b1. Dominio de datos.md:552:serán
+content/08b1. Dominio de datos.md:552:unos
+content/08b1. Dominio de datos.md:554:debe
+content/08b1. Dominio de datos.md:554:diferentes
+content/08b1. Dominio de datos.md:554:este
+content/08b1. Dominio de datos.md:554:paso
+content/08b1. Dominio de datos.md:554:recordar
+content/08b1. Dominio de datos.md:554:responsables
+content/08b1. Dominio de datos.md:555:dominios
+content/08b1. Dominio de datos.md:555:federada
+content/08b1. Dominio de datos.md:555:forman
+content/08b1. Dominio de datos.md:555:parte
+content/08b1. Dominio de datos.md:555:plataforma
+content/08b1. Dominio de datos.md:555:visión
+content/08b1. Dominio de datos.md:556:definitiva
+content/08b1. Dominio de datos.md:556:gobierno
+content/08b1. Dominio de datos.md:556:su
+content/08b1. Dominio de datos.md:558:implantación
+content/08b1. Dominio de datos.md:558:implantación
+content/08b1. Dominio de datos.md:558:principales
+content/08b1. Dominio de datos.md:558:Principales
+content/08b1. Dominio de datos.md:558:retos
+content/08b1. Dominio de datos.md:558:retos
+content/08b1. Dominio de datos.md:560:aprovechar
+content/08b1. Dominio de datos.md:560:cómo
+content/08b1. Dominio de datos.md:560:datos
+content/08b1. Dominio de datos.md:560:definición
+content/08b1. Dominio de datos.md:560:estrategia
+content/08b1. Dominio de datos.md:560:implica
+content/08b1. Dominio de datos.md:560:Tener
+content/08b1. Dominio de datos.md:560:una
+content/08b1. Dominio de datos.md:561:datos
+content/08b1. Dominio de datos.md:561:encontrabilidad
+content/08b1. Dominio de datos.md:561:principios
+content/08b1. Dominio de datos.md:561:utilizando
+content/08b1. Dominio de datos.md:562:accesibilidad
+content/08b1. Dominio de datos.md:562:interoperabilidad
+content/08b1. Dominio de datos.md:562:reutilización
+content/08b1. Dominio de datos.md:563:accesibles
+content/08b1. Dominio de datos.md:563:comprensibles
+content/08b1. Dominio de datos.md:563:Datos
+content/08b1. Dominio de datos.md:563:Productos
+content/08b1. Dominio de datos.md:563:utilizables
+content/08b1. Dominio de datos.md:564:Datos
+content/08b1. Dominio de datos.md:564:interoperables
+content/08b1. Dominio de datos.md:564:otros
+content/08b1. Dominio de datos.md:564:productos
+content/08b1. Dominio de datos.md:564:Productos
+content/08b1. Dominio de datos.md:565:aportan
+content/08b1. Dominio de datos.md:565:datos
+content/08b1. Dominio de datos.md:565:datos
+content/08b1. Dominio de datos.md:565:empresa
+content/08b1. Dominio de datos.md:565:forma
+content/08b1. Dominio de datos.md:565:monetizar
+content/08b1. Dominio de datos.md:565:una
+content/08b1. Dominio de datos.md:567:cuenta
+content/08b1. Dominio de datos.md:567:deben
+content/08b1. Dominio de datos.md:567:lograr
+content/08b1. Dominio de datos.md:567:siguientes
+content/08b1. Dominio de datos.md:567:tener
+content/08b1. Dominio de datos.md:568:desafíos
+content/08b1. Dominio de datos.md:570:ajuste
+content/08b1. Dominio de datos.md:570:consideraciones
+content/08b1. Dominio de datos.md:570:El
+content/08b1. Dominio de datos.md:570:principales
+content/08b1. Dominio de datos.md:570:tecnológico
+content/08b1. Dominio de datos.md:570:una
+content/08b1. Dominio de datos.md:571:adoptar
+content/08b1. Dominio de datos.md:571:cualquier
+content/08b1. Dominio de datos.md:571:esfuerzos
+content/08b1. Dominio de datos.md:571:organización
+content/08b1. Dominio de datos.md:571:por
+content/08b1. Dominio de datos.md:572:basada
+content/08b1. Dominio de datos.md:572:estrategia
+content/08b1. Dominio de datos.md:572:gestión
+content/08b1. Dominio de datos.md:572:implementar
+content/08b1. Dominio de datos.md:572:una
+content/08b1. Dominio de datos.md:573:arquitectura
+content/08b1. Dominio de datos.md:573:datos
+content/08b1. Dominio de datos.md:573:el
+content/08b1. Dominio de datos.md:573:éxito
+content/08b1. Dominio de datos.md:573:implantar
+content/08b1. Dominio de datos.md:573:poder
+content/08b1. Dominio de datos.md:574:datos
+content/08b1. Dominio de datos.md:574:debe
+content/08b1. Dominio de datos.md:574:FNA
+content/08b1. Dominio de datos.md:574:plataformas
+content/08b1. Dominio de datos.md:574:redefinir
+content/08b1. Dominio de datos.md:574:reestructurar
+content/08b1. Dominio de datos.md:574:sus
+content/08b1. Dominio de datos.md:575:datos
+content/08b1. Dominio de datos.md:575:dominios
+content/08b1. Dominio de datos.md:575:funciones
+content/08b1. Dominio de datos.md:575:propietarios
+content/08b1. Dominio de datos.md:575:revisar
+content/08b1. Dominio de datos.md:576:datos
+content/08b1. Dominio de datos.md:576:estructuras
+content/08b1. Dominio de datos.md:576:hacer
+content/08b1. Dominio de datos.md:576:productos
+content/08b1. Dominio de datos.md:576:propiedad
+content/08b1. Dominio de datos.md:577:analíticos
+content/08b1. Dominio de datos.md:577:datos
+content/08b1. Dominio de datos.md:577:desarrollar
+content/08b1. Dominio de datos.md:577:sus
+content/08b1. Dominio de datos.md:577:transición
+content/08b1. Dominio de datos.md:578:producto
+content/08b1. Dominio de datos.md:580:Dato
+content/08b1. Dominio de datos.md:580:Federado
+content/08b1. Dominio de datos.md:580:Gobierno
+content/08b1. Dominio de datos.md:580:implantación
+content/08b1. Dominio de datos.md:580:modelo
+content/08b1. Dominio de datos.md:581:comunicaciones
+content/08b1. Dominio de datos.md:581:estandarización
+content/08b1. Dominio de datos.md:581:interoperabilidad
+content/08b1. Dominio de datos.md:582:fundamentales
+content/08b1. Dominio de datos.md:582:globalmente
+content/08b1. Dominio de datos.md:582:gobernadas
+content/08b1. Dominio de datos.md:582:pilares
+content/08b1. Dominio de datos.md:582:uno
+content/08b1. Dominio de datos.md:583:avanzar
+content/08b1. Dominio de datos.md:583:construir
+content/08b1. Dominio de datos.md:583:distribuidos
+content/08b1. Dominio de datos.md:583:parte
+content/08b1. Dominio de datos.md:583:sistemas
+content/08b1. Dominio de datos.md:583:Una
+content/08b1. Dominio de datos.md:584:arquitectura
+content/08b1. Dominio de datos.md:584:datos
+content/08b1. Dominio de datos.md:584:descentralizada
+content/08b1. Dominio de datos.md:584:entender
+content/08b1. Dominio de datos.md:584:hacia
+content/08b1. Dominio de datos.md:584:una
+content/08b1. Dominio de datos.md:585:descentralizada
+content/08b1. Dominio de datos.md:585:federación
+content/08b1. Dominio de datos.md:585:propiedad
+content/08b1. Dominio de datos.md:585:tiene
+content/08b1. Dominio de datos.md:585:ver
+content/08b1. Dominio de datos.md:586:bien
+content/08b1. Dominio de datos.md:586:disciplinas
+content/08b1. Dominio de datos.md:586:entendidas
+content/08b1. Dominio de datos.md:586:requiere
+content/08b1. Dominio de datos.md:588:datos
+content/08b1. Dominio de datos.md:588:dominio
+content/08b1. Dominio de datos.md:588:dominios
+content/08b1. Dominio de datos.md:588:Equipos
+content/08b1. Dominio de datos.md:588:interfuncionales
+content/08b1. Dominio de datos.md:589:aumentados
+content/08b1. Dominio de datos.md:589:datos
+content/08b1. Dominio de datos.md:589:necesitan
+content/08b1. Dominio de datos.md:589:productos
+content/08b1. Dominio de datos.md:589:proporcionan
+content/08b1. Dominio de datos.md:589:ser
+content/08b1. Dominio de datos.md:590:conjuntos
+content/08b1. Dominio de datos.md:590:el
+content/08b1. Dominio de datos.md:590:habilidades
+content/08b1. Dominio de datos.md:590:nuevos
+content/08b1. Dominio de datos.md:590:producto
+content/08b1. Dominio de datos.md:590:propietario
+content/08b1. Dominio de datos.md:591:datos
+content/08b1. Dominio de datos.md:591:datos
+content/08b1. Dominio de datos.md:591:estos
+content/08b1. Dominio de datos.md:591:importante
+content/08b1. Dominio de datos.md:591:ingenieros
+content/08b1. Dominio de datos.md:592:construir
+content/08b1. Dominio de datos.md:592:dominios
+content/08b1. Dominio de datos.md:592:incorporen
+content/08b1. Dominio de datos.md:592:operar
+content/08b1. Dominio de datos.md:592:todos
+content/08b1. Dominio de datos.md:593:datos
+content/08b1. Dominio de datos.md:593:dominios
+content/08b1. Dominio de datos.md:593:internos
+content/08b1. Dominio de datos.md:595:Construir
+content/08b1. Dominio de datos.md:595:convergente
+content/08b1. Dominio de datos.md:595:datos
+content/08b1. Dominio de datos.md:595:diseño
+content/08b1. Dominio de datos.md:595:plataforma
+content/08b1. Dominio de datos.md:596:autoservicio
+content/08b1. Dominio de datos.md:596:necesaria
+content/08b1. Dominio de datos.md:596:proporcione
+content/08b1. Dominio de datos.md:596:soporte
+content/08b1. Dominio de datos.md:596:tecnología
+content/08b1. Dominio de datos.md:597:almacenar
+content/08b1. Dominio de datos.md:597:capturar
+content/08b1. Dominio de datos.md:597:dominios
+content/08b1. Dominio de datos.md:597:necesitan
+content/08b1. Dominio de datos.md:597:procesar
+content/08b1. Dominio de datos.md:597:servir
+content/08b1. Dominio de datos.md:598:datos
+content/08b1. Dominio de datos.md:598:debe
+content/08b1. Dominio de datos.md:598:Esta
+content/08b1. Dominio de datos.md:598:ocultar
+content/08b1. Dominio de datos.md:598:plataforma
+content/08b1. Dominio de datos.md:598:productos
+content/08b1. Dominio de datos.md:598:sus
+content/08b1. Dominio de datos.md:598:toda
+content/08b1. Dominio de datos.md:599:complejidad
+content/08b1. Dominio de datos.md:599:componentes
+content/08b1. Dominio de datos.md:599:proporcionar
+content/08b1. Dominio de datos.md:599:subyacente
+content/08b1. Dominio de datos.md:600:autoservicio
+content/08b1. Dominio de datos.md:600:datos
+content/08b1. Dominio de datos.md:600:infraestructura
+content/08b1. Dominio de datos.md:600:régimen
+content/08b1. Dominio de datos.md:602:adaptarse
+content/08b1. Dominio de datos.md:602:cambio
+content/08b1. Dominio de datos.md:602:gestión
+content/08b1. Dominio de datos.md:602:nivel
+content/08b1. Dominio de datos.md:602:significativo
+content/08b1. Dominio de datos.md:603:datos
+content/08b1. Dominio de datos.md:603:descentralizadas
+content/08b1. Dominio de datos.md:603:necesario
+content/08b1. Dominio de datos.md:603:operaciones
+content/08b1. Dominio de datos.md:604:cambio
+content/08b1. Dominio de datos.md:604:esfuerzo
+content/08b1. Dominio de datos.md:604:importante
+content/08b1. Dominio de datos.md:606:Análisis
+content/08b1. Dominio de datos.md:606:cruzados
+content/08b1. Dominio de datos.md:606:dominios
+content/08b1. Dominio de datos.md:606:garantizar
+content/08b1. Dominio de datos.md:606:reto
+content/08b1. Dominio de datos.md:606:todas
+content/08b1. Dominio de datos.md:607:gestión
+content/08b1. Dominio de datos.md:607:lineamientos
+content/08b1. Dominio de datos.md:607:normas
+content/08b1. Dominio de datos.md:607:permitan
+content/08b1. Dominio de datos.md:607:procesos
+content/08b1. Dominio de datos.md:608:cambio
+content/08b1. Dominio de datos.md:608:cruzados
+content/08b1. Dominio de datos.md:608:datos
+content/08b1. Dominio de datos.md:608:dominios
+content/08b1. Dominio de datos.md:608:Este
+content/08b1. Dominio de datos.md:608:hacia
+content/08b1. Dominio de datos.md:608:propiedad
+content/08b1. Dominio de datos.md:609:amplia
+content/08b1. Dominio de datos.md:609:aplicamos
+content/08b1. Dominio de datos.md:609:datos
+content/08b1. Dominio de datos.md:609:distribuida
+content/08b1. Dominio de datos.md:609:funciona
+content/08b1. Dominio de datos.md:609:sólo
+content/08b1. Dominio de datos.md:609:una
+content/08b1. Dominio de datos.md:610:datos
+content/08b1. Dominio de datos.md:610:empresariales
+content/08b1. Dominio de datos.md:610:normas
+content/08b1. Dominio de datos.md:610:normas
+content/08b1. Dominio de datos.md:610:nuestros
+content/08b1. Dominio de datos.md:610:productos
+content/08b1. Dominio de datos.md:611:conectividad
+content/08b1. Dominio de datos.md:611:crea
+content/08b1. Dominio de datos.md:611:distribución
+content/08b1. Dominio de datos.md:611:lineamientos
+content/08b1. Dominio de datos.md:611:reglas
+content/08b1. Dominio de datos.md:612:caos
+content/08b1. Dominio de datos.md:612:desorganización
+content/08b1. Dominio de datos.md:612:ecosistema
+content/08b1. Dominio de datos.md:612:incompatibilidad
+content/08b1. Dominio de datos.md:613:cruzado
+content/08b1. Dominio de datos.md:613:dominio
+content/08b1. Dominio de datos.md:613:imposibles
+content/08b1. Dominio de datos.md:613:iniciativas
+content/08b1. Dominio de datos.md:615:Bibliográficas
+content/08b1. Dominio de datos.md:615:Referencias
+content/08b1. Dominio de datos.md:620:DAMA
+content/08b1. Dominio de datos.md:620:DMBOK
+content/08b1. Dominio de datos.md:621:Dama
 content/08b. Dominio de datos.md:1:Arquitectura
 content/08b. Dominio de datos.md:1:Arquitectura
 content/08b. Dominio de datos.md:1:Candidata
@@ -8162,2429 +10585,6 @@ content/08c. Dominio de infraestructura.md:33:tiempo
 content/08c. Dominio de infraestructura.md:33:través
 content/08c. Dominio de infraestructura.md:33:través
 content/08c. Dominio de infraestructura.md:33:VPN
-content/08c.md:1:Arquitectura
-content/08c.md:1:Arquitectura
-content/08c.md:1:Candidata
-content/08c.md:1:Candidata
-content/08c.md:1:Datos
-content/08c.md:1:FNA
-content/08c.md:1:FNA
-content/08c.md:1:SOA
-content/08c.md:1:Tema
-content/08c.md:3:Arquitectura
-content/08c.md:3:Candidata
-content/08c.md:3:clave
-content/08c.md:3:Hoja
-content/08c.md:3:Palabras
-content/08c.md:3:referencia
-content/08c.md:3:ruta
-content/08c.md:3:SOA
-content/08c.md:3:Tecnologías
-content/08c.md:4:Autor
-content/08c.md:5:Fuente
-content/08c.md:7:FNA
-content/08c.md:7:Segmento
-content/08c.md:7:SOA
-content/08c.md:7:Vínculos
-content/08c.md:11:Arquitectura
-content/08c.md:11:Candidata
-content/08c.md:11:datos
-content/08c.md:11:Dominio
-content/08c.md:13:arquitectura
-content/08c.md:13:candidata
-content/08c.md:13:desarrollo
-content/08c.md:13:El
-content/08c.md:13:información
-content/08c.md:13:integrará
-content/08c.md:14:DAMA
-content/08c.md:14:el
-content/08c.md:14:referencia
-content/08c.md:14:referencia
-content/08c.md:14:TOGAF
-content/08c.md:15:disposiciones
-content/08c.md:15:gobierno
-content/08c.md:15:política
-content/08c.md:16:Arquitectura
-content/08c.md:16:el
-content/08c.md:16:Empresarial
-content/08c.md:16:especificadas
-content/08c.md:16:por
-content/08c.md:16:Referencia
-content/08c.md:17:Colombiano
-content/08c.md:17:entidades
-content/08c.md:17:Estado
-content/08c.md:17:evaluación
-content/08c.md:17:MRAE
-content/08c.md:17:orientar
-content/08c.md:18:definición
-content/08c.md:18:deseado
-content/08c.md:18:estado
-content/08c.md:18:estado
-content/08c.md:18:integrando
-content/08c.md:19:arquitectura
-content/08c.md:19:capacidades
-content/08c.md:19:datos
-content/08c.md:19:datos
-content/08c.md:19:diseño
-content/08c.md:19:el
-content/08c.md:19:gobierno
-content/08c.md:20:almacenamiento
-content/08c.md:20:datos
-content/08c.md:20:datos
-content/08c.md:20:modelamiento
-content/08c.md:20:operaciones
-content/08c.md:20:seguridad
-content/08c.md:21:datos
-content/08c.md:21:datos
-content/08c.md:21:documental
-content/08c.md:21:gestión
-content/08c.md:21:integración
-content/08c.md:21:interoperabilidad
-content/08c.md:22:contenido
-content/08c.md:22:datos
-content/08c.md:22:inteligencia
-content/08c.md:22:negocios
-content/08c.md:22:referencia
-content/08c.md:23:analítica
-content/08c.md:23:calidad
-content/08c.md:23:datos
-content/08c.md:23:metadatos
-content/08c.md:25:continuación
-content/08c.md:25:Ilustración
-content/08c.md:25:muestra
-content/08c.md:25:referencia
-content/08c.md:26:aplicables
-content/08c.md:26:dominio
-content/08c.md:26:Información
-content/08c.md:31:aplicables
-content/08c.md:31:arquitectura
-content/08c.md:31:Ilustración
-content/08c.md:31:referencia
-content/08c.md:32:información
-content/08c.md:34:arquitectura
-content/08c.md:34:candidata
-content/08c.md:34:construir
-content/08c.md:34:Pasos
-content/08c.md:36:arquitectura
-content/08c.md:36:candidata
-content/08c.md:36:generación
-content/08c.md:36:información
-content/08c.md:37:consolida
-content/08c.md:37:datos
-content/08c.md:37:Fondo
-content/08c.md:37:Nacional
-content/08c.md:37:necesidades
-content/08c.md:37:términos
-content/08c.md:38:Ahorro
-content/08c.md:38:consecuencia
-content/08c.md:38:ello
-content/08c.md:38:referencia
-content/08c.md:38:siguiendo
-content/08c.md:39:análisis
-content/08c.md:39:anteriormente
-content/08c.md:39:estado
-content/08c.md:39:mencionados
-content/08c.md:39:parte
-content/08c.md:40:Arquitectura
-content/08c.md:40:concluye
-content/08c.md:40:denominado
-content/08c.md:40:técnicos
-content/08c.md:40:términos
-content/08c.md:41:Arquitectura
-content/08c.md:41:candidata
-content/08c.md:41:estado
-content/08c.md:41:futuro
-content/08c.md:41:llamado
-content/08c.md:41:proyección
-content/08c.md:41:una
-content/08c.md:42:clave
-content/08c.md:42:elementos
-content/08c.md:42:Información
-content/08c.md:42:visión
-content/08c.md:43:arquitectura
-content/08c.md:43:arquitectura
-content/08c.md:43:empresarial
-content/08c.md:43:enfoque
-content/08c.md:43:información
-content/08c.md:44:construye
-content/08c.md:44:el
-content/08c.md:44:hoy
-content/08c.md:44:información
-content/08c.md:44:modelar
-content/08c.md:44:partir
-content/08c.md:44:soluciones
-content/08c.md:45:Ahorro
-content/08c.md:45:estado
-content/08c.md:45:Fondo
-content/08c.md:45:Nacional
-content/08c.md:45:soportan
-content/08c.md:45:su
-content/08c.md:45:tecnología
-content/08c.md:46:arquitectura
-content/08c.md:46:caracterizando
-content/08c.md:46:elementos
-content/08c.md:46:nivel
-content/08c.md:46:objetivo
-content/08c.md:47:arquitecturas
-content/08c.md:47:cada
-content/08c.md:47:clave
-content/08c.md:47:construir
-content/08c.md:47:pasos
-content/08c.md:48:considerar
-content/08c.md:48:deben
-content/08c.md:48:dominios
-content/08c.md:48:uno
-content/08c.md:50:Arquitectura
-content/08c.md:50:Identificación
-content/08c.md:51:arquitectura
-content/08c.md:51:dominio
-content/08c.md:51:elementos
-content/08c.md:51:términos
-content/08c.md:52:alineamientos
-content/08c.md:52:arquitectura
-content/08c.md:52:definidos
-content/08c.md:52:referencia
-content/08c.md:52:sus
-content/08c.md:54:Arquitectura
-content/08c.md:54:Definición
-content/08c.md:54:objetivo
-content/08c.md:55:arquitectura
-content/08c.md:55:dominio
-content/08c.md:55:elementos
-content/08c.md:55:objetivo
-content/08c.md:55:términos
-content/08c.md:56:alineamientos
-content/08c.md:56:arquitectura
-content/08c.md:56:definidos
-content/08c.md:56:referencia
-content/08c.md:56:sus
-content/08c.md:58:Diseño
-content/08c.md:58:nivel
-content/08c.md:58:reportes
-content/08c.md:59:arquitectura
-content/08c.md:59:clave
-content/08c.md:59:describir
-content/08c.md:59:requeridos
-content/08c.md:61:Análisis
-content/08c.md:61:asociadas
-content/08c.md:61:brechas
-content/08c.md:61:Brechas
-content/08c.md:61:consolida
-content/08c.md:61:principales
-content/08c.md:62:alineamiento
-content/08c.md:62:brechas
-content/08c.md:62:dominio
-content/08c.md:62:estado
-content/08c.md:62:frente
-content/08c.md:62:pueden
-content/08c.md:62:ser
-content/08c.md:68:Arquitectura
-content/08c.md:68:Componentes
-content/08c.md:68:Ilustración
-content/08c.md:68:Información
-content/08c.md:72:Datos
-content/08c.md:72:Desafíos
-content/08c.md:72:Dominio
-content/08c.md:74:cuenta
-content/08c.md:74:información
-content/08c.md:74:necesidades
-content/08c.md:74:resultantes
-content/08c.md:74:Teniendo
-content/08c.md:75:análisis
-content/08c.md:75:donde
-content/08c.md:75:estado
-content/08c.md:75:evidencio
-content/08c.md:77:bien
-content/08c.md:77:datos
-content/08c.md:77:datos
-content/08c.md:77:diccionarios
-content/08c.md:77:existen
-content/08c.md:77:modelos
-content/08c.md:78:COBIS
-content/08c.md:78:ejemplo
-content/08c.md:78:encontró
-content/08c.md:78:importantes
-content/08c.md:78:más
-content/08c.md:78:modelo
-content/08c.md:78:por
-content/08c.md:79:canónico
-content/08c.md:79:común
-content/08c.md:79:datos
-content/08c.md:79:lenguaje
-content/08c.md:79:modelos
-content/08c.md:79:permita
-content/08c.md:79:todos
-content/08c.md:80:datos
-content/08c.md:80:entendimiento
-content/08c.md:80:funcional
-content/08c.md:80:organización
-content/08c.md:80:técnico
-content/08c.md:80:toda
-content/08c.md:81:datos
-content/08c.md:81:decisiones
-content/08c.md:81:explotación
-content/08c.md:81:explotación
-content/08c.md:81:facilite
-content/08c.md:81:partir
-content/08c.md:81:toma
-content/08c.md:83:artefactos
-content/08c.md:83:cierta
-content/08c.md:83:desactualización
-content/08c.md:83:evidencia
-content/08c.md:83:existe
-content/08c.md:84:arquitectura
-content/08c.md:84:conforman
-content/08c.md:84:datos
-content/08c.md:84:datos
-content/08c.md:84:empresarial
-content/08c.md:84:Modelo
-content/08c.md:85:catálogos
-content/08c.md:85:datos
-content/08c.md:85:diagramas
-content/08c.md:85:diccionario
-content/08c.md:87:algunas
-content/08c.md:87:datos
-content/08c.md:87:diccionarios
-content/08c.md:87:Existen
-content/08c.md:87:particulares
-content/08c.md:88:aunque
-content/08c.md:88:datos
-content/08c.md:88:datos
-content/08c.md:88:diccionario
-content/08c.md:88:forma
-content/08c.md:88:requiere
-content/08c.md:89:el
-content/08c.md:89:entendimiento
-content/08c.md:89:estandarizada
-content/08c.md:89:éstos
-content/08c.md:89:facilitar
-content/08c.md:89:permita
-content/08c.md:89:sus
-content/08c.md:90:Así
-content/08c.md:90:datos
-content/08c.md:90:diccionarios
-content/08c.md:90:otro
-content/08c.md:90:relaciones
-content/08c.md:90:tipo
-content/08c.md:91:analíticos
-content/08c.md:91:metadatos
-content/08c.md:91:referencias
-content/08c.md:91:transaccionales
-content/08c.md:93:actividades
-content/08c.md:93:algunas
-content/08c.md:93:Aunque
-content/08c.md:93:existen
-content/08c.md:93:gobierno
-content/08c.md:93:realizadas
-content/08c.md:93:torno
-content/08c.md:94:datos
-content/08c.md:94:el
-content/08c.md:94:fecha
-content/08c.md:94:fue
-content/08c.md:94:incluso
-content/08c.md:94:iniciativa
-content/08c.md:94:PETI
-content/08c.md:94:propuesto
-content/08c.md:95:este
-content/08c.md:95:FNA
-content/08c.md:95:necesario
-content/08c.md:95:permita
-content/08c.md:95:proyecto
-content/08c.md:95:retomar
-content/08c.md:95:tener
-content/08c.md:95:una
-content/08c.md:96:apropiada
-content/08c.md:96:datos
-content/08c.md:96:gestión
-content/08c.md:96:incorporación
-content/08c.md:96:más
-content/08c.md:96:mediante
-content/08c.md:97:datos
-content/08c.md:97:directrices
-content/08c.md:97:gobierno
-content/08c.md:97:indicadores
-content/08c.md:97:lineamientos
-content/08c.md:97:torno
-content/08c.md:99:aunque
-content/08c.md:99:dominios
-content/08c.md:99:identificados
-content/08c.md:99:información
-content/08c.md:99:tienen
-content/08c.md:100:aterrizar
-content/08c.md:100:cuales
-content/08c.md:100:datos
-content/08c.md:100:estos
-content/08c.md:100:importante
-content/08c.md:100:referencias
-content/08c.md:101:estos
-content/08c.md:101:funcional
-content/08c.md:101:levantamiento
-content/08c.md:101:mediante
-content/08c.md:101:tanto
-content/08c.md:101:técnico
-content/08c.md:102:estrategia
-content/08c.md:102:permitan
-content/08c.md:102:tener
-content/08c.md:102:través
-content/08c.md:102:una
-content/08c.md:102:una
-content/08c.md:102:unificada
-content/08c.md:103:conlleven
-content/08c.md:103:correcto
-content/08c.md:103:datos
-content/08c.md:103:democratización
-content/08c.md:103:estos
-content/08c.md:105:Aunque
-content/08c.md:105:desarrollos
-content/08c.md:105:dueño
-content/08c.md:105:el
-content/08c.md:105:estos
-content/08c.md:105:FNA
-content/08c.md:105:tienen
-content/08c.md:106:algunas
-content/08c.md:106:ciclo
-content/08c.md:106:necesidades
-content/08c.md:106:presentan
-content/08c.md:106:procesos
-content/08c.md:106:torno
-content/08c.md:106:vida
-content/08c.md:107:datos
-content/08c.md:107:donde
-content/08c.md:107:obligación
-content/08c.md:107:proveedores
-content/08c.md:107:recurrir
-content/08c.md:107:ve
-content/08c.md:108:actividades
-content/08c.md:108:dependencia
-content/08c.md:108:desarrollo
-content/08c.md:108:el
-content/08c.md:108:una
-content/08c.md:109:generación
-content/08c.md:109:inclusión
-content/08c.md:109:negocio
-content/08c.md:109:operativas
-content/08c.md:109:reglas
-content/08c.md:110:entre
-content/08c.md:110:indicadores
-content/08c.md:110:otras
-content/08c.md:112:Agrupando
-content/08c.md:112:diversidad
-content/08c.md:112:estas
-content/08c.md:112:evidencia
-content/08c.md:112:necesidades
-content/08c.md:113:datos
-content/08c.md:113:dentro
-content/08c.md:113:están
-content/08c.md:113:FNA
-content/08c.md:113:formatos
-content/08c.md:113:repositorios
-content/08c.md:114:administración
-content/08c.md:114:esta
-content/08c.md:114:gestión
-content/08c.md:114:información
-content/08c.md:114:presenta
-content/08c.md:115:algunas
-content/08c.md:115:complicaciones
-content/08c.md:115:cuando
-content/08c.md:115:énfasis
-content/08c.md:115:especialmente
-content/08c.md:116:calidad
-content/08c.md:116:datos
-content/08c.md:116:disponibilidad
-content/08c.md:118:Acceso
-content/08c.md:118:cantidad
-content/08c.md:118:datos
-content/08c.md:118:debido
-content/08c.md:118:deficiente
-content/08c.md:118:masiva
-content/08c.md:119:almacenan
-content/08c.md:119:consumo
-content/08c.md:119:datos
-content/08c.md:119:historicamente
-content/08c.md:119:plataformas
-content/08c.md:120:deben
-content/08c.md:120:disminuyen
-content/08c.md:120:información
-content/08c.md:120:manejar
-content/08c.md:120:rendimiento
-content/08c.md:120:toda
-content/08c.md:121:disposición
-content/08c.md:121:forma
-content/08c.md:121:ponerla
-content/08c.md:121:pueden
-content/08c.md:121:sencilla
-content/08c.md:123:confiables
-content/08c.md:123:Datos
-content/08c.md:123:debido
-content/08c.md:123:disminucún
-content/08c.md:123:rendimiento
-content/08c.md:124:actualizado
-content/08c.md:124:equipos
-content/08c.md:124:está
-content/08c.md:124:hacer
-content/08c.md:124:pueden
-content/08c.md:124:seguimiento
-content/08c.md:125:conjuntos
-content/08c.md:125:datos
-content/08c.md:125:desviarse
-content/08c.md:125:el
-content/08c.md:125:estáticos
-content/08c.md:125:pueden
-content/08c.md:126:inutilizables
-content/08c.md:126:tiempo
-content/08c.md:126:volverse
-content/08c.md:128:analíticos
-content/08c.md:128:centran
-content/08c.md:128:datos
-content/08c.md:128:datos
-content/08c.md:128:técnicos
-content/08c.md:129:datos
-content/08c.md:129:función
-content/08c.md:129:organizan
-content/08c.md:129:técnicos
-content/08c.md:129:usuarios
-content/08c.md:130:equipos
-content/08c.md:130:estrategicos
-content/08c.md:130:negocio
-content/08c.md:130:organización
-content/08c.md:131:dificulta
-content/08c.md:131:encontrar
-content/08c.md:131:estos
-content/08c.md:131:muchísimo
-content/08c.md:131:preestablecida
-content/08c.md:131:últimos
-content/08c.md:132:datos
-content/08c.md:132:necesitan
-content/08c.md:132:utilizar
-content/08c.md:134:consecuencia
-content/08c.md:134:generado
-content/08c.md:134:siguientes
-content/08c.md:135:problematicas
-content/08c.md:137:Arquitectura
-content/08c.md:137:Monolitica
-content/08c.md:139:arquitecturas
-content/08c.md:139:empresariales
-content/08c.md:139:plataformas
-content/08c.md:139:ser
-content/08c.md:139:tienden
-content/08c.md:140:altamente
-content/08c.md:140:dependencias
-content/08c.md:140:están
-content/08c.md:140:monolíticas
-content/08c.md:140:muchas
-content/08c.md:140:vinculadas
-content/08c.md:141:tecnología
-content/08c.md:141:términos
-content/08c.md:143:ciertos
-content/08c.md:143:crea
-content/08c.md:143:Esta
-content/08c.md:143:problemas
-content/08c.md:143:realidad
-content/08c.md:145:convierte
-content/08c.md:145:datos
-content/08c.md:145:el
-content/08c.md:145:equipo
-content/08c.md:145:espera
-content/08c.md:146:botella
-content/08c.md:146:cuello
-content/08c.md:146:deben
-content/08c.md:146:equipos
-content/08c.md:146:esperar
-content/08c.md:146:negocio
-content/08c.md:146:por
-content/08c.md:147:necesitan
-content/08c.md:147:respuestas
-content/08c.md:149:Interrupciones
-content/08c.md:149:negocio
-content/08c.md:149:planificadas
-content/08c.md:149:usuarios
-content/08c.md:150:acceder
-content/08c.md:150:mismos
-content/08c.md:150:por
-content/08c.md:150:pueden
-content/08c.md:150:sí
-content/08c.md:150:su
-content/08c.md:150:verificar
-content/08c.md:151:apoyo
-content/08c.md:151:confiabilidad
-content/08c.md:151:constantemente
-content/08c.md:151:demandan
-content/08c.md:151:el
-content/08c.md:151:equipo
-content/08c.md:152:básicas
-content/08c.md:152:cual
-content/08c.md:152:datos
-content/08c.md:152:el
-content/08c.md:152:podrá
-content/08c.md:152:relegado
-content/08c.md:152:tareas
-content/08c.md:152:verá
-content/08c.md:153:ningún
-content/08c.md:153:profundo
-content/08c.md:153:realizar
-content/08c.md:153:trabajo
-content/08c.md:155:debido
-content/08c.md:155:escalabilidad
-content/08c.md:155:está
-content/08c.md:155:Falta
-content/08c.md:155:plataforma
-content/08c.md:156:acoplada
-content/08c.md:156:cambiar
-content/08c.md:156:escalar
-content/08c.md:156:estrechamente
-content/08c.md:156:puede
-content/08c.md:156:ritmo
-content/08c.md:157:análisis
-content/08c.md:157:avanzado
-content/08c.md:157:datos
-content/08c.md:157:el
-content/08c.md:157:requerido
-content/08c.md:159:Desconectada
-content/08c.md:159:Negocio
-content/08c.md:159:Tecnología
-content/08c.md:161:Desafortunadamente
-content/08c.md:161:directo
-content/08c.md:161:entre
-content/08c.md:161:puente
-content/08c.md:161:videncia
-content/08c.md:162:datos
-content/08c.md:162:gestionan
-content/08c.md:162:utilizan
-content/08c.md:164:inconvenientes
-content/08c.md:164:siguientes
-content/08c.md:166:Datos
-content/08c.md:166:desarrollar
-content/08c.md:166:empresas
-content/08c.md:166:fragmentados
-content/08c.md:166:suelen
-content/08c.md:167:aislados
-content/08c.md:167:datos
-content/08c.md:167:encuentran
-content/08c.md:167:estos
-content/08c.md:167:partir
-content/08c.md:167:proyectos
-content/08c.md:168:amplia
-content/08c.md:168:consumidos
-content/08c.md:168:por
-content/08c.md:168:pueden
-content/08c.md:168:segmentados
-content/08c.md:168:ser
-content/08c.md:168:tanto
-content/08c.md:169:transversalmente
-content/08c.md:171:datos
-content/08c.md:171:datos
-content/08c.md:171:El
-content/08c.md:171:limitado
-content/08c.md:171:procesamiento
-content/08c.md:171:Procesamiento
-content/08c.md:172:casos
-content/08c.md:172:este
-content/08c.md:172:limitada
-content/08c.md:172:pensó
-content/08c.md:172:tradicional
-content/08c.md:172:una
-content/08c.md:173:acceso
-content/08c.md:173:Actualmente
-content/08c.md:173:atributo
-content/08c.md:173:datos
-content/08c.md:173:el
-content/08c.md:173:masivo
-content/08c.md:173:restringe
-content/08c.md:174:capacidades
-content/08c.md:174:casos
-content/08c.md:174:están
-content/08c.md:174:modernos
-content/08c.md:174:nuevas
-content/08c.md:174:por
-content/08c.md:174:requiriendo
-content/08c.md:175:datos
-content/08c.md:175:ejemplo
-content/08c.md:175:tiempo
-content/08c.md:175:transmisión
-content/08c.md:177:comerciales
-content/08c.md:177:misionales
-content/08c.md:177:objetivos
-content/08c.md:177:Separación
-content/08c.md:178:áreas
-content/08c.md:178:áreas
-content/08c.md:178:datos
-content/08c.md:178:negocio
-content/08c.md:178:por
-content/08c.md:178:técnicos
-content/08c.md:178:vinculan
-content/08c.md:179:iniciativas
-content/08c.md:179:preguntas
-content/08c.md:179:responder
-content/08c.md:179:suelen
-content/08c.md:179:sus
-content/08c.md:179:tanto
-content/08c.md:180:comerciales
-content/08c.md:180:empresa
-content/08c.md:182:analíticos
-content/08c.md:182:debe
-content/08c.md:182:el
-content/08c.md:182:fracaso
-content/08c.md:182:pequeños
-content/08c.md:182:proyectos
-content/08c.md:182:resumen
-content/08c.md:183:botella
-content/08c.md:183:cuellos
-content/08c.md:183:demoras
-content/08c.md:183:desconexiones
-content/08c.md:183:grandes
-content/08c.md:183:problemas
-content/08c.md:184:alineación
-content/08c.md:184:capacidad
-content/08c.md:184:el
-content/08c.md:184:escasa
-content/08c.md:184:malentendidos
-content/08c.md:184:negocio
-content/08c.md:184:poca
-content/08c.md:185:entre
-content/08c.md:185:otros
-content/08c.md:185:respuesta
-content/08c.md:187:anteriores
-content/08c.md:187:desafios
-content/08c.md:187:gestión
-content/08c.md:187:gobierno
-content/08c.md:187:torno
-content/08c.md:188:aruitecturas
-content/08c.md:188:datos
-content/08c.md:188:nuevo
-content/08c.md:188:orientad
-content/08c.md:188:paradigma
-content/08c.md:188:plantea
-content/08c.md:189:clave
-content/08c.md:189:conocido
-content/08c.md:189:modernas
-content/08c.md:190:buscan
-content/08c.md:190:darle
-content/08c.md:190:negativas
-content/08c.md:190:proyectosque
-content/08c.md:190:tendencias
-content/08c.md:190:vuelta
-content/08c.md:191:basadas
-content/08c.md:191:datos
-content/08c.md:191:democratización
-content/08c.md:191:descgiones
-content/08c.md:191:toma
-content/08c.md:193:Datos
-content/08c.md:193:Malla
-content/08c.md:195:alrededor
-content/08c.md:195:concepto
-content/08c.md:195:El
-content/08c.md:195:mano
-content/08c.md:195:surgió
-content/08c.md:195:Zhamak
-content/08c.md:196:Dehghani
-content/08c.md:196:fundadora
-content/08c.md:196:identificar
-content/08c.md:196:puede
-content/08c.md:196:quien
-content/08c.md:198:alguna
-content/08c.md:198:concepto
-content/08c.md:198:eliminar
-content/08c.md:198:este
-content/08c.md:198:manera
-content/08c.md:198:menos
-content/08c.md:199:centralizados
-content/08c.md:199:enfoques
-content/08c.md:199:limitaciones
-content/08c.md:199:minimizar
-content/08c.md:199:monolíticos
-content/08c.md:200:Arquitecturas
-content/08c.md:200:Datos
-content/08c.md:200:Plataformas
-content/08c.md:200:utilizado
-content/08c.md:201:datos
-content/08c.md:201:Datos
-content/08c.md:201:decir
-content/08c.md:201:equipos
-content/08c.md:201:Gestión
-content/08c.md:202:equipo
-content/08c.md:202:gestionados
-content/08c.md:202:por
-content/08c.md:203:adopción
-content/08c.md:203:basado
-content/08c.md:203:descentralizado
-content/08c.md:203:modelo
-content/08c.md:203:propone
-content/08c.md:203:una
-content/08c.md:204:áreas
-content/08c.md:204:áreas
-content/08c.md:204:arquitectura
-content/08c.md:204:distribuida
-content/08c.md:204:negocio
-content/08c.md:204:responsabilidad
-content/08c.md:205:datos
-content/08c.md:205:descentralización
-content/08c.md:205:dominios
-content/08c.md:205:gobierno
-content/08c.md:205:sobre
-content/08c.md:205:sus
-content/08c.md:206:concepto
-content/08c.md:206:descomponer
-content/08c.md:206:Esencialmente
-content/08c.md:206:refiere
-content/08c.md:207:almacenes
-content/08c.md:207:datos
-content/08c.md:207:descentralizadas
-content/08c.md:207:más
-content/08c.md:207:partes
-content/08c.md:207:pequeñas
-content/08c.md:209:deberíamos
-content/08c.md:209:decir
-content/08c.md:209:definir
-content/08c.md:209:forma
-content/08c.md:209:tenemos
-content/08c.md:210:autoservicio
-content/08c.md:210:construcción
-content/08c.md:210:infraestructura
-content/08c.md:210:permite
-content/08c.md:210:una
-content/08c.md:211:acceder
-content/08c.md:211:bajo
-content/08c.md:211:demanda
-content/08c.md:211:equipos
-content/08c.md:211:herramientas
-content/08c.md:211:recursos
-content/08c.md:211:utilizar
-content/08c.md:212:analizarlos
-content/08c.md:212:correctos
-content/08c.md:212:datos
-content/08c.md:212:prepararlos
-content/08c.md:212:procesarlos
-content/08c.md:214:definir
-content/08c.md:214:el
-content/08c.md:214:enfoque
-content/08c.md:214:generales
-content/08c.md:214:podemos
-content/08c.md:214:términos
-content/08c.md:215:acceso
-content/08c.md:215:admite
-content/08c.md:215:autoservicio
-content/08c.md:215:democratizado
-content/08c.md:215:descentralizado
-content/08c.md:215:el
-content/08c.md:216:datos
-content/08c.md:216:dominio
-content/08c.md:216:estos
-content/08c.md:216:ordenados
-content/08c.md:216:organización
-content/08c.md:216:permanecen
-content/08c.md:216:por
-content/08c.md:216:una
-content/08c.md:217:canalización
-content/08c.md:217:comercial
-content/08c.md:217:etapa
-content/08c.md:217:por
-content/08c.md:219:ayudan
-content/08c.md:219:modelos
-content/08c.md:219:obtener
-content/08c.md:219:organizaciones
-content/08c.md:220:cuando
-content/08c.md:220:positivos
-content/08c.md:220:resultados
-content/08c.md:220:trata
-content/08c.md:222:administrados
-content/08c.md:222:datos
-content/08c.md:222:dejar
-content/08c.md:222:Garantizar
-content/08c.md:222:propiedad
-content/08c.md:223:entienden
-content/08c.md:223:por
-content/08c.md:223:usuarios
-content/08c.md:225:correctos
-content/08c.md:225:datos
-content/08c.md:225:manos
-content/08c.md:225:Poner
-content/08c.md:225:usuarios
-content/08c.md:226:necesitan
-content/08c.md:228:agilidad
-content/08c.md:228:organización
-content/08c.md:228:Proveer
-content/08c.md:228:toda
-content/08c.md:228:una
-content/08c.md:228:virtud
-content/08c.md:229:autonomía
-content/08c.md:229:cada
-content/08c.md:229:datos
-content/08c.md:229:equipo
-content/08c.md:229:gana
-content/08c.md:229:gobierno
-content/08c.md:229:modelo
-content/08c.md:230:autoservicio
-content/08c.md:232:abiertas
-content/08c.md:232:deben
-content/08c.md:232:Dehgani
-content/08c.md:232:empresas
-content/08c.md:232:estar
-content/08c.md:232:explica
-content/08c.md:232:Zhamak
-content/08c.md:233:allá
-content/08c.md:233:datos
-content/08c.md:233:más
-content/08c.md:233:monolíticos
-content/08c.md:233:posibilidad
-content/08c.md:234:arquitectura
-content/08c.md:234:buscar
-content/08c.md:234:centralizados
-content/08c.md:234:construcción
-content/08c.md:234:decir
-content/08c.md:234:una
-content/08c.md:235:adopte
-content/08c.md:235:datos
-content/08c.md:235:espera
-content/08c.md:235:realidad
-content/08c.md:236:buena
-content/08c.md:236:disponibilidad
-content/08c.md:236:distribución
-content/08c.md:236:ellos
-content/08c.md:236:máxima
-content/08c.md:238:características
-content/08c.md:238:Características
-content/08c.md:240:centralizado
-content/08c.md:240:el
-content/08c.md:240:patrón
-content/08c.md:240:Tradicionalmente
-content/08c.md:240:usado
-content/08c.md:241:activos
-content/08c.md:241:agregan
-content/08c.md:241:crean
-content/08c.md:241:datos
-content/08c.md:241:datos
-content/08c.md:241:ingenieros
-content/08c.md:241:producto
-content/08c.md:242:consumidores
-content/08c.md:242:por
-content/08c.md:242:pueda
-content/08c.md:242:ser
-content/08c.md:242:usado
-content/08c.md:242:varios
-content/08c.md:243:conocer
-content/08c.md:243:contexto
-content/08c.md:243:datos
-content/08c.md:243:el
-content/08c.md:243:tiempo
-content/08c.md:244:enfoque
-content/08c.md:244:este
-content/08c.md:244:existiendo
-content/08c.md:244:seguir
-content/08c.md:246:anteriormente
-content/08c.md:246:Aunque
-content/08c.md:246:conlleva
-content/08c.md:246:desafíos
-content/08c.md:246:eso
-content/08c.md:246:expuestos
-content/08c.md:246:Por
-content/08c.md:247:basada
-content/08c.md:247:el
-content/08c.md:247:el
-content/08c.md:247:estrategia
-content/08c.md:247:facilita
-content/08c.md:247:propone
-content/08c.md:247:tanto
-content/08c.md:247:una
-content/08c.md:248:acceso
-content/08c.md:248:dato
-content/08c.md:248:datos
-content/08c.md:248:departamentos
-content/08c.md:248:el
-content/08c.md:248:entre
-content/08c.md:248:organizaciones
-content/08c.md:249:aproximación
-content/08c.md:249:más
-content/08c.md:249:mucho
-content/08c.md:249:producto
-content/08c.md:249:publica
-content/08c.md:249:trata
-content/08c.md:249:una
-content/08c.md:250:acceder
-content/08c.md:250:alguien
-content/08c.md:250:cuando
-content/08c.md:250:quiere
-content/08c.md:250:sencilla
-content/08c.md:250:tradicional
-content/08c.md:251:datos
-content/08c.md:251:debe
-content/08c.md:251:dominio
-content/08c.md:251:iniciar
-content/08c.md:251:otra
-content/08c.md:251:otro
-content/08c.md:251:proceso
-content/08c.md:251:unidad
-content/08c.md:252:debe
-content/08c.md:252:descubrimiento
-content/08c.md:252:determinar
-content/08c.md:252:hablar
-content/08c.md:252:quién
-content/08c.md:252:solicitar
-content/08c.md:253:acceso
-content/08c.md:253:permisos
-content/08c.md:255:Además
-content/08c.md:255:cambia
-content/08c.md:255:creación
-content/08c.md:255:producto
-content/08c.md:255:también
-content/08c.md:256:consumidores
-content/08c.md:256:datos
-content/08c.md:256:involucrados
-content/08c.md:256:torno
-content/08c.md:257:datos
-content/08c.md:257:datos
-content/08c.md:257:dominio
-content/08c.md:257:productos
-content/08c.md:257:propietario
-content/08c.md:257:también
-content/08c.md:258:definen
-content/08c.md:258:el
-content/08c.md:258:gobierno
-content/08c.md:258:producto
-content/08c.md:263:Componentes
-content/08c.md:263:Ilustración
-content/08c.md:265:características
-content/08c.md:265:cuenta
-content/08c.md:265:detallan
-content/08c.md:265:Teniendo
-content/08c.md:266:principales
-content/08c.md:268:Áreas
-content/08c.md:268:Áreas
-content/08c.md:268:Dominios
-content/08c.md:268:temáticas
-content/08c.md:270:descomposición
-content/08c.md:270:generales
-content/08c.md:270:más
-content/08c.md:270:modelos
-content/08c.md:270:pequeños
-content/08c.md:270:problemas
-content/08c.md:271:datos
-content/08c.md:271:ingeniería
-content/08c.md:271:nueva
-content/08c.md:271:una
-content/08c.md:273:datos
-content/08c.md:273:descomposición
-content/08c.md:273:empresas
-content/08c.md:273:frecuente
-content/08c.md:273:opten
-content/08c.md:273:por
-content/08c.md:274:acuerdo
-content/08c.md:274:área
-content/08c.md:274:área
-content/08c.md:274:complejos
-content/08c.md:274:ejemplo
-content/08c.md:274:evento
-content/08c.md:274:por
-content/08c.md:274:por
-content/08c.md:274:temática
-content/08c.md:275:bien
-content/08c.md:275:enfoque
-content/08c.md:275:este
-content/08c.md:275:producto
-content/08c.md:275:puede
-content/08c.md:275:reutilización
-content/08c.md:275:simplificar
-content/08c.md:276:casos
-content/08c.md:276:datos
-content/08c.md:276:discusiones
-content/08c.md:276:largas
-content/08c.md:276:mayoría
-content/08c.md:276:origina
-content/08c.md:277:comunes
-content/08c.md:277:datos
-content/08c.md:277:determinar
-content/08c.md:277:elementos
-content/08c.md:277:engloben
-content/08c.md:278:compartir
-content/08c.md:278:usar
-content/08c.md:280:datos
-content/08c.md:280:descomponer
-content/08c.md:280:dominios
-content/08c.md:280:efectivo
-content/08c.md:280:más
-content/08c.md:280:Por
-content/08c.md:280:puede
-content/08c.md:280:ser
-content/08c.md:280:tanto
-content/08c.md:281:alineados
-content/08c.md:281:comerciales
-content/08c.md:281:estén
-content/08c.md:281:misionales
-content/08c.md:281:procesos
-content/08c.md:282:áreas
-content/08c.md:282:áreas
-content/08c.md:282:cada
-content/08c.md:282:dominio
-content/08c.md:282:empresa
-content/08c.md:282:esta
-content/08c.md:282:implementar
-content/08c.md:282:manera
-content/08c.md:282:podría
-content/08c.md:283:actividades
-content/08c.md:283:aplicables
-content/08c.md:283:propias
-content/08c.md:283:sus
-content/08c.md:283:temáticas
-content/08c.md:285:agilidad
-content/08c.md:285:dominio
-content/08c.md:285:esquemas
-content/08c.md:285:por
-content/08c.md:285:proporcionar
-content/08c.md:285:Separar
-content/08c.md:287:adoptar
-content/08c.md:287:diseño
-content/08c.md:287:el
-content/08c.md:287:principales
-content/08c.md:287:Una
-content/08c.md:287:ventajas
-content/08c.md:288:agilidad
-content/08c.md:290:arquitecturas
-content/08c.md:290:basadas
-content/08c.md:290:implementación
-content/08c.md:291:cada
-content/08c.md:291:crear
-content/08c.md:291:dominio
-content/08c.md:291:especialistas
-content/08c.md:291:esquemas
-content/08c.md:291:recomiendan
-content/08c.md:291:separados
-content/08c.md:292:administración
-content/08c.md:292:datos
-content/08c.md:292:modelado
-content/08c.md:292:recae
-content/08c.md:292:responsabilidad
-content/08c.md:292:su
-content/08c.md:293:cada
-content/08c.md:293:dominio
-content/08c.md:293:ellos
-content/08c.md:293:encargarán
-content/08c.md:293:específico
-content/08c.md:293:negocio
-content/08c.md:293:usuarios
-content/08c.md:294:construcción
-content/08c.md:296:colección
-content/08c.md:296:esquemas
-content/08c.md:296:parte
-content/08c.md:296:por
-content/08c.md:296:proporcionan
-content/08c.md:296:su
-content/08c.md:296:una
-content/08c.md:297:alineados
-content/08c.md:297:áreas
-content/08c.md:297:áreas
-content/08c.md:297:datos
-content/08c.md:297:negocio
-content/08c.md:297:productos
-content/08c.md:299:dominios
-content/08c.md:299:entre
-content/08c.md:299:Integración
-content/08c.md:301:contexto
-content/08c.md:301:datos
-content/08c.md:301:el
-content/08c.md:301:negocio
-content/08c.md:301:optimizar
-content/08c.md:301:pueden
-content/08c.md:302:dominio
-content/08c.md:302:muchas
-content/08c.md:302:oportunidades
-content/08c.md:302:optimización
-content/08c.md:302:procesos
-content/08c.md:303:combinen
-content/08c.md:303:comerciales
-content/08c.md:303:datos
-content/08c.md:303:límites
-content/08c.md:303:requieren
-content/08c.md:303:través
-content/08c.md:304:estos
-content/08c.md:304:funcionales
-content/08c.md:304:geográficos
-content/08c.md:304:hagan
-content/08c.md:304:obstante
-content/08c.md:304:procesos
-content/08c.md:305:deben
-content/08c.md:305:estrategia
-content/08c.md:305:explícita
-content/08c.md:305:organizaciones
-content/08c.md:305:realidad
-content/08c.md:305:tener
-content/08c.md:305:una
-content/08c.md:306:canalice
-content/08c.md:306:dominios
-content/08c.md:306:el
-content/08c.md:306:entre
-content/08c.md:306:intercambio
-content/08c.md:308:datos
-content/08c.md:308:empresariales
-content/08c.md:308:productos
-content/08c.md:308:Soporte
-content/08c.md:310:datos
-content/08c.md:310:empresariales
-content/08c.md:310:multidominio
-content/08c.md:310:presentan
-content/08c.md:310:productos
-content/08c.md:310:una
-content/08c.md:311:atributo
-content/08c.md:311:contribuye
-content/08c.md:311:Este
-content/08c.md:311:misionales
-content/08c.md:311:optimización
-content/08c.md:311:procesos
-content/08c.md:312:datos
-content/08c.md:312:Estos
-content/08c.md:312:extremo
-content/08c.md:312:extremo
-content/08c.md:312:productos
-content/08c.md:312:ser
-content/08c.md:312:suelen
-content/08c.md:313:adición
-content/08c.md:313:datos
-content/08c.md:313:multifuncionales
-content/08c.md:313:múltiples
-content/08c.md:313:requieren
-content/08c.md:314:aplicaciones
-content/08c.md:314:casos
-content/08c.md:314:menudo
-content/08c.md:314:múltiples
-content/08c.md:314:tienen
-content/08c.md:316:frecuencia
-content/08c.md:316:Por
-content/08c.md:316:propicios
-content/08c.md:316:reutilizados
-content/08c.md:316:ser
-content/08c.md:316:tanto
-content/08c.md:317:dominios
-content/08c.md:317:varios
-content/08c.md:319:subtipos
-content/08c.md:319:Supertipos
-content/08c.md:321:datos
-content/08c.md:321:empresariales
-content/08c.md:321:entregar
-content/08c.md:321:exitosos
-content/08c.md:321:necesario
-content/08c.md:321:productos
-content/08c.md:322:agregar
-content/08c.md:322:combinar
-content/08c.md:322:datos
-content/08c.md:322:dominio
-content/08c.md:322:equipos
-content/08c.md:322:involucrados
-content/08c.md:322:puedan
-content/08c.md:323:confiable
-content/08c.md:323:dominios
-content/08c.md:323:enfoque
-content/08c.md:323:esto
-content/08c.md:323:lograr
-content/08c.md:323:manera
-content/08c.md:323:múltiples
-content/08c.md:324:crear
-content/08c.md:324:cuenta
-content/08c.md:324:datos
-content/08c.md:324:empresariales
-content/08c.md:324:producto
-content/08c.md:324:sería
-content/08c.md:324:Supertype
-content/08c.md:325:datos
-content/08c.md:325:dominios
-content/08c.md:325:Este
-content/08c.md:325:producto
-content/08c.md:325:todos
-content/08c.md:325:través
-content/08c.md:326:atributos
-content/08c.md:326:cada
-content/08c.md:326:comunes
-content/08c.md:326:contendría
-content/08c.md:326:dominio
-content/08c.md:326:dominios
-content/08c.md:326:Luego
-content/08c.md:326:todos
-content/08c.md:327:administraría
-content/08c.md:327:cuenta
-content/08c.md:327:datos
-content/08c.md:327:producto
-content/08c.md:327:propio
-content/08c.md:327:su
-content/08c.md:327:subtipo
-content/08c.md:328:adicionales
-content/08c.md:328:atributos
-content/08c.md:328:específicos
-content/08c.md:330:consistencia
-content/08c.md:330:enfoque
-content/08c.md:330:entre
-content/08c.md:330:Este
-content/08c.md:330:grado
-content/08c.md:330:importante
-content/08c.md:330:impulsa
-content/08c.md:331:aplican
-content/08c.md:331:claves
-content/08c.md:331:dominios
-content/08c.md:331:respalden
-content/08c.md:331:unión
-content/08c.md:332:asegura
-content/08c.md:332:asimismo
-content/08c.md:332:ser
-content/08c.md:332:suficientemente
-content/08c.md:332:supertipos
-content/08c.md:333:amplíen
-content/08c.md:333:áreas
-content/08c.md:333:áreas
-content/08c.md:333:comerciales
-content/08c.md:333:datos
-content/08c.md:333:dominios
-content/08c.md:333:productos
-content/08c.md:333:sus
-content/08c.md:334:necesario
-content/08c.md:334:según
-content/08c.md:334:subtipos
-content/08c.md:336:Buen
-content/08c.md:336:correctos
-content/08c.md:336:estándares
-content/08c.md:336:gobierno
-content/08c.md:338:datos
-content/08c.md:338:estraegías
-content/08c.md:338:iniciativas
-content/08c.md:338:transformación
-content/08c.md:339:entre
-content/08c.md:339:están
-content/08c.md:339:incrementando
-content/08c.md:339:integraciones
-content/08c.md:339:más
-content/08c.md:339:modernas
-content/08c.md:339:necesidad
-content/08c.md:340:dominios
-content/08c.md:342:coherente
-content/08c.md:342:Desarrollar
-content/08c.md:342:interfuncional
-content/08c.md:342:operaciones
-content/08c.md:342:una
-content/08c.md:342:visión
-content/08c.md:343:conectados
-content/08c.md:343:datos
-content/08c.md:343:estén
-content/08c.md:343:requiere
-content/08c.md:343:tanto
-content/08c.md:343:técnica
-content/08c.md:344:consistencia
-content/08c.md:344:implementación
-content/08c.md:344:semánticamente
-content/08c.md:344:través
-content/08c.md:345:coordinado
-content/08c.md:345:dominios
-content/08c.md:345:enfoque
-content/08c.md:345:espontáneamente
-content/08c.md:345:requiere
-content/08c.md:346:datos
-content/08c.md:346:el
-content/08c.md:346:gobierno
-content/08c.md:346:negocio
-content/08c.md:346:por
-content/08c.md:348:aprovechar
-content/08c.md:348:Asimismo
-content/08c.md:348:éxito
-content/08c.md:348:experiencia
-content/08c.md:348:requiere
-content/08c.md:348:técnica
-content/08c.md:349:datos
-content/08c.md:349:efectiva
-content/08c.md:349:gestión
-content/08c.md:349:herramientas
-content/08c.md:349:implementar
-content/08c.md:349:manera
-content/08c.md:350:datos
-content/08c.md:350:dominios
-content/08c.md:350:entre
-content/08c.md:350:gobernanza
-content/08c.md:352:Cada
-content/08c.md:352:calidad
-content/08c.md:352:desarrollar
-content/08c.md:352:dominio
-content/08c.md:352:necesitará
-content/08c.md:352:procesos
-content/08c.md:352:soporte
-content/08c.md:353:datos
-content/08c.md:353:diseño
-content/08c.md:353:estructuras
-content/08c.md:353:otros
-content/08c.md:353:reconciliación
-content/08c.md:353:sumados
-content/08c.md:354:arquitectura
-content/08c.md:354:elementos
-content/08c.md:356:pilares
-content/08c.md:356:Pilares
-content/08c.md:358:centra
-content/08c.md:358:cuales
-content/08c.md:358:estrategia
-content/08c.md:358:pilares
-content/08c.md:359:continuación
-content/08c.md:359:describen
-content/08c.md:361:dominio
-content/08c.md:361:el
-content/08c.md:361:el
-content/08c.md:361:impulsada
-content/08c.md:361:por
-content/08c.md:361:principio
-content/08c.md:361:Propiedad
-content/08c.md:362:datos
-content/08c.md:362:el
-content/08c.md:362:poder
-content/08c.md:362:propiedad
-content/08c.md:362:transferir
-content/08c.md:363:decir
-content/08c.md:363:departamentos
-content/08c.md:363:dominio
-content/08c.md:363:equipos
-content/08c.md:363:manos
-content/08c.md:363:unidades
-content/08c.md:364:datos
-content/08c.md:364:dueños
-content/08c.md:364:Ellos
-content/08c.md:364:extremo
-content/08c.md:364:negocio
-content/08c.md:364:serán
-content/08c.md:365:asegurarse
-content/08c.md:365:correctas
-content/08c.md:365:desde
-content/08c.md:365:hasta
-content/08c.md:365:otro
-content/08c.md:365:podrán
-content/08c.md:365:tener
-content/08c.md:366:datos
-content/08c.md:366:entrega
-content/08c.md:366:necesarios
-content/08c.md:366:procesamientos
-content/08c.md:367:aprovechen
-content/08c.md:367:dominio
-content/08c.md:367:equipos
-content/08c.md:367:otros
-content/08c.md:367:productos
-content/08c.md:369:Datos
-content/08c.md:369:dominio
-content/08c.md:369:equipos
-content/08c.md:369:producto
-content/08c.md:369:responsables
-content/08c.md:370:datos
-content/08c.md:370:datos
-content/08c.md:370:El
-content/08c.md:370:productos
-content/08c.md:370:resultantes
-content/08c.md:370:también
-content/08c.md:371:cada
-content/08c.md:371:datos
-content/08c.md:371:descubierto
-content/08c.md:371:lograr
-content/08c.md:371:objetivo
-content/08c.md:371:producto
-content/08c.md:372:consumidores
-content/08c.md:372:dominio
-content/08c.md:372:el
-content/08c.md:372:equipos
-content/08c.md:372:otros
-content/08c.md:372:por
-content/08c.md:373:actualizar
-content/08c.md:373:dominio
-content/08c.md:373:mantener
-content/08c.md:373:propietario
-content/08c.md:373:responsable
-content/08c.md:374:calidad
-content/08c.md:374:desaprobar
-content/08c.md:374:estos
-content/08c.md:374:garantizar
-content/08c.md:374:productos
-content/08c.md:375:precisión
-content/08c.md:377:autoservicio
-content/08c.md:377:autoservicio
-content/08c.md:377:Infraestructura
-content/08c.md:377:todo
-content/08c.md:378:complejas
-content/08c.md:378:hace
-content/08c.md:378:olvidemos
-content/08c.md:378:siempre
-content/08c.md:378:tecnologías
-content/08c.md:379:basa
-content/08c.md:379:El
-content/08c.md:379:habilidades
-content/08c.md:379:nicho
-content/08c.md:379:por
-content/08c.md:379:principio
-content/08c.md:380:común
-content/08c.md:380:conjunto
-content/08c.md:380:datos
-content/08c.md:380:gestión
-content/08c.md:380:mediante
-content/08c.md:380:plataforma
-content/08c.md:380:una
-content/08c.md:380:una
-content/08c.md:381:aprovechar
-content/08c.md:381:cualquier
-content/08c.md:381:dominio
-content/08c.md:381:equipo
-content/08c.md:381:herramientas
-content/08c.md:381:pueda
-content/08c.md:383:controles
-content/08c.md:383:eliminar
-content/08c.md:383:federada
-content/08c.md:383:Gobernanza
-content/08c.md:383:queremos
-content/08c.md:383:verdad
-content/08c.md:384:acceso
-content/08c.md:384:controles
-content/08c.md:384:entre
-content/08c.md:384:equilibrio
-content/08c.md:384:necesitamos
-content/08c.md:384:políticas
-content/08c.md:385:creación
-content/08c.md:385:dominio
-content/08c.md:385:gobernanza
-content/08c.md:385:posibilidad
-content/08c.md:386:Esto
-content/08c.md:386:federada
-content/08c.md:386:gobernanza
-content/08c.md:386:llamamos
-content/08c.md:386:productos
-content/08c.md:387:el
-content/08c.md:387:garantizar
-content/08c.md:387:práctica
-content/08c.md:387:privacidad
-content/08c.md:388:cumplimiento
-content/08c.md:388:escalar
-content/08c.md:388:posibilidad
-content/08c.md:393:Ilustración
-content/08c.md:393:Pilares
-content/08c.md:395:arquitectura
-content/08c.md:395:Arquitectura
-content/08c.md:395:basada
-content/08c.md:395:basada
-content/08c.md:395:candidata
-content/08c.md:395:Candidata
-content/08c.md:397:arquitectura
-content/08c.md:397:basada
-content/08c.md:397:el
-content/08c.md:397:FNA
-content/08c.md:397:propuesta
-content/08c.md:398:componentes
-content/08c.md:398:ilustra
-content/08c.md:398:siguientes
-content/08c.md:400:basada
-content/08c.md:400:Dominios
-content/08c.md:400:negocio
-content/08c.md:400:Negocios
-content/08c.md:400:unidades
-content/08c.md:401:Ahorro
-content/08c.md:401:datos
-content/08c.md:401:definición
-content/08c.md:401:Fondo
-content/08c.md:401:Nacional
-content/08c.md:401:Teniendo
-content/08c.md:402:arquitectura
-content/08c.md:402:cuenta
-content/08c.md:402:definida
-content/08c.md:402:el
-content/08c.md:402:negocio
-content/08c.md:402:presente
-content/08c.md:403:cesantías
-content/08c.md:403:Crédito
-content/08c.md:403:documento
-content/08c.md:403:dominios
-content/08c.md:403:plantean
-content/08c.md:403:siguientes
-content/08c.md:404:ahorro
-content/08c.md:404:cliente
-content/08c.md:404:comercial
-content/08c.md:404:financiera
-content/08c.md:404:operación
-content/08c.md:406:Consumidores
-content/08c.md:406:Datos
-content/08c.md:406:Definidos
-content/08c.md:406:necesitan
-content/08c.md:407:consumidores
-content/08c.md:407:datos
-content/08c.md:407:decisiones
-content/08c.md:407:sobre
-content/08c.md:407:tomar
-content/08c.md:408:datos
-content/08c.md:408:delos
-content/08c.md:408:estratégicos
-content/08c.md:408:hacer
-content/08c.md:408:necesitar
-content/08c.md:408:productos
-content/08c.md:409:el
-content/08c.md:409:generados
-content/08c.md:409:por
-content/08c.md:411:Capacidad
-content/08c.md:411:Ciencia
-content/08c.md:411:datos
-content/08c.md:411:Inteligencia
-content/08c.md:411:Negocios
-content/08c.md:412:encuentra
-content/08c.md:412:Estrategia
-content/08c.md:412:implementada
-content/08c.md:412:inteligencia
-content/08c.md:412:negocios
-content/08c.md:413:alertas
-content/08c.md:413:donde
-content/08c.md:413:generar
-content/08c.md:413:permitiendo
-content/08c.md:413:reportes
-content/08c.md:413:tableros
-content/08c.md:414:apreciar
-content/08c.md:414:diferentes
-content/08c.md:414:gestión
-content/08c.md:414:indicadores
-content/08c.md:414:medir
-content/08c.md:414:permiten
-content/08c.md:414:puedan
-content/08c.md:415:ciencia
-content/08c.md:415:datos
-content/08c.md:415:estrategia
-content/08c.md:415:lado
-content/08c.md:415:otro
-content/08c.md:415:Por
-content/08c.md:415:provee
-content/08c.md:416:desarrollo
-content/08c.md:416:diseño
-content/08c.md:416:el
-content/08c.md:416:implementación
-content/08c.md:416:metodología
-content/08c.md:417:cognitivos
-content/08c.md:417:descriptivos
-content/08c.md:417:mantenimiento
-content/08c.md:417:modelos
-content/08c.md:417:predictivos
-content/08c.md:418:analítica
-content/08c.md:418:avanzada
-content/08c.md:420:Arquitectura
-content/08c.md:420:capas
-content/08c.md:420:compuesta
-content/08c.md:420:Está
-content/08c.md:420:por
-content/08c.md:420:tres
-content/08c.md:421:almacenes
-content/08c.md:421:datos
-content/08c.md:421:datos
-content/08c.md:421:integración
-content/08c.md:421:productos
-content/08c.md:422:datos
-content/08c.md:422:datos
-content/08c.md:422:interoperabilidad
-content/08c.md:424:Almacenes
-content/08c.md:424:datos
-content/08c.md:424:datos
-content/08c.md:424:estructurados
-content/08c.md:424:Repositorios
-content/08c.md:425:donde
-content/08c.md:425:estructurados
-content/08c.md:425:persisten
-content/08c.md:425:semiestructurados
-content/08c.md:426:datos
-content/08c.md:426:diferentes
-content/08c.md:426:Estos
-content/08c.md:426:productos
-content/08c.md:426:productos
-content/08c.md:426:pueden
-content/08c.md:426:ser
-content/08c.md:426:tableros
-content/08c.md:427:analíticos
-content/08c.md:427:dominio
-content/08c.md:427:específico
-content/08c.md:427:modelos
-content/08c.md:428:archivo
-content/08c.md:428:basada
-content/08c.md:428:decisiones
-content/08c.md:428:incluso
-content/08c.md:428:permitan
-content/08c.md:428:reportes
-content/08c.md:428:toma
-content/08c.md:429:datos
-content/08c.md:429:incluso
-content/08c.md:429:mismos
-content/08c.md:429:monetización
-content/08c.md:431:el
-content/08c.md:431:Integración
-content/08c.md:431:interoperabilidad
-content/08c.md:431:Mecanismos
-content/08c.md:431:permiten
-content/08c.md:432:arquitectura
-content/08c.md:432:capas
-content/08c.md:432:datos
-content/08c.md:432:entre
-content/08c.md:432:Estas
-content/08c.md:432:intercambio
-content/08c.md:433:cercanas
-content/08c.md:433:pueden
-content/08c.md:433:ser
-content/08c.md:433:tiempo
-content/08c.md:434:dependiente
-content/08c.md:434:funcionales
-content/08c.md:434:producto
-content/08c.md:434:requerimientos
-content/08c.md:435:Basicamente
-content/08c.md:435:construir
-content/08c.md:435:datos
-content/08c.md:435:datos
-content/08c.md:435:desde
-content/08c.md:435:flujos
-content/08c.md:435:permiten
-content/08c.md:436:almacenes
-content/08c.md:436:datos
-content/08c.md:436:hacia
-content/08c.md:436:repositorios
-content/08c.md:438:Conformado
-content/08c.md:438:Datos
-content/08c.md:438:diferentes
-content/08c.md:438:por
-content/08c.md:439:el
-content/08c.md:439:generación
-content/08c.md:439:información
-content/08c.md:439:insumo
-content/08c.md:440:conformadas
-content/08c.md:440:datos
-content/08c.md:440:ejemplo
-content/08c.md:440:están
-content/08c.md:440:Estas
-content/08c.md:440:por
-content/08c.md:440:por
-content/08c.md:440:productos
-content/08c.md:441:Cobis
-content/08c.md:441:datos
-content/08c.md:441:misionales
-content/08c.md:441:sistemas
-content/08c.md:442:corporativa
-content/08c.md:442:datalake
-content/08c.md:442:el
-content/08c.md:442:esta
-content/08c.md:442:forma
-content/08c.md:442:incluso
-content/08c.md:442:integra
-content/08c.md:443:datos
-content/08c.md:443:estrategia
-content/08c.md:443:FNA
-content/08c.md:443:gestión
-content/08c.md:443:propuesta
-content/08c.md:444:arquitectura
-content/08c.md:444:datos
-content/08c.md:444:Donde
-content/08c.md:445:datos
-content/08c.md:445:fuente
-content/08c.md:445:información
-content/08c.md:445:malla
-content/08c.md:447:correcta
-content/08c.md:447:datos
-content/08c.md:447:ecosistema
-content/08c.md:447:el
-content/08c.md:447:gestión
-content/08c.md:447:medio
-content/08c.md:447:Por
-content/08c.md:447:una
-content/08c.md:448:capacidades
-content/08c.md:448:datos
-content/08c.md:448:FNA
-content/08c.md:448:gestión
-content/08c.md:448:propone
-content/08c.md:448:unas
-content/08c.md:449:cual
-content/08c.md:449:cumplir
-content/08c.md:449:organizacionales
-content/08c.md:449:permitirá
-content/08c.md:449:procesos
-content/08c.md:449:soportar
-content/08c.md:450:datos
-content/08c.md:450:desarrollados
-content/08c.md:450:el
-content/08c.md:450:gobierno
-content/08c.md:450:objetivos
-content/08c.md:451:activos
-content/08c.md:451:controlar
-content/08c.md:451:datos
-content/08c.md:451:el
-content/08c.md:451:optimizar
-content/08c.md:451:proteger
-content/08c.md:452:calidad
-content/08c.md:452:capacidades
-content/08c.md:452:datos
-content/08c.md:452:Dentro
-content/08c.md:452:encuentran
-content/08c.md:452:estas
-content/08c.md:453:continuación
-content/08c.md:453:datos
-content/08c.md:453:gestión
-content/08c.md:453:referencia
-content/08c.md:453:seguridad
-content/08c.md:454:capacidades
-content/08c.md:454:detallan
-content/08c.md:454:propuestas
-content/08c.md:456:calidad
-content/08c.md:456:Calidad
-content/08c.md:456:Datos
-content/08c.md:456:información
-content/08c.md:456:medio
-content/08c.md:456:Por
-content/08c.md:457:cada
-content/08c.md:457:características
-content/08c.md:457:entender
-content/08c.md:457:gestionar
-content/08c.md:457:puede
-content/08c.md:457:una
-content/08c.md:458:correcta
-content/08c.md:458:cumplimiento
-content/08c.md:458:datos
-content/08c.md:458:el
-content/08c.md:458:su
-content/08c.md:458:su
-content/08c.md:458:utilización
-content/08c.md:458:vez
-content/08c.md:459:dato
-content/08c.md:459:frente
-content/08c.md:459:necesidades
-content/08c.md:459:objetivos
-content/08c.md:459:Respecto
-content/08c.md:459:usuario
-content/08c.md:460:datos
-content/08c.md:460:ecosistema
-content/08c.md:460:el
-content/08c.md:460:esta
-content/08c.md:460:FNA
-content/08c.md:460:reutiliza
-content/08c.md:460:reutilización
-content/08c.md:460:sus
-content/08c.md:461:áreas
-content/08c.md:461:áreas
-content/08c.md:461:compartírselos
-content/08c.md:461:datos
-content/08c.md:461:propios
-content/08c.md:461:todas
-content/08c.md:462:requieran
-content/08c.md:464:calidad
-content/08c.md:464:datos
-content/08c.md:464:evitar
-content/08c.md:464:gestionar
-content/08c.md:464:permite
-content/08c.md:464:Por
-content/08c.md:465:brechas
-content/08c.md:465:calidad
-content/08c.md:465:conducen
-content/08c.md:465:estos
-content/08c.md:465:inconsistencias
-content/08c.md:465:problemas
-content/08c.md:466:decisiones
-content/08c.md:466:incluso
-content/08c.md:466:incorrectas
-content/08c.md:466:oportunidades
-content/08c.md:466:perdidas
-content/08c.md:467:impactos
-content/08c.md:467:normativas
-content/08c.md:467:reputacionales
-content/08c.md:467:sanciones
-content/08c.md:469:capacidades
-content/08c.md:469:ciclo
-content/08c.md:469:dato
-content/08c.md:469:propuestas
-content/08c.md:469:Respecto
-content/08c.md:469:vida
-content/08c.md:470:dato
-content/08c.md:470:desde
-content/08c.md:470:permiten
-content/08c.md:470:su
-content/08c.md:470:toda
-content/08c.md:470:transcurso
-content/08c.md:470:trazabilidad
-content/08c.md:470:vida
-content/08c.md:471:adquisición
-content/08c.md:471:almacenamiento
-content/08c.md:471:creación
-content/08c.md:471:gestión
-content/08c.md:471:hasta
-content/08c.md:471:mantenimiento
-content/08c.md:471:su
-content/08c.md:472:borrado
-content/08c.md:472:destrucción
-content/08c.md:472:utilización
-content/08c.md:474:datos
-content/08c.md:474:Estrategia
-content/08c.md:474:implementación
-content/08c.md:474:referencia
-content/08c.md:475:esta
-content/08c.md:475:estrategia
-content/08c.md:475:permitirá
-content/08c.md:477:cual
-content/08c.md:477:Cumplir
-content/08c.md:477:datos
-content/08c.md:477:ecosistema
-content/08c.md:477:el
-content/08c.md:477:facilita
-content/08c.md:477:requisitos
-content/08c.md:478:acceso
-content/08c.md:478:confianza
-content/08c.md:478:conjuntos
-content/08c.md:478:datos
-content/08c.md:478:mismos
-content/08c.md:478:tener
-content/08c.md:479:actuales
-content/08c.md:479:completos
-content/08c.md:479:conjuntos
-content/08c.md:479:consistentes
-content/08c.md:479:datos
-content/08c.md:481:costo
-content/08c.md:481:costos
-content/08c.md:481:datos
-content/08c.md:481:El
-content/08c.md:481:Gestionar
-content/08c.md:481:integración
-content/08c.md:481:integrar
-content/08c.md:482:ausencia
-content/08c.md:482:complejo
-content/08c.md:482:datos
-content/08c.md:482:entorno
-content/08c.md:482:nuevas
-content/08c.md:483:cómo
-content/08c.md:483:Datos
-content/08c.md:483:entidades
-content/08c.md:483:variación
-content/08c.md:484:críticas
-content/08c.md:484:definidas
-content/08c.md:484:identificadas
-content/08c.md:486:Datos
-content/08c.md:486:el
-content/08c.md:486:permitir
-content/08c.md:486:pueden
-content/08c.md:486:Reducir
-content/08c.md:486:riesgo
-content/08c.md:487:arquitectura
-content/08c.md:487:datos
-content/08c.md:487:intercambio
-content/08c.md:487:reducir
-content/08c.md:487:simplificación
-content/08c.md:488:asociados
-content/08c.md:488:complejo
-content/08c.md:488:costos
-content/08c.md:488:entorno
-content/08c.md:488:riesgos
-content/08c.md:490:alineada
-content/08c.md:490:capacidad
-content/08c.md:490:encuentra
-content/08c.md:490:Esta
-content/08c.md:490:Seguridad
-content/08c.md:491:arquitectura
-content/08c.md:491:deben
-content/08c.md:491:empresarial
-content/08c.md:491:esta
-content/08c.md:491:FNA
-content/08c.md:491:seguridad
-content/08c.md:492:abordar
-content/08c.md:492:capacidades
-content/08c.md:492:datos
-content/08c.md:492:enfocados
-content/08c.md:492:protección
-content/08c.md:492:seguridad
-content/08c.md:493:abordan
-content/08c.md:493:dominio
-content/08c.md:493:el
-content/08c.md:493:protección
-content/08c.md:493:respaldo
-content/08c.md:493:seguridad
-content/08c.md:494:anonimización
-content/08c.md:494:cifrado
-content/08c.md:494:datos
-content/08c.md:494:personales
-content/08c.md:494:registros
-content/08c.md:495:auditoría
-content/08c.md:495:capa
-content/08c.md:495:datos
-content/08c.md:497:apreciar
-content/08c.md:497:arquitectura
-content/08c.md:497:continuación
-content/08c.md:497:ilustración
-content/08c.md:497:permite
-content/08c.md:498:ahorro
-content/08c.md:498:candidata
-content/08c.md:498:datos
-content/08c.md:498:el
-content/08c.md:498:enmarcado
-content/08c.md:498:Fondo
-content/08c.md:498:nacional
-content/08c.md:498:propuesta
-content/08c.md:499:Arquitectura
-content/08c.md:499:el
-content/08c.md:499:proyecto
-content/08c.md:499:SOA
-content/08c.md:504:Arquitectura
-content/08c.md:504:Candidata
-content/08c.md:504:Ilustración
-content/08c.md:506:basada
-content/08c.md:506:basada
-content/08c.md:506:datos
-content/08c.md:506:datos
-content/08c.md:506:estrategia
-content/08c.md:506:estrategia
-content/08c.md:506:implementar
-content/08c.md:506:implementar
-content/08c.md:506:pasos
-content/08c.md:506:Pasos
-content/08c.md:506:una
-content/08c.md:506:una
-content/08c.md:508:algunas
-content/08c.md:508:el
-content/08c.md:508:implementaciones
-content/08c.md:508:observamos
-content/08c.md:509:difieren
-content/08c.md:509:Esto
-content/08c.md:509:mucho
-content/08c.md:509:otras
-content/08c.md:509:soluciones
-content/08c.md:509:sus
-content/08c.md:509:unas
-content/08c.md:509:veremos
-content/08c.md:510:debe
-content/08c.md:510:definidos
-content/08c.md:510:partimos
-content/08c.md:510:principios
-content/08c.md:510:únicamente
-content/08c.md:510:unos
-content/08c.md:511:cada
-content/08c.md:511:compañía
-content/08c.md:511:implementa
-content/08c.md:511:interpreta
-content/08c.md:511:nivel
-content/08c.md:511:según
-content/08c.md:511:su
-content/08c.md:512:ello
-content/08c.md:512:existe
-content/08c.md:512:infraestructura
-content/08c.md:512:metodología
-content/08c.md:512:necesidades
-content/08c.md:512:Por
-content/08c.md:512:sus
-content/08c.md:512:una
-content/08c.md:513:aunque
-content/08c.md:513:construir
-content/08c.md:513:específica
-content/08c.md:513:estos
-content/08c.md:513:podemos
-content/08c.md:513:seguir
-content/08c.md:513:sí
-content/08c.md:514:aplicación
-content/08c.md:514:pasos
-content/08c.md:514:principios
-content/08c.md:519:Ilustración
-content/08c.md:519:implementar
-content/08c.md:519:Pasos
-content/08c.md:521:Definir
-content/08c.md:521:el
-content/08c.md:521:el
-content/08c.md:521:estado
-content/08c.md:521:paradigma
-content/08c.md:522:dentro
-content/08c.md:522:forma
-content/08c.md:522:impacta
-content/08c.md:522:organizarse
-content/08c.md:522:principalmente
-content/08c.md:522:una
-content/08c.md:523:datos
-content/08c.md:523:El
-content/08c.md:523:mapear
-content/08c.md:523:paso
-content/08c.md:523:plataforma
-content/08c.md:523:procesos
-content/08c.md:523:será
-content/08c.md:524:ecosistema
-content/08c.md:524:eliminar
-content/08c.md:524:limitaciones
-content/08c.md:524:nuestro
-content/08c.md:524:técnicas
-content/08c.md:525:aplicar
-content/08c.md:525:empezar
-content/08c.md:525:encontrar
-content/08c.md:525:puedan
-content/08c.md:526:capacidades
-content/08c.md:526:contemplar
-content/08c.md:526:deberá
-content/08c.md:526:El
-content/08c.md:526:permitan
-content/08c.md:526:principios
-content/08c.md:527:aplicar
-content/08c.md:527:autoservicio
-content/08c.md:527:el
-content/08c.md:527:estado
-content/08c.md:527:Este
-content/08c.md:527:plataforma
-content/08c.md:527:principio
-content/08c.md:528:cualquier
-content/08c.md:528:iniciar
-content/08c.md:528:permitirá
-content/08c.md:528:proceso
-content/08c.md:528:transición
-content/08c.md:529:cambios
-content/08c.md:529:grandes
-content/08c.md:529:momento
-content/08c.md:529:necesidad
-content/08c.md:531:buena
-content/08c.md:531:comenzar
-content/08c.md:531:Definir
-content/08c.md:531:dominios
-content/08c.md:531:forma
-content/08c.md:531:producto
-content/08c.md:531:Una
-content/08c.md:532:datos
-content/08c.md:532:dominio
-content/08c.md:532:el
-content/08c.md:532:introduciendo
-content/08c.md:532:principio
-content/08c.md:532:seleccionando
-content/08c.md:533:aquellos
-content/08c.md:533:casos
-content/08c.md:533:cercanos
-content/08c.md:533:dominios
-content/08c.md:533:donde
-content/08c.md:533:orígenes
-content/08c.md:533:sus
-content/08c.md:534:ahorro
-content/08c.md:534:cesantías
-content/08c.md:534:clientes
-content/08c.md:534:créditos
-content/08c.md:534:datos
-content/08c.md:534:producidos
-content/08c.md:535:casos
-content/08c.md:535:continuación
-content/08c.md:535:estos
-content/08c.md:535:liberar
-content/08c.md:535:proporcionándoles
-content/08c.md:535:una
-content/08c.md:536:descubrimiento
-content/08c.md:536:dirección
-content/08c.md:536:directorio
-content/08c.md:536:importa
-content/08c.md:536:permita
-content/08c.md:536:su
-content/08c.md:537:datos
-content/08c.md:537:diferentes
-content/08c.md:537:duplicados
-content/08c.md:537:haya
-content/08c.md:537:plataforma
-content/08c.md:537:zonas
-content/08c.md:538:datos
-content/08c.md:538:definición
-content/08c.md:538:dominio
-content/08c.md:538:importante
-content/08c.md:538:su
-content/08c.md:540:definir
-content/08c.md:540:dominios
-content/08c.md:540:Luego
-content/08c.md:540:Migrar
-content/08c.md:540:responsabilidad
-content/08c.md:541:asegurarse
-content/08c.md:541:cuyo
-content/08c.md:541:descentralizar
-content/08c.md:541:empieza
-content/08c.md:541:objetivo
-content/08c.md:541:plataforma
-content/08c.md:542:datos
-content/08c.md:542:dominios
-content/08c.md:542:propiedad
-content/08c.md:542:transferida
-content/08c.md:543:aplicando
-content/08c.md:543:conseguir
-content/08c.md:543:Esto
-content/08c.md:543:metodologías
-content/08c.md:543:puede
-content/08c.md:544:equipos
-content/08c.md:544:infraestructura
-content/08c.md:544:migrando
-content/08c.md:544:parte
-content/08c.md:544:procesos
-content/08c.md:545:datos
-content/08c.md:545:equipo
-content/08c.md:545:nuevo
-content/08c.md:545:servicio
-content/08c.md:546:dominio
-content/08c.md:546:funcional
-content/08c.md:546:responsable
-content/08c.md:548:descentralización
-content/08c.md:548:este
-content/08c.md:548:Gobernar
-content/08c.md:548:importante
-content/08c.md:548:muy
-content/08c.md:548:paso
-content/08c.md:549:asegurar
-content/08c.md:549:calidad
-content/08c.md:549:datos
-content/08c.md:549:dominios
-content/08c.md:549:permitir
-content/08c.md:549:través
-content/08c.md:550:autodescriptivos
-content/08c.md:550:dominios
-content/08c.md:550:interoperables
-content/08c.md:550:propios
-content/08c.md:551:compartirán
-content/08c.md:551:dominios
-content/08c.md:551:esta
-content/08c.md:551:manera
-content/08c.md:551:sintaxis
-content/08c.md:551:una
-content/08c.md:552:acceso
-content/08c.md:552:estándares
-content/08c.md:552:globales
-content/08c.md:552:gobernados
-content/08c.md:552:por
-content/08c.md:552:serán
-content/08c.md:552:unos
-content/08c.md:554:debe
-content/08c.md:554:diferentes
-content/08c.md:554:este
-content/08c.md:554:paso
-content/08c.md:554:recordar
-content/08c.md:554:responsables
-content/08c.md:555:dominios
-content/08c.md:555:federada
-content/08c.md:555:forman
-content/08c.md:555:parte
-content/08c.md:555:plataforma
-content/08c.md:555:visión
-content/08c.md:556:definitiva
-content/08c.md:556:gobierno
-content/08c.md:556:su
-content/08c.md:558:implantación
-content/08c.md:558:implantación
-content/08c.md:558:principales
-content/08c.md:558:Principales
-content/08c.md:558:retos
-content/08c.md:558:retos
-content/08c.md:560:aprovechar
-content/08c.md:560:cómo
-content/08c.md:560:datos
-content/08c.md:560:definición
-content/08c.md:560:estrategia
-content/08c.md:560:implica
-content/08c.md:560:Tener
-content/08c.md:560:una
-content/08c.md:561:datos
-content/08c.md:561:encontrabilidad
-content/08c.md:561:principios
-content/08c.md:561:utilizando
-content/08c.md:562:accesibilidad
-content/08c.md:562:interoperabilidad
-content/08c.md:562:reutilización
-content/08c.md:563:accesibles
-content/08c.md:563:comprensibles
-content/08c.md:563:Datos
-content/08c.md:563:Productos
-content/08c.md:563:utilizables
-content/08c.md:564:Datos
-content/08c.md:564:interoperables
-content/08c.md:564:otros
-content/08c.md:564:productos
-content/08c.md:564:Productos
-content/08c.md:565:aportan
-content/08c.md:565:datos
-content/08c.md:565:datos
-content/08c.md:565:empresa
-content/08c.md:565:forma
-content/08c.md:565:monetizar
-content/08c.md:565:una
-content/08c.md:567:cuenta
-content/08c.md:567:deben
-content/08c.md:567:lograr
-content/08c.md:567:siguientes
-content/08c.md:567:tener
-content/08c.md:568:desafíos
-content/08c.md:570:ajuste
-content/08c.md:570:consideraciones
-content/08c.md:570:El
-content/08c.md:570:principales
-content/08c.md:570:tecnológico
-content/08c.md:570:una
-content/08c.md:571:adoptar
-content/08c.md:571:cualquier
-content/08c.md:571:esfuerzos
-content/08c.md:571:organización
-content/08c.md:571:por
-content/08c.md:572:basada
-content/08c.md:572:estrategia
-content/08c.md:572:gestión
-content/08c.md:572:implementar
-content/08c.md:572:una
-content/08c.md:573:arquitectura
-content/08c.md:573:datos
-content/08c.md:573:el
-content/08c.md:573:éxito
-content/08c.md:573:implantar
-content/08c.md:573:poder
-content/08c.md:574:datos
-content/08c.md:574:debe
-content/08c.md:574:FNA
-content/08c.md:574:plataformas
-content/08c.md:574:redefinir
-content/08c.md:574:reestructurar
-content/08c.md:574:sus
-content/08c.md:575:datos
-content/08c.md:575:dominios
-content/08c.md:575:funciones
-content/08c.md:575:propietarios
-content/08c.md:575:revisar
-content/08c.md:576:datos
-content/08c.md:576:estructuras
-content/08c.md:576:hacer
-content/08c.md:576:productos
-content/08c.md:576:propiedad
-content/08c.md:577:analíticos
-content/08c.md:577:datos
-content/08c.md:577:desarrollar
-content/08c.md:577:sus
-content/08c.md:577:transición
-content/08c.md:578:producto
-content/08c.md:580:Dato
-content/08c.md:580:Federado
-content/08c.md:580:Gobierno
-content/08c.md:580:implantación
-content/08c.md:580:modelo
-content/08c.md:581:comunicaciones
-content/08c.md:581:estandarización
-content/08c.md:581:interoperabilidad
-content/08c.md:582:fundamentales
-content/08c.md:582:globalmente
-content/08c.md:582:gobernadas
-content/08c.md:582:pilares
-content/08c.md:582:uno
-content/08c.md:583:avanzar
-content/08c.md:583:construir
-content/08c.md:583:distribuidos
-content/08c.md:583:parte
-content/08c.md:583:sistemas
-content/08c.md:583:Una
-content/08c.md:584:arquitectura
-content/08c.md:584:datos
-content/08c.md:584:descentralizada
-content/08c.md:584:entender
-content/08c.md:584:hacia
-content/08c.md:584:una
-content/08c.md:585:descentralizada
-content/08c.md:585:federación
-content/08c.md:585:propiedad
-content/08c.md:585:tiene
-content/08c.md:585:ver
-content/08c.md:586:bien
-content/08c.md:586:disciplinas
-content/08c.md:586:entendidas
-content/08c.md:586:requiere
-content/08c.md:588:datos
-content/08c.md:588:dominio
-content/08c.md:588:dominios
-content/08c.md:588:Equipos
-content/08c.md:588:interfuncionales
-content/08c.md:589:aumentados
-content/08c.md:589:datos
-content/08c.md:589:necesitan
-content/08c.md:589:productos
-content/08c.md:589:proporcionan
-content/08c.md:589:ser
-content/08c.md:590:conjuntos
-content/08c.md:590:el
-content/08c.md:590:habilidades
-content/08c.md:590:nuevos
-content/08c.md:590:producto
-content/08c.md:590:propietario
-content/08c.md:591:datos
-content/08c.md:591:datos
-content/08c.md:591:estos
-content/08c.md:591:importante
-content/08c.md:591:ingenieros
-content/08c.md:592:construir
-content/08c.md:592:dominios
-content/08c.md:592:incorporen
-content/08c.md:592:operar
-content/08c.md:592:todos
-content/08c.md:593:datos
-content/08c.md:593:dominios
-content/08c.md:593:internos
-content/08c.md:595:Construir
-content/08c.md:595:convergente
-content/08c.md:595:datos
-content/08c.md:595:diseño
-content/08c.md:595:plataforma
-content/08c.md:596:autoservicio
-content/08c.md:596:necesaria
-content/08c.md:596:proporcione
-content/08c.md:596:soporte
-content/08c.md:596:tecnología
-content/08c.md:597:almacenar
-content/08c.md:597:capturar
-content/08c.md:597:dominios
-content/08c.md:597:necesitan
-content/08c.md:597:procesar
-content/08c.md:597:servir
-content/08c.md:598:datos
-content/08c.md:598:debe
-content/08c.md:598:Esta
-content/08c.md:598:ocultar
-content/08c.md:598:plataforma
-content/08c.md:598:productos
-content/08c.md:598:sus
-content/08c.md:598:toda
-content/08c.md:599:complejidad
-content/08c.md:599:componentes
-content/08c.md:599:proporcionar
-content/08c.md:599:subyacente
-content/08c.md:600:autoservicio
-content/08c.md:600:datos
-content/08c.md:600:infraestructura
-content/08c.md:600:régimen
-content/08c.md:602:adaptarse
-content/08c.md:602:cambio
-content/08c.md:602:gestión
-content/08c.md:602:nivel
-content/08c.md:602:significativo
-content/08c.md:603:datos
-content/08c.md:603:descentralizadas
-content/08c.md:603:necesario
-content/08c.md:603:operaciones
-content/08c.md:604:cambio
-content/08c.md:604:esfuerzo
-content/08c.md:604:importante
-content/08c.md:606:Análisis
-content/08c.md:606:cruzados
-content/08c.md:606:dominios
-content/08c.md:606:garantizar
-content/08c.md:606:reto
-content/08c.md:606:todas
-content/08c.md:607:gestión
-content/08c.md:607:lineamientos
-content/08c.md:607:normas
-content/08c.md:607:permitan
-content/08c.md:607:procesos
-content/08c.md:608:cambio
-content/08c.md:608:cruzados
-content/08c.md:608:datos
-content/08c.md:608:dominios
-content/08c.md:608:Este
-content/08c.md:608:hacia
-content/08c.md:608:propiedad
-content/08c.md:609:amplia
-content/08c.md:609:aplicamos
-content/08c.md:609:datos
-content/08c.md:609:distribuida
-content/08c.md:609:funciona
-content/08c.md:609:sólo
-content/08c.md:609:una
-content/08c.md:610:datos
-content/08c.md:610:empresariales
-content/08c.md:610:normas
-content/08c.md:610:normas
-content/08c.md:610:nuestros
-content/08c.md:610:productos
-content/08c.md:611:conectividad
-content/08c.md:611:crea
-content/08c.md:611:distribución
-content/08c.md:611:lineamientos
-content/08c.md:611:reglas
-content/08c.md:612:caos
-content/08c.md:612:desorganización
-content/08c.md:612:ecosistema
-content/08c.md:612:incompatibilidad
-content/08c.md:613:cruzado
-content/08c.md:613:dominio
-content/08c.md:613:imposibles
-content/08c.md:613:iniciativas
-content/08c.md:615:Bibliográficas
-content/08c.md:615:Referencias
-content/08c.md:620:DAMA
-content/08c.md:620:DMBOK
-content/08c.md:621:Dama
 content/08.Fase 2 PR8 Arquitectura de Referencia.md:1:Fase
 content/08.Fase 2 PR8 Arquitectura de Referencia.md:1:Objetivo
 content/08.Fase 2 PR8 Arquitectura de Referencia.md:1:SOA
