@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-02-08'
+date-meta: '2023-02-10'
 author-meta:
 - Harry Wong, ing.
 - Eddie Hernandez, ing.
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-02-08" />
-  <meta name="citation_publication_date" content="2023-02-08" />
-  <meta property="article:published_time" content="2023-02-08" />
-  <meta name="dc.modified" content="2023-02-08T00:25:31+00:00" />
-  <meta property="article:modified_time" content="2023-02-08T00:25:31+00:00" />
+  <meta name="dc.date" content="2023-02-10" />
+  <meta name="citation_publication_date" content="2023-02-10" />
+  <meta property="article:published_time" content="2023-02-10" />
+  <meta name="dc.modified" content="2023-02-10T18:07:17+00:00" />
+  <meta property="article:modified_time" content="2023-02-10T18:07:17+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/82981d00a55de6c8307a1bd24b38c02416be3bc1/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/82981d00a55de6c8307a1bd24b38c02416be3bc1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/82981d00a55de6c8307a1bd24b38c02416be3bc1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/156b6fb073a51807bb8aa9ab55ca8dc8f93a131b/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/156b6fb073a51807bb8aa9ab55ca8dc8f93a131b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/156b6fb073a51807bb8aa9ab55ca8dc8f93a131b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,11 +69,11 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdocs-f2/v/82981d00a55de6c8307a1bd24b38c02416be3bc1/))
+([permalink](https://hwong23.github.io/fna-devdocs-f2/v/156b6fb073a51807bb8aa9ab55ca8dc8f93a131b/))
 versión indicada a continuación, se encuentra en 
 ****
-[82981d0](https://github.com/hwong23/fna-devdocs-f2/tree/82981d00a55de6c8307a1bd24b38c02416be3bc1)
-de February 8, 2023.
+[156b6fb](https://github.com/hwong23/fna-devdocs-f2/tree/156b6fb073a51807bb8aa9ab55ca8dc8f93a131b)
+de February 10, 2023.
 
 
 
@@ -161,7 +161,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa, Industria financiera |
 |Autor           |                                                       |
 |Fuente          |                                                       |
-|Version|82981d0 del 08 Feb 2023                                  |
+|Version|156b6fb del 10 Feb 2023                                  |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -369,7 +369,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|**82981d0** del 08 Feb 2023|
+|Version|**156b6fb** del 10 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>| Tema           | Arquitectura SOA Candidata para FNA: **Arquitectura de Referencia. Versión 2.0** |
@@ -423,7 +423,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**82981d0** del 08 Feb 2023|
+|Version|**156b6fb** del 10 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -482,7 +482,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|**82981d0** del 08 Feb 2023|
+|Version|**156b6fb** del 10 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1226,7 +1226,7 @@ Ilustración 8: Roles de gobierno de datos
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor||
 |Fuente||
-|Version|**82981d0** del 08 Feb 2023|
+|Version|**156b6fb** del 10 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1296,7 +1296,7 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor          ||
 |Fuente         ||
-|Version        |**82981d0** del 08 Feb 2023|
+|Version        |**156b6fb** del 10 Feb 2023|
 |Vínculos       |[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1400,7 +1400,7 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|82981d0 del 08 Feb 2023|
+|Version|156b6fb del 10 Feb 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1483,42 +1483,32 @@ los procesos de desarrollo modernos y en organizaciones más ágiles.
 
 ### Localización y Orquestación
 
-Otro aspecto a considerar es el uso de tecnologías para la localización
-y orquestación de servicios. Hasta hace unos años, el bus de servicios
-(ESB) era una parte fundamental de los ecosistemas de tecnología de las
-organizaciones, fundamentalmente en esquemas de despliegue on-premises.
-Los ESB se convirtieron en pieza fundamental para la orquestación de
-servicios y para la construcción de soluciones basadas en llamados
-sincrónicos entre servicios. Este esquema funciona, cuando en general
-todas las aplicaciones involucradas se encuentran desplegadas en un
-mismo ambiente (por ejemplo: on-premises). Sin embargo, con la llegada
-de la nube y el despliegue de soluciones en este ambiente, los ESB no
-encajan perfectamente, ni tampoco ofrecen soluciones claras para
-arquitecturas no monolíticas y heterogéneas.
+Otro aspecto a considerar es el uso de tecnologías para la localización y orquestación de servicios. En los períodos de auge de SOA, e incluso en el período post SOA, el bus de servicios (ESB) era una parte fundamental de los ecosistemas de tecnología de las organizaciones, principalmente en esquemas de despliegue on-premises. Los ESB se convirtieron la pieza clave para la orquestación de servicios y para la construcción de soluciones basadas en llamados sincrónicos entre servicios. Este esquema funciona, cuando en general todas las aplicaciones involucradas se encuentran desplegadas en un mismo ambiente (por ejemplo: on-premises). Sin embargo, con la propuesta de computación en la nube y el despliegue de soluciones en este ambiente, los ESB no encajan perfectamente, ni tampoco ofrecen soluciones claras para arquitecturas no monolíticas y heterogéneas.
+
+<br>
 
 ### Reflexiones
 
-Si bien SOA constituye una alternativa viable y vigente para la
+SOA todavía constituye una alternativa viable y vigente para la
 construcción de soluciones basadas en servicios, su utilización y
 evolución a futuro deja muchas inquietudes e interrogantes. Las
-arquitecturas actuales, se han convertido en algo más híbrido, con el
-uso de soluciones on-premises mediades por buses de servicios, y
+arquitecturas actuales, _se han convertido en algo más híbrido_, con el
+uso de soluciones on-premises mediadas por buses de servicios, y
 soluciones desplegadas en la nube, orientadas a eventos y coreografía de
 servicios en lugar de los esquemas tradicionales de orquestación.
 
 Si bien, los activos desarrollados en esquemas tradicionales de SOA y
-ESBs siguen siendo utilizados y la inversión realizada en estas
-soluciones debe seguir siendo recuperada, es importante gradualmente ir
-considerando una migración a soluciones basadas en eventos, colas de
-mensajes y esquemas de comunicación más orientados a la nube, somo los
-service-mesh.
+ESB siguen siendo utilizados y la inversión realizada en estas
+soluciones debe seguir siendo recuperada, _es importante incluir en el portafolio de iniciativas los proyectos de migración a soluciones basadas en eventos, colas de
+mensajes y esquemas de comunicación más orientados a la nube, como los
+service-mesh_.
 
 ## Web Oriented Architectures (WOA)
 
 El esquema SOA se ha venido combinando con esquemas más orientados al
 uso de las tecnologías Web. A este cambio se le denomina el Web Oriented
 Architectures (WOA), o arquitecturas de solución orientadas al uso de
-tecnologías como Microservicios, APIs(API Economy), Arquitecturas
+tecnologías como Microservicios, API (API Economy), Arquitecturas
 Orientadas a Eventos, y mecanismos alternativos para la orquestación y
 comunicación sincrónica de microservicios (Service-Mesh).
 
@@ -2106,7 +2096,7 @@ La arquitectura SOA candidata del FNA sirve de base para la planeación de cambi
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **82981d0** del 08 Feb 2023                    |
+| Version        | **156b6fb** del 10 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2155,7 +2145,7 @@ height="7in"}
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **82981d0** del 08 Feb 2023                    |
+| Version        | **156b6fb** del 10 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2221,7 +2211,7 @@ posibilidad de escalar.
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **82981d0** del 08 Feb 2023                    |
+| Version        | **156b6fb** del 10 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2844,27 +2834,32 @@ desafíos:
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **82981d0** del 08 Feb 2023                    |
+| Version        | **156b6fb** del 10 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
 
-## Arquitectura de Infraestructura Candidata FNA
-
+## Arquitectura Candidata de Infraestructura del FNA
 Para la arquitectura SOA objetivo se propone un enfoque de computación en la nube donde se hace uso de componentes IaaS y PaaS. Dentro de la oferta actual de componentes se pueden encontrar soluciones que permiten garantizar escalabilidad, disponibilidad, cumplimiento regulatorio y menores tiempos de salida al mercado.
 
+<br>
 
-### Arquitectura To Be
+### Arquitectura Objetivo
 
 ![](./images/infra1/media/image1.png){width="6.1375in"
 height="3.5520833333333335in"}
+
+<br>
 
 ### Principales Características
 
 
 **Arquitectura sin servidor para la interfaz web**: Distribución de contenidos con baja latencia y altas velocidades de transferencia usando CDN hospedando el contenido estático de la aplicación en un servicio de almacenamiento de objetos, eliminando la necesidad de utilizar servidores en esta capa.
+
 **Enfoque de microservicios**: Permite obetener capacidad de cómputo particular según sea requerido para soportar la carga. 
+
 **Exposición de la funcionalidad de negocio a través de API Gateway**: Entrega las solicitudes a los microservicios, habilitando la gestión de API para establecer modelos de Calidad en el Servicio (QoS) y controlando la autenticación y autorización.
+
 **Orquestación de contenedores**: Los administradores de Kubernetes permiten automatizar tareas clave como los parches, el aprovisionamiento de nodos y las actualizaciones. El gestior de Kubernetes por lo general permite  gestionar dinámicamente la creación o terminación de nodos y contenedores en base a la demanda.
 
 **Service mesh**: Permite distribuir la carga proveniente de API Gateway, obteniendo mayor visibilidad y controles uniformes del tráfico de red.
