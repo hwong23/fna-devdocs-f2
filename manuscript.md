@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-02-10" />
   <meta name="citation_publication_date" content="2023-02-10" />
   <meta property="article:published_time" content="2023-02-10" />
-  <meta name="dc.modified" content="2023-02-10T18:07:17+00:00" />
-  <meta property="article:modified_time" content="2023-02-10T18:07:17+00:00" />
+  <meta name="dc.modified" content="2023-02-10T18:27:39+00:00" />
+  <meta property="article:modified_time" content="2023-02-10T18:27:39+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/156b6fb073a51807bb8aa9ab55ca8dc8f93a131b/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/156b6fb073a51807bb8aa9ab55ca8dc8f93a131b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/156b6fb073a51807bb8aa9ab55ca8dc8f93a131b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/32783d5726a2472ce383df361e1af1ec8c5a5902/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/32783d5726a2472ce383df361e1af1ec8c5a5902/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/32783d5726a2472ce383df361e1af1ec8c5a5902/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdocs-f2/v/156b6fb073a51807bb8aa9ab55ca8dc8f93a131b/))
+([permalink](https://hwong23.github.io/fna-devdocs-f2/v/32783d5726a2472ce383df361e1af1ec8c5a5902/))
 versión indicada a continuación, se encuentra en 
 ****
-[156b6fb](https://github.com/hwong23/fna-devdocs-f2/tree/156b6fb073a51807bb8aa9ab55ca8dc8f93a131b)
+[32783d5](https://github.com/hwong23/fna-devdocs-f2/tree/32783d5726a2472ce383df361e1af1ec8c5a5902)
 de February 10, 2023.
 
 
@@ -161,7 +161,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa, Industria financiera |
 |Autor           |                                                       |
 |Fuente          |                                                       |
-|Version|156b6fb del 10 Feb 2023                                  |
+|Version|32783d5 del 10 Feb 2023                                  |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -369,7 +369,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|**156b6fb** del 10 Feb 2023|
+|Version|**32783d5** del 10 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>| Tema           | Arquitectura SOA Candidata para FNA: **Arquitectura de Referencia. Versión 2.0** |
@@ -423,7 +423,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**156b6fb** del 10 Feb 2023|
+|Version|**32783d5** del 10 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -482,7 +482,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|**156b6fb** del 10 Feb 2023|
+|Version|**32783d5** del 10 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1226,7 +1226,7 @@ Ilustración 8: Roles de gobierno de datos
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor||
 |Fuente||
-|Version|**156b6fb** del 10 Feb 2023|
+|Version|**32783d5** del 10 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1296,7 +1296,7 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor          ||
 |Fuente         ||
-|Version        |**156b6fb** del 10 Feb 2023|
+|Version        |**32783d5** del 10 Feb 2023|
 |Vínculos       |[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1395,25 +1395,25 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 *** 
 
 
-|Tema|Vigilancia Avances de Industria: **Lista tecnologías SOA afines al Fondo**
+|Tema|Vigilancia Avances de Industria: **Consideraciones tecnolóogicas para el FNA**
 |------------|----------------------------------------------|
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|156b6fb del 10 Feb 2023|
+|Version|32783d5 del 10 Feb 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
 
-## Tecnologías SOA Afines al FNA
-### Arquitecturas Orientadas a Servicios (SOA)
-
+## Arquitecturas Orientadas a Servicios (SOA)
 SOA como estilo de arquitectura, representó un cambio fundamental en los
 procesos de desarrollo de soluciones informáticas, así como de procesos
 de negocio, en los últimos años. Como estilo de arquitectura, el uso de
 SOA pretendía favorecer la reutilización de código con la promesa de
 construir piezas de software que pudieran ser localizadas y consumidas
 por demanda.
+
+<br>
 
 En la actualidad, vemos que varias de las premisas se cumplieron, pero
 otras no han podido realmente implementarse. En primer lugar, la
@@ -1424,8 +1424,9 @@ monolíticas y la evolución y mantenimiento de los servicios. Otro
 aspecto que hace complejo el uso de los servicios, es el costeo de los
 servicios y la demostración del retorno de inversión de los mismos.
 
-### Diseño y granularidad de los servicios
+<br>
 
+## Diseño y granularidad de los servicios
 En buena medida la justificación de reutilización de los servicios ha
 ido implicando que se implementen modificaciones y extensiones al
 software para cubrir diferentes funcionalidades de negocio dentro de la
@@ -1437,8 +1438,9 @@ redunda en un decremento de la disponibilidad de los servicios, aumento
 de las fallas en producción y aumento en los costos de mantenimiento y
 modificación de cada servicio.
 
-### Mecanismos de Comunicación
+<br>
 
+## Mecanismos de Comunicación
 SOA como toda tecnología ha venido evolucionando. En temas de
 comunicación, los inicios de SOA impusieron SOPA y WS-\* como mecanismos
 de intercambio de información y flujo de lógica de negocio. Sin embargo,
@@ -1454,8 +1456,9 @@ a introducir nuevos elementos en la arquitectura, como conectores y
 adaptadores, complicando un poco más el ecosistema de servicios de una
 solución.
 
-### Arquitecturas Monolíticas y Servicios
+<br>
 
+## Arquitecturas Monolíticas y Servicios
 Uno de los principales retos desde el punto de vista de arquitectura y
 el uso de los servicios es poder mantener una consistencia de la oferta
 de servicios con las aplicaciones legadas de la organización. Muchas de
@@ -1481,13 +1484,15 @@ El uso de SOA no facilita la incorporación de prácticas como la
 integración continua y el despliegue continuo, requeridas actualmente en
 los procesos de desarrollo modernos y en organizaciones más ágiles.
 
-### Localización y Orquestación
+<br>
+
+## Localización y Orquestación
 
 Otro aspecto a considerar es el uso de tecnologías para la localización y orquestación de servicios. En los períodos de auge de SOA, e incluso en el período post SOA, el bus de servicios (ESB) era una parte fundamental de los ecosistemas de tecnología de las organizaciones, principalmente en esquemas de despliegue on-premises. Los ESB se convirtieron la pieza clave para la orquestación de servicios y para la construcción de soluciones basadas en llamados sincrónicos entre servicios. Este esquema funciona, cuando en general todas las aplicaciones involucradas se encuentran desplegadas en un mismo ambiente (por ejemplo: on-premises). Sin embargo, con la propuesta de computación en la nube y el despliegue de soluciones en este ambiente, los ESB no encajan perfectamente, ni tampoco ofrecen soluciones claras para arquitecturas no monolíticas y heterogéneas.
 
 <br>
 
-### Reflexiones
+## Conclusiones
 
 SOA todavía constituye una alternativa viable y vigente para la
 construcción de soluciones basadas en servicios, su utilización y
@@ -1503,6 +1508,18 @@ soluciones debe seguir siendo recuperada, _es importante incluir en el portafoli
 mensajes y esquemas de comunicación más orientados a la nube, como los
 service-mesh_.
 
+
+
+|Tema|Vigilancia Avances de Industria: **Lista tecnologías SOA afines al Fondo**
+|------------|----------------------------------------------|
+|Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
+|Autor||
+|Fuente||
+|Version|32783d5 del 10 Feb 2023|
+|Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
+
+<br>
+
 ## Web Oriented Architectures (WOA)
 
 El esquema SOA se ha venido combinando con esquemas más orientados al
@@ -1510,14 +1527,13 @@ uso de las tecnologías Web. A este cambio se le denomina el Web Oriented
 Architectures (WOA), o arquitecturas de solución orientadas al uso de
 tecnologías como Microservicios, API (API Economy), Arquitecturas
 Orientadas a Eventos, y mecanismos alternativos para la orquestación y
-comunicación sincrónica de microservicios (Service-Mesh).
+comunicación asincrónica de microservicios (Service-Mesh).
 
 ### API / API Economy
 
 En la actualidad las APIs han pasado de ser un mecanismo de integración,
 a un elemento crítico tanto a nivel interno dentro de las
-organizaciones, como mecanismo de interoperabilidad entre socios de
-negocio y clientes finales.
+organizaciones, como mecanismo de interoperabilidad negocio clientes, y de automatización de operaciones.
 
 #### Portafolios de APIs
 
@@ -1550,7 +1566,7 @@ forma que todas las APIs del portafolio sean consistentes unas con
 otras, reutilizables, descubribles y personalizables.
 
 El Portafolio debe cumplir con requisitos funcionales y no funcionales
-como : consistencia, reuso, personalización, descubrimiento y longevidad
+como: consistencia, reuso, personalización, descubrimiento y longevidad
 
 Consistencia: Un cliente o una solución seguramente usarán varias APIs
 del portafolio. Es deseable que la salida de una API pueda ser usada
@@ -1838,10 +1854,9 @@ monolíticas y más basadas en tecnologías Web y microservicios.
 ![](./images/media/image7.png){width="4.817361111111111in"
 height="3.4625in"}
 
+Fuente: https://www.crosser.io/blog/posts/why-the-next-generation-enterprise-service-bus-esb-needs-to-be-intelligent/.
+
 <br>
-
-### Tomado de: https://www.crosser.io/blog/posts/why-the-next-generation-enterprise-service-bus-esb-needs-to-be-intelligent/
-
 
 En la anterior figura, se muestra la evolución que han tenido los ESBs.
 La primera generación, caracterizada por ser infraestructura instalada
@@ -1919,10 +1934,16 @@ tiene certeza de su cumplimiento. En cualquier caso, el resultado de
 ejecución de un comando, puede tener como resultado un evento
 notificando a los interesados el resultado obtenido.
 
-### ![](./images/media/image10.png){width="4.132638888888889in" height="3.0131944444444443in"}
+![](./images/media/image10.png){width="4.132638888888889in" height="3.0131944444444443in"}
+
+<br>
 
 ![](./images/media/image11.png){width="2.9868055555555557in"
-height="2.558333333333333in"}A partir de estos tres conceptos, se
+height="2.558333333333333in"}
+
+<br>
+
+A partir de estos tres conceptos, se
 construyen soluciones desacopladas, que en su mayoría se comunican en
 forma asíncrona. El concepto fundamental, es que no se tienen servicios
 que realizan comunicaciones síncronas. Toda solicitud de realización de
@@ -2096,7 +2117,7 @@ La arquitectura SOA candidata del FNA sirve de base para la planeación de cambi
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **156b6fb** del 10 Feb 2023                    |
+| Version        | **32783d5** del 10 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2145,7 +2166,7 @@ height="7in"}
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **156b6fb** del 10 Feb 2023                    |
+| Version        | **32783d5** del 10 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2211,7 +2232,7 @@ posibilidad de escalar.
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **156b6fb** del 10 Feb 2023                    |
+| Version        | **32783d5** del 10 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2834,7 +2855,7 @@ desafíos:
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **156b6fb** del 10 Feb 2023                    |
+| Version        | **32783d5** del 10 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
