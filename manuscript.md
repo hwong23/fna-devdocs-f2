@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-02-10'
+date-meta: '2023-02-14'
 author-meta:
 - Harry Wong, ing.
 - Eddie Hernandez, ing.
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-02-10" />
-  <meta name="citation_publication_date" content="2023-02-10" />
-  <meta property="article:published_time" content="2023-02-10" />
-  <meta name="dc.modified" content="2023-02-10T18:27:39+00:00" />
-  <meta property="article:modified_time" content="2023-02-10T18:27:39+00:00" />
+  <meta name="dc.date" content="2023-02-14" />
+  <meta name="citation_publication_date" content="2023-02-14" />
+  <meta property="article:published_time" content="2023-02-14" />
+  <meta name="dc.modified" content="2023-02-14T12:39:56+00:00" />
+  <meta property="article:modified_time" content="2023-02-14T12:39:56+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/32783d5726a2472ce383df361e1af1ec8c5a5902/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/32783d5726a2472ce383df361e1af1ec8c5a5902/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/32783d5726a2472ce383df361e1af1ec8c5a5902/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/b22d0fffc510b4545318a81185488a2ea3e3c220/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/b22d0fffc510b4545318a81185488a2ea3e3c220/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/b22d0fffc510b4545318a81185488a2ea3e3c220/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,11 +69,11 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdocs-f2/v/32783d5726a2472ce383df361e1af1ec8c5a5902/))
+([permalink](https://hwong23.github.io/fna-devdocs-f2/v/b22d0fffc510b4545318a81185488a2ea3e3c220/))
 versión indicada a continuación, se encuentra en 
 ****
-[32783d5](https://github.com/hwong23/fna-devdocs-f2/tree/32783d5726a2472ce383df361e1af1ec8c5a5902)
-de February 10, 2023.
+[b22d0ff](https://github.com/hwong23/fna-devdocs-f2/tree/b22d0fffc510b4545318a81185488a2ea3e3c220)
+de February 14, 2023.
 
 
 
@@ -161,7 +161,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa, Industria financiera |
 |Autor           |                                                       |
 |Fuente          |                                                       |
-|Version|32783d5 del 10 Feb 2023                                  |
+|Version|b22d0ff del 14 Feb 2023                                  |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -369,7 +369,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|**32783d5** del 10 Feb 2023|
+|Version|**b22d0ff** del 14 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>| Tema           | Arquitectura SOA Candidata para FNA: **Arquitectura de Referencia. Versión 2.0** |
@@ -423,7 +423,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**32783d5** del 10 Feb 2023|
+|Version|**b22d0ff** del 14 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -482,13 +482,13 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|**32783d5** del 10 Feb 2023|
+|Version|**b22d0ff** del 14 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
 
 ### Capacidades FNA por Desarrollar para el Gobierno SOA
-Las capacidades requeridas por el gobierno SOA del Fondo, que a la vez soportan a la matriz de roles y responsabilidades (RACI) futuras del equipo de gobierno SOA o del Comité de arquitectura del Fondo están relacionados directamente con los objeitvos del gobierno SOA y con los riesgos tecnológicos encontrados en la Fase 1 (ver [06a.Objetivos gobierno](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md), y [06c.Riesgos tecnológicos SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)).
+Las capacidades requeridas por el gobierno SOA del Fondo, que a la vez soportan a la matriz de roles y responsabilidades (RACI) futuras del equipo de gobierno SOA o del Comité de arquitectura del Fondo, están relacionados directamente con los objeitvos del gobierno SOA y con los riesgos tecnológicos encontrados en la Fase 1 (ver [06a.Objetivos gobierno](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md), y [06c.Riesgos tecnológicos SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)).
 
 <br>
 
@@ -1226,13 +1226,13 @@ Ilustración 8: Roles de gobierno de datos
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor||
 |Fuente||
-|Version|**32783d5** del 10 Feb 2023|
+|Version|**b22d0ff** del 14 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
 
 ## Indicadores de Efectividad del Gobierno SOA
-Más allá de los índices propuestos por el análisis de madurez SOA desarrollado en la Fase 1 de este diagnóstico, _para el FNA es clave mantener activo el vínculo de sus activos tanto de infraestructura como los activos SOA (y de todos, aunque se escapen del alcance de este ejercicio) con el contexto de negocio de las vicepresidencias de Operaciones y de Crédito_. Esto es, el principal indicador del gobierno SOA es la existencia y actualidad de los vínculos entre los contextos de negocio y la arquitectura de referencia SOA FNA, y su tecnología.
+Más allá de los índices propuestos por el análisis de madurez SOA desarrollado en la Fase 1 de este diagnóstico, _es clave que el FNA mantenga el vínculo de sus activos tanto de infraestructura como los activos SOA (y de todos, aunque no hagan parte del alcance de este ejercicio) con el contexto de negocio de las vicepresidencias de Operaciones y de Crédito_. Esto es, el principal indicador del gobierno SOA es la existencia y la vigencia de los vínculos entre los contextos de negocio y la arquitectura de referencia SOA FNA, y su tecnología.
 
 Este solo indicador del gobierno SOA, el del vínculo de los contextos negocio-tecnología SOA, que es útil también para otras disciplinas de gestión TI, _identifica y justifica los costos de un cambio en relación al Valor de negocio que pueda traer_. Sirve de base para los procesos de obsolutamente todas las decisiones de cambio, mejora, inversión, recorte, y otras propias de la gestión de la tecnología SOA.
 Sirve además para medir la confiabilidad de los análisis que sobre los modelos se realicen. _Es por estas razones que para el Fondo este es el principal indicador de gobierno SOA a desarrollar_.
@@ -1296,7 +1296,7 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor          ||
 |Fuente         ||
-|Version        |**32783d5** del 10 Feb 2023|
+|Version        |**b22d0ff** del 14 Feb 2023|
 |Vínculos       |[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1305,7 +1305,7 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 
 
 ### Marco de Trabajo para Implementar Gobierno SOA en FNA
-Un Marco de trabajo adaptado para la organización que responde y gestiona los cambios evolutivos de la arquitectura de referencia SOA instalada en el Fondo. Esta versión del marco de gobierno, que necesariamente es una versión inicial para el FNA dado el resultado del análisis de madurez de la Fase 1, procura únicamente la gestión de cambios de la arquitectura. Versiones posteriores de este modelo puede y deberá abordar problemáticas señaladas por nuevos análisis.
+Antes de implementar lo que llamamos Gobierno SOA del FNA, es requisito contar con un marco de trabajo adaptado para el segmento de la empresa y que responda y gestione los cambios evolutivos de la arquitectura de referencia SOA instalada en el Fondo. Esta versión del marco de gobierno, que necesariamente es una versión inicial para el FNA dado el resultado del análisis de madurez de la Fase 1, procura únicamente cubrir de entrada la gestión de cambios de la arquitectura. Versiones posteriores de este modelo pueden y deberán abordar otras problemáticas señaladas por este diagnóstico o alguna de sus actualizaciones.
 
 ![](images/modelo-gob.png)
 
@@ -1327,7 +1327,7 @@ _Fuente: elaboración propia._
 <br>
 
 ### Proceso de Gobierno SOA para el FNA
-Por último, el proceso de gobierno SOA es la conjugación de las dos condiciones aquí presentadas, el marco de trabajo (acciones y herramientas) y el equipo de trabajo, que son los recursos de capital humano y sus intereacciones. Este proceso adaptado al FNA busca alcanzar los objetivos SOA determinados por este diagnóstico. (ver imagen abajo)
+Por último, el proceso de gobierno SOA es la conjugación de las dos consideraciones anteriores aquí presentadas, el marco de trabajo (acciones y herramientas) y el equipo de trabajo, que traeidos al contexto del FNA son los recursos de capital humano y la manera cómo deben operar. Este proceso adaptado al FNA busca alcanzar los objetivos SOA determinados por este diagnóstico. (ver imagen abajo)
 
 ![](images/proceso-gob.png)
 
@@ -1337,7 +1337,32 @@ _Fuente: elaboración propia._
 
 <br>
 
-El proceso de gobierno SOA está en línea y apoya a las capacidades SOA que el FNA debe implementar. De esa manera, las capacidades SOA relacionadas con este proceso buscan lograr los objetivos SOA establecidos por esta consultoría y que el FNA debe perseguir.
+El proceso de gobierno SOA está en línea y apoya a las capacidades SOA que el FNA debe implementar. Al alinear las capacidades SOA con este proceso aseguramos que se persigan los objetivos SOA establecidos por esta consultoría.
+
+Por otro lado, esta implementaión de Gobierno SOA debe ser un proceso más del Fondo, no es un proyecto. En este sentido, los pasos de este proceso son un bucle activo de mejora continua, y debe hacer parte del mapa de calidad del Fondo (como uno más de los procesos operativos existentes).
+
+<br>
+
+### 1. Gestión del cambio e impacto (incepción)
+Es la definición del alcance del reajuste en la arquitectura, distinto a un cambio en una aplicación, sistema de información, datos o plataforma del FNA. el cambio a gestionar debe ser analizado desde la perspectiva de la arquitectura actual o candidata. En este sentido, el cambio es descrito en términos del qué, dónde, quién y cómo cambiar la arquitectura SOA del Fondo.
+
+Una entrada razonable de este paso es la discución mediante vistas de la potencialidad del cambio (dificultades y beneficios) y las preocupaciones de los interesados, gerentes y dueños de procesos / productos. Es ncesario a veces complementar o contrastar el cambio con otros requerimientos.
+
+El resultado o salida de este paso es el bosquejo de la adaptación, que son las tareas mínimas y más impactantes para la implementación del cambio / iteración en la arquitectura.
+
+Como herramienta para la realización de este paso del proceso presentamos un ficha de descripción del evento de cambio.
+
+<br>
+
+| Parte de la arquitectura a cambiar | Contexto del cambio…                                |
+|------------------------------------|-----------------------------------------------------|
+| Justificación                      |                                                     |
+| Implicaciones                      | Restricciones: utilización de estándares abiertos…  |
+|                                    | Condiciones: doble revisión…                        |
+
+[Tabla.]() Ficha descriptiva inicial para el FNA. La ficha presenta e inicia el paso de descripción del cambio en la arquitectura del FNA.
+
+_Fuente: elaboración propia._
 
 
 ## Anexos 
@@ -1400,7 +1425,7 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|32783d5 del 10 Feb 2023|
+|Version|b22d0ff del 14 Feb 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1515,7 +1540,7 @@ service-mesh_.
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|32783d5 del 10 Feb 2023|
+|Version|b22d0ff del 14 Feb 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2117,7 +2142,7 @@ La arquitectura SOA candidata del FNA sirve de base para la planeación de cambi
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **32783d5** del 10 Feb 2023                    |
+| Version        | **b22d0ff** del 14 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2166,7 +2191,7 @@ height="7in"}
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **32783d5** del 10 Feb 2023                    |
+| Version        | **b22d0ff** del 14 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2232,7 +2257,7 @@ posibilidad de escalar.
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **32783d5** del 10 Feb 2023                    |
+| Version        | **b22d0ff** del 14 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2855,7 +2880,7 @@ desafíos:
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **32783d5** del 10 Feb 2023                    |
+| Version        | **b22d0ff** del 14 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2894,36 +2919,4 @@ height="3.5520833333333335in"}
 
 
 
-
-
-# Fase 2: SOA Objetivo
-# Contenido de los Productos Contractuales, 181-2020
-
-# Producto 9: PR9. Portafolio de Inciativas y Brechas
-La técnica del portafolio de brechas es utilizada en el desarrollo de este ejercicio de diagnóstico SOA del FNA para analizar la situación actual SOA (Fase 1 del proyecto) desde la perspectiva de proyectos ejecutables. La idea principal del análisis de brecha es resaltar los proyectos o ítems omitidos, o por definir, entre la situación actual SOA del FNA y la situación objetivo, incluso cuando esta última está todavía en evolución. Lo anterior da origen al portafolio de iniciativas priorizadas que ser ejecutadas cierra las brechas analizadas.
-
-**Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto SOA: dependencia de proveedor (OBJ1), fortaleza SOA de las aplicaciones (OBJ2), y tiempo de mercado (OBJ3).
-
-<br>
-
-## Justificación
-Asegurar que la arquitectura SOA del Fondo apegada a la [Vista de Segmento FNA](vistadesegmento.md) soporte al procesamiento de información, a los sistemas de información, a las capacidades de negocio, y tecnologías requeridas para cumplir los objetivos de este ejercicio de diagnóstico SOA. Dar continuidad y orden al impacto y realiación de los cambios entre evoluciones de la arquitectura SOA.
-
-
-## Contenidos
-1. Arquitectura SOA candidata para el segmento FNA (vista de segmento)
-1. Matriz de brechas de las partes del segmento FNA
-1. Bloques de cambios para el segmento FNA: ítems por retener, rediseñar, actualizar, retirar
-1. Análisis de impacto y dependencia entre los cambios en el segmento de la empresa
-1. Ficha descriptiva de iniciativas de mejora para el segmento FNA (justificación)
-1. Hoja de ruta preliminar hacia un objetivo de mejora
-
-<br>
-
-## Criterios de Aceptación
-
-* Lista de cambios para el segmento FNA: ítems incluídos, por mejorar, nuevos y eliminados
-* Hoja de ruta preliminar hacia un objetivo de mejora
-
-*** 
 

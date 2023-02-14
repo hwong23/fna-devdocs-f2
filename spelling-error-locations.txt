@@ -1849,10 +1849,8 @@ content/06e. Índices de efectividad SOA.md:11:Efectividad
 content/06e. Índices de efectividad SOA.md:11:Gobierno
 content/06e. Índices de efectividad SOA.md:11:Indicadores
 content/06e. Índices de efectividad SOA.md:11:SOA
-content/06e. Índices de efectividad SOA.md:12:activo
 content/06e. Índices de efectividad SOA.md:12:activos
 content/06e. Índices de efectividad SOA.md:12:activos
-content/06e. Índices de efectividad SOA.md:12:actualidad
 content/06e. Índices de efectividad SOA.md:12:alcance
 content/06e. Índices de efectividad SOA.md:12:allá
 content/06e. Índices de efectividad SOA.md:12:análisis
@@ -1870,7 +1868,6 @@ content/06e. Índices de efectividad SOA.md:12:el
 content/06e. Índices de efectividad SOA.md:12:el
 content/06e. Índices de efectividad SOA.md:12:el
 content/06e. Índices de efectividad SOA.md:12:entre
-content/06e. Índices de efectividad SOA.md:12:escapen
 content/06e. Índices de efectividad SOA.md:12:este
 content/06e. Índices de efectividad SOA.md:12:este
 content/06e. Índices de efectividad SOA.md:12:Esto
@@ -1879,16 +1876,18 @@ content/06e. Índices de efectividad SOA.md:12:Fase
 content/06e. Índices de efectividad SOA.md:12:FNA
 content/06e. Índices de efectividad SOA.md:12:FNA
 content/06e. Índices de efectividad SOA.md:12:gobierno
+content/06e. Índices de efectividad SOA.md:12:hagan
 content/06e. Índices de efectividad SOA.md:12:indicador
 content/06e. Índices de efectividad SOA.md:12:índices
 content/06e. Índices de efectividad SOA.md:12:índices
 content/06e. Índices de efectividad SOA.md:12:infraestructura
 content/06e. Índices de efectividad SOA.md:12:madurez
-content/06e. Índices de efectividad SOA.md:12:mantener
+content/06e. Índices de efectividad SOA.md:12:mantenga
 content/06e. Índices de efectividad SOA.md:12:Más
 content/06e. Índices de efectividad SOA.md:12:negocio
 content/06e. Índices de efectividad SOA.md:12:negocio
 content/06e. Índices de efectividad SOA.md:12:Operaciones
+content/06e. Índices de efectividad SOA.md:12:parte
 content/06e. Índices de efectividad SOA.md:12:por
 content/06e. Índices de efectividad SOA.md:12:propuestos
 content/06e. Índices de efectividad SOA.md:12:referencia
@@ -1902,6 +1901,7 @@ content/06e. Índices de efectividad SOA.md:12:tanto
 content/06e. Índices de efectividad SOA.md:12:tecnología
 content/06e. Índices de efectividad SOA.md:12:todos
 content/06e. Índices de efectividad SOA.md:12:vicepresidencias
+content/06e. Índices de efectividad SOA.md:12:vigencia
 content/06e. Índices de efectividad SOA.md:12:vínculo
 content/06e. Índices de efectividad SOA.md:12:vínculos
 content/06e. Índices de efectividad SOA.md:14:cambio
@@ -4784,43 +4784,58 @@ content/06f. Consideraciones para la puesta en marcha.md:14:Implementar
 content/06f. Consideraciones para la puesta en marcha.md:14:SOA
 content/06f. Consideraciones para la puesta en marcha.md:14:Trabajo
 content/06f. Consideraciones para la puesta en marcha.md:15:abordar
+content/06f. Consideraciones para la puesta en marcha.md:15:actualizaciones
 content/06f. Consideraciones para la puesta en marcha.md:15:adaptado
-content/06f. Consideraciones para la puesta en marcha.md:15:análisis
+content/06f. Consideraciones para la puesta en marcha.md:15:alguna
 content/06f. Consideraciones para la puesta en marcha.md:15:análisis
 content/06f. Consideraciones para la puesta en marcha.md:15:arquitectura
 content/06f. Consideraciones para la puesta en marcha.md:15:arquitectura
 content/06f. Consideraciones para la puesta en marcha.md:15:cambios
 content/06f. Consideraciones para la puesta en marcha.md:15:cambios
-content/06f. Consideraciones para la puesta en marcha.md:15:deberá
+content/06f. Consideraciones para la puesta en marcha.md:15:contar
+content/06f. Consideraciones para la puesta en marcha.md:15:cubrir
+content/06f. Consideraciones para la puesta en marcha.md:15:deberán
+content/06f. Consideraciones para la puesta en marcha.md:15:diagnóstico
 content/06f. Consideraciones para la puesta en marcha.md:15:el
 content/06f. Consideraciones para la puesta en marcha.md:15:el
 content/06f. Consideraciones para la puesta en marcha.md:15:el
+content/06f. Consideraciones para la puesta en marcha.md:15:el
+content/06f. Consideraciones para la puesta en marcha.md:15:empresa
+content/06f. Consideraciones para la puesta en marcha.md:15:entrada
 content/06f. Consideraciones para la puesta en marcha.md:15:Esta
+content/06f. Consideraciones para la puesta en marcha.md:15:este
 content/06f. Consideraciones para la puesta en marcha.md:15:este
 content/06f. Consideraciones para la puesta en marcha.md:15:evolutivos
 content/06f. Consideraciones para la puesta en marcha.md:15:Fase
 content/06f. Consideraciones para la puesta en marcha.md:15:FNA
+content/06f. Consideraciones para la puesta en marcha.md:15:FNA
 content/06f. Consideraciones para la puesta en marcha.md:15:Fondo
 content/06f. Consideraciones para la puesta en marcha.md:15:gestión
-content/06f. Consideraciones para la puesta en marcha.md:15:gestiona
+content/06f. Consideraciones para la puesta en marcha.md:15:gestione
 content/06f. Consideraciones para la puesta en marcha.md:15:gobierno
+content/06f. Consideraciones para la puesta en marcha.md:15:Gobierno
+content/06f. Consideraciones para la puesta en marcha.md:15:implementar
 content/06f. Consideraciones para la puesta en marcha.md:15:inicial
 content/06f. Consideraciones para la puesta en marcha.md:15:instalada
+content/06f. Consideraciones para la puesta en marcha.md:15:llamamos
 content/06f. Consideraciones para la puesta en marcha.md:15:madurez
 content/06f. Consideraciones para la puesta en marcha.md:15:modelo
 content/06f. Consideraciones para la puesta en marcha.md:15:necesariamente
-content/06f. Consideraciones para la puesta en marcha.md:15:nuevos
-content/06f. Consideraciones para la puesta en marcha.md:15:organización
+content/06f. Consideraciones para la puesta en marcha.md:15:otras
 content/06f. Consideraciones para la puesta en marcha.md:15:por
 content/06f. Consideraciones para la puesta en marcha.md:15:posteriores
 content/06f. Consideraciones para la puesta en marcha.md:15:problemáticas
 content/06f. Consideraciones para la puesta en marcha.md:15:procura
-content/06f. Consideraciones para la puesta en marcha.md:15:puede
+content/06f. Consideraciones para la puesta en marcha.md:15:pueden
 content/06f. Consideraciones para la puesta en marcha.md:15:referencia
-content/06f. Consideraciones para la puesta en marcha.md:15:responde
+content/06f. Consideraciones para la puesta en marcha.md:15:requisito
+content/06f. Consideraciones para la puesta en marcha.md:15:responda
 content/06f. Consideraciones para la puesta en marcha.md:15:resultado
+content/06f. Consideraciones para la puesta en marcha.md:15:segmento
 content/06f. Consideraciones para la puesta en marcha.md:15:señaladas
 content/06f. Consideraciones para la puesta en marcha.md:15:SOA
+content/06f. Consideraciones para la puesta en marcha.md:15:SOA
+content/06f. Consideraciones para la puesta en marcha.md:15:sus
 content/06f. Consideraciones para la puesta en marcha.md:15:trabajo
 content/06f. Consideraciones para la puesta en marcha.md:15:una
 content/06f. Consideraciones para la puesta en marcha.md:15:únicamente
@@ -4911,10 +4926,14 @@ content/06f. Consideraciones para la puesta en marcha.md:37:abajo
 content/06f. Consideraciones para la puesta en marcha.md:37:acciones
 content/06f. Consideraciones para la puesta en marcha.md:37:adaptado
 content/06f. Consideraciones para la puesta en marcha.md:37:alcanzar
+content/06f. Consideraciones para la puesta en marcha.md:37:anteriores
 content/06f. Consideraciones para la puesta en marcha.md:37:aquí
 content/06f. Consideraciones para la puesta en marcha.md:37:busca
-content/06f. Consideraciones para la puesta en marcha.md:37:condiciones
+content/06f. Consideraciones para la puesta en marcha.md:37:cómo
 content/06f. Consideraciones para la puesta en marcha.md:37:conjugación
+content/06f. Consideraciones para la puesta en marcha.md:37:consideraciones
+content/06f. Consideraciones para la puesta en marcha.md:37:contexto
+content/06f. Consideraciones para la puesta en marcha.md:37:deben
 content/06f. Consideraciones para la puesta en marcha.md:37:determinados
 content/06f. Consideraciones para la puesta en marcha.md:37:diagnóstico
 content/06f. Consideraciones para la puesta en marcha.md:37:el
@@ -4924,12 +4943,14 @@ content/06f. Consideraciones para la puesta en marcha.md:37:equipo
 content/06f. Consideraciones para la puesta en marcha.md:37:este
 content/06f. Consideraciones para la puesta en marcha.md:37:Este
 content/06f. Consideraciones para la puesta en marcha.md:37:FNA
+content/06f. Consideraciones para la puesta en marcha.md:37:FNA
 content/06f. Consideraciones para la puesta en marcha.md:37:gobierno
 content/06f. Consideraciones para la puesta en marcha.md:37:herramientas
 content/06f. Consideraciones para la puesta en marcha.md:37:humano
 content/06f. Consideraciones para la puesta en marcha.md:37:imagen
-content/06f. Consideraciones para la puesta en marcha.md:37:intereacciones
+content/06f. Consideraciones para la puesta en marcha.md:37:manera
 content/06f. Consideraciones para la puesta en marcha.md:37:objetivos
+content/06f. Consideraciones para la puesta en marcha.md:37:operar
 content/06f. Consideraciones para la puesta en marcha.md:37:por
 content/06f. Consideraciones para la puesta en marcha.md:37:Por
 content/06f. Consideraciones para la puesta en marcha.md:37:presentadas
@@ -4938,9 +4959,9 @@ content/06f. Consideraciones para la puesta en marcha.md:37:proceso
 content/06f. Consideraciones para la puesta en marcha.md:37:recursos
 content/06f. Consideraciones para la puesta en marcha.md:37:SOA
 content/06f. Consideraciones para la puesta en marcha.md:37:SOA
-content/06f. Consideraciones para la puesta en marcha.md:37:sus
 content/06f. Consideraciones para la puesta en marcha.md:37:trabajo
 content/06f. Consideraciones para la puesta en marcha.md:37:trabajo
+content/06f. Consideraciones para la puesta en marcha.md:37:traeidos
 content/06f. Consideraciones para la puesta en marcha.md:37:último
 content/06f. Consideraciones para la puesta en marcha.md:37:último
 content/06f. Consideraciones para la puesta en marcha.md:37:ver
@@ -4962,38 +4983,186 @@ content/06f. Consideraciones para la puesta en marcha.md:41:SOA
 content/06f. Consideraciones para la puesta en marcha.md:41:SOA
 content/06f. Consideraciones para la puesta en marcha.md:43:elaboración
 content/06f. Consideraciones para la puesta en marcha.md:43:propia
+content/06f. Consideraciones para la puesta en marcha.md:47:alinear
 content/06f. Consideraciones para la puesta en marcha.md:47:apoya
-content/06f. Consideraciones para la puesta en marcha.md:47:buscan
+content/06f. Consideraciones para la puesta en marcha.md:47:aseguramos
 content/06f. Consideraciones para la puesta en marcha.md:47:capacidades
 content/06f. Consideraciones para la puesta en marcha.md:47:capacidades
 content/06f. Consideraciones para la puesta en marcha.md:47:consultoría
 content/06f. Consideraciones para la puesta en marcha.md:47:debe
-content/06f. Consideraciones para la puesta en marcha.md:47:debe
-content/06f. Consideraciones para la puesta en marcha.md:47:el
 content/06f. Consideraciones para la puesta en marcha.md:47:el
 content/06f. Consideraciones para la puesta en marcha.md:47:El
-content/06f. Consideraciones para la puesta en marcha.md:47:esa
 content/06f. Consideraciones para la puesta en marcha.md:47:esta
 content/06f. Consideraciones para la puesta en marcha.md:47:está
 content/06f. Consideraciones para la puesta en marcha.md:47:establecidos
 content/06f. Consideraciones para la puesta en marcha.md:47:este
 content/06f. Consideraciones para la puesta en marcha.md:47:FNA
-content/06f. Consideraciones para la puesta en marcha.md:47:FNA
 content/06f. Consideraciones para la puesta en marcha.md:47:gobierno
 content/06f. Consideraciones para la puesta en marcha.md:47:implementar
 content/06f. Consideraciones para la puesta en marcha.md:47:línea
-content/06f. Consideraciones para la puesta en marcha.md:47:lograr
-content/06f. Consideraciones para la puesta en marcha.md:47:manera
 content/06f. Consideraciones para la puesta en marcha.md:47:objetivos
-content/06f. Consideraciones para la puesta en marcha.md:47:perseguir
+content/06f. Consideraciones para la puesta en marcha.md:47:persigan
 content/06f. Consideraciones para la puesta en marcha.md:47:por
 content/06f. Consideraciones para la puesta en marcha.md:47:proceso
 content/06f. Consideraciones para la puesta en marcha.md:47:proceso
-content/06f. Consideraciones para la puesta en marcha.md:47:relacionadas
 content/06f. Consideraciones para la puesta en marcha.md:47:SOA
 content/06f. Consideraciones para la puesta en marcha.md:47:SOA
 content/06f. Consideraciones para la puesta en marcha.md:47:SOA
 content/06f. Consideraciones para la puesta en marcha.md:47:SOA
+content/06f. Consideraciones para la puesta en marcha.md:49:activo
+content/06f. Consideraciones para la puesta en marcha.md:49:bucle
+content/06f. Consideraciones para la puesta en marcha.md:49:calidad
+content/06f. Consideraciones para la puesta en marcha.md:49:debe
+content/06f. Consideraciones para la puesta en marcha.md:49:debe
+content/06f. Consideraciones para la puesta en marcha.md:49:esta
+content/06f. Consideraciones para la puesta en marcha.md:49:este
+content/06f. Consideraciones para la puesta en marcha.md:49:este
+content/06f. Consideraciones para la puesta en marcha.md:49:existentes
+content/06f. Consideraciones para la puesta en marcha.md:49:Fondo
+content/06f. Consideraciones para la puesta en marcha.md:49:Fondo
+content/06f. Consideraciones para la puesta en marcha.md:49:Gobierno
+content/06f. Consideraciones para la puesta en marcha.md:49:hacer
+content/06f. Consideraciones para la puesta en marcha.md:49:implementaión
+content/06f. Consideraciones para la puesta en marcha.md:49:lado
+content/06f. Consideraciones para la puesta en marcha.md:49:mapa
+content/06f. Consideraciones para la puesta en marcha.md:49:más
+content/06f. Consideraciones para la puesta en marcha.md:49:más
+content/06f. Consideraciones para la puesta en marcha.md:49:mejora
+content/06f. Consideraciones para la puesta en marcha.md:49:operativos
+content/06f. Consideraciones para la puesta en marcha.md:49:otro
+content/06f. Consideraciones para la puesta en marcha.md:49:parte
+content/06f. Consideraciones para la puesta en marcha.md:49:pasos
+content/06f. Consideraciones para la puesta en marcha.md:49:Por
+content/06f. Consideraciones para la puesta en marcha.md:49:proceso
+content/06f. Consideraciones para la puesta en marcha.md:49:proceso
+content/06f. Consideraciones para la puesta en marcha.md:49:procesos
+content/06f. Consideraciones para la puesta en marcha.md:49:proyecto
+content/06f. Consideraciones para la puesta en marcha.md:49:sentido
+content/06f. Consideraciones para la puesta en marcha.md:49:ser
+content/06f. Consideraciones para la puesta en marcha.md:49:SOA
+content/06f. Consideraciones para la puesta en marcha.md:49:uno
+content/06f. Consideraciones para la puesta en marcha.md:53:cambio
+content/06f. Consideraciones para la puesta en marcha.md:53:Gestión
+content/06f. Consideraciones para la puesta en marcha.md:53:impacto
+content/06f. Consideraciones para la puesta en marcha.md:53:incepción
+content/06f. Consideraciones para la puesta en marcha.md:54:alcance
+content/06f. Consideraciones para la puesta en marcha.md:54:analizado
+content/06f. Consideraciones para la puesta en marcha.md:54:aplicación
+content/06f. Consideraciones para la puesta en marcha.md:54:arquitectura
+content/06f. Consideraciones para la puesta en marcha.md:54:arquitectura
+content/06f. Consideraciones para la puesta en marcha.md:54:arquitectura
+content/06f. Consideraciones para la puesta en marcha.md:54:cambiar
+content/06f. Consideraciones para la puesta en marcha.md:54:cambio
+content/06f. Consideraciones para la puesta en marcha.md:54:cambio
+content/06f. Consideraciones para la puesta en marcha.md:54:cambio
+content/06f. Consideraciones para la puesta en marcha.md:54:candidata
+content/06f. Consideraciones para la puesta en marcha.md:54:cómo
+content/06f. Consideraciones para la puesta en marcha.md:54:datos
+content/06f. Consideraciones para la puesta en marcha.md:54:debe
+content/06f. Consideraciones para la puesta en marcha.md:54:definición
+content/06f. Consideraciones para la puesta en marcha.md:54:descrito
+content/06f. Consideraciones para la puesta en marcha.md:54:desde
+content/06f. Consideraciones para la puesta en marcha.md:54:distinto
+content/06f. Consideraciones para la puesta en marcha.md:54:dónde
+content/06f. Consideraciones para la puesta en marcha.md:54:el
+content/06f. Consideraciones para la puesta en marcha.md:54:el
+content/06f. Consideraciones para la puesta en marcha.md:54:este
+content/06f. Consideraciones para la puesta en marcha.md:54:FNA
+content/06f. Consideraciones para la puesta en marcha.md:54:Fondo
+content/06f. Consideraciones para la puesta en marcha.md:54:gestionar
+content/06f. Consideraciones para la puesta en marcha.md:54:información
+content/06f. Consideraciones para la puesta en marcha.md:54:perspectiva
+content/06f. Consideraciones para la puesta en marcha.md:54:plataforma
+content/06f. Consideraciones para la puesta en marcha.md:54:qué
+content/06f. Consideraciones para la puesta en marcha.md:54:quién
+content/06f. Consideraciones para la puesta en marcha.md:54:reajuste
+content/06f. Consideraciones para la puesta en marcha.md:54:sentido
+content/06f. Consideraciones para la puesta en marcha.md:54:ser
+content/06f. Consideraciones para la puesta en marcha.md:54:sistema
+content/06f. Consideraciones para la puesta en marcha.md:54:SOA
+content/06f. Consideraciones para la puesta en marcha.md:54:términos
+content/06f. Consideraciones para la puesta en marcha.md:54:una
+content/06f. Consideraciones para la puesta en marcha.md:56:beneficios
+content/06f. Consideraciones para la puesta en marcha.md:56:cambio
+content/06f. Consideraciones para la puesta en marcha.md:56:cambio
+content/06f. Consideraciones para la puesta en marcha.md:56:complementar
+content/06f. Consideraciones para la puesta en marcha.md:56:contrastar
+content/06f. Consideraciones para la puesta en marcha.md:56:dificultades
+content/06f. Consideraciones para la puesta en marcha.md:56:discución
+content/06f. Consideraciones para la puesta en marcha.md:56:dueños
+content/06f. Consideraciones para la puesta en marcha.md:56:el
+content/06f. Consideraciones para la puesta en marcha.md:56:entrada
+content/06f. Consideraciones para la puesta en marcha.md:56:este
+content/06f. Consideraciones para la puesta en marcha.md:56:gerentes
+content/06f. Consideraciones para la puesta en marcha.md:56:interesados
+content/06f. Consideraciones para la puesta en marcha.md:56:mediante
+content/06f. Consideraciones para la puesta en marcha.md:56:ncesario
+content/06f. Consideraciones para la puesta en marcha.md:56:otros
+content/06f. Consideraciones para la puesta en marcha.md:56:paso
+content/06f. Consideraciones para la puesta en marcha.md:56:potencialidad
+content/06f. Consideraciones para la puesta en marcha.md:56:preocupaciones
+content/06f. Consideraciones para la puesta en marcha.md:56:procesos
+content/06f. Consideraciones para la puesta en marcha.md:56:productos
+content/06f. Consideraciones para la puesta en marcha.md:56:razonable
+content/06f. Consideraciones para la puesta en marcha.md:56:requerimientos
+content/06f. Consideraciones para la puesta en marcha.md:56:Una
+content/06f. Consideraciones para la puesta en marcha.md:56:veces
+content/06f. Consideraciones para la puesta en marcha.md:58:adaptación
+content/06f. Consideraciones para la puesta en marcha.md:58:arquitectura
+content/06f. Consideraciones para la puesta en marcha.md:58:bosquejo
+content/06f. Consideraciones para la puesta en marcha.md:58:cambio
+content/06f. Consideraciones para la puesta en marcha.md:58:el
+content/06f. Consideraciones para la puesta en marcha.md:58:El
+content/06f. Consideraciones para la puesta en marcha.md:58:este
+content/06f. Consideraciones para la puesta en marcha.md:58:impactantes
+content/06f. Consideraciones para la puesta en marcha.md:58:implementación
+content/06f. Consideraciones para la puesta en marcha.md:58:iteración
+content/06f. Consideraciones para la puesta en marcha.md:58:más
+content/06f. Consideraciones para la puesta en marcha.md:58:mínimas
+content/06f. Consideraciones para la puesta en marcha.md:58:paso
+content/06f. Consideraciones para la puesta en marcha.md:58:resultado
+content/06f. Consideraciones para la puesta en marcha.md:58:salida
+content/06f. Consideraciones para la puesta en marcha.md:58:tareas
+content/06f. Consideraciones para la puesta en marcha.md:60:cambio
+content/06f. Consideraciones para la puesta en marcha.md:60:descripción
+content/06f. Consideraciones para la puesta en marcha.md:60:este
+content/06f. Consideraciones para la puesta en marcha.md:60:evento
+content/06f. Consideraciones para la puesta en marcha.md:60:ficha
+content/06f. Consideraciones para la puesta en marcha.md:60:herramienta
+content/06f. Consideraciones para la puesta en marcha.md:60:paso
+content/06f. Consideraciones para la puesta en marcha.md:60:presentamos
+content/06f. Consideraciones para la puesta en marcha.md:60:proceso
+content/06f. Consideraciones para la puesta en marcha.md:60:realización
+content/06f. Consideraciones para la puesta en marcha.md:64:arquitectura
+content/06f. Consideraciones para la puesta en marcha.md:64:cambiar
+content/06f. Consideraciones para la puesta en marcha.md:64:cambio
+content/06f. Consideraciones para la puesta en marcha.md:64:Contexto
+content/06f. Consideraciones para la puesta en marcha.md:64:Parte
+content/06f. Consideraciones para la puesta en marcha.md:66:Justificación
+content/06f. Consideraciones para la puesta en marcha.md:67:abiertos
+content/06f. Consideraciones para la puesta en marcha.md:67:estándares
+content/06f. Consideraciones para la puesta en marcha.md:67:Implicaciones
+content/06f. Consideraciones para la puesta en marcha.md:67:Restricciones
+content/06f. Consideraciones para la puesta en marcha.md:67:utilización
+content/06f. Consideraciones para la puesta en marcha.md:68:Condiciones
+content/06f. Consideraciones para la puesta en marcha.md:68:doble
+content/06f. Consideraciones para la puesta en marcha.md:68:revisión
+content/06f. Consideraciones para la puesta en marcha.md:70:arquitectura
+content/06f. Consideraciones para la puesta en marcha.md:70:cambio
+content/06f. Consideraciones para la puesta en marcha.md:70:descripción
+content/06f. Consideraciones para la puesta en marcha.md:70:descriptiva
+content/06f. Consideraciones para la puesta en marcha.md:70:el
+content/06f. Consideraciones para la puesta en marcha.md:70:el
+content/06f. Consideraciones para la puesta en marcha.md:70:ficha
+content/06f. Consideraciones para la puesta en marcha.md:70:Ficha
+content/06f. Consideraciones para la puesta en marcha.md:70:FNA
+content/06f. Consideraciones para la puesta en marcha.md:70:FNA
+content/06f. Consideraciones para la puesta en marcha.md:70:inicia
+content/06f. Consideraciones para la puesta en marcha.md:70:inicial
+content/06f. Consideraciones para la puesta en marcha.md:70:paso
+content/06f. Consideraciones para la puesta en marcha.md:70:presenta
+content/06f. Consideraciones para la puesta en marcha.md:72:elaboración
+content/06f. Consideraciones para la puesta en marcha.md:72:propia
 content/06n. Anexos.md:1:Anexos
 content/06n. Anexos.md:3:Área
 content/06n. Anexos.md:3:Área
@@ -10727,175 +10896,3 @@ content/08.Fase 2 PR8 Arquitectura de Referencia.md:25:Articulación
 content/08.Fase 2 PR8 Arquitectura de Referencia.md:25:FNA
 content/08.Fase 2 PR8 Arquitectura de Referencia.md:25:gobierno
 content/08.Fase 2 PR8 Arquitectura de Referencia.md:25:SOA
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:1:Fase
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:1:Objetivo
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:1:SOA
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:2:Contenido
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:2:Contractuales
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:2:Productos
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:4:Brechas
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:4:Inciativas
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:4:Portafolio
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:4:Producto
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:análisis
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:analizadas
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:analizar
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:brecha
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:brechas
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:brechas
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:cierra
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:cuando
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:definir
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:desarrollo
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:desde
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:diagnóstico
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:ejecutables
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:ejecutadas
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:ejercicio
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:el
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:entre
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:esta
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:está
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:este
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:evolución
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:Fase
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:FNA
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:FNA
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:incluso
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:iniciativas
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:ítems
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:objetivo
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:omitidos
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:origen
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:perspectiva
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:por
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:portafolio
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:portafolio
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:priorizadas
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:proyecto
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:proyectos
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:proyectos
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:resaltar
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:ser
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:situación
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:situación
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:situación
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:SOA
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:SOA
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:SOA
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:técnica
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:todavía
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:última
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:5:utilizada
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:análisis
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:aplicaciones
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:cumplir
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:dependencia
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:dirigidos
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:están
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:este
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:Nota
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:objetivos
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:producto
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:proveedor
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:proyecto
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:SOA
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:SOA
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:7:tiempo
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:11:Justificación
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:apegada
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:arquitectura
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:arquitectura
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:Asegurar
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:cambios
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:capacidades
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:continuidad
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:cumplir
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:diagnóstico
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:ejercicio
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:entre
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:este
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:evoluciones
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:FNA
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:Fondo
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:impacto
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:información
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:información
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:negocio
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:objetivos
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:orden
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:procesamiento
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:realiación
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:requeridas
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:Segmento
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:sistemas
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:SOA
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:SOA
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:SOA
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:soporte
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:12:tecnologías
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:15:Contenidos
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:16:Arquitectura
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:16:candidata
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:16:el
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:16:FNA
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:16:segmento
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:16:segmento
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:16:SOA
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:17:brechas
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:17:FNA
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:17:Matriz
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:17:partes
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:17:segmento
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:18:actualizar
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:18:Bloques
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:18:cambios
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:18:el
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:18:FNA
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:18:ítems
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:18:por
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:18:rediseñar
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:18:retener
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:18:retirar
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:18:segmento
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:19:Análisis
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:19:cambios
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:19:dependencia
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:19:el
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:19:empresa
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:19:entre
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:19:impacto
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:19:segmento
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:20:descriptiva
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:20:el
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:20:Ficha
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:20:FNA
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:20:iniciativas
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:20:justificación
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:20:mejora
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:20:segmento
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:21:hacia
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:21:Hoja
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:21:mejora
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:21:objetivo
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:21:preliminar
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:21:ruta
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:25:Aceptación
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:25:Criterios
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:27:cambios
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:27:el
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:27:eliminados
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:27:FNA
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:27:incluídos
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:27:ítems
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:27:Lista
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:27:mejorar
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:27:nuevos
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:27:por
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:27:segmento
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:28:hacia
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:28:Hoja
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:28:mejora
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:28:objetivo
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:28:preliminar
-content/09a. Fase 2 PR9 Portafolio de iniciativas y brechas.md:28:ruta
