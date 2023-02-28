@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-02-22'
+date-meta: '2023-02-28'
 author-meta:
 - Harry Wong, ing.
 - Eddie Hernandez, ing.
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-02-22" />
-  <meta name="citation_publication_date" content="2023-02-22" />
-  <meta property="article:published_time" content="2023-02-22" />
-  <meta name="dc.modified" content="2023-02-22T11:37:53+00:00" />
-  <meta property="article:modified_time" content="2023-02-22T11:37:53+00:00" />
+  <meta name="dc.date" content="2023-02-28" />
+  <meta name="citation_publication_date" content="2023-02-28" />
+  <meta property="article:published_time" content="2023-02-28" />
+  <meta name="dc.modified" content="2023-02-28T13:42:55+00:00" />
+  <meta property="article:modified_time" content="2023-02-28T13:42:55+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/f3c18081c291a4522403ab6e4449777e39b6be21/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/f3c18081c291a4522403ab6e4449777e39b6be21/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/f3c18081c291a4522403ab6e4449777e39b6be21/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/790e8ec1c03e77909fbbe476f175296d4f5d608d/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/790e8ec1c03e77909fbbe476f175296d4f5d608d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/790e8ec1c03e77909fbbe476f175296d4f5d608d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,11 +69,11 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdocs-f2/v/f3c18081c291a4522403ab6e4449777e39b6be21/))
+([permalink](https://hwong23.github.io/fna-devdocs-f2/v/790e8ec1c03e77909fbbe476f175296d4f5d608d/))
 versión indicada a continuación, se encuentra en 
 ****
-[f3c1808](https://github.com/hwong23/fna-devdocs-f2/tree/f3c18081c291a4522403ab6e4449777e39b6be21)
-de February 22, 2023.
+[790e8ec](https://github.com/hwong23/fna-devdocs-f2/tree/790e8ec1c03e77909fbbe476f175296d4f5d608d)
+de February 28, 2023.
 
 
 
@@ -161,7 +161,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa, Industria financiera |
 |Autor           |                                                       |
 |Fuente          |                                                       |
-|Version|f3c1808 del 22 Feb 2023                                  |
+|Version|790e8ec del 28 Feb 2023                                  |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -369,7 +369,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|**f3c1808** del 22 Feb 2023|
+|Version|**790e8ec** del 28 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>| Tema           | Arquitectura SOA Candidata para FNA: **Arquitectura de Referencia. Versión 2.0** |
@@ -429,7 +429,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**f3c1808** del 22 Feb 2023|
+|Version|**790e8ec** del 28 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -488,7 +488,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|**f3c1808** del 22 Feb 2023|
+|Version|**790e8ec** del 28 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1232,7 +1232,7 @@ Ilustración 8: Roles de gobierno de datos
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor||
 |Fuente||
-|Version|**f3c1808** del 22 Feb 2023|
+|Version|**790e8ec** del 28 Feb 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1302,7 +1302,7 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 |Palabras clave  |SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor           ||
 |Fuente          ||
-|Version         |**f3c1808** del 22 Feb 2023|
+|Version         |**790e8ec** del 28 Feb 2023|
 |Vínculos        |[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1326,7 +1326,7 @@ Un primer nivel de detalle del marco de gobierno introduce los actores y la inte
 <br>
 
 ### Equpo de Trabajo para el Gobierno SOA del FNA
-El equipo de trabajo requerido conforme el modelo de gobierno SOA presentado aquí se compone del capital humano en los roles de gestión de la tecnología y arquitectura en los ámbitos de diseño de servicios y componentes, infraestructura tecnológica y redes, aplicaciones de solución y herramientas de software y del especialista de las estructuras de negocio e información. Estos recursos deben ser preferiblemente internos a la organización debido a la gestión de conocimiento del _activo más importante del gobierno SOA, la arquitectura de referencia y los vínculos de esta con los contextos de negocio y TI_.
+El equipo de trabajo requerido conforme el modelo de gobierno SOA presentado aquí se compone del capital humano en los roles de gestión de la tecnología y arquitectura en los ámbitos de diseño de servicios SOA y componentes de software, infraestructura tecnológica y redes, aplicaciones de solución y herramientas de software, y del especialista de las estructuras de datos e información del negocio. Estos recursos deben ser preferiblemente propios de la organización (no terceros) debido a la gestión de conocimiento del _activo más importante del gobierno SOA, la arquitectura de referencia y los vínculos de esta con los contextos de negocio y TI_.
 
 ![](images/equipo-gob.png)
 
@@ -1435,7 +1435,7 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|f3c1808 del 22 Feb 2023|
+|Version|790e8ec del 28 Feb 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1550,7 +1550,7 @@ service-mesh_.
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|f3c1808 del 22 Feb 2023|
+|Version|790e8ec del 28 Feb 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1775,8 +1775,8 @@ La plataforma de gestión deber centrarse en ofrecer servicios de:
 -   Ejemplos de soluciones / código
 -   Herramientas de apoyo a los usuarios de las APIs
 
-### Microservicios
 
+### Microservicios
 Una segunda tecnología que se muestra como el reemplazo del SOA
 tradicional son los Microservicios, como componentes de software
 independientes, que tienen como característica principal su capacidad de
@@ -1792,8 +1792,8 @@ despliegue, facilita la modificación, cambio y evolución del software,
 inclusive desarrollado en diferentes tecnologías o lenguajes de
 programación.
 
-#### Proceso de desarrollo
 
+#### Proceso de desarrollo
 Uno de los elementos más críticos en las arquitecturas orientadas a
 servicios y en los Microservicios como nuevo esquema de trabajo SOA, es
 la identificación y diseño de los Microservicios. Las empresas
@@ -2152,7 +2152,7 @@ La arquitectura SOA candidata del FNA sirve de base para la planeación de cambi
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **f3c1808** del 22 Feb 2023                    |
+| Version        | **790e8ec** del 28 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2201,7 +2201,7 @@ height="7in"}
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **f3c1808** del 22 Feb 2023                    |
+| Version        | **790e8ec** del 28 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2267,7 +2267,7 @@ posibilidad de escalar.
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **f3c1808** del 22 Feb 2023                    |
+| Version        | **790e8ec** del 28 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2890,7 +2890,7 @@ desafíos:
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **f3c1808** del 22 Feb 2023                    |
+| Version        | **790e8ec** del 28 Feb 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>

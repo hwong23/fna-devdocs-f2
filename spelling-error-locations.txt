@@ -4969,6 +4969,7 @@ content/06f. Consideraciones para la puesta en marcha.md:30:componentes
 content/06f. Consideraciones para la puesta en marcha.md:30:conforme
 content/06f. Consideraciones para la puesta en marcha.md:30:conocimiento
 content/06f. Consideraciones para la puesta en marcha.md:30:contextos
+content/06f. Consideraciones para la puesta en marcha.md:30:datos
 content/06f. Consideraciones para la puesta en marcha.md:30:deben
 content/06f. Consideraciones para la puesta en marcha.md:30:debido
 content/06f. Consideraciones para la puesta en marcha.md:30:diseño
@@ -4988,7 +4989,6 @@ content/06f. Consideraciones para la puesta en marcha.md:30:humano
 content/06f. Consideraciones para la puesta en marcha.md:30:importante
 content/06f. Consideraciones para la puesta en marcha.md:30:información
 content/06f. Consideraciones para la puesta en marcha.md:30:infraestructura
-content/06f. Consideraciones para la puesta en marcha.md:30:internos
 content/06f. Consideraciones para la puesta en marcha.md:30:más
 content/06f. Consideraciones para la puesta en marcha.md:30:modelo
 content/06f. Consideraciones para la puesta en marcha.md:30:negocio
@@ -4996,6 +4996,7 @@ content/06f. Consideraciones para la puesta en marcha.md:30:negocio
 content/06f. Consideraciones para la puesta en marcha.md:30:organización
 content/06f. Consideraciones para la puesta en marcha.md:30:preferiblemente
 content/06f. Consideraciones para la puesta en marcha.md:30:presentado
+content/06f. Consideraciones para la puesta en marcha.md:30:propios
 content/06f. Consideraciones para la puesta en marcha.md:30:recursos
 content/06f. Consideraciones para la puesta en marcha.md:30:redes
 content/06f. Consideraciones para la puesta en marcha.md:30:referencia
@@ -5004,9 +5005,11 @@ content/06f. Consideraciones para la puesta en marcha.md:30:ser
 content/06f. Consideraciones para la puesta en marcha.md:30:servicios
 content/06f. Consideraciones para la puesta en marcha.md:30:SOA
 content/06f. Consideraciones para la puesta en marcha.md:30:SOA
+content/06f. Consideraciones para la puesta en marcha.md:30:SOA
 content/06f. Consideraciones para la puesta en marcha.md:30:solución
 content/06f. Consideraciones para la puesta en marcha.md:30:tecnología
 content/06f. Consideraciones para la puesta en marcha.md:30:tecnológica
+content/06f. Consideraciones para la puesta en marcha.md:30:terceros
 content/06f. Consideraciones para la puesta en marcha.md:30:trabajo
 content/06f. Consideraciones para la puesta en marcha.md:30:vínculos
 content/06f. Consideraciones para la puesta en marcha.md:32:equipo
@@ -6762,7 +6765,7 @@ content/07b. Vigilancia avances de la industria.md:229:APIs
 content/07b. Vigilancia avances de la industria.md:229:apoyo
 content/07b. Vigilancia avances de la industria.md:229:Herramientas
 content/07b. Vigilancia avances de la industria.md:229:usuarios
-content/07b. Vigilancia avances de la industria.md:231:Microservicios
+content/07b. Vigilancia avances de la industria.md:232:Microservicios
 content/07b. Vigilancia avances de la industria.md:233:el
 content/07b. Vigilancia avances de la industria.md:233:muestra
 content/07b. Vigilancia avances de la industria.md:233:reemplazo
@@ -6826,8 +6829,8 @@ content/07b. Vigilancia avances de la industria.md:245:diferentes
 content/07b. Vigilancia avances de la industria.md:245:lenguajes
 content/07b. Vigilancia avances de la industria.md:245:tecnologías
 content/07b. Vigilancia avances de la industria.md:246:programación
-content/07b. Vigilancia avances de la industria.md:248:desarrollo
-content/07b. Vigilancia avances de la industria.md:248:Proceso
+content/07b. Vigilancia avances de la industria.md:249:desarrollo
+content/07b. Vigilancia avances de la industria.md:249:Proceso
 content/07b. Vigilancia avances de la industria.md:250:arquitecturas
 content/07b. Vigilancia avances de la industria.md:250:críticos
 content/07b. Vigilancia avances de la industria.md:250:elementos
