@@ -946,463 +946,455 @@ content/05. Fase 2 PR5 Comparativa FNA industria.md:30:Fondo
 content/05. Fase 2 PR5 Comparativa FNA industria.md:30:Mejoras
 content/05. Fase 2 PR5 Comparativa FNA industria.md:30:SOA
 content/05. Fase 2 PR5 Comparativa FNA industria.md:30:visibles
-content/06a. Objetivos gobierno .md:1:Definición
-content/06a. Objetivos gobierno .md:1:gobierno
-content/06a. Objetivos gobierno .md:1:Gobierno
-content/06a. Objetivos gobierno .md:1:objetivos
-content/06a. Objetivos gobierno .md:1:SOA
-content/06a. Objetivos gobierno .md:1:SOA
-content/06a. Objetivos gobierno .md:1:Tema
-content/06a. Objetivos gobierno .md:3:Capacidades
-content/06a. Objetivos gobierno .md:3:clave
-content/06a. Objetivos gobierno .md:3:negocio
-content/06a. Objetivos gobierno .md:3:Palabras
-content/06a. Objetivos gobierno .md:3:Situación
-content/06a. Objetivos gobierno .md:3:SOA
-content/06a. Objetivos gobierno .md:4:Autor
-content/06a. Objetivos gobierno .md:5:Fuente
-content/06a. Objetivos gobierno .md:7:Fase
-content/06a. Objetivos gobierno .md:7:Gobierno
-content/06a. Objetivos gobierno .md:7:SOA
-content/06a. Objetivos gobierno .md:7:Vínculos
-content/06a. Objetivos gobierno .md:9:Arquitectura
-content/06a. Objetivos gobierno .md:9:Arquitectura
-content/06a. Objetivos gobierno .md:9:Candidata
-content/06a. Objetivos gobierno .md:9:FNA
-content/06a. Objetivos gobierno .md:9:Referencia
-content/06a. Objetivos gobierno .md:9:SOA
-content/06a. Objetivos gobierno .md:9:Tema
-content/06a. Objetivos gobierno .md:9:Versión
-content/06a. Objetivos gobierno .md:13:Definición
-content/06a. Objetivos gobierno .md:13:gobierno
-content/06a. Objetivos gobierno .md:13:objetivos
-content/06a. Objetivos gobierno .md:13:SOA
-content/06a. Objetivos gobierno .md:14:además
-content/06a. Objetivos gobierno .md:14:alcanzado
-content/06a. Objetivos gobierno .md:14:analizadas
-content/06a. Objetivos gobierno .md:14:anexo
-content/06a. Objetivos gobierno .md:14:Anexos
-content/06a. Objetivos gobierno .md:14:aplicaciones
-content/06a. Objetivos gobierno .md:14:carácter
-content/06a. Objetivos gobierno .md:14:complejidad
-content/06a. Objetivos gobierno .md:14:complementar
-content/06a. Objetivos gobierno .md:14:contraen
-content/06a. Objetivos gobierno .md:14:diagnóstico
-content/06a. Objetivos gobierno .md:14:el
-content/06a. Objetivos gobierno .md:14:el
-content/06a. Objetivos gobierno .md:14:entre
-content/06a. Objetivos gobierno .md:14:Esta
-content/06a. Objetivos gobierno .md:14:este
-content/06a. Objetivos gobierno .md:14:esto
-content/06a. Objetivos gobierno .md:14:Fase
-content/06a. Objetivos gobierno .md:14:Fase
-content/06a. Objetivos gobierno .md:14:figura
-content/06a. Objetivos gobierno .md:14:FNA
-content/06a. Objetivos gobierno .md:14:Fondo
-content/06a. Objetivos gobierno .md:14:Fondo
-content/06a. Objetivos gobierno .md:14:gobierno
-content/06a. Objetivos gobierno .md:14:infraestructura
-content/06a. Objetivos gobierno .md:14:niveles
-content/06a. Objetivos gobierno .md:14:obligatorio
-content/06a. Objetivos gobierno .md:14:otros
-content/06a. Objetivos gobierno .md:14:partes
-content/06a. Objetivos gobierno .md:14:por
-content/06a. Objetivos gobierno .md:14:procedimientos
-content/06a. Objetivos gobierno .md:14:procesos
-content/06a. Objetivos gobierno .md:14:Resumen
-content/06a. Objetivos gobierno .md:14:riesgos
-content/06a. Objetivos gobierno .md:14:servicios
-content/06a. Objetivos gobierno .md:14:sirve
-content/06a. Objetivos gobierno .md:14:SOA
-content/06a. Objetivos gobierno .md:14:tecnológico
-content/06a. Objetivos gobierno .md:14:ver
-content/06a. Objetivos gobierno .md:14:ver
-content/06a. Objetivos gobierno .md:16:cambios
-content/06a. Objetivos gobierno .md:16:causa
-content/06a. Objetivos gobierno .md:16:complejidad
-content/06a. Objetivos gobierno .md:16:condición
-content/06a. Objetivos gobierno .md:16:conocido
-content/06a. Objetivos gobierno .md:16:demostrado
-content/06a. Objetivos gobierno .md:16:dependencias
-content/06a. Objetivos gobierno .md:16:diagnóstico
-content/06a. Objetivos gobierno .md:16:dificultades
-content/06a. Objetivos gobierno .md:16:el
-content/06a. Objetivos gobierno .md:16:encontradas
-content/06a. Objetivos gobierno .md:16:esta
-content/06a. Objetivos gobierno .md:16:estamos
-content/06a. Objetivos gobierno .md:16:explícitamente
-content/06a. Objetivos gobierno .md:16:Fase
-content/06a. Objetivos gobierno .md:16:FNA
-content/06a. Objetivos gobierno .md:16:herramientas
-content/06a. Objetivos gobierno .md:16:impacto
-content/06a. Objetivos gobierno .md:16:incrementan
-content/06a. Objetivos gobierno .md:16:manejo
-content/06a. Objetivos gobierno .md:16:mayoría
-content/06a. Objetivos gobierno .md:16:muy
-content/06a. Objetivos gobierno .md:16:predecir
-content/06a. Objetivos gobierno .md:16:presente
-content/06a. Objetivos gobierno .md:16:problemáticas
-content/06a. Objetivos gobierno .md:16:refiriendo
-content/06a. Objetivos gobierno .md:16:servicios
-content/06a. Objetivos gobierno .md:16:SOA
-content/06a. Objetivos gobierno .md:16:sobreesfuerzos
-content/06a. Objetivos gobierno .md:16:soluciones
-content/06a. Objetivos gobierno .md:16:su
-content/06a. Objetivos gobierno .md:16:tecnológicas
-content/06a. Objetivos gobierno .md:18:agilidad
-content/06a. Objetivos gobierno .md:18:Arquitectura
-content/06a. Objetivos gobierno .md:18:complejidad
-content/06a. Objetivos gobierno .md:18:complicación
-content/06a. Objetivos gobierno .md:18:consiguiente
-content/06a. Objetivos gobierno .md:18:débil
-content/06a. Objetivos gobierno .md:18:diagnóstico
-content/06a. Objetivos gobierno .md:18:el
-content/06a. Objetivos gobierno .md:18:el
-content/06a. Objetivos gobierno .md:18:Empresarial
-content/06a. Objetivos gobierno .md:18:encuentran
-content/06a. Objetivos gobierno .md:18:esta
-content/06a. Objetivos gobierno .md:18:falta
-content/06a. Objetivos gobierno .md:18:Fase
-content/06a. Objetivos gobierno .md:18:Fase
-content/06a. Objetivos gobierno .md:18:figura
-content/06a. Objetivos gobierno .md:18:Fondo
-content/06a. Objetivos gobierno .md:18:fueron
-content/06a. Objetivos gobierno .md:18:funcionalidades
-content/06a. Objetivos gobierno .md:18:gobierno
-content/06a. Objetivos gobierno .md:18:gobierno
-content/06a. Objetivos gobierno .md:18:hace
-content/06a. Objetivos gobierno .md:18:imprecisión
-content/06a. Objetivos gobierno .md:18:introdución
-content/06a. Objetivos gobierno .md:18:Junto
-content/06a. Objetivos gobierno .md:18:levantadas
-content/06a. Objetivos gobierno .md:18:limitada
-content/06a. Objetivos gobierno .md:18:obligatoria
-content/06a. Objetivos gobierno .md:18:ocultamiento
-content/06a. Objetivos gobierno .md:18:OpenGroup
-content/06a. Objetivos gobierno .md:18:organizaciones
-content/06a. Objetivos gobierno .md:18:otras
-content/06a. Objetivos gobierno .md:18:por
-content/06a. Objetivos gobierno .md:18:por
-content/06a. Objetivos gobierno .md:18:por
-content/06a. Objetivos gobierno .md:18:por
-content/06a. Objetivos gobierno .md:18:presente
-content/06a. Objetivos gobierno .md:18:Resumen
-content/06a. Objetivos gobierno .md:18:señalan
-content/06a. Objetivos gobierno .md:18:sí
-content/06a. Objetivos gobierno .md:18:SOA
-content/06a. Objetivos gobierno .md:18:trazabilidad
-content/06a. Objetivos gobierno .md:18:ver
-content/06a. Objetivos gobierno .md:22:FNA
-content/06a. Objetivos gobierno .md:22:Gobierno
-content/06a. Objetivos gobierno .md:22:Objetivos
-content/06a. Objetivos gobierno .md:22:Principales
-content/06a. Objetivos gobierno .md:22:SOA
-content/06a. Objetivos gobierno .md:23:adopción
-content/06a. Objetivos gobierno .md:23:complejidad
-content/06a. Objetivos gobierno .md:23:desarrollos
-content/06a. Objetivos gobierno .md:23:el
-content/06a. Objetivos gobierno .md:23:el
-content/06a. Objetivos gobierno .md:23:el
-content/06a. Objetivos gobierno .md:23:empresa
-content/06a. Objetivos gobierno .md:23:estas
-content/06a. Objetivos gobierno .md:23:existentes
-content/06a. Objetivos gobierno .md:23:FNA
-content/06a. Objetivos gobierno .md:23:Fondo
-content/06a. Objetivos gobierno .md:23:gobierno
-content/06a. Objetivos gobierno .md:23:identificadas
-content/06a. Objetivos gobierno .md:23:implementaciones
-content/06a. Objetivos gobierno .md:23:nivel
-content/06a. Objetivos gobierno .md:23:objetivo
-content/06a. Objetivos gobierno .md:23:orden
-content/06a. Objetivos gobierno .md:23:podemos
-content/06a. Objetivos gobierno .md:23:presente
-content/06a. Objetivos gobierno .md:23:problemáticas
-content/06a. Objetivos gobierno .md:23:propuesto
-content/06a. Objetivos gobierno .md:23:resumir
-content/06a. Objetivos gobierno .md:23:riesgo
-content/06a. Objetivos gobierno .md:23:siguiente
-content/06a. Objetivos gobierno .md:23:SOA
-content/06a. Objetivos gobierno .md:23:SOA
-content/06a. Objetivos gobierno .md:23:tecnológico
-content/06a. Objetivos gobierno .md:23:tiene
-content/06a. Objetivos gobierno .md:23:tres
-content/06a. Objetivos gobierno .md:23:Una
-content/06a. Objetivos gobierno .md:23:vez
-content/06a. Objetivos gobierno .md:25:aplicación
-content/06a. Objetivos gobierno .md:25:áreas
-content/06a. Objetivos gobierno .md:25:áreas
-content/06a. Objetivos gobierno .md:25:asistir
-content/06a. Objetivos gobierno .md:25:crédito
-content/06a. Objetivos gobierno .md:25:debe
-content/06a. Objetivos gobierno .md:25:diseño
-content/06a. Objetivos gobierno .md:25:ejecución
-content/06a. Objetivos gobierno .md:25:el
-content/06a. Objetivos gobierno .md:25:El
-content/06a. Objetivos gobierno .md:25:El
-content/06a. Objetivos gobierno .md:25:entre
-content/06a. Objetivos gobierno .md:25:estándar
-content/06a. Objetivos gobierno .md:25:FNA
-content/06a. Objetivos gobierno .md:25:Fondo
-content/06a. Objetivos gobierno .md:25:gobierno
-content/06a. Objetivos gobierno .md:25:gobierno
-content/06a. Objetivos gobierno .md:25:implementación
-content/06a. Objetivos gobierno .md:25:implementación
-content/06a. Objetivos gobierno .md:25:marcha
-content/06a. Objetivos gobierno .md:25:negocio
-content/06a. Objetivos gobierno .md:25:observación
-content/06a. Objetivos gobierno .md:25:operaciones
-content/06a. Objetivos gobierno .md:25:puesta
-content/06a. Objetivos gobierno .md:25:régimen
-content/06a. Objetivos gobierno .md:25:relaciones
-content/06a. Objetivos gobierno .md:25:SOA
-content/06a. Objetivos gobierno .md:25:SOA
-content/06a. Objetivos gobierno .md:25:SOA
-content/06a. Objetivos gobierno .md:25:SOA
-content/06a. Objetivos gobierno .md:25:soluciones
-content/06a. Objetivos gobierno .md:25:soluciones
-content/06a. Objetivos gobierno .md:25:vicepresidencia
-content/06a. Objetivos gobierno .md:25:vicepresidencia
-content/06a. Objetivos gobierno .md:25:vigía
-content/06a. Objetivos gobierno .md:29:debe
-content/06a. Objetivos gobierno .md:29:específicos
-content/06a. Objetivos gobierno .md:29:incluir
-content/06a. Objetivos gobierno .md:29:mínimo
-content/06a. Objetivos gobierno .md:29:objetivos
-content/06a. Objetivos gobierno .md:29:principales
-content/06a. Objetivos gobierno .md:29:siguientes
-content/06a. Objetivos gobierno .md:32:FNA
-content/06a. Objetivos gobierno .md:32:gobierno
-content/06a. Objetivos gobierno .md:32:Imagen
-content/06a. Objetivos gobierno .md:32:Objetivos
-content/06a. Objetivos gobierno .md:32:principales
-content/06a. Objetivos gobierno .md:32:SOA
-content/06a. Objetivos gobierno .md:34:elaboración
-content/06a. Objetivos gobierno .md:34:propia
-content/06a. Objetivos gobierno .md:38:adopción
-content/06a. Objetivos gobierno .md:38:colaboración
-content/06a. Objetivos gobierno .md:38:componentes
-content/06a. Objetivos gobierno .md:38:constatar
-content/06a. Objetivos gobierno .md:38:controlar
-content/06a. Objetivos gobierno .md:38:cual
-content/06a. Objetivos gobierno .md:38:cual
-content/06a. Objetivos gobierno .md:38:diseños
-content/06a. Objetivos gobierno .md:38:el
-content/06a. Objetivos gobierno .md:38:evaluar
-content/06a. Objetivos gobierno .md:38:externos
-content/06a. Objetivos gobierno .md:38:finalmente
-content/06a. Objetivos gobierno .md:38:FNA
-content/06a. Objetivos gobierno .md:38:hacer
-content/06a. Objetivos gobierno .md:38:herramientas
-content/06a. Objetivos gobierno .md:38:implementación
-content/06a. Objetivos gobierno .md:38:inversión
-content/06a. Objetivos gobierno .md:38:involucra
-content/06a. Objetivos gobierno .md:38:librerías
-content/06a. Objetivos gobierno .md:38:limitarse
-content/06a. Objetivos gobierno .md:38:nuevos
-content/06a. Objetivos gobierno .md:38:nuevos
-content/06a. Objetivos gobierno .md:38:podría
-content/06a. Objetivos gobierno .md:38:Primero
-content/06a. Objetivos gobierno .md:38:provedores
-content/06a. Objetivos gobierno .md:38:riesgo
-content/06a. Objetivos gobierno .md:38:seguimiento
-content/06a. Objetivos gobierno .md:38:servicios
-content/06a. Objetivos gobierno .md:38:SOA
-content/06a. Objetivos gobierno .md:38:tecnológica
-content/06a. Objetivos gobierno .md:38:tecnológico
-content/06a. Objetivos gobierno .md:38:terceros
-content/06a. Objetivos gobierno .md:38:trabajo
-content/06a. Objetivos gobierno .md:38:tres
-content/06a. Objetivos gobierno .md:38:vías
-content/06a. Objetivos gobierno .md:38:Vigilancia
-content/06a. Objetivos gobierno .md:39:área
-content/06a. Objetivos gobierno .md:39:área
-content/06a. Objetivos gobierno .md:39:conceptos
-content/06a. Objetivos gobierno .md:39:costo
-content/06a. Objetivos gobierno .md:39:desprende
-content/06a. Objetivos gobierno .md:39:efectividad
-content/06a. Objetivos gobierno .md:39:efectividad
-content/06a. Objetivos gobierno .md:39:efectividad
-content/06a. Objetivos gobierno .md:39:el
-content/06a. Objetivos gobierno .md:39:enfatizar
-content/06a. Objetivos gobierno .md:39:este
-content/06a. Objetivos gobierno .md:39:explicados
-content/06a. Objetivos gobierno .md:39:factibilidad
-content/06a. Objetivos gobierno .md:39:factibilidad
-content/06a. Objetivos gobierno .md:39:factibilidad
-content/06a. Objetivos gobierno .md:39:inversión
-content/06a. Objetivos gobierno .md:39:objetivo
-content/06a. Objetivos gobierno .md:39:organización
-content/06a. Objetivos gobierno .md:39:proyectos
-content/06a. Objetivos gobierno .md:39:riesgo
-content/06a. Objetivos gobierno .md:39:SOA
-content/06a. Objetivos gobierno .md:39:SOA
-content/06a. Objetivos gobierno .md:39:SOA
-content/06a. Objetivos gobierno .md:39:sobre
-content/06a. Objetivos gobierno .md:39:Supervisión
-content/06a. Objetivos gobierno .md:39:tecnológico
-content/06a. Objetivos gobierno .md:39:términos
-content/06a. Objetivos gobierno .md:39:Vigilancia
-content/06a. Objetivos gobierno .md:39:vigilar
-content/06a. Objetivos gobierno .md:40:alivie
-content/06a. Objetivos gobierno .md:40:arquitectura
-content/06a. Objetivos gobierno .md:40:arquitectura
-content/06a. Objetivos gobierno .md:40:bien
-content/06a. Objetivos gobierno .md:40:cambios
-content/06a. Objetivos gobierno .md:40:catálogo
-content/06a. Objetivos gobierno .md:40:comité
-content/06a. Objetivos gobierno .md:40:complejidad
-content/06a. Objetivos gobierno .md:40:crecimiento
-content/06a. Objetivos gobierno .md:40:desarrolladores
-content/06a. Objetivos gobierno .md:40:desarrollo
-content/06a. Objetivos gobierno .md:40:diseño
-content/06a. Objetivos gobierno .md:40:distribución
-content/06a. Objetivos gobierno .md:40:el
-content/06a. Objetivos gobierno .md:40:el
-content/06a. Objetivos gobierno .md:40:el
-content/06a. Objetivos gobierno .md:40:el
-content/06a. Objetivos gobierno .md:40:empresa
-content/06a. Objetivos gobierno .md:40:fábricas
-content/06a. Objetivos gobierno .md:40:Fondo
-content/06a. Objetivos gobierno .md:40:guíe
-content/06a. Objetivos gobierno .md:40:impacto
-content/06a. Objetivos gobierno .md:40:medio
-content/06a. Objetivos gobierno .md:40:nuevos
-content/06a. Objetivos gobierno .md:40:por
-content/06a. Objetivos gobierno .md:40:por
-content/06a. Objetivos gobierno .md:40:preconstruídas
-content/06a. Objetivos gobierno .md:40:referencia
-content/06a. Objetivos gobierno .md:40:revisiones
-content/06a. Objetivos gobierno .md:40:SOA
-content/06a. Objetivos gobierno .md:40:soluciones
-content/06a. Objetivos gobierno .md:40:trabajan
-content/06a. Objetivos gobierno .md:40:Vigilar
-content/06a. Objetivos gobierno .md:41:adaptación
-content/06a. Objetivos gobierno .md:41:adopción
-content/06a. Objetivos gobierno .md:41:análisis
-content/06a. Objetivos gobierno .md:41:aumento
-content/06a. Objetivos gobierno .md:41:diagnóstico
-content/06a. Objetivos gobierno .md:41:efectividad
-content/06a. Objetivos gobierno .md:41:el
-content/06a. Objetivos gobierno .md:41:el
-content/06a. Objetivos gobierno .md:41:Estudio
-content/06a. Objetivos gobierno .md:41:Fase
-content/06a. Objetivos gobierno .md:41:Fase
-content/06a. Objetivos gobierno .md:41:FNA
-content/06a. Objetivos gobierno .md:41:índices
-content/06a. Objetivos gobierno .md:41:índices
-content/06a. Objetivos gobierno .md:41:madurez
-content/06a. Objetivos gobierno .md:41:Madurez
-content/06a. Objetivos gobierno .md:41:perseguir
-content/06a. Objetivos gobierno .md:41:presente
-content/06a. Objetivos gobierno .md:41:presentes
-content/06a. Objetivos gobierno .md:41:realizado
-content/06a. Objetivos gobierno .md:41:SOA
-content/06a. Objetivos gobierno .md:41:SOA
-content/06a. Objetivos gobierno .md:41:ver
-content/06a. Objetivos gobierno .md:41:Vigilar
-content/06a. Objetivos gobierno .md:42:Adaptar
-content/06a. Objetivos gobierno .md:42:adelante
-content/06a. Objetivos gobierno .md:42:descrito
-content/06a. Objetivos gobierno .md:42:ejercicio
-content/06a. Objetivos gobierno .md:42:el
-content/06a. Objetivos gobierno .md:42:el
-content/06a. Objetivos gobierno .md:42:este
-content/06a. Objetivos gobierno .md:42:FNA
-content/06a. Objetivos gobierno .md:42:gobierno
-content/06a. Objetivos gobierno .md:42:índices
-content/06a. Objetivos gobierno .md:42:índices
-content/06a. Objetivos gobierno .md:42:KPI
-content/06a. Objetivos gobierno .md:42:marcha
-content/06a. Objetivos gobierno .md:42:más
-content/06a. Objetivos gobierno .md:42:monitorear
-content/06a. Objetivos gobierno .md:42:Poner
-content/06a. Objetivos gobierno .md:42:proceso
-content/06a. Objetivos gobierno .md:42:proceso
-content/06a. Objetivos gobierno .md:42:rendimiento
-content/06a. Objetivos gobierno .md:42:SOA
-content/06a. Objetivos gobierno .md:46:Gobierno
-content/06a. Objetivos gobierno .md:46:Objetivos
-content/06a. Objetivos gobierno .md:46:Otros
-content/06a. Objetivos gobierno .md:46:SOA
-content/06a. Objetivos gobierno .md:47:arquitectura
-content/06a. Objetivos gobierno .md:47:Arquitectura
-content/06a. Objetivos gobierno .md:47:complementar
-content/06a. Objetivos gobierno .md:47:conseguidos
-content/06a. Objetivos gobierno .md:47:diagnóstico
-content/06a. Objetivos gobierno .md:47:Empresarial
-content/06a. Objetivos gobierno .md:47:entre
-content/06a. Objetivos gobierno .md:47:este
-content/06a. Objetivos gobierno .md:47:expone
-content/06a. Objetivos gobierno .md:47:Fondo
-content/06a. Objetivos gobierno .md:47:forma
-content/06a. Objetivos gobierno .md:47:gobierno
-content/06a. Objetivos gobierno .md:47:indirecta
-content/06a. Objetivos gobierno .md:47:lista
-content/06a. Objetivos gobierno .md:47:lista
-content/06a. Objetivos gobierno .md:47:mediación
-content/06a. Objetivos gobierno .md:47:negocio
-content/06a. Objetivos gobierno .md:47:objetivos
-content/06a. Objetivos gobierno .md:47:objetivos
-content/06a. Objetivos gobierno .md:47:otros
-content/06a. Objetivos gobierno .md:47:por
-content/06a. Objetivos gobierno .md:47:proyectos
-content/06a. Objetivos gobierno .md:47:pueden
-content/06a. Objetivos gobierno .md:47:recomendados
-content/06a. Objetivos gobierno .md:47:ser
-content/06a. Objetivos gobierno .md:47:siguiente
-content/06a. Objetivos gobierno .md:47:SOA
-content/06a. Objetivos gobierno .md:47:transformación
-content/06a. Objetivos gobierno .md:47:transformadores
-content/06a. Objetivos gobierno .md:49:área
-content/06a. Objetivos gobierno .md:49:área
-content/06a. Objetivos gobierno .md:49:arquitectura
-content/06a. Objetivos gobierno .md:49:conforme
-content/06a. Objetivos gobierno .md:49:consultoría
-content/06a. Objetivos gobierno .md:49:Desde
-content/06a. Objetivos gobierno .md:49:el
-content/06a. Objetivos gobierno .md:49:entrega
-content/06a. Objetivos gobierno .md:49:esta
-content/06a. Objetivos gobierno .md:49:estregada
-content/06a. Objetivos gobierno .md:49:FNA
-content/06a. Objetivos gobierno .md:49:gobierno
-content/06a. Objetivos gobierno .md:49:guía
-content/06a. Objetivos gobierno .md:49:por
-content/06a. Objetivos gobierno .md:49:referencia
-content/06a. Objetivos gobierno .md:49:rol
-content/06a. Objetivos gobierno .md:49:servir
-content/06a. Objetivos gobierno .md:49:SOA
-content/06a. Objetivos gobierno .md:49:soluciones
-content/06a. Objetivos gobierno .md:50:área
-content/06a. Objetivos gobierno .md:50:área
-content/06a. Objetivos gobierno .md:50:costo
-content/06a. Objetivos gobierno .md:50:costos
-content/06a. Objetivos gobierno .md:50:desviaciones
-content/06a. Objetivos gobierno .md:50:efectividad
-content/06a. Objetivos gobierno .md:50:FNA
-content/06a. Objetivos gobierno .md:50:inefectividad
-content/06a. Objetivos gobierno .md:50:infactibilidad
-content/06a. Objetivos gobierno .md:50:Informar
-content/06a. Objetivos gobierno .md:50:proyectos
-content/06a. Objetivos gobierno .md:50:relación
-content/06a. Objetivos gobierno .md:50:SOA
-content/06a. Objetivos gobierno .md:50:SOA
-content/06a. Objetivos gobierno .md:50:términos
-content/06a. Objetivos gobierno .md:51:arquitectura
-content/06a. Objetivos gobierno .md:51:cambios
-content/06a. Objetivos gobierno .md:51:el
-content/06a. Objetivos gobierno .md:51:Hacer
-content/06a. Objetivos gobierno .md:51:implementaciones
-content/06a. Objetivos gobierno .md:51:referencia
-content/06a. Objetivos gobierno .md:51:seguimiento
-content/06a. Objetivos gobierno .md:51:TOGAF
-content/06a. Objetivos gobierno .md:56:FNA
-content/06a. Objetivos gobierno .md:56:gobierno
-content/06a. Objetivos gobierno .md:56:Imagen
-content/06a. Objetivos gobierno .md:56:Objetivos
-content/06a. Objetivos gobierno .md:56:secundarios
-content/06a. Objetivos gobierno .md:56:SOA
-content/06a. Objetivos gobierno .md:58:elaboración
-content/06a. Objetivos gobierno .md:58:propia
+content/06a. Objetivos gobierno.md:1:Definición
+content/06a. Objetivos gobierno.md:1:gobierno
+content/06a. Objetivos gobierno.md:1:Gobierno
+content/06a. Objetivos gobierno.md:1:objetivos
+content/06a. Objetivos gobierno.md:1:SOA
+content/06a. Objetivos gobierno.md:1:SOA
+content/06a. Objetivos gobierno.md:1:Tema
+content/06a. Objetivos gobierno.md:3:Capacidades
+content/06a. Objetivos gobierno.md:3:clave
+content/06a. Objetivos gobierno.md:3:negocio
+content/06a. Objetivos gobierno.md:3:Palabras
+content/06a. Objetivos gobierno.md:3:Situación
+content/06a. Objetivos gobierno.md:3:SOA
+content/06a. Objetivos gobierno.md:4:Autor
+content/06a. Objetivos gobierno.md:5:Fuente
+content/06a. Objetivos gobierno.md:7:Fase
+content/06a. Objetivos gobierno.md:7:Gobierno
+content/06a. Objetivos gobierno.md:7:SOA
+content/06a. Objetivos gobierno.md:7:Vínculos
+content/06a. Objetivos gobierno.md:11:Definición
+content/06a. Objetivos gobierno.md:11:gobierno
+content/06a. Objetivos gobierno.md:11:objetivos
+content/06a. Objetivos gobierno.md:11:SOA
+content/06a. Objetivos gobierno.md:12:además
+content/06a. Objetivos gobierno.md:12:alcanzado
+content/06a. Objetivos gobierno.md:12:analizadas
+content/06a. Objetivos gobierno.md:12:anexo
+content/06a. Objetivos gobierno.md:12:Anexos
+content/06a. Objetivos gobierno.md:12:aplicaciones
+content/06a. Objetivos gobierno.md:12:carácter
+content/06a. Objetivos gobierno.md:12:complejidad
+content/06a. Objetivos gobierno.md:12:complementar
+content/06a. Objetivos gobierno.md:12:contraen
+content/06a. Objetivos gobierno.md:12:diagnóstico
+content/06a. Objetivos gobierno.md:12:el
+content/06a. Objetivos gobierno.md:12:el
+content/06a. Objetivos gobierno.md:12:entre
+content/06a. Objetivos gobierno.md:12:Esta
+content/06a. Objetivos gobierno.md:12:este
+content/06a. Objetivos gobierno.md:12:esto
+content/06a. Objetivos gobierno.md:12:Fase
+content/06a. Objetivos gobierno.md:12:Fase
+content/06a. Objetivos gobierno.md:12:figura
+content/06a. Objetivos gobierno.md:12:FNA
+content/06a. Objetivos gobierno.md:12:Fondo
+content/06a. Objetivos gobierno.md:12:Fondo
+content/06a. Objetivos gobierno.md:12:gobierno
+content/06a. Objetivos gobierno.md:12:infraestructura
+content/06a. Objetivos gobierno.md:12:niveles
+content/06a. Objetivos gobierno.md:12:obligatorio
+content/06a. Objetivos gobierno.md:12:otros
+content/06a. Objetivos gobierno.md:12:partes
+content/06a. Objetivos gobierno.md:12:por
+content/06a. Objetivos gobierno.md:12:procedimientos
+content/06a. Objetivos gobierno.md:12:procesos
+content/06a. Objetivos gobierno.md:12:Resumen
+content/06a. Objetivos gobierno.md:12:riesgos
+content/06a. Objetivos gobierno.md:12:servicios
+content/06a. Objetivos gobierno.md:12:sirve
+content/06a. Objetivos gobierno.md:12:SOA
+content/06a. Objetivos gobierno.md:12:tecnológico
+content/06a. Objetivos gobierno.md:12:ver
+content/06a. Objetivos gobierno.md:12:ver
+content/06a. Objetivos gobierno.md:14:cambios
+content/06a. Objetivos gobierno.md:14:causa
+content/06a. Objetivos gobierno.md:14:complejidad
+content/06a. Objetivos gobierno.md:14:condición
+content/06a. Objetivos gobierno.md:14:conocido
+content/06a. Objetivos gobierno.md:14:demostrado
+content/06a. Objetivos gobierno.md:14:dependencias
+content/06a. Objetivos gobierno.md:14:diagnóstico
+content/06a. Objetivos gobierno.md:14:dificultades
+content/06a. Objetivos gobierno.md:14:el
+content/06a. Objetivos gobierno.md:14:encontradas
+content/06a. Objetivos gobierno.md:14:esta
+content/06a. Objetivos gobierno.md:14:estamos
+content/06a. Objetivos gobierno.md:14:explícitamente
+content/06a. Objetivos gobierno.md:14:Fase
+content/06a. Objetivos gobierno.md:14:FNA
+content/06a. Objetivos gobierno.md:14:herramientas
+content/06a. Objetivos gobierno.md:14:impacto
+content/06a. Objetivos gobierno.md:14:incrementan
+content/06a. Objetivos gobierno.md:14:manejo
+content/06a. Objetivos gobierno.md:14:mayoría
+content/06a. Objetivos gobierno.md:14:muy
+content/06a. Objetivos gobierno.md:14:predecir
+content/06a. Objetivos gobierno.md:14:presente
+content/06a. Objetivos gobierno.md:14:problemáticas
+content/06a. Objetivos gobierno.md:14:refiriendo
+content/06a. Objetivos gobierno.md:14:servicios
+content/06a. Objetivos gobierno.md:14:SOA
+content/06a. Objetivos gobierno.md:14:sobreesfuerzos
+content/06a. Objetivos gobierno.md:14:soluciones
+content/06a. Objetivos gobierno.md:14:su
+content/06a. Objetivos gobierno.md:14:tecnológicas
+content/06a. Objetivos gobierno.md:16:agilidad
+content/06a. Objetivos gobierno.md:16:Arquitectura
+content/06a. Objetivos gobierno.md:16:complejidad
+content/06a. Objetivos gobierno.md:16:complicación
+content/06a. Objetivos gobierno.md:16:consiguiente
+content/06a. Objetivos gobierno.md:16:débil
+content/06a. Objetivos gobierno.md:16:diagnóstico
+content/06a. Objetivos gobierno.md:16:el
+content/06a. Objetivos gobierno.md:16:el
+content/06a. Objetivos gobierno.md:16:Empresarial
+content/06a. Objetivos gobierno.md:16:encuentran
+content/06a. Objetivos gobierno.md:16:esta
+content/06a. Objetivos gobierno.md:16:falta
+content/06a. Objetivos gobierno.md:16:Fase
+content/06a. Objetivos gobierno.md:16:Fase
+content/06a. Objetivos gobierno.md:16:figura
+content/06a. Objetivos gobierno.md:16:Fondo
+content/06a. Objetivos gobierno.md:16:fueron
+content/06a. Objetivos gobierno.md:16:funcionalidades
+content/06a. Objetivos gobierno.md:16:gobierno
+content/06a. Objetivos gobierno.md:16:gobierno
+content/06a. Objetivos gobierno.md:16:hace
+content/06a. Objetivos gobierno.md:16:imprecisión
+content/06a. Objetivos gobierno.md:16:introdución
+content/06a. Objetivos gobierno.md:16:Junto
+content/06a. Objetivos gobierno.md:16:levantadas
+content/06a. Objetivos gobierno.md:16:limitada
+content/06a. Objetivos gobierno.md:16:obligatoria
+content/06a. Objetivos gobierno.md:16:ocultamiento
+content/06a. Objetivos gobierno.md:16:OpenGroup
+content/06a. Objetivos gobierno.md:16:organizaciones
+content/06a. Objetivos gobierno.md:16:otras
+content/06a. Objetivos gobierno.md:16:por
+content/06a. Objetivos gobierno.md:16:por
+content/06a. Objetivos gobierno.md:16:por
+content/06a. Objetivos gobierno.md:16:por
+content/06a. Objetivos gobierno.md:16:presente
+content/06a. Objetivos gobierno.md:16:Resumen
+content/06a. Objetivos gobierno.md:16:señalan
+content/06a. Objetivos gobierno.md:16:sí
+content/06a. Objetivos gobierno.md:16:SOA
+content/06a. Objetivos gobierno.md:16:trazabilidad
+content/06a. Objetivos gobierno.md:16:ver
+content/06a. Objetivos gobierno.md:20:FNA
+content/06a. Objetivos gobierno.md:20:Gobierno
+content/06a. Objetivos gobierno.md:20:Objetivos
+content/06a. Objetivos gobierno.md:20:Principales
+content/06a. Objetivos gobierno.md:20:SOA
+content/06a. Objetivos gobierno.md:21:adopción
+content/06a. Objetivos gobierno.md:21:complejidad
+content/06a. Objetivos gobierno.md:21:desarrollos
+content/06a. Objetivos gobierno.md:21:el
+content/06a. Objetivos gobierno.md:21:el
+content/06a. Objetivos gobierno.md:21:el
+content/06a. Objetivos gobierno.md:21:empresa
+content/06a. Objetivos gobierno.md:21:estas
+content/06a. Objetivos gobierno.md:21:existentes
+content/06a. Objetivos gobierno.md:21:FNA
+content/06a. Objetivos gobierno.md:21:Fondo
+content/06a. Objetivos gobierno.md:21:gobierno
+content/06a. Objetivos gobierno.md:21:identificadas
+content/06a. Objetivos gobierno.md:21:implementaciones
+content/06a. Objetivos gobierno.md:21:nivel
+content/06a. Objetivos gobierno.md:21:objetivo
+content/06a. Objetivos gobierno.md:21:orden
+content/06a. Objetivos gobierno.md:21:podemos
+content/06a. Objetivos gobierno.md:21:presente
+content/06a. Objetivos gobierno.md:21:problemáticas
+content/06a. Objetivos gobierno.md:21:propuesto
+content/06a. Objetivos gobierno.md:21:resumir
+content/06a. Objetivos gobierno.md:21:riesgo
+content/06a. Objetivos gobierno.md:21:siguiente
+content/06a. Objetivos gobierno.md:21:SOA
+content/06a. Objetivos gobierno.md:21:SOA
+content/06a. Objetivos gobierno.md:21:tecnológico
+content/06a. Objetivos gobierno.md:21:tiene
+content/06a. Objetivos gobierno.md:21:tres
+content/06a. Objetivos gobierno.md:21:Una
+content/06a. Objetivos gobierno.md:21:vez
+content/06a. Objetivos gobierno.md:23:aplicación
+content/06a. Objetivos gobierno.md:23:áreas
+content/06a. Objetivos gobierno.md:23:áreas
+content/06a. Objetivos gobierno.md:23:asistir
+content/06a. Objetivos gobierno.md:23:crédito
+content/06a. Objetivos gobierno.md:23:debe
+content/06a. Objetivos gobierno.md:23:diseño
+content/06a. Objetivos gobierno.md:23:ejecución
+content/06a. Objetivos gobierno.md:23:el
+content/06a. Objetivos gobierno.md:23:El
+content/06a. Objetivos gobierno.md:23:El
+content/06a. Objetivos gobierno.md:23:entre
+content/06a. Objetivos gobierno.md:23:estándar
+content/06a. Objetivos gobierno.md:23:FNA
+content/06a. Objetivos gobierno.md:23:Fondo
+content/06a. Objetivos gobierno.md:23:gobierno
+content/06a. Objetivos gobierno.md:23:gobierno
+content/06a. Objetivos gobierno.md:23:implementación
+content/06a. Objetivos gobierno.md:23:implementación
+content/06a. Objetivos gobierno.md:23:marcha
+content/06a. Objetivos gobierno.md:23:negocio
+content/06a. Objetivos gobierno.md:23:observación
+content/06a. Objetivos gobierno.md:23:operaciones
+content/06a. Objetivos gobierno.md:23:puesta
+content/06a. Objetivos gobierno.md:23:régimen
+content/06a. Objetivos gobierno.md:23:relaciones
+content/06a. Objetivos gobierno.md:23:SOA
+content/06a. Objetivos gobierno.md:23:SOA
+content/06a. Objetivos gobierno.md:23:SOA
+content/06a. Objetivos gobierno.md:23:SOA
+content/06a. Objetivos gobierno.md:23:soluciones
+content/06a. Objetivos gobierno.md:23:soluciones
+content/06a. Objetivos gobierno.md:23:vicepresidencia
+content/06a. Objetivos gobierno.md:23:vicepresidencia
+content/06a. Objetivos gobierno.md:23:vigía
+content/06a. Objetivos gobierno.md:27:debe
+content/06a. Objetivos gobierno.md:27:específicos
+content/06a. Objetivos gobierno.md:27:incluir
+content/06a. Objetivos gobierno.md:27:mínimo
+content/06a. Objetivos gobierno.md:27:objetivos
+content/06a. Objetivos gobierno.md:27:principales
+content/06a. Objetivos gobierno.md:27:siguientes
+content/06a. Objetivos gobierno.md:30:FNA
+content/06a. Objetivos gobierno.md:30:gobierno
+content/06a. Objetivos gobierno.md:30:Imagen
+content/06a. Objetivos gobierno.md:30:Objetivos
+content/06a. Objetivos gobierno.md:30:principales
+content/06a. Objetivos gobierno.md:30:SOA
+content/06a. Objetivos gobierno.md:32:elaboración
+content/06a. Objetivos gobierno.md:32:propia
+content/06a. Objetivos gobierno.md:36:adopción
+content/06a. Objetivos gobierno.md:36:colaboración
+content/06a. Objetivos gobierno.md:36:componentes
+content/06a. Objetivos gobierno.md:36:constatar
+content/06a. Objetivos gobierno.md:36:controlar
+content/06a. Objetivos gobierno.md:36:cual
+content/06a. Objetivos gobierno.md:36:cual
+content/06a. Objetivos gobierno.md:36:diseños
+content/06a. Objetivos gobierno.md:36:el
+content/06a. Objetivos gobierno.md:36:evaluar
+content/06a. Objetivos gobierno.md:36:externos
+content/06a. Objetivos gobierno.md:36:finalmente
+content/06a. Objetivos gobierno.md:36:FNA
+content/06a. Objetivos gobierno.md:36:hacer
+content/06a. Objetivos gobierno.md:36:herramientas
+content/06a. Objetivos gobierno.md:36:implementación
+content/06a. Objetivos gobierno.md:36:inversión
+content/06a. Objetivos gobierno.md:36:involucra
+content/06a. Objetivos gobierno.md:36:librerías
+content/06a. Objetivos gobierno.md:36:limitarse
+content/06a. Objetivos gobierno.md:36:nuevos
+content/06a. Objetivos gobierno.md:36:nuevos
+content/06a. Objetivos gobierno.md:36:podría
+content/06a. Objetivos gobierno.md:36:Primero
+content/06a. Objetivos gobierno.md:36:provedores
+content/06a. Objetivos gobierno.md:36:riesgo
+content/06a. Objetivos gobierno.md:36:seguimiento
+content/06a. Objetivos gobierno.md:36:servicios
+content/06a. Objetivos gobierno.md:36:SOA
+content/06a. Objetivos gobierno.md:36:tecnológica
+content/06a. Objetivos gobierno.md:36:tecnológico
+content/06a. Objetivos gobierno.md:36:terceros
+content/06a. Objetivos gobierno.md:36:trabajo
+content/06a. Objetivos gobierno.md:36:tres
+content/06a. Objetivos gobierno.md:36:vías
+content/06a. Objetivos gobierno.md:36:Vigilancia
+content/06a. Objetivos gobierno.md:37:área
+content/06a. Objetivos gobierno.md:37:área
+content/06a. Objetivos gobierno.md:37:conceptos
+content/06a. Objetivos gobierno.md:37:costo
+content/06a. Objetivos gobierno.md:37:desprende
+content/06a. Objetivos gobierno.md:37:efectividad
+content/06a. Objetivos gobierno.md:37:efectividad
+content/06a. Objetivos gobierno.md:37:efectividad
+content/06a. Objetivos gobierno.md:37:el
+content/06a. Objetivos gobierno.md:37:enfatizar
+content/06a. Objetivos gobierno.md:37:este
+content/06a. Objetivos gobierno.md:37:explicados
+content/06a. Objetivos gobierno.md:37:factibilidad
+content/06a. Objetivos gobierno.md:37:factibilidad
+content/06a. Objetivos gobierno.md:37:factibilidad
+content/06a. Objetivos gobierno.md:37:inversión
+content/06a. Objetivos gobierno.md:37:objetivo
+content/06a. Objetivos gobierno.md:37:organización
+content/06a. Objetivos gobierno.md:37:proyectos
+content/06a. Objetivos gobierno.md:37:riesgo
+content/06a. Objetivos gobierno.md:37:SOA
+content/06a. Objetivos gobierno.md:37:SOA
+content/06a. Objetivos gobierno.md:37:SOA
+content/06a. Objetivos gobierno.md:37:sobre
+content/06a. Objetivos gobierno.md:37:Supervisión
+content/06a. Objetivos gobierno.md:37:tecnológico
+content/06a. Objetivos gobierno.md:37:términos
+content/06a. Objetivos gobierno.md:37:Vigilancia
+content/06a. Objetivos gobierno.md:37:vigilar
+content/06a. Objetivos gobierno.md:38:alivie
+content/06a. Objetivos gobierno.md:38:arquitectura
+content/06a. Objetivos gobierno.md:38:arquitectura
+content/06a. Objetivos gobierno.md:38:bien
+content/06a. Objetivos gobierno.md:38:cambios
+content/06a. Objetivos gobierno.md:38:catálogo
+content/06a. Objetivos gobierno.md:38:comité
+content/06a. Objetivos gobierno.md:38:complejidad
+content/06a. Objetivos gobierno.md:38:crecimiento
+content/06a. Objetivos gobierno.md:38:desarrolladores
+content/06a. Objetivos gobierno.md:38:desarrollo
+content/06a. Objetivos gobierno.md:38:diseño
+content/06a. Objetivos gobierno.md:38:distribución
+content/06a. Objetivos gobierno.md:38:el
+content/06a. Objetivos gobierno.md:38:el
+content/06a. Objetivos gobierno.md:38:el
+content/06a. Objetivos gobierno.md:38:el
+content/06a. Objetivos gobierno.md:38:empresa
+content/06a. Objetivos gobierno.md:38:fábricas
+content/06a. Objetivos gobierno.md:38:Fondo
+content/06a. Objetivos gobierno.md:38:guíe
+content/06a. Objetivos gobierno.md:38:impacto
+content/06a. Objetivos gobierno.md:38:medio
+content/06a. Objetivos gobierno.md:38:nuevos
+content/06a. Objetivos gobierno.md:38:por
+content/06a. Objetivos gobierno.md:38:por
+content/06a. Objetivos gobierno.md:38:preconstruídas
+content/06a. Objetivos gobierno.md:38:referencia
+content/06a. Objetivos gobierno.md:38:revisiones
+content/06a. Objetivos gobierno.md:38:SOA
+content/06a. Objetivos gobierno.md:38:soluciones
+content/06a. Objetivos gobierno.md:38:trabajan
+content/06a. Objetivos gobierno.md:38:Vigilar
+content/06a. Objetivos gobierno.md:39:adaptación
+content/06a. Objetivos gobierno.md:39:adopción
+content/06a. Objetivos gobierno.md:39:análisis
+content/06a. Objetivos gobierno.md:39:aumento
+content/06a. Objetivos gobierno.md:39:diagnóstico
+content/06a. Objetivos gobierno.md:39:efectividad
+content/06a. Objetivos gobierno.md:39:el
+content/06a. Objetivos gobierno.md:39:el
+content/06a. Objetivos gobierno.md:39:Estudio
+content/06a. Objetivos gobierno.md:39:Fase
+content/06a. Objetivos gobierno.md:39:Fase
+content/06a. Objetivos gobierno.md:39:FNA
+content/06a. Objetivos gobierno.md:39:índices
+content/06a. Objetivos gobierno.md:39:índices
+content/06a. Objetivos gobierno.md:39:madurez
+content/06a. Objetivos gobierno.md:39:Madurez
+content/06a. Objetivos gobierno.md:39:perseguir
+content/06a. Objetivos gobierno.md:39:presente
+content/06a. Objetivos gobierno.md:39:presentes
+content/06a. Objetivos gobierno.md:39:realizado
+content/06a. Objetivos gobierno.md:39:SOA
+content/06a. Objetivos gobierno.md:39:SOA
+content/06a. Objetivos gobierno.md:39:ver
+content/06a. Objetivos gobierno.md:39:Vigilar
+content/06a. Objetivos gobierno.md:40:Adaptar
+content/06a. Objetivos gobierno.md:40:adelante
+content/06a. Objetivos gobierno.md:40:descrito
+content/06a. Objetivos gobierno.md:40:ejercicio
+content/06a. Objetivos gobierno.md:40:el
+content/06a. Objetivos gobierno.md:40:el
+content/06a. Objetivos gobierno.md:40:este
+content/06a. Objetivos gobierno.md:40:FNA
+content/06a. Objetivos gobierno.md:40:gobierno
+content/06a. Objetivos gobierno.md:40:índices
+content/06a. Objetivos gobierno.md:40:índices
+content/06a. Objetivos gobierno.md:40:KPI
+content/06a. Objetivos gobierno.md:40:marcha
+content/06a. Objetivos gobierno.md:40:más
+content/06a. Objetivos gobierno.md:40:monitorear
+content/06a. Objetivos gobierno.md:40:Poner
+content/06a. Objetivos gobierno.md:40:proceso
+content/06a. Objetivos gobierno.md:40:proceso
+content/06a. Objetivos gobierno.md:40:rendimiento
+content/06a. Objetivos gobierno.md:40:SOA
+content/06a. Objetivos gobierno.md:44:Gobierno
+content/06a. Objetivos gobierno.md:44:Objetivos
+content/06a. Objetivos gobierno.md:44:Otros
+content/06a. Objetivos gobierno.md:44:SOA
+content/06a. Objetivos gobierno.md:45:arquitectura
+content/06a. Objetivos gobierno.md:45:Arquitectura
+content/06a. Objetivos gobierno.md:45:complementar
+content/06a. Objetivos gobierno.md:45:conseguidos
+content/06a. Objetivos gobierno.md:45:diagnóstico
+content/06a. Objetivos gobierno.md:45:Empresarial
+content/06a. Objetivos gobierno.md:45:entre
+content/06a. Objetivos gobierno.md:45:este
+content/06a. Objetivos gobierno.md:45:expone
+content/06a. Objetivos gobierno.md:45:Fondo
+content/06a. Objetivos gobierno.md:45:forma
+content/06a. Objetivos gobierno.md:45:gobierno
+content/06a. Objetivos gobierno.md:45:indirecta
+content/06a. Objetivos gobierno.md:45:lista
+content/06a. Objetivos gobierno.md:45:lista
+content/06a. Objetivos gobierno.md:45:mediación
+content/06a. Objetivos gobierno.md:45:negocio
+content/06a. Objetivos gobierno.md:45:objetivos
+content/06a. Objetivos gobierno.md:45:objetivos
+content/06a. Objetivos gobierno.md:45:otros
+content/06a. Objetivos gobierno.md:45:por
+content/06a. Objetivos gobierno.md:45:proyectos
+content/06a. Objetivos gobierno.md:45:pueden
+content/06a. Objetivos gobierno.md:45:recomendados
+content/06a. Objetivos gobierno.md:45:ser
+content/06a. Objetivos gobierno.md:45:siguiente
+content/06a. Objetivos gobierno.md:45:SOA
+content/06a. Objetivos gobierno.md:45:transformación
+content/06a. Objetivos gobierno.md:45:transformadores
+content/06a. Objetivos gobierno.md:47:área
+content/06a. Objetivos gobierno.md:47:área
+content/06a. Objetivos gobierno.md:47:arquitectura
+content/06a. Objetivos gobierno.md:47:conforme
+content/06a. Objetivos gobierno.md:47:consultoría
+content/06a. Objetivos gobierno.md:47:Desde
+content/06a. Objetivos gobierno.md:47:el
+content/06a. Objetivos gobierno.md:47:entrega
+content/06a. Objetivos gobierno.md:47:esta
+content/06a. Objetivos gobierno.md:47:estregada
+content/06a. Objetivos gobierno.md:47:FNA
+content/06a. Objetivos gobierno.md:47:gobierno
+content/06a. Objetivos gobierno.md:47:guía
+content/06a. Objetivos gobierno.md:47:por
+content/06a. Objetivos gobierno.md:47:referencia
+content/06a. Objetivos gobierno.md:47:rol
+content/06a. Objetivos gobierno.md:47:servir
+content/06a. Objetivos gobierno.md:47:SOA
+content/06a. Objetivos gobierno.md:47:soluciones
+content/06a. Objetivos gobierno.md:48:área
+content/06a. Objetivos gobierno.md:48:área
+content/06a. Objetivos gobierno.md:48:costo
+content/06a. Objetivos gobierno.md:48:costos
+content/06a. Objetivos gobierno.md:48:desviaciones
+content/06a. Objetivos gobierno.md:48:efectividad
+content/06a. Objetivos gobierno.md:48:FNA
+content/06a. Objetivos gobierno.md:48:inefectividad
+content/06a. Objetivos gobierno.md:48:infactibilidad
+content/06a. Objetivos gobierno.md:48:Informar
+content/06a. Objetivos gobierno.md:48:proyectos
+content/06a. Objetivos gobierno.md:48:relación
+content/06a. Objetivos gobierno.md:48:SOA
+content/06a. Objetivos gobierno.md:48:SOA
+content/06a. Objetivos gobierno.md:48:términos
+content/06a. Objetivos gobierno.md:49:arquitectura
+content/06a. Objetivos gobierno.md:49:cambios
+content/06a. Objetivos gobierno.md:49:el
+content/06a. Objetivos gobierno.md:49:Hacer
+content/06a. Objetivos gobierno.md:49:implementaciones
+content/06a. Objetivos gobierno.md:49:referencia
+content/06a. Objetivos gobierno.md:49:seguimiento
+content/06a. Objetivos gobierno.md:49:TOGAF
+content/06a. Objetivos gobierno.md:54:FNA
+content/06a. Objetivos gobierno.md:54:gobierno
+content/06a. Objetivos gobierno.md:54:Imagen
+content/06a. Objetivos gobierno.md:54:Objetivos
+content/06a. Objetivos gobierno.md:54:secundarios
+content/06a. Objetivos gobierno.md:54:SOA
+content/06a. Objetivos gobierno.md:56:elaboración
+content/06a. Objetivos gobierno.md:56:propia
 content/06c. Riesgos tecnológicos SOA.md:1:FNA
 content/06c. Riesgos tecnológicos SOA.md:1:Gobierno
 content/06c. Riesgos tecnológicos SOA.md:1:Riesgos
@@ -7801,92 +7793,92 @@ content/07b. Vigilancia avances de la industria.md:538:despliegues
 content/07b. Vigilancia avances de la industria.md:538:despliegues
 content/07b. Vigilancia avances de la industria.md:543:dih
 content/07b. Vigilancia avances de la industria.md:543:Tomado
-content/07b. Vigilancia avances de la industria.md:545:arquitectura
-content/07b. Vigilancia avances de la industria.md:545:DevOps
-content/07b. Vigilancia avances de la industria.md:545:Esta
-content/07b. Vigilancia avances de la industria.md:545:permite
-content/07b. Vigilancia avances de la industria.md:545:práctica
-content/07b. Vigilancia avances de la industria.md:545:técnicas
-content/07b. Vigilancia avances de la industria.md:546:Adicionalmente
-content/07b. Vigilancia avances de la industria.md:546:arquitectura
-content/07b. Vigilancia avances de la industria.md:546:continuo
-content/07b. Vigilancia avances de la industria.md:546:despliegue
-content/07b. Vigilancia avances de la industria.md:546:esta
-content/07b. Vigilancia avances de la industria.md:546:integración
-content/07b. Vigilancia avances de la industria.md:547:datos
-content/07b. Vigilancia avances de la industria.md:547:datos
-content/07b. Vigilancia avances de la industria.md:547:desde
-content/07b. Vigilancia avances de la industria.md:547:enfoca
-content/07b. Vigilancia avances de la industria.md:547:múltiples
-content/07b. Vigilancia avances de la industria.md:547:recolección
-content/07b. Vigilancia avances de la industria.md:549:años
-content/07b. Vigilancia avances de la industria.md:549:atrás
-content/07b. Vigilancia avances de la industria.md:549:DIH
-content/07b. Vigilancia avances de la industria.md:549:El
-content/07b. Vigilancia avances de la industria.md:549:fue
-content/07b. Vigilancia avances de la industria.md:549:Gartner
-content/07b. Vigilancia avances de la industria.md:549:por
-content/07b. Vigilancia avances de la industria.md:549:propuesto
-content/07b. Vigilancia avances de la industria.md:549:término
-content/07b. Vigilancia avances de la industria.md:549:unos
-content/07b. Vigilancia avances de la industria.md:550:apreciar
-content/07b. Vigilancia avances de la industria.md:550:comparación
-content/07b. Vigilancia avances de la industria.md:550:el
-content/07b. Vigilancia avances de la industria.md:550:figuras
-content/07b. Vigilancia avances de la industria.md:550:podemos
-content/07b. Vigilancia avances de la industria.md:550:realizada
-content/07b. Vigilancia avances de la industria.md:550:siguiente
-content/07b. Vigilancia avances de la industria.md:551:arquitectura
-content/07b. Vigilancia avances de la industria.md:551:basada
-content/07b. Vigilancia avances de la industria.md:551:entre
+content/07b. Vigilancia avances de la industria.md:547:arquitectura
+content/07b. Vigilancia avances de la industria.md:547:DevOps
+content/07b. Vigilancia avances de la industria.md:547:Esta
+content/07b. Vigilancia avances de la industria.md:547:permite
+content/07b. Vigilancia avances de la industria.md:547:práctica
+content/07b. Vigilancia avances de la industria.md:547:técnicas
+content/07b. Vigilancia avances de la industria.md:548:Adicionalmente
+content/07b. Vigilancia avances de la industria.md:548:arquitectura
+content/07b. Vigilancia avances de la industria.md:548:continuo
+content/07b. Vigilancia avances de la industria.md:548:despliegue
+content/07b. Vigilancia avances de la industria.md:548:esta
+content/07b. Vigilancia avances de la industria.md:548:integración
+content/07b. Vigilancia avances de la industria.md:549:datos
+content/07b. Vigilancia avances de la industria.md:549:datos
+content/07b. Vigilancia avances de la industria.md:549:desde
+content/07b. Vigilancia avances de la industria.md:549:enfoca
+content/07b. Vigilancia avances de la industria.md:549:múltiples
+content/07b. Vigilancia avances de la industria.md:549:recolección
+content/07b. Vigilancia avances de la industria.md:551:años
+content/07b. Vigilancia avances de la industria.md:551:atrás
+content/07b. Vigilancia avances de la industria.md:551:DIH
+content/07b. Vigilancia avances de la industria.md:551:El
+content/07b. Vigilancia avances de la industria.md:551:fue
 content/07b. Vigilancia avances de la industria.md:551:Gartner
-content/07b. Vigilancia avances de la industria.md:551:informe
-content/07b. Vigilancia avances de la industria.md:551:tradicional
-content/07b. Vigilancia avances de la industria.md:551:una
-content/07b. Vigilancia avances de la industria.md:552:APIS
-content/07b. Vigilancia avances de la industria.md:552:arquitectura
-content/07b. Vigilancia avances de la industria.md:552:basada
-content/07b. Vigilancia avances de la industria.md:552:DIH
-content/07b. Vigilancia avances de la industria.md:552:figura
-content/07b. Vigilancia avances de la industria.md:552:primera
-content/07b. Vigilancia avances de la industria.md:552:una
-content/07b. Vigilancia avances de la industria.md:553:figura
-content/07b. Vigilancia avances de la industria.md:553:segunda
-content/07b. Vigilancia avances de la industria.md:558:Tomado
-content/07b. Vigilancia avances de la industria.md:559:apis
-content/07b. Vigilancia avances de la industria.md:564:Tomado
-content/07b. Vigilancia avances de la industria.md:565:apis
-content/07b. Vigilancia avances de la industria.md:567:basado
-content/07b. Vigilancia avances de la industria.md:567:diferencia
-content/07b. Vigilancia avances de la industria.md:567:DIH
-content/07b. Vigilancia avances de la industria.md:567:el
-content/07b. Vigilancia avances de la industria.md:567:esquema
-content/07b. Vigilancia avances de la industria.md:567:radica
-content/07b. Vigilancia avances de la industria.md:567:una
-content/07b. Vigilancia avances de la industria.md:568:capa
-content/07b. Vigilancia avances de la industria.md:568:el
-content/07b. Vigilancia avances de la industria.md:568:entre
-content/07b. Vigilancia avances de la industria.md:568:microservicios
-content/07b. Vigilancia avances de la industria.md:568:nueva
-content/07b. Vigilancia avances de la industria.md:568:ubicada
-content/07b. Vigilancia avances de la industria.md:569:capa
-content/07b. Vigilancia avances de la industria.md:569:denominada
-content/07b. Vigilancia avances de la industria.md:569:Esta
-content/07b. Vigilancia avances de la industria.md:569:híbrida
-content/07b. Vigilancia avances de la industria.md:569:integración
-content/07b. Vigilancia avances de la industria.md:569:plataforma
-content/07b. Vigilancia avances de la industria.md:570:alimenta
+content/07b. Vigilancia avances de la industria.md:551:por
+content/07b. Vigilancia avances de la industria.md:551:propuesto
+content/07b. Vigilancia avances de la industria.md:551:término
+content/07b. Vigilancia avances de la industria.md:551:unos
+content/07b. Vigilancia avances de la industria.md:552:apreciar
+content/07b. Vigilancia avances de la industria.md:552:comparación
+content/07b. Vigilancia avances de la industria.md:552:el
+content/07b. Vigilancia avances de la industria.md:552:figuras
+content/07b. Vigilancia avances de la industria.md:552:podemos
+content/07b. Vigilancia avances de la industria.md:552:realizada
+content/07b. Vigilancia avances de la industria.md:552:siguiente
+content/07b. Vigilancia avances de la industria.md:553:arquitectura
+content/07b. Vigilancia avances de la industria.md:553:basada
+content/07b. Vigilancia avances de la industria.md:553:entre
+content/07b. Vigilancia avances de la industria.md:553:Gartner
+content/07b. Vigilancia avances de la industria.md:553:informe
+content/07b. Vigilancia avances de la industria.md:553:tradicional
+content/07b. Vigilancia avances de la industria.md:553:una
+content/07b. Vigilancia avances de la industria.md:554:APIS
+content/07b. Vigilancia avances de la industria.md:554:arquitectura
+content/07b. Vigilancia avances de la industria.md:554:basada
+content/07b. Vigilancia avances de la industria.md:554:DIH
+content/07b. Vigilancia avances de la industria.md:554:figura
+content/07b. Vigilancia avances de la industria.md:554:primera
+content/07b. Vigilancia avances de la industria.md:554:una
+content/07b. Vigilancia avances de la industria.md:555:figura
+content/07b. Vigilancia avances de la industria.md:555:segunda
+content/07b. Vigilancia avances de la industria.md:560:Tomado
+content/07b. Vigilancia avances de la industria.md:561:apis
+content/07b. Vigilancia avances de la industria.md:566:Tomado
+content/07b. Vigilancia avances de la industria.md:567:apis
+content/07b. Vigilancia avances de la industria.md:569:basado
+content/07b. Vigilancia avances de la industria.md:569:diferencia
+content/07b. Vigilancia avances de la industria.md:569:DIH
+content/07b. Vigilancia avances de la industria.md:569:el
+content/07b. Vigilancia avances de la industria.md:569:esquema
+content/07b. Vigilancia avances de la industria.md:569:radica
+content/07b. Vigilancia avances de la industria.md:569:una
 content/07b. Vigilancia avances de la industria.md:570:capa
-content/07b. Vigilancia avances de la industria.md:570:Esta
-content/07b. Vigilancia avances de la industria.md:570:HPDS
-content/07b. Vigilancia avances de la industria.md:570:partir
-content/07b. Vigilancia avances de la industria.md:570:plataforma
-content/07b. Vigilancia avances de la industria.md:571:basado
-content/07b. Vigilancia avances de la industria.md:571:esquema
-content/07b. Vigilancia avances de la industria.md:571:eventos
+content/07b. Vigilancia avances de la industria.md:570:el
+content/07b. Vigilancia avances de la industria.md:570:entre
+content/07b. Vigilancia avances de la industria.md:570:microservicios
+content/07b. Vigilancia avances de la industria.md:570:nueva
+content/07b. Vigilancia avances de la industria.md:570:ubicada
+content/07b. Vigilancia avances de la industria.md:571:capa
+content/07b. Vigilancia avances de la industria.md:571:denominada
+content/07b. Vigilancia avances de la industria.md:571:Esta
+content/07b. Vigilancia avances de la industria.md:571:híbrida
 content/07b. Vigilancia avances de la industria.md:571:integración
-content/07b. Vigilancia avances de la industria.md:571:usualmente
-content/07b. Vigilancia avances de la industria.md:571:utilizando
+content/07b. Vigilancia avances de la industria.md:571:plataforma
+content/07b. Vigilancia avances de la industria.md:572:alimenta
+content/07b. Vigilancia avances de la industria.md:572:capa
+content/07b. Vigilancia avances de la industria.md:572:Esta
+content/07b. Vigilancia avances de la industria.md:572:HPDS
+content/07b. Vigilancia avances de la industria.md:572:partir
+content/07b. Vigilancia avances de la industria.md:572:plataforma
+content/07b. Vigilancia avances de la industria.md:573:basado
+content/07b. Vigilancia avances de la industria.md:573:esquema
+content/07b. Vigilancia avances de la industria.md:573:eventos
+content/07b. Vigilancia avances de la industria.md:573:integración
+content/07b. Vigilancia avances de la industria.md:573:usualmente
+content/07b. Vigilancia avances de la industria.md:573:utilizando
 content/07. Fase2 PR7 Vigilancia Tecnológica SOA.md:1:Fase
 content/07. Fase2 PR7 Vigilancia Tecnológica SOA.md:1:FNA
 content/07. Fase2 PR7 Vigilancia Tecnológica SOA.md:1:Objetivo
