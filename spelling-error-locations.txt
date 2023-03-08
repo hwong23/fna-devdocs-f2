@@ -8028,16 +8028,16 @@ content/08a. Arquitectura-referencia-v2.md:29:Arquitectura
 content/08a. Arquitectura-referencia-v2.md:29:Fondo
 content/08a. Arquitectura-referencia-v2.md:29:Nacional
 content/08a. Arquitectura-referencia-v2.md:29:Referencia
-content/08a. Arquitectura-referencia-v2.md:35:TOBE
-content/08a. Arquitectura-referencia-v2.md:36:arquitectura
-content/08a. Arquitectura-referencia-v2.md:36:continuación
-content/08a. Arquitectura-referencia-v2.md:36:presenta
-content/08a. Arquitectura-referencia-v2.md:36:propuesta
-content/08a. Arquitectura-referencia-v2.md:36:referencia
-content/08a. Arquitectura-referencia-v2.md:38:detalle
-content/08a. Arquitectura-referencia-v2.md:38:Nivel
-content/08a. Arquitectura-referencia-v2.md:44:detalle
-content/08a. Arquitectura-referencia-v2.md:44:Nivel
+content/08a. Arquitectura-referencia-v2.md:33:TOBE
+content/08a. Arquitectura-referencia-v2.md:34:arquitectura
+content/08a. Arquitectura-referencia-v2.md:34:continuación
+content/08a. Arquitectura-referencia-v2.md:34:presenta
+content/08a. Arquitectura-referencia-v2.md:34:propuesta
+content/08a. Arquitectura-referencia-v2.md:34:referencia
+content/08a. Arquitectura-referencia-v2.md:36:detalle
+content/08a. Arquitectura-referencia-v2.md:36:Nivel
+content/08a. Arquitectura-referencia-v2.md:43:detalle
+content/08a. Arquitectura-referencia-v2.md:43:Nivel
 content/08b1. Dominio de datos.md:1:Arquitectura
 content/08b1. Dominio de datos.md:1:Arquitectura
 content/08b1. Dominio de datos.md:1:Candidata
