@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-04-25" />
   <meta name="citation_publication_date" content="2023-04-25" />
   <meta property="article:published_time" content="2023-04-25" />
-  <meta name="dc.modified" content="2023-04-25T23:41:04+00:00" />
-  <meta property="article:modified_time" content="2023-04-25T23:41:04+00:00" />
+  <meta name="dc.modified" content="2023-04-25T23:47:50+00:00" />
+  <meta property="article:modified_time" content="2023-04-25T23:47:50+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/48b3d538c24909ef5707613e586a9028f858276e/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/48b3d538c24909ef5707613e586a9028f858276e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/48b3d538c24909ef5707613e586a9028f858276e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/a8db7447cb03e81f0286336ff6082fb215fc0061/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/a8db7447cb03e81f0286336ff6082fb215fc0061/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/a8db7447cb03e81f0286336ff6082fb215fc0061/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdocs-f2/v/48b3d538c24909ef5707613e586a9028f858276e/))
+([permalink](https://hwong23.github.io/fna-devdocs-f2/v/a8db7447cb03e81f0286336ff6082fb215fc0061/))
 versión indicada a continuación, se encuentra en 
 ****
-[48b3d53](https://github.com/hwong23/fna-devdocs-f2/tree/48b3d538c24909ef5707613e586a9028f858276e)
+[a8db744](https://github.com/hwong23/fna-devdocs-f2/tree/a8db7447cb03e81f0286336ff6082fb215fc0061)
 de April 25, 2023.
 
 
@@ -161,7 +161,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa, Industria financiera |
 |Autor           |                                                       |
 |Fuente          |                                                       |
-|Version|48b3d53 del 25 Apr 2023                                  |
+|Version|a8db744 del 25 Apr 2023                                  |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -369,7 +369,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|**48b3d53** del 25 Apr 2023|
+|Version|**a8db744** del 25 Apr 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -427,7 +427,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**48b3d53** del 25 Apr 2023|
+|Version|**a8db744** del 25 Apr 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -486,7 +486,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|**48b3d53** del 25 Apr 2023|
+|Version|**a8db744** del 25 Apr 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -532,7 +532,7 @@ _Fuente: www.opengroup.org/soa/source-book/togaf._
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor||
 |Fuente||
-|Version|**48b3d53** del 25 Apr 2023|
+|Version|**a8db744** del 25 Apr 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -602,7 +602,7 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 | Palabras clave | SOA, Inversión TI, Eficacia, KPI, Proceso SOA                                         |
 | Autor          |                                                                                       |
 | Fuente         |                                                                                       |
-| Version        | **48b3d53** del 25 Apr 2023                                                    |
+| Version        | **a8db744** del 25 Apr 2023                                                    |
 | Vínculos       | [Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)                     |
 
 <br>
@@ -643,10 +643,10 @@ La formación y experiencia que desde este ejercicio de diagnóstico declaramos 
 
 | Perfil                     | Formación                                                                                                                                                                                                                                                                                                                                                                                                             | Experiencia                                           | Responsabilidad                                                                                                                                                                                                                                                                                                        |
 |----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Arquitecto SOA             | Profesional en Ingeniería de Sistemas o afines, o Electrónica y especialización o maestría en áreas afines con estasla Ingeniería de Sistemas. Postgrado en la modalidad de Especialización o Maestría en las áreas del conocimiento afines a: Ingeniería de Software o ingeniería de sistemas o arquitectura de sistemas de información o especialización en construcción de software o Gerencia de Tecnología.      | Mínimo de ocho (8) años en ejercicio de su profesión. | Es responsable de vigilar las decisiones técnicas de la arquitectura de referencia del FNA y observar las especificaciones tecnológicas que usarán los equipos de desarrollo internas y externas, fábricas, y proveedores que implementan las herramientas, servicios, componentes y soluciones de software del Fondo. |
-| Arquitecto TI              | Profesional en Ingeniería de Sistemas o afines, o Electrónica y especialización o maestría en áreas afines con estasla Ingeniería de Sistemas. Postgrado en la modalidad de Especialización o Maestría en las áreas del conocimiento afines a: Ingeniería de Software o ingeniería de sistemas o arquitectura de sistemas de información o especialización en infraestructura de tecnología o Gerencia de Tecnología. | Mínimo de seis (6) años en ejercicio de su profesión. | Es responsable de vigilar las decisiones de diseño y montaje de la infraestructura de la arquitectura de referencia del FNA y observar las especificaciones técnicas que usarán los equipos de desarrollado, fábricas, proveedores, para implementar las herramientas, servicios, componentes y soluciones de software del Fondo                                      |
-| Arquitecto de Aplicaciones | Profesional en Ingeniería de Sistemas o afines, o Electrónica y especialización o maestría en áreas afines con estasla Ingeniería de Sistemas. Postgrado en la modalidad de Especialización o Maestría en las áreas del conocimiento afines a: Ingeniería de Software o ingeniería de sistemas o arquitectura de sistemas de información o especialización en construcción de software o Gerencia de Tecnología.      | Mínimo de seis (6) años en ejercicio de su profesión. | Es responsable de vigilar las decisiones técnicas de los componentes y aplicaciones constituyentes de la arquitectura de referencia del FNA y observar las especificaciones de reutilización, seguridad y construcciónde de los componentes que usarán los equipos de desarrollado, fábricas, proveedores, para implementar las herramientas, servicios, componentes y soluciones de software del Fondo                                      |
-| Arquitecto de Información  | Profesional en Ingeniería de Sistemas o afines, o Electrónica y especialización o maestría en áreas afines con estasla Ingeniería de Sistemas. Postgrado en la modalidad de Especialización o Maestría en las áreas del conocimiento afines a: Ingeniería de Software o ingeniería de sistemas o arquitectura de sistemas de información o especialización en uso y explotación de datos o Gerencia de Tecnología.    | Mínimo de seis (6) años en ejercicio de su profesión. | Es responsable de vigilar las decisiones de diseño de los conceptos y entiddes de datos de la arquitectura de referencia del FNA y observar las especificaciones de estructuración y distribución de los productos de datos que usarán los equipos de desarrollado, fábricas, proveedores, para implementar las herramientas, servicios, componentes y soluciones de software del Fondo                                      |
+| Arquitecto SOA             | Profesional en Ingeniería de Sistemas o afines, o Electrónica y especialización o maestría en áreas afines con la Ingeniería de Sistemas. Postgrado en la modalidad de Especialización o Maestría en las áreas del conocimiento afines a: Ingeniería de Software o ingeniería de sistemas o arquitectura de sistemas de información o especialización en construcción de software o Gerencia de Tecnología.      | Mínimo de ocho (8) años en ejercicio de su profesión. | Es responsable de vigilar las decisiones técnicas de la arquitectura de referencia del FNA y observar las especificaciones tecnológicas que usarán los equipos de desarrollo internas y externas, fábricas, y proveedores que implementan las herramientas, servicios, componentes y soluciones de software del Fondo. |
+| Arquitecto TI              | Profesional en Ingeniería de Sistemas o afines, o Electrónica y especialización o maestría en áreas afines con la Ingeniería de Sistemas. Postgrado en la modalidad de Especialización o Maestría en las áreas del conocimiento afines a: Ingeniería de Software o ingeniería de sistemas o arquitectura de sistemas de información o especialización en infraestructura de tecnología o Gerencia de Tecnología. | Mínimo de seis (6) años en ejercicio de su profesión. | Es responsable de vigilar las decisiones de diseño y montaje de la infraestructura de la arquitectura de referencia del FNA y observar las especificaciones técnicas que usarán los equipos de desarrollado, fábricas, proveedores, para implementar las herramientas, servicios, componentes y soluciones de software del Fondo                                      |
+| Arquitecto de Aplicaciones | Profesional en Ingeniería de Sistemas o afines, o Electrónica y especialización o maestría en áreas afines con la Ingeniería de Sistemas. Postgrado en la modalidad de Especialización o Maestría en las áreas del conocimiento afines a: Ingeniería de Software o ingeniería de sistemas o arquitectura de sistemas de información o especialización en construcción de software o Gerencia de Tecnología.      | Mínimo de seis (6) años en ejercicio de su profesión. | Es responsable de vigilar las decisiones técnicas de los componentes y aplicaciones constituyentes de la arquitectura de referencia del FNA y observar las especificaciones de reutilización, seguridad y construcción de los componentes que usarán los equipos de desarrollado, fábricas, proveedores, para implementar las herramientas, servicios, componentes y soluciones de software del Fondo                                      |
+| Arquitecto de Información  | Profesional en Ingeniería de Sistemas o afines, o Electrónica y especialización o maestría en áreas afines con la Ingeniería de Sistemas. Postgrado en la modalidad de Especialización o Maestría en las áreas del conocimiento afines a: Ingeniería de Software o ingeniería de sistemas o arquitectura de sistemas de información o especialización en uso y explotación de datos o Gerencia de Tecnología.    | Mínimo de seis (6) años en ejercicio de su profesión. | Es responsable de vigilar las decisiones de diseño de los conceptos y entidades de datos de la arquitectura de referencia del FNA y observar las especificaciones de estructuración y distribución de los productos de datos que usarán los equipos de desarrollado, fábricas, proveedores, para implementar las herramientas, servicios, componentes y soluciones de software del Fondo                                      |
 
 
 Estos recursos deben ser preferiblemente propios de la organización (no terceros) debido a la gestión de conocimiento del _activo más importante del gobierno SOA, la arquitectura de referencia y los vínculos de esta con los contextos de negocio y TI_.
@@ -723,7 +723,7 @@ Fuente: _Fondo Nacional del Ahorro_.
 | Palabras clave | SOA, Estructuras de datos, Arquitectura de inbformación, Entidades, Producto de datos, SOA                                         |
 | Autor          |                                                                                       |
 | Fuente         |                                                                                       |
-| Version        | **48b3d53** del 25 Apr 2023                                                    |
+| Version        | **a8db744** del 25 Apr 2023                                                    |
 | Vínculos       | [Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)                     |
 
 <br>
@@ -1460,7 +1460,7 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|48b3d53 del 25 Apr 2023|
+|Version|a8db744 del 25 Apr 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1575,7 +1575,7 @@ service-mesh_.
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|48b3d53 del 25 Apr 2023|
+|Version|a8db744 del 25 Apr 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2180,7 +2180,7 @@ La arquitectura SOA candidata del FNA sirve de base para la planeación de cambi
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **48b3d53** del 25 Apr 2023                    |
+| Version        | **a8db744** del 25 Apr 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2228,7 +2228,7 @@ height="7in"}
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **48b3d53** del 25 Apr 2023                    |
+| Version        | **a8db744** del 25 Apr 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2294,7 +2294,7 @@ posibilidad de escalar.
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **48b3d53** del 25 Apr 2023                    |
+| Version        | **a8db744** del 25 Apr 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2917,7 +2917,7 @@ desafíos:
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **48b3d53** del 25 Apr 2023                    |
+| Version        | **a8db744** del 25 Apr 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
