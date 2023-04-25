@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2023-04-25" />
   <meta name="citation_publication_date" content="2023-04-25" />
   <meta property="article:published_time" content="2023-04-25" />
-  <meta name="dc.modified" content="2023-04-25T23:22:29+00:00" />
-  <meta property="article:modified_time" content="2023-04-25T23:22:29+00:00" />
+  <meta name="dc.modified" content="2023-04-25T23:41:04+00:00" />
+  <meta property="article:modified_time" content="2023-04-25T23:41:04+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/5de6893a3f8dc4723d8f4807c81ba30c6277499e/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/5de6893a3f8dc4723d8f4807c81ba30c6277499e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/5de6893a3f8dc4723d8f4807c81ba30c6277499e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/48b3d538c24909ef5707613e586a9028f858276e/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/48b3d538c24909ef5707613e586a9028f858276e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/48b3d538c24909ef5707613e586a9028f858276e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdocs-f2/v/5de6893a3f8dc4723d8f4807c81ba30c6277499e/))
+([permalink](https://hwong23.github.io/fna-devdocs-f2/v/48b3d538c24909ef5707613e586a9028f858276e/))
 versión indicada a continuación, se encuentra en 
 ****
-[5de6893](https://github.com/hwong23/fna-devdocs-f2/tree/5de6893a3f8dc4723d8f4807c81ba30c6277499e)
+[48b3d53](https://github.com/hwong23/fna-devdocs-f2/tree/48b3d538c24909ef5707613e586a9028f858276e)
 de April 25, 2023.
 
 
@@ -161,7 +161,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa, Industria financiera |
 |Autor           |                                                       |
 |Fuente          |                                                       |
-|Version|5de6893 del 25 Apr 2023                                  |
+|Version|48b3d53 del 25 Apr 2023                                  |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -369,7 +369,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|**5de6893** del 25 Apr 2023|
+|Version|**48b3d53** del 25 Apr 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -427,7 +427,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**5de6893** del 25 Apr 2023|
+|Version|**48b3d53** del 25 Apr 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -486,7 +486,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|**5de6893** del 25 Apr 2023|
+|Version|**48b3d53** del 25 Apr 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -526,6 +526,207 @@ _Fuente: elaboración propia._
 _Fuente: www.opengroup.org/soa/source-book/togaf._
 
 
+
+|Tema            |Gobierno SOA: **Mejora de los indicadores de efectividad (madurez) SOA** |
+|----------------|---------------------------------------------------|
+|Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
+|Autor||
+|Fuente||
+|Version|**48b3d53** del 25 Apr 2023|
+|Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
+
+<br>
+
+## Indicadores de Efectividad del Gobierno SOA
+Más allá de los índices propuestos por el análisis de madurez SOA desarrollado en la Fase 1 de este diagnóstico, _es clave que el FNA mantenga el vínculo de sus activos tanto de infraestructura como los activos SOA (y de todos, aunque no hagan parte del alcance de este ejercicio) con el contexto de negocio de las vicepresidencias de Operaciones y de Crédito_. Esto es, el principal indicador del gobierno SOA es la existencia y la vigencia de los vínculos entre los contextos de negocio y la arquitectura de referencia SOA FNA, y su tecnología.
+
+Este solo indicador del gobierno SOA, el del vínculo de los contextos negocio-tecnología SOA, que es útil también para otras disciplinas de gestión TI, _identifica y justifica los costos de un cambio en relación al Valor de negocio que pueda traer_. Sirve de base para los procesos de obsolutamente todas las decisiones de cambio, mejora, inversión, recorte, y otras propias de la gestión de la tecnología SOA.
+Sirve además para medir la confiabilidad de los análisis que sobre los modelos se realicen. _Es por estas razones que para el Fondo este es el principal indicador de gobierno SOA a desarrollar_.
+
+De todos, el indicador de Vínculo Contexto Negocio-SOA es el más importante para el FNA. Para mantener el puntaje de este indicador alto debe recurrir a la actualización y mantenimiento del repositorio de arquitectura. En la medida en que este repositorio capture la mayor cantidad de información de los contextos referidos, el indicador aumentará, a la vez que el repositorio será un activo clave para todas las opeaciones de gestión de TI del FNA.
+
+![](images/vinculocontexto.png)
+
+[Imagen 1.]() Indicador principal del gobierno SOA: KPI de Vínculo Contexto Negocio-SOA. Identifica y justifica los cambios SOA en relación al Valor de negocio.
+
+_Fuente: elaboración propia._
+
+<br>
+
+
+## Indicadores Complementarios del Gobierno SOA
+Los siguientes indicadores han sido escogidos para atacar los problemas en la gestión de SOA encontrados en la Fase 1 del presente diagnóstico (ver [04b.Resumen Fase 1](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)). sirven de base de pirámide para el indicador principal. 
+ 
+1. Índice de alineación de la arquitectura de referencia SOA con las capacidades de negocio
+1. Índice de conformidad de los servicios SOA a los estándares de diseño orientados a servicio 
+1. Índice de reutilización y composición de los servicios SOA del portafolio FNA
+
+<br>
+
+Cada uno de estos indicadores debe ser soportados con fuentes de información existentes o por desarrollar, que aparecen en la imagen como _Objeto de información_.
+
+![](images/indices.png)
+
+[Imagen 1.]() Indicador principal del gobierno SOA: KPI de Vínculo Contexto Negocio-SOA. Identifica y justifica los cambios SOA en relación al Valor de negocio.
+
+_Fuente: elaboración propia._
+
+<br>
+
+Algunas fuentes u objetos de información sugeridas y ya existentes en el FNA son, por ejemplo, el número y tipo de requerimientos registrados en las herramienta de gestión, como Clear Case (IBM); los resultados de las evaluaciones de calidad de las implementaciones de los proveedores del Fondo; o el número de casos correctivos en un período contenidos en el Service Manager, entre otros.
+
+<br>
+
+## Indicadores de Eficiencia SOA
+Además de los indicadores del proceso de gobierno SOA enunciados arriba, el FNA debe ejercer el gobierno SOA sobre los siguientes indicadores de eficiencia de la arquitectura de referencia.
+
+### Del Análisis de Madurez SOA del FNA (Fase 1)
+La dimensión que tuvo puntajes meritorios fue la de Negocio que alcanzó el segundo percentil de eficacia: 37 / 100. Este índice sintetiza el hecho de que operativamente SOA responde a las exigencias de negocio del FNA, pero con esfuerzos altos que seguramente afectan el retorno de inversión SOA. 
+
+Según los resultados internos del diagnóstico, los problemas del alto esfuerzo en la eficacia de la dimensión de negocio es causado por las dificultades siguientes: 
+1. El bajo grado de independencia de proveedor: (ver imagen abajo) _38 puntos / 100 puntos_
+1. Muy baja flexbilidad y tiempos de entrega (time-to-market): _20 / 100 puntos_. 
+
+![](images/analisisSOA-1.png)
+
+[Imagen. ]() Resultados Según los resultados internos del diagnóstico. Dimensión de Negocio.
+
+_Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
+
+<br>
+
+
+
+| Tema           | Gobierno SOA: **Consideraciones para la puesta en marcha del gobierno SOA en el FNA** |
+|----------------|---------------------------------------------------------------------------------------|
+| Palabras clave | SOA, Inversión TI, Eficacia, KPI, Proceso SOA                                         |
+| Autor          |                                                                                       |
+| Fuente         |                                                                                       |
+| Version        | **48b3d53** del 25 Apr 2023                                                    |
+| Vínculos       | [Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)                     |
+
+<br>
+
+## Consideraciones para Implementación del Gobierno SOA en FNA
+
+
+### Marco de Trabajo para Implementar Gobierno SOA en FNA
+Antes de implementar lo que llamamos Gobierno SOA del FNA, es requisito contar con un marco de trabajo adaptado para el segmento de la empresa y que responda y gestione los cambios evolutivos de la arquitectura de referencia SOA instalada en el Fondo. Esta versión del marco de gobierno, que necesariamente es una versión inicial para el FNA dado el resultado del análisis de madurez de la Fase 1, procura únicamente cubrir de entrada la gestión de cambios de la arquitectura. Versiones posteriores de este modelo pueden y deberán abordar otras problemáticas señaladas por este diagnóstico o alguna de sus actualizaciones.
+
+![](images/modelo-gob.png)
+
+[Imagen 1.]() Actores del FNA necesarios para el Gobierno SOA.
+
+_Fuente: elaboración propia._
+
+<br>
+
+Un primer nivel de detalle del marco de gobierno introduce los actores y la interacción entre estos: ante un evento de cambio de la arquitectura SOA instanciada, sea por un requerimiento de arquitectura, o un ajuste del negocio (por ej., vicepresidencia de Crédito o de Operaciones), el arquitecto responsable debe realizar el proceso de gobierno SOA descrito más adelante. Debe también crear o actualizar el(los) artefactos del repositorio de arquitectura del FNA implicados en el impacto. Por último, hay que asegurar o elaborar los insumos mínimos para que el Comité de Arquitectura pueda desempeñar la evaluación de los modelos en cualquier momento.
+
+<br>
+
+### Equipo de Trabajo para el Gobierno SOA del FNA
+El equipo de trabajo requerido conforme el modelo de gobierno SOA presentado aquí se compone del capital humano en los roles de gestión de la tecnología y arquitectura en los ámbitos de diseño de servicios SOA y componentes de software, infraestructura tecnológica y redes, aplicaciones de solución y herramientas de software, y del especialista de las estructuras de datos e información del negocio. Estos recursos deben ser preferiblemente propios de la organización (no terceros) debido a la gestión de conocimiento del _activo más importante del gobierno SOA, la arquitectura de referencia y los vínculos de esta con los contextos de negocio y TI_.
+
+![](images/equipo-gob.png)
+
+[Imagen 2.]() Roles y Grupos de trabajo del gobierno SOA del FNA.
+
+_Fuente: elaboración propia._
+
+<br>
+
+### Perfiles del Equipo de Trabajo de Gobierno
+El personal propuesto arriba en equipo de trabajo necesario para la ejecución del gobierno SOA, que se materializa en la puesta en marcha de una oficina de arquitectura interna, compone un grupo interdisciplinario en el que recae la no menor responsabilidad del éxito del gobierno, y con ello, la consecusión de los objetivos que de la Vicepresidencia de Tecnología se espera. Por tanto, este equipo interdiscioplinario deberá cumplir con niveles altos de formación y experiencia tales que estén a la altura de esta exigencia.
+
+La formación y experiencia que desde este ejercicio de diagnóstico declaramos necesario para la oficina de arquitectura del FNA que garanticen la adecuada ejecución de las actividades propias de esta nueva oficina y del gobierno SOA del FNA es la siguiente.
+
+| Perfil                     | Formación                                                                                                                                                                                                                                                                                                                                                                                                             | Experiencia                                           | Responsabilidad                                                                                                                                                                                                                                                                                                        |
+|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Arquitecto SOA             | Profesional en Ingeniería de Sistemas o afines, o Electrónica y especialización o maestría en áreas afines con estasla Ingeniería de Sistemas. Postgrado en la modalidad de Especialización o Maestría en las áreas del conocimiento afines a: Ingeniería de Software o ingeniería de sistemas o arquitectura de sistemas de información o especialización en construcción de software o Gerencia de Tecnología.      | Mínimo de ocho (8) años en ejercicio de su profesión. | Es responsable de vigilar las decisiones técnicas de la arquitectura de referencia del FNA y observar las especificaciones tecnológicas que usarán los equipos de desarrollo internas y externas, fábricas, y proveedores que implementan las herramientas, servicios, componentes y soluciones de software del Fondo. |
+| Arquitecto TI              | Profesional en Ingeniería de Sistemas o afines, o Electrónica y especialización o maestría en áreas afines con estasla Ingeniería de Sistemas. Postgrado en la modalidad de Especialización o Maestría en las áreas del conocimiento afines a: Ingeniería de Software o ingeniería de sistemas o arquitectura de sistemas de información o especialización en infraestructura de tecnología o Gerencia de Tecnología. | Mínimo de seis (6) años en ejercicio de su profesión. | Es responsable de vigilar las decisiones de diseño y montaje de la infraestructura de la arquitectura de referencia del FNA y observar las especificaciones técnicas que usarán los equipos de desarrollado, fábricas, proveedores, para implementar las herramientas, servicios, componentes y soluciones de software del Fondo                                      |
+| Arquitecto de Aplicaciones | Profesional en Ingeniería de Sistemas o afines, o Electrónica y especialización o maestría en áreas afines con estasla Ingeniería de Sistemas. Postgrado en la modalidad de Especialización o Maestría en las áreas del conocimiento afines a: Ingeniería de Software o ingeniería de sistemas o arquitectura de sistemas de información o especialización en construcción de software o Gerencia de Tecnología.      | Mínimo de seis (6) años en ejercicio de su profesión. | Es responsable de vigilar las decisiones técnicas de los componentes y aplicaciones constituyentes de la arquitectura de referencia del FNA y observar las especificaciones de reutilización, seguridad y construcciónde de los componentes que usarán los equipos de desarrollado, fábricas, proveedores, para implementar las herramientas, servicios, componentes y soluciones de software del Fondo                                      |
+| Arquitecto de Información  | Profesional en Ingeniería de Sistemas o afines, o Electrónica y especialización o maestría en áreas afines con estasla Ingeniería de Sistemas. Postgrado en la modalidad de Especialización o Maestría en las áreas del conocimiento afines a: Ingeniería de Software o ingeniería de sistemas o arquitectura de sistemas de información o especialización en uso y explotación de datos o Gerencia de Tecnología.    | Mínimo de seis (6) años en ejercicio de su profesión. | Es responsable de vigilar las decisiones de diseño de los conceptos y entiddes de datos de la arquitectura de referencia del FNA y observar las especificaciones de estructuración y distribución de los productos de datos que usarán los equipos de desarrollado, fábricas, proveedores, para implementar las herramientas, servicios, componentes y soluciones de software del Fondo                                      |
+
+
+Estos recursos deben ser preferiblemente propios de la organización (no terceros) debido a la gestión de conocimiento del _activo más importante del gobierno SOA, la arquitectura de referencia y los vínculos de esta con los contextos de negocio y TI_.
+
+<br>
+
+### Proceso de Gobierno SOA para el FNA
+Por último, el proceso de gobierno SOA es la conjugación de las dos consideraciones anteriores aquí presentadas, el marco de trabajo (acciones y herramientas) y el equipo de trabajo, que traeidos al contexto del FNA son los recursos de capital humano y la manera cómo deben operar. Este proceso adaptado al FNA busca alcanzar los objetivos SOA determinados por este diagnóstico. (ver imagen abajo)
+
+![](images/proceso-gob.png)
+
+[Imagen 3.]() Actividades y relaciones del proceso principal de gobierno SOA para el FNA. Relación con capacidades y objetivos SOA necesarios para el FNA.
+
+_Fuente: elaboración propia._
+
+<br>
+
+El proceso de gobierno SOA está en línea y apoya a las capacidades SOA que el FNA debe implementar. Al alinear las capacidades SOA con este proceso aseguramos que se persigan los objetivos SOA establecidos por esta consultoría.
+
+Por otro lado, esta implementaión de Gobierno SOA debe ser un proceso más del Fondo, no es un proyecto. En este sentido, los pasos de este proceso son un bucle activo de mejora continua, y debe hacer parte del mapa de calidad del Fondo (como uno más de los procesos operativos existentes).
+
+<br>
+
+### 1. Gestión del cambio e impacto (incepción)
+Es la definición del alcance del reajuste en la arquitectura, distinto a un cambio en una aplicación, sistema de información, datos o plataforma del FNA. el cambio a gestionar debe ser analizado desde la perspectiva de la arquitectura actual o candidata. En este sentido, el cambio es descrito en términos del qué, dónde, quién y cómo cambiar la arquitectura SOA del Fondo.
+
+Una entrada razonable de este paso es la discución mediante vistas de la potencialidad del cambio (dificultades y beneficios) y las preocupaciones de los interesados, gerentes y dueños de procesos / productos. Es ncesario a veces complementar o contrastar el cambio con otros requerimientos.
+
+El resultado o salida de este paso es el bosquejo de la adaptación, que son las tareas mínimas y más impactantes para la implementación del cambio / iteración en la arquitectura.
+
+Como herramienta para la realización de este paso del proceso presentamos un ficha de descripción del evento de cambio.
+
+<br>
+
+| Parte de la arquitectura a cambiar | Contexto del cambio…                               |
+|------------------------------------|----------------------------------------------------|
+| Justificación                      |                                                    |
+| Implicaciones                      | Restricciones: utilización de estándares abiertos… |
+|                                    | Condiciones: doble revisión…                       |
+
+[Tabla.]() Ficha descriptiva inicial para el FNA. La ficha presenta e inicia el paso de descripción del cambio en la arquitectura del FNA.
+
+_Fuente: elaboración propia._
+
+
+## Anexos 
+
+## 1. Procedimiento del Área TI del FNA
+Anexo en línea. 
+[Procedimientos TI del Fondo](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos/181-2020.%20E-SERV.%20Fase%202.%20docx/Procedimientos%20TI?csf=1&web=1&e=JtH2vm).
+
+Fuente: _Fondo Nacional del Ahorro_.
+
+<br>
+
+## 2. Niveles de Inversión TI del FNA
+
+| Rubro                                            | Nivel / Procentaje | Destino                                                                                                                                                                                                                                                                                              |
+|--------------------------------------------------|:------------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Equipos / Infraestructura técnica/arrendamientos | 30%                | Hardware IBM, hosting/nube sap, equipos ofimaticos, impresoras, facilites, red wan, red lan, cintas medios magneticos, grabacion de llamadas, kioskos, planta electricas, bolsa monitores, canales y buckup, inversiones (balanceadores, swithes)                                                    |
+| Servicios externos                               | 26%                | Fábricas,  boton de pagos, biometria, mesa de servicios, certificados digitales, admon bda, admon soa, admon itom, 2FA, Cape, Soc, platafomas a las ventas, custodia de medios, validacion de identidad, factura electronica                                                                         |
+| Productos                                        | 23%                | CRM, Adminfo, Cobis, SAP -ERP, Workmanger, RPA, Credito constuctor                                                                                                                                                                                                                                   |
+| Mantenimiento Licencias/suscripcion              | 19%                | Software IBM, Oracle, Cisco, itom, elearning, kactus, isolucion, microsoft, motores bases de datos, megahopex, adobe cloud, Vmware, red hat, sistema de turnos, bizagi, DLP, logica, ciberseguridad, herramientas ciberdefensa, qualitty, pam, antimalware, goanywere, Microfocus fortify - idm, dam |
+| Soporte/admon de softw.                          | 2%                 | DLP, herramientas ciberdefensa, qualitty, pam, antimalware, goanywere, Microofus fortify - idms, dam, elearning, kactus, isolucion, servicios cartelera digital                                                                                                                                      |
+
+Fuente: _Fondo Nacional del Ahorro_.
+
+
+***
+
+
+| Tema           | Gobierno de Datos: **Consideraciones para la puesta en marcha del gobierno de Datos del FNA** |
+|----------------|---------------------------------------------------------------------------------------|
+| Palabras clave | SOA, Estructuras de datos, Arquitectura de inbformación, Entidades, Producto de datos, SOA                                         |
+| Autor          |                                                                                       |
+| Fuente         |                                                                                       |
+| Version        | **48b3d53** del 25 Apr 2023                                                    |
+| Vínculos       | [Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)                     |
+
+<br>
 
 # Contenido
 
@@ -1225,197 +1426,6 @@ Ilustración 8: Roles de gobierno de datos
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-|Tema            |Gobierno SOA: **Mejora de los indicadores de efectividad (madurez) SOA** |
-|----------------|---------------------------------------------------|
-|Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
-|Autor||
-|Fuente||
-|Version|**5de6893** del 25 Apr 2023|
-|Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
-
-<br>
-
-## Indicadores de Efectividad del Gobierno SOA
-Más allá de los índices propuestos por el análisis de madurez SOA desarrollado en la Fase 1 de este diagnóstico, _es clave que el FNA mantenga el vínculo de sus activos tanto de infraestructura como los activos SOA (y de todos, aunque no hagan parte del alcance de este ejercicio) con el contexto de negocio de las vicepresidencias de Operaciones y de Crédito_. Esto es, el principal indicador del gobierno SOA es la existencia y la vigencia de los vínculos entre los contextos de negocio y la arquitectura de referencia SOA FNA, y su tecnología.
-
-Este solo indicador del gobierno SOA, el del vínculo de los contextos negocio-tecnología SOA, que es útil también para otras disciplinas de gestión TI, _identifica y justifica los costos de un cambio en relación al Valor de negocio que pueda traer_. Sirve de base para los procesos de obsolutamente todas las decisiones de cambio, mejora, inversión, recorte, y otras propias de la gestión de la tecnología SOA.
-Sirve además para medir la confiabilidad de los análisis que sobre los modelos se realicen. _Es por estas razones que para el Fondo este es el principal indicador de gobierno SOA a desarrollar_.
-
-De todos, el indicador de Vínculo Contexto Negocio-SOA es el más importante para el FNA. Para mantener el puntaje de este indicador alto debe recurrir a la actualización y mantenimiento del repositorio de arquitectura. En la medida en que este repositorio capture la mayor cantidad de información de los contextos referidos, el indicador aumentará, a la vez que el repositorio será un activo clave para todas las opeaciones de gestión de TI del FNA.
-
-![](images/vinculocontexto.png)
-
-[Imagen 1.]() Indicador principal del gobierno SOA: KPI de Vínculo Contexto Negocio-SOA. Identifica y justifica los cambios SOA en relación al Valor de negocio.
-
-_Fuente: elaboración propia._
-
-<br>
-
-
-## Indicadores Complementarios del Gobierno SOA
-Los siguientes indicadores han sido escogidos para atacar los problemas en la gestión de SOA encontrados en la Fase 1 del presente diagnóstico (ver [04b.Resumen Fase 1](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)). sirven de base de pirámide para el indicador principal. 
- 
-1. Índice de alineación de la arquitectura de referencia SOA con las capacidades de negocio
-1. Índice de conformidad de los servicios SOA a los estándares de diseño orientados a servicio 
-1. Índice de reutilización y composición de los servicios SOA del portafolio FNA
-
-<br>
-
-Cada uno de estos indicadores debe ser soportados con fuentes de información existentes o por desarrollar, que aparecen en la imagen como _Objeto de información_.
-
-![](images/indices.png)
-
-[Imagen 1.]() Indicador principal del gobierno SOA: KPI de Vínculo Contexto Negocio-SOA. Identifica y justifica los cambios SOA en relación al Valor de negocio.
-
-_Fuente: elaboración propia._
-
-<br>
-
-Algunas fuentes u objetos de información sugeridas y ya existentes en el FNA son, por ejemplo, el número y tipo de requerimientos registrados en las herramienta de gestión, como Clear Case (IBM); los resultados de las evaluaciones de calidad de las implementaciones de los proveedores del Fondo; o el número de casos correctivos en un período contenidos en el Service Manager, entre otros.
-
-<br>
-
-## Indicadores de Eficiencia SOA
-Además de los indicadores del proceso de gobierno SOA enunciados arriba, el FNA debe ejercer el gobierno SOA sobre los siguientes indicadores de eficiencia de la arquitectura de referencia.
-
-### Del Análisis de Madurez SOA del FNA (Fase 1)
-La dimensión que tuvo puntajes meritorios fue la de Negocio que alcanzó el segundo percentil de eficacia: 37 / 100. Este índice sintetiza el hecho de que operativamente SOA responde a las exigencias de negocio del FNA, pero con esfuerzos altos que seguramente afectan el retorno de inversión SOA. 
-
-Según los resultados internos del diagnóstico, los problemas del alto esfuerzo en la eficacia de la dimensión de negocio es causado por las dificultades siguientes: 
-1. El bajo grado de independencia de proveedor: (ver imagen abajo) _38 puntos / 100 puntos_
-1. Muy baja flexbilidad y tiempos de entrega (time-to-market): _20 / 100 puntos_. 
-
-![](images/analisisSOA-1.png)
-
-[Imagen. ]() Resultados Según los resultados internos del diagnóstico. Dimensión de Negocio.
-
-_Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
-
-<br>
-
-
-
-| Tema           | Gobierno SOA: **Consideraciones para la puesta en marcha del gobierno SOA en el FNA** |
-|----------------|---------------------------------------------------------------------------------------|
-| Palabras clave | SOA, Inversión TI, Eficacia, KPI, Proceso SOA                                         |
-| Autor          |                                                                                       |
-| Fuente         |                                                                                       |
-| Version        | **5de6893** del 25 Apr 2023                                                    |
-| Vínculos       | [Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)                     |
-
-<br>
-
-## Consideraciones para Implementación del Gobierno SOA en FNA
-
-
-### Marco de Trabajo para Implementar Gobierno SOA en FNA
-Antes de implementar lo que llamamos Gobierno SOA del FNA, es requisito contar con un marco de trabajo adaptado para el segmento de la empresa y que responda y gestione los cambios evolutivos de la arquitectura de referencia SOA instalada en el Fondo. Esta versión del marco de gobierno, que necesariamente es una versión inicial para el FNA dado el resultado del análisis de madurez de la Fase 1, procura únicamente cubrir de entrada la gestión de cambios de la arquitectura. Versiones posteriores de este modelo pueden y deberán abordar otras problemáticas señaladas por este diagnóstico o alguna de sus actualizaciones.
-
-![](images/modelo-gob.png)
-
-[Imagen 1.]() Actores del FNA necesarios para el Gobierno SOA.
-
-_Fuente: elaboración propia._
-
-<br>
-
-Un primer nivel de detalle del marco de gobierno introduce los actores y la interacción entre estos: ante un evento de cambio de la arquitectura SOA instanciada, sea por un requerimiento de arquitectura, o un ajuste del negocio (por ej., vicepresidencia de Crédito o de Operaciones), el arquitecto responsable debe realizar el proceso de gobierno SOA descrito más adelante. Debe también crear o actualizar el(los) artefactos del repositorio de arquitectura del FNA implicados en el impacto. Por último, hay que asegurar o elaborar los insumos mínimos para que el Comité de Arquitectura pueda desempeñar la evaluación de los modelos en cualquier momento.
-
-<br>
-
-### Equipo de Trabajo para el Gobierno SOA del FNA
-El equipo de trabajo requerido conforme el modelo de gobierno SOA presentado aquí se compone del capital humano en los roles de gestión de la tecnología y arquitectura en los ámbitos de diseño de servicios SOA y componentes de software, infraestructura tecnológica y redes, aplicaciones de solución y herramientas de software, y del especialista de las estructuras de datos e información del negocio. Estos recursos deben ser preferiblemente propios de la organización (no terceros) debido a la gestión de conocimiento del _activo más importante del gobierno SOA, la arquitectura de referencia y los vínculos de esta con los contextos de negocio y TI_.
-
-![](images/equipo-gob.png)
-
-[Imagen 2.]() Roles y Grupos de trabajo del gobierno SOA del FNA.
-
-_Fuente: elaboración propia._
-
-<br>
-
-### Perfiles del Equipo de Trabajo de Gobierno
-El personal propuesto arriba en equipo de trabajo necesario para la ejecución del gobierno SOA, que se materializa en la puesta en marcha de una oficina de arquitectura interna, compone un grupo interdisciplinario en el que recae la no menor responsabilidad del éxito del gobierno, y con ello, la consecusión de los objetivos que de la Vicepresidencia de Tecnología se espera. Por tanto, este equipo interdiscioplinario deberá cumplir con niveles altos de formación y experiencia tales que estén a la altura de esta exigencia.
-
-La formación y experiencia que desde este ejercicio de diagnóstico declaramos necesario para la oficina de arquitectura del FNA que garanticen la adecuada ejecución de las actividades propias de esta nueva oficina y del gobierno SOA del FNA es la siguiente.
-
-| Perfil                     | Formación                                                                                                                                                                                                                                                                                                                                                                                                             | Experiencia                                           | Responsabilidad                                                                                                                                                                                                                                                                                                        |
-|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Arquitecto SOA             | Profesional en Ingeniería de Sistemas o afines, o Electrónica y especialización o maestría en áreas afines con estasla Ingeniería de Sistemas. Postgrado en la modalidad de Especialización o Maestría en las áreas del conocimiento afines a: Ingeniería de Software o ingeniería de sistemas o arquitectura de sistemas de información o especialización en construcción de software o Gerencia de Tecnología.      | Mínimo de ocho (8) años en ejercicio de su profesión. | Es responsable de vigilar las decisiones técnicas de la arquitectura de referencia del FNA y observar las especificaciones tecnológicas que usarán los equipos de desarrollo internas y externas, fábricas, y proveedores que implementan las herramientas, servicios, componentes y soluciones de software del Fondo. |
-| Arquitecto TI              | Profesional en Ingeniería de Sistemas o afines, o Electrónica y especialización o maestría en áreas afines con estasla Ingeniería de Sistemas. Postgrado en la modalidad de Especialización o Maestría en las áreas del conocimiento afines a: Ingeniería de Software o ingeniería de sistemas o arquitectura de sistemas de información o especialización en infraestructura de tecnología o Gerencia de Tecnología. | Mínimo de seis (6) años en ejercicio de su profesión. | Es responsable de vigilar las decisiones de diseño y montaje de la infraestructura de la arquitectura de referencia del FNA y observar las especificaciones técnicas que usarán los equipos de desarrollado, fábricas, proveedores, para implementar las herramientas, servicios, componentes y soluciones de software del Fondo                                      |
-| Arquitecto de Aplicaciones | Profesional en Ingeniería de Sistemas o afines, o Electrónica y especialización o maestría en áreas afines con estasla Ingeniería de Sistemas. Postgrado en la modalidad de Especialización o Maestría en las áreas del conocimiento afines a: Ingeniería de Software o ingeniería de sistemas o arquitectura de sistemas de información o especialización en construcción de software o Gerencia de Tecnología.      | Mínimo de seis (6) años en ejercicio de su profesión. | Es responsable de vigilar las decisiones técnicas de los componentes y aplicaciones constituyentes de la arquitectura de referencia del FNA y observar las especificaciones de reutilización, seguridad y construcciónde de los componentes que usarán los equipos de desarrollado, fábricas, proveedores, para implementar las herramientas, servicios, componentes y soluciones de software del Fondo                                      |
-| Arquitecto de Información  | Profesional en Ingeniería de Sistemas o afines, o Electrónica y especialización o maestría en áreas afines con estasla Ingeniería de Sistemas. Postgrado en la modalidad de Especialización o Maestría en las áreas del conocimiento afines a: Ingeniería de Software o ingeniería de sistemas o arquitectura de sistemas de información o especialización en uso y explotación de datos o Gerencia de Tecnología.    | Mínimo de seis (6) años en ejercicio de su profesión. | Es responsable de vigilar las decisiones de diseño de los conceptos y entiddes de datos de la arquitectura de referencia del FNA y observar las especificaciones de estructuración y distribución de los productos de datos que usarán los equipos de desarrollado, fábricas, proveedores, para implementar las herramientas, servicios, componentes y soluciones de software del Fondo                                      |
-
-
-Estos recursos deben ser preferiblemente propios de la organización (no terceros) debido a la gestión de conocimiento del _activo más importante del gobierno SOA, la arquitectura de referencia y los vínculos de esta con los contextos de negocio y TI_.
-
-<br>
-
-### Proceso de Gobierno SOA para el FNA
-Por último, el proceso de gobierno SOA es la conjugación de las dos consideraciones anteriores aquí presentadas, el marco de trabajo (acciones y herramientas) y el equipo de trabajo, que traeidos al contexto del FNA son los recursos de capital humano y la manera cómo deben operar. Este proceso adaptado al FNA busca alcanzar los objetivos SOA determinados por este diagnóstico. (ver imagen abajo)
-
-![](images/proceso-gob.png)
-
-[Imagen 3.]() Actividades y relaciones del proceso principal de gobierno SOA para el FNA. Relación con capacidades y objetivos SOA necesarios para el FNA.
-
-_Fuente: elaboración propia._
-
-<br>
-
-El proceso de gobierno SOA está en línea y apoya a las capacidades SOA que el FNA debe implementar. Al alinear las capacidades SOA con este proceso aseguramos que se persigan los objetivos SOA establecidos por esta consultoría.
-
-Por otro lado, esta implementaión de Gobierno SOA debe ser un proceso más del Fondo, no es un proyecto. En este sentido, los pasos de este proceso son un bucle activo de mejora continua, y debe hacer parte del mapa de calidad del Fondo (como uno más de los procesos operativos existentes).
-
-<br>
-
-### 1. Gestión del cambio e impacto (incepción)
-Es la definición del alcance del reajuste en la arquitectura, distinto a un cambio en una aplicación, sistema de información, datos o plataforma del FNA. el cambio a gestionar debe ser analizado desde la perspectiva de la arquitectura actual o candidata. En este sentido, el cambio es descrito en términos del qué, dónde, quién y cómo cambiar la arquitectura SOA del Fondo.
-
-Una entrada razonable de este paso es la discución mediante vistas de la potencialidad del cambio (dificultades y beneficios) y las preocupaciones de los interesados, gerentes y dueños de procesos / productos. Es ncesario a veces complementar o contrastar el cambio con otros requerimientos.
-
-El resultado o salida de este paso es el bosquejo de la adaptación, que son las tareas mínimas y más impactantes para la implementación del cambio / iteración en la arquitectura.
-
-Como herramienta para la realización de este paso del proceso presentamos un ficha de descripción del evento de cambio.
-
-<br>
-
-| Parte de la arquitectura a cambiar | Contexto del cambio…                               |
-|------------------------------------|----------------------------------------------------|
-| Justificación                      |                                                    |
-| Implicaciones                      | Restricciones: utilización de estándares abiertos… |
-|                                    | Condiciones: doble revisión…                       |
-
-[Tabla.]() Ficha descriptiva inicial para el FNA. La ficha presenta e inicia el paso de descripción del cambio en la arquitectura del FNA.
-
-_Fuente: elaboración propia._
-
-
-## Anexos 
-
-## 1. Procedimiento del Área TI del FNA
-Anexo en línea. 
-[Procedimientos TI del Fondo](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos/181-2020.%20E-SERV.%20Fase%202.%20docx/Procedimientos%20TI?csf=1&web=1&e=JtH2vm).
-
-Fuente: _Fondo Nacional del Ahorro_.
-
-<br>
-
-## 2. Niveles de Inversión TI del FNA
-
-| Rubro                                            | Nivel / Procentaje | Destino                                                                                                                                                                                                                                                                                              |
-|--------------------------------------------------|:------------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Equipos / Infraestructura técnica/arrendamientos | 30%                | Hardware IBM, hosting/nube sap, equipos ofimaticos, impresoras, facilites, red wan, red lan, cintas medios magneticos, grabacion de llamadas, kioskos, planta electricas, bolsa monitores, canales y buckup, inversiones (balanceadores, swithes)                                                    |
-| Servicios externos                               | 26%                | Fábricas,  boton de pagos, biometria, mesa de servicios, certificados digitales, admon bda, admon soa, admon itom, 2FA, Cape, Soc, platafomas a las ventas, custodia de medios, validacion de identidad, factura electronica                                                                         |
-| Productos                                        | 23%                | CRM, Adminfo, Cobis, SAP -ERP, Workmanger, RPA, Credito constuctor                                                                                                                                                                                                                                   |
-| Mantenimiento Licencias/suscripcion              | 19%                | Software IBM, Oracle, Cisco, itom, elearning, kactus, isolucion, microsoft, motores bases de datos, megahopex, adobe cloud, Vmware, red hat, sistema de turnos, bizagi, DLP, logica, ciberseguridad, herramientas ciberdefensa, qualitty, pam, antimalware, goanywere, Microfocus fortify - idm, dam |
-| Soporte/admon de softw.                          | 2%                 | DLP, herramientas ciberdefensa, qualitty, pam, antimalware, goanywere, Microofus fortify - idms, dam, elearning, kactus, isolucion, servicios cartelera digital                                                                                                                                      |
-
-Fuente: _Fondo Nacional del Ahorro_.
-
-
-***
-
-
 # Fase 2: SOA Objetivo FNA
 # Contenido de los Productos Contractuales, 181-2020
 
@@ -1450,7 +1460,7 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|5de6893 del 25 Apr 2023|
+|Version|48b3d53 del 25 Apr 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1565,7 +1575,7 @@ service-mesh_.
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|5de6893 del 25 Apr 2023|
+|Version|48b3d53 del 25 Apr 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2170,7 +2180,7 @@ La arquitectura SOA candidata del FNA sirve de base para la planeación de cambi
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **5de6893** del 25 Apr 2023                    |
+| Version        | **48b3d53** del 25 Apr 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2218,7 +2228,7 @@ height="7in"}
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **5de6893** del 25 Apr 2023                    |
+| Version        | **48b3d53** del 25 Apr 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2284,7 +2294,7 @@ posibilidad de escalar.
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **5de6893** del 25 Apr 2023                    |
+| Version        | **48b3d53** del 25 Apr 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2907,7 +2917,7 @@ desafíos:
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **5de6893** del 25 Apr 2023                    |
+| Version        | **48b3d53** del 25 Apr 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
