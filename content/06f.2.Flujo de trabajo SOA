@@ -8,3 +8,18 @@
 
 <br>
 
+Un flujo básico de trabajo para la oficina de arquitectura toma como evento inicial la petición de cambiar o la necesidad de análizar un cambio. Los demás pasos se resumen a continuación.
+
+1. Recibe el cambio​
+1. Inicia el proceso ADM - fase de preliminar: alistamiento y aprobación​
+1. Inicia el modelado​
+1. Continúa el proceso ADM - solicita implementación / gobierno
+
+La siguiente imagen ilustra los pasos descritos.
+
+![](images/flujoarqADM.png)
+
+[Imagen 3.]() Actividades y relaciones de los estados de un flujo de trabajo de la oficina de arquitectura con arreglo al proceso ADM de TOGAF. Flujo recomendado para la oficina de arquitectura del FNA.
+
+_Fuente: elaboración propia._
+
