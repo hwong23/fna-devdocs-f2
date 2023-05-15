@@ -23,3 +23,26 @@ La siguiente imagen ilustra los pasos descritos.
 
 _Fuente: elaboración propia._
 
+Una variante del flujo de trabajo arquitectura ADM, y más sgnificativa para el FNA, incorpora los tipos de análisis que dentro del flujo se llevan a cabo.
+
+1. Arq1 recibe el cambio
+1. Inicia el proceso ADM - fase de preliminar: alistamiento y probación
+1. Inicia el modelado
+    1. Creación de contenidos
+    1. Diseño
+        1. Inicia diseño conceptual (nivel 100): appl, datos, TI, servicios, inversión
+        1. Bloques de construcción abstractos
+    1. Solución
+        1. Bloques de construcción de solución
+        1. Solicita diseño detallado (nivel 200, 300, 400 o 500): appl, datos, técnica, servicios
+    1. Inicia análisis
+        1. Impacto
+        1. Costo / beneficio
+        1. Plan de cambios
+        1. Estimación
+        1. Complejidad
+        1. Estructural
+        1. Otros
+1. Solicita al Arq solución el inicio del proceso ADM - fases de implementación / gobierno
+
+<br>
