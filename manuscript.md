@@ -5,7 +5,7 @@ keywords:
 - madurez
 - gobierno
 lang: en-US
-date-meta: '2023-06-15'
+date-meta: '2023-07-24'
 author-meta:
 - Harry Wong, ing.
 - Eddie Hernandez, ing.
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="Diagnóstico SOA Actual FNA" />
   <meta property="og:title" content="Diagnóstico SOA Actual FNA" />
   <meta property="twitter:title" content="Diagnóstico SOA Actual FNA" />
-  <meta name="dc.date" content="2023-06-15" />
-  <meta name="citation_publication_date" content="2023-06-15" />
-  <meta property="article:published_time" content="2023-06-15" />
-  <meta name="dc.modified" content="2023-06-15T19:33:37+00:00" />
-  <meta property="article:modified_time" content="2023-06-15T19:33:37+00:00" />
+  <meta name="dc.date" content="2023-07-24" />
+  <meta name="citation_publication_date" content="2023-07-24" />
+  <meta property="article:published_time" content="2023-07-24" />
+  <meta name="dc.modified" content="2023-07-24T10:00:25+00:00" />
+  <meta property="article:modified_time" content="2023-07-24T10:00:25+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -47,9 +47,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-devdocs-f2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-devdocs-f2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/fcb2f561a170b10b0d005df6adf1b9d8bbe9c57e/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/fcb2f561a170b10b0d005df6adf1b9d8bbe9c57e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/fcb2f561a170b10b0d005df6adf1b9d8bbe9c57e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-devdocs-f2/v/befe15b88f661ba068bd366888e5440c17406b0e/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/befe15b88f661ba068bd366888e5440c17406b0e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-devdocs-f2/v/befe15b88f661ba068bd366888e5440c17406b0e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,11 +69,11 @@ manubot-clear-requests-cache: false
 
 
 Documentación del proyecto 181-2020, E-Service, 
-([permalink](https://hwong23.github.io/fna-devdocs-f2/v/fcb2f561a170b10b0d005df6adf1b9d8bbe9c57e/))
+([permalink](https://hwong23.github.io/fna-devdocs-f2/v/befe15b88f661ba068bd366888e5440c17406b0e/))
 versión indicada a continuación, se encuentra en 
 ****
-[fcb2f56](https://github.com/hwong23/fna-devdocs-f2/tree/fcb2f561a170b10b0d005df6adf1b9d8bbe9c57e)
-de June 15, 2023.
+[befe15b](https://github.com/hwong23/fna-devdocs-f2/tree/befe15b88f661ba068bd366888e5440c17406b0e)
+de July 24, 2023.
 
 
 
@@ -136,18 +136,17 @@ Describir y comparar con el Fondo la manera cómo las empresas del segmento y de
 La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a sus procesos y productos. A la vez, esta información de guía puede ser traducida en futuras iniciativas pertenecientes a la hoja de ruta de mejora, tanto del gobierno como de los procesos SOA del Fondo.
 
 ## Contenidos
-1. Arquitectura SOA
-1. Portafolio de servicios
-1. Gobierno SOA
-1. Versionamiento de servicios
-1. Monitoreo y operación SOA
-1. Mantenimiento y evolución de servicios
-1. Nuevas tecnologías
+1. Comparativa arquitectura SOA
+1. Comparativa portafolio de servicios
+1. Comparativa gobierno SOA
+1. Comparativa versionamiento de servicios
+1. Comparativa monitoreo y operación SOA
+1. Comparativa mantenimiento y evolución de servicios
+1. Comparativa nuevas tecnologías
 
 <br>
 
 ## Criterios de Aceptación
-
 * Lista de oportunidades e iniciativas ralizables por el FNA
 * Mejoras visibles para las capacidades de la arquitectura SOA del Fondo
 
@@ -159,7 +158,7 @@ La comparativa SOA de la industria proveerá al Fondo de hallazgos aplicables a 
 |Palabras clave|SOA, Situación actual, Comparativa, Industria financiera |
 |Autor           |                                                       |
 |Fuente          |                                                       |
-|Version|fcb2f56 del 15 Jun 2023                                  |
+|Version|befe15b del 24 Jul 2023                                  |
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -367,7 +366,7 @@ El cierre de brechas de alineación negocio FNA-SOA (Ver PR9. Portafolio de inci
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|**fcb2f56** del 15 Jun 2023|
+|Version|**befe15b** del 24 Jul 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -425,7 +424,7 @@ _Fuente: elaboración propia._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**fcb2f56** del 15 Jun 2023|
+|Version|**befe15b** del 24 Jul 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -484,7 +483,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Situación actual, Capacidades de negocio|
 |Autor||
 |Fuente||
-|Version|**fcb2f56** del 15 Jun 2023|
+|Version|**befe15b** del 24 Jul 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -530,7 +529,7 @@ _Fuente: www.opengroup.org/soa/source-book/togaf._
 |Palabras clave|SOA, Inversión TI, Eficacia, KPI, Proceso SOA|
 |Autor||
 |Fuente||
-|Version|**fcb2f56** del 15 Jun 2023|
+|Version|**befe15b** del 24 Jul 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -600,7 +599,7 @@ _Fuente: herramienta de diagnóstico de madurez SOA. Elaboración propia_.
 | Palabras clave | SOA, Inversión TI, Eficacia, KPI, Proceso SOA                                         |
 | Autor          |                                                                                       |
 | Fuente         |                                                                                       |
-| Version        | **fcb2f56** del 15 Jun 2023                                                    |
+| Version        | **befe15b** del 24 Jul 2023                                                    |
 | Vínculos       | [Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)                     |
 
 <br>
@@ -696,7 +695,7 @@ _Fuente: elaboración propia._
 | Palabras clave | SOA, Flujo de trabajo, Eficacia, KPI, Proceso SOA                                         |
 | Autor          |                                                                                       |
 | Fuente         |                                                                                       |
-| Version        | **fcb2f56** del 15 Jun 2023                                                    |
+| Version        | **befe15b** del 24 Jul 2023                                                    |
 | Vínculos       | [Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)                     |
 
 <br>
@@ -772,7 +771,7 @@ Fuente: _Fondo Nacional del Ahorro_.
 | Palabras clave | SOA, Estructuras de datos, Arquitectura de inbformación, Entidades, Producto de datos, SOA                                         |
 | Autor          |                                                                                       |
 | Fuente         |                                                                                       |
-| Version        | **fcb2f56** del 15 Jun 2023                                                    |
+| Version        | **befe15b** del 24 Jul 2023                                                    |
 | Vínculos       | [Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)                     |
 
 <br>
@@ -1509,7 +1508,7 @@ Identificar los avances en el desarrollo SOA que impulsen a las iniciativas y pr
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|fcb2f56 del 15 Jun 2023|
+|Version|befe15b del 24 Jul 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -1624,7 +1623,7 @@ service-mesh_.
 |Palabras clave|SOA, Tecnologías, Vigilancia, Avances|
 |Autor||
 |Fuente||
-|Version|fcb2f56 del 15 Jun 2023|
+|Version|befe15b del 24 Jul 2023|
 |Vínculos|[N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2229,7 +2228,7 @@ La arquitectura SOA candidata del FNA sirve de base para la planeación de cambi
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **fcb2f56** del 15 Jun 2023                    |
+| Version        | **befe15b** del 24 Jul 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2277,7 +2276,7 @@ height="7in"}
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **fcb2f56** del 15 Jun 2023                    |
+| Version        | **befe15b** del 24 Jul 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2343,7 +2342,7 @@ posibilidad de escalar.
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **fcb2f56** del 15 Jun 2023                    |
+| Version        | **befe15b** del 24 Jul 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -2966,7 +2965,7 @@ desafíos:
 | Palabras clave | SOA, Tecnologías, Arquitectura de referencia, Candidata, Hoja de ruta |
 | Autor          |                                                   |
 | Fuente         |                                                   |
-| Version        | **fcb2f56** del 15 Jun 2023                    |
+| Version        | **befe15b** del 24 Jul 2023                    |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
