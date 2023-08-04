@@ -3088,6 +3088,163 @@ content/06f..1.Consideraciones para la puesta en marcha.md:92:paso
 content/06f..1.Consideraciones para la puesta en marcha.md:92:presenta
 content/06f..1.Consideraciones para la puesta en marcha.md:94:elaboración
 content/06f..1.Consideraciones para la puesta en marcha.md:94:propia
+content/06f.2.Flujo de trabajo SOA.md:1:Consideraciones
+content/06f.2.Flujo de trabajo SOA.md:1:el
+content/06f.2.Flujo de trabajo SOA.md:1:FNA
+content/06f.2.Flujo de trabajo SOA.md:1:gobierno
+content/06f.2.Flujo de trabajo SOA.md:1:Gobierno
+content/06f.2.Flujo de trabajo SOA.md:1:marcha
+content/06f.2.Flujo de trabajo SOA.md:1:puesta
+content/06f.2.Flujo de trabajo SOA.md:1:SOA
+content/06f.2.Flujo de trabajo SOA.md:1:SOA
+content/06f.2.Flujo de trabajo SOA.md:1:Tema
+content/06f.2.Flujo de trabajo SOA.md:3:clave
+content/06f.2.Flujo de trabajo SOA.md:3:Eficacia
+content/06f.2.Flujo de trabajo SOA.md:3:Flujo
+content/06f.2.Flujo de trabajo SOA.md:3:KPI
+content/06f.2.Flujo de trabajo SOA.md:3:Palabras
+content/06f.2.Flujo de trabajo SOA.md:3:Proceso
+content/06f.2.Flujo de trabajo SOA.md:3:SOA
+content/06f.2.Flujo de trabajo SOA.md:3:SOA
+content/06f.2.Flujo de trabajo SOA.md:3:trabajo
+content/06f.2.Flujo de trabajo SOA.md:4:Autor
+content/06f.2.Flujo de trabajo SOA.md:5:Fuente
+content/06f.2.Flujo de trabajo SOA.md:7:Fase
+content/06f.2.Flujo de trabajo SOA.md:7:Gobierno
+content/06f.2.Flujo de trabajo SOA.md:7:SOA
+content/06f.2.Flujo de trabajo SOA.md:7:Vínculos
+content/06f.2.Flujo de trabajo SOA.md:11:analizar
+content/06f.2.Flujo de trabajo SOA.md:11:arquitectura
+content/06f.2.Flujo de trabajo SOA.md:11:básico
+content/06f.2.Flujo de trabajo SOA.md:11:cambiar
+content/06f.2.Flujo de trabajo SOA.md:11:cambio
+content/06f.2.Flujo de trabajo SOA.md:11:continuación
+content/06f.2.Flujo de trabajo SOA.md:11:demás
+content/06f.2.Flujo de trabajo SOA.md:11:evento
+content/06f.2.Flujo de trabajo SOA.md:11:flujo
+content/06f.2.Flujo de trabajo SOA.md:11:inicial
+content/06f.2.Flujo de trabajo SOA.md:11:necesidad
+content/06f.2.Flujo de trabajo SOA.md:11:oficina
+content/06f.2.Flujo de trabajo SOA.md:11:pasos
+content/06f.2.Flujo de trabajo SOA.md:11:petición
+content/06f.2.Flujo de trabajo SOA.md:11:resumen
+content/06f.2.Flujo de trabajo SOA.md:11:toma
+content/06f.2.Flujo de trabajo SOA.md:11:trabajo
+content/06f.2.Flujo de trabajo SOA.md:13:cambio
+content/06f.2.Flujo de trabajo SOA.md:13:el
+content/06f.2.Flujo de trabajo SOA.md:13:Recibe
+content/06f.2.Flujo de trabajo SOA.md:14:alistamiento
+content/06f.2.Flujo de trabajo SOA.md:14:aprobación
+content/06f.2.Flujo de trabajo SOA.md:14:el
+content/06f.2.Flujo de trabajo SOA.md:14:fase
+content/06f.2.Flujo de trabajo SOA.md:14:Inicia
+content/06f.2.Flujo de trabajo SOA.md:14:preliminar
+content/06f.2.Flujo de trabajo SOA.md:14:proceso
+content/06f.2.Flujo de trabajo SOA.md:15:el
+content/06f.2.Flujo de trabajo SOA.md:15:Inicia
+content/06f.2.Flujo de trabajo SOA.md:15:modelado
+content/06f.2.Flujo de trabajo SOA.md:16:Continúa
+content/06f.2.Flujo de trabajo SOA.md:16:el
+content/06f.2.Flujo de trabajo SOA.md:16:gobierno
+content/06f.2.Flujo de trabajo SOA.md:16:implementación
+content/06f.2.Flujo de trabajo SOA.md:16:proceso
+content/06f.2.Flujo de trabajo SOA.md:16:solicita
+content/06f.2.Flujo de trabajo SOA.md:18:descritos
+content/06f.2.Flujo de trabajo SOA.md:18:ilustra
+content/06f.2.Flujo de trabajo SOA.md:18:imagen
+content/06f.2.Flujo de trabajo SOA.md:18:pasos
+content/06f.2.Flujo de trabajo SOA.md:18:siguiente
+content/06f.2.Flujo de trabajo SOA.md:22:Actividades
+content/06f.2.Flujo de trabajo SOA.md:22:arquitectura
+content/06f.2.Flujo de trabajo SOA.md:22:arquitectura
+content/06f.2.Flujo de trabajo SOA.md:22:arreglo
+content/06f.2.Flujo de trabajo SOA.md:22:estados
+content/06f.2.Flujo de trabajo SOA.md:22:flujo
+content/06f.2.Flujo de trabajo SOA.md:22:Flujo
+content/06f.2.Flujo de trabajo SOA.md:22:FNA
+content/06f.2.Flujo de trabajo SOA.md:22:Imagen
+content/06f.2.Flujo de trabajo SOA.md:22:oficina
+content/06f.2.Flujo de trabajo SOA.md:22:oficina
+content/06f.2.Flujo de trabajo SOA.md:22:proceso
+content/06f.2.Flujo de trabajo SOA.md:22:recomendado
+content/06f.2.Flujo de trabajo SOA.md:22:relaciones
+content/06f.2.Flujo de trabajo SOA.md:22:TOGAF
+content/06f.2.Flujo de trabajo SOA.md:22:trabajo
+content/06f.2.Flujo de trabajo SOA.md:24:elaboración
+content/06f.2.Flujo de trabajo SOA.md:24:propia
+content/06f.2.Flujo de trabajo SOA.md:26:análisis
+content/06f.2.Flujo de trabajo SOA.md:26:arquitectura
+content/06f.2.Flujo de trabajo SOA.md:26:cabo
+content/06f.2.Flujo de trabajo SOA.md:26:dentro
+content/06f.2.Flujo de trabajo SOA.md:26:el
+content/06f.2.Flujo de trabajo SOA.md:26:flujo
+content/06f.2.Flujo de trabajo SOA.md:26:flujo
+content/06f.2.Flujo de trabajo SOA.md:26:FNA
+content/06f.2.Flujo de trabajo SOA.md:26:incorpora
+content/06f.2.Flujo de trabajo SOA.md:26:llevan
+content/06f.2.Flujo de trabajo SOA.md:26:más
+content/06f.2.Flujo de trabajo SOA.md:26:significativa
+content/06f.2.Flujo de trabajo SOA.md:26:tipos
+content/06f.2.Flujo de trabajo SOA.md:26:trabajo
+content/06f.2.Flujo de trabajo SOA.md:26:Una
+content/06f.2.Flujo de trabajo SOA.md:26:variante
+content/06f.2.Flujo de trabajo SOA.md:28:cambio
+content/06f.2.Flujo de trabajo SOA.md:28:el
+content/06f.2.Flujo de trabajo SOA.md:28:recibe
+content/06f.2.Flujo de trabajo SOA.md:29:alistamiento
+content/06f.2.Flujo de trabajo SOA.md:29:el
+content/06f.2.Flujo de trabajo SOA.md:29:fase
+content/06f.2.Flujo de trabajo SOA.md:29:Inicia
+content/06f.2.Flujo de trabajo SOA.md:29:preliminar
+content/06f.2.Flujo de trabajo SOA.md:29:probación
+content/06f.2.Flujo de trabajo SOA.md:29:proceso
+content/06f.2.Flujo de trabajo SOA.md:30:el
+content/06f.2.Flujo de trabajo SOA.md:30:Inicia
+content/06f.2.Flujo de trabajo SOA.md:30:modelado
+content/06f.2.Flujo de trabajo SOA.md:31:contenidos
+content/06f.2.Flujo de trabajo SOA.md:31:Creación
+content/06f.2.Flujo de trabajo SOA.md:32:Diseño
+content/06f.2.Flujo de trabajo SOA.md:33:appl
+content/06f.2.Flujo de trabajo SOA.md:33:datos
+content/06f.2.Flujo de trabajo SOA.md:33:diseño
+content/06f.2.Flujo de trabajo SOA.md:33:Inicia
+content/06f.2.Flujo de trabajo SOA.md:33:inversión
+content/06f.2.Flujo de trabajo SOA.md:33:nivel
+content/06f.2.Flujo de trabajo SOA.md:33:servicios
+content/06f.2.Flujo de trabajo SOA.md:34:abstractos
+content/06f.2.Flujo de trabajo SOA.md:34:Bloques
+content/06f.2.Flujo de trabajo SOA.md:34:construcción
+content/06f.2.Flujo de trabajo SOA.md:35:Solución
+content/06f.2.Flujo de trabajo SOA.md:36:Bloques
+content/06f.2.Flujo de trabajo SOA.md:36:construcción
+content/06f.2.Flujo de trabajo SOA.md:36:solución
+content/06f.2.Flujo de trabajo SOA.md:37:appl
+content/06f.2.Flujo de trabajo SOA.md:37:datos
+content/06f.2.Flujo de trabajo SOA.md:37:detallado
+content/06f.2.Flujo de trabajo SOA.md:37:diseño
+content/06f.2.Flujo de trabajo SOA.md:37:nivel
+content/06f.2.Flujo de trabajo SOA.md:37:servicios
+content/06f.2.Flujo de trabajo SOA.md:37:Solicita
+content/06f.2.Flujo de trabajo SOA.md:37:técnica
+content/06f.2.Flujo de trabajo SOA.md:38:análisis
+content/06f.2.Flujo de trabajo SOA.md:38:Inicia
+content/06f.2.Flujo de trabajo SOA.md:39:Impacto
+content/06f.2.Flujo de trabajo SOA.md:40:beneficio
+content/06f.2.Flujo de trabajo SOA.md:40:Costo
+content/06f.2.Flujo de trabajo SOA.md:41:cambios
+content/06f.2.Flujo de trabajo SOA.md:42:Estimación
+content/06f.2.Flujo de trabajo SOA.md:43:Complejidad
+content/06f.2.Flujo de trabajo SOA.md:44:Estructural
+content/06f.2.Flujo de trabajo SOA.md:45:Otros
+content/06f.2.Flujo de trabajo SOA.md:46:Arq
+content/06f.2.Flujo de trabajo SOA.md:46:el
+content/06f.2.Flujo de trabajo SOA.md:46:fases
+content/06f.2.Flujo de trabajo SOA.md:46:gobierno
+content/06f.2.Flujo de trabajo SOA.md:46:implementación
+content/06f.2.Flujo de trabajo SOA.md:46:inicio
+content/06f.2.Flujo de trabajo SOA.md:46:proceso
+content/06f.2.Flujo de trabajo SOA.md:46:Solicita
+content/06f.2.Flujo de trabajo SOA.md:46:solución
 content/06.Fase 2 PR6 Gobierno SOA.md:1:Fase
 content/06.Fase 2 PR6 Gobierno SOA.md:1:FNA
 content/06.Fase 2 PR6 Gobierno SOA.md:1:Objetivo
@@ -4102,6 +4259,7 @@ content/06p.Modelo_Gobierno_Datos.md:213:Datos
 content/06p.Modelo_Gobierno_Datos.md:213:el
 content/06p.Modelo_Gobierno_Datos.md:213:Estado
 content/06p.Modelo_Gobierno_Datos.md:213:Infraestructura
+content/06p.Modelo_Gobierno_Datos.md:213:inicio
 content/06p.Modelo_Gobierno_Datos.md:213:mintic
 content/06p.Modelo_Gobierno_Datos.md:213:MinTIC
 content/06p.Modelo_Gobierno_Datos.md:213:Nacional
@@ -4115,6 +4273,7 @@ content/06p.Modelo_Gobierno_Datos.md:216:actualizada
 content/06p.Modelo_Gobierno_Datos.md:216:Decreto
 content/06p.Modelo_Gobierno_Datos.md:216:el
 content/06p.Modelo_Gobierno_Datos.md:216:Gobierno
+content/06p.Modelo_Gobierno_Datos.md:216:inicio
 content/06p.Modelo_Gobierno_Datos.md:216:Ministerio
 content/06p.Modelo_Gobierno_Datos.md:216:mintic
 content/06p.Modelo_Gobierno_Datos.md:216:Politica
@@ -8403,6 +8562,7 @@ content/08a.Arquitectura-referencia-v2.md:18:propuesta
 content/08a.Arquitectura-referencia-v2.md:18:recordar
 content/08a.Arquitectura-referencia-v2.md:18:referencia
 content/08a.Arquitectura-referencia-v2.md:20:Ahorro
+content/08a.Arquitectura-referencia-v2.md:20:arq
 content/08a.Arquitectura-referencia-v2.md:20:arquitectura
 content/08a.Arquitectura-referencia-v2.md:20:Fondo
 content/08a.Arquitectura-referencia-v2.md:20:Nacional
@@ -8418,6 +8578,7 @@ content/08a.Arquitectura-referencia-v2.md:25:referencia
 content/08a.Arquitectura-referencia-v2.md:27:detalle
 content/08a.Arquitectura-referencia-v2.md:27:Nivel
 content/08a.Arquitectura-referencia-v2.md:29:Ahorro
+content/08a.Arquitectura-referencia-v2.md:29:arq
 content/08a.Arquitectura-referencia-v2.md:29:arquitectura
 content/08a.Arquitectura-referencia-v2.md:29:Fondo
 content/08a.Arquitectura-referencia-v2.md:29:Nacional
@@ -8425,6 +8586,7 @@ content/08a.Arquitectura-referencia-v2.md:29:referencia
 content/08a.Arquitectura-referencia-v2.md:33:detalle
 content/08a.Arquitectura-referencia-v2.md:33:Nivel
 content/08a.Arquitectura-referencia-v2.md:35:Ahorro
+content/08a.Arquitectura-referencia-v2.md:35:arq
 content/08a.Arquitectura-referencia-v2.md:35:arquitectura
 content/08a.Arquitectura-referencia-v2.md:35:Fondo
 content/08a.Arquitectura-referencia-v2.md:35:Nacional
