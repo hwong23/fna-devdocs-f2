@@ -2947,7 +2947,7 @@ content/06f..1.Consideraciones para la puesta en marcha.md:71:Fondo
 content/06f..1.Consideraciones para la puesta en marcha.md:71:Fondo
 content/06f..1.Consideraciones para la puesta en marcha.md:71:Gobierno
 content/06f..1.Consideraciones para la puesta en marcha.md:71:hacer
-content/06f..1.Consideraciones para la puesta en marcha.md:71:implementaión
+content/06f..1.Consideraciones para la puesta en marcha.md:71:implementación
 content/06f..1.Consideraciones para la puesta en marcha.md:71:lado
 content/06f..1.Consideraciones para la puesta en marcha.md:71:mapa
 content/06f..1.Consideraciones para la puesta en marcha.md:71:más
