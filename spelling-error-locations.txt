@@ -2886,7 +2886,7 @@ content/06f..1.Consideraciones para la puesta en marcha.md:59:SOA
 content/06f..1.Consideraciones para la puesta en marcha.md:59:SOA
 content/06f..1.Consideraciones para la puesta en marcha.md:59:trabajo
 content/06f..1.Consideraciones para la puesta en marcha.md:59:trabajo
-content/06f..1.Consideraciones para la puesta en marcha.md:59:traeidos
+content/06f..1.Consideraciones para la puesta en marcha.md:59:traídos
 content/06f..1.Consideraciones para la puesta en marcha.md:59:último
 content/06f..1.Consideraciones para la puesta en marcha.md:59:último
 content/06f..1.Consideraciones para la puesta en marcha.md:59:ver
