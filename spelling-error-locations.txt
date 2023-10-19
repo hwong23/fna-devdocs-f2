@@ -946,7 +946,7 @@ content/05.Fase 2 PR5 Comparativa FNA industria.md:26:iniciativas
 content/05.Fase 2 PR5 Comparativa FNA industria.md:26:Lista
 content/05.Fase 2 PR5 Comparativa FNA industria.md:26:oportunidades
 content/05.Fase 2 PR5 Comparativa FNA industria.md:26:por
-content/05.Fase 2 PR5 Comparativa FNA industria.md:26:ralizables
+content/05.Fase 2 PR5 Comparativa FNA industria.md:26:realizables
 content/05.Fase 2 PR5 Comparativa FNA industria.md:27:arquitectura
 content/05.Fase 2 PR5 Comparativa FNA industria.md:27:capacidades
 content/05.Fase 2 PR5 Comparativa FNA industria.md:27:Fondo
